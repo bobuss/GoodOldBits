@@ -42,7 +42,7 @@ export default {
        v-bind:class="{ navigation__list__item__selected: c == composer  }"
        @click.prevent="onClickSelectComposer(c)">
       <i class="ion-person"></i>
-      <span>{{ c }}</span>
+      <span>{{ c.replace('_', ' ') }}</span>
     </a>
   </div>
 

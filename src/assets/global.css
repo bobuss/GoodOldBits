@@ -9,6 +9,15 @@ body a {
 body a:hover {
   color: #c8c8c8;
 }
+body a:visited  {
+  color: #aaaaaa;
+}
+.material-icons {
+  color: #aaaaaa;
+}
+a:hover .material-icons {
+  color: white;
+}
 .header {
   background: #282828;
   padding: 10px;
@@ -137,9 +146,12 @@ body a:hover {
 
 .navigation {
   padding: 15px;
-  background: #282828;
+  background: #121212;
   color: #aaaaaa;
   overflow-y: scroll;
+}
+.navigation a:hover {
+  color: white;
 }
 .navigation__list {
   display: flex;
@@ -166,6 +178,11 @@ body a:hover {
 }
 .navigation__list__item:hover {
   background-color: hsla(0,0%,100%,.1);
+}
+.navigation__list__item__selected:hover{
+  background-color: hsla(0,0%,100%,.3);
+  color: white;
+  text-decoration: none;
 }
 .navigation__list__item i {
   width: 25px;
@@ -201,7 +218,6 @@ body a:hover {
   padding: 15px;
   background: #282828;
   border-top: 1px solid #181818;
-  border-bottom: 1px solid #181818;
 }
 .playlist:hover {
   background: #424242;
@@ -231,7 +247,6 @@ body a:hover {
 }
 .playing {
   background: #282828;
-  border-bottom: 1px solid #181818;
   display: flex;
   flex-flow: row nowrap;
   align-items: center;
@@ -255,6 +270,12 @@ body a:hover {
   color: white;
   cursor: pointer;
 }
+.playing__song a.playing__song__name {
+  color: white;
+}
+.playing__song__artist {
+
+}
 .playing__add {
   margin-left: auto;
   padding-right: 15px;
@@ -268,6 +289,7 @@ body a:hover {
 }
 .current-track {
   background: #282828;
+  border-top: solid 1px #282828;
   padding: 5px 15px;
   display: flex;
   flex-flow: row wrap;
@@ -275,6 +297,7 @@ body a:hover {
   display: flex;
   flex-direction: row;
   height: 90px;
+  min-width: 620px;
   justify-content: space-between;
 }
 .current-track__player {
@@ -796,49 +819,14 @@ body a:hover {
 .tracks .track__title {
   width: 45%;
   margin-left: 30px;
-  color:  #aaaaaa;
 }
-.tracks .track__title.featured .title:after {
-  content: "-";
-  margin: 0 5px;
+.tracks .track:hover{
+  color: white;
 }
-.tracks .track__title.featured .feature {
+.tracks .track__selected:hover{
   color: #aaaaaa;
-}
-.tracks .track__title.featured .feature:after {
-  content: ",";
-  margin-right: 5px;
-}
-.tracks .track__title.featured .feature:last-child:after {
-  content: "";
-  margin-right: 0;
-}
-.tracks .track__title.featured .feature:hover {
-  cursor: pointer;
-  color: #c8c8c8;
-  text-decoration: underline;
-}
-.tracks .track__explicit .label {
-  border: 1px;
-  border-style: solid;
-  border-color: #424242;
-  color: #424242;
-  text-transform: uppercase;
-}
-.tracks .track__plays {
-  color: #aaaaaa;
-  margin-left: auto;
-  padding-right: 10px;
-}
-.tracks .track__length {
-  margin-left: auto;
-  color: #aaaaaa;
-}
-.tracks .track__popularity {
-  margin-left: 46px;
-  padding-right: 10px;
-  font-size: 20px;
-  color: #aaaaaa;
+  background-color: hsla(0,0%,100%,.3);
+  text-decoration: none;
 }
 
 @media (max-width: 1200px) {

@@ -87,17 +87,23 @@ export default {
       this.artistHeight = totalHeight - (headerHeight + footerHeight);
     },
     play: function(composer, song) {
-      this.player_composer = composer;
-      this.player_song = song;
-      var p= ScriptNodePlayer.getInstance();
-      if (p.isReady()) {
-        p.loadMusicFromURL(
-          'musics/' + this.player_composer + '/' + this.player_song,
-          new Object(),
-          (function(filename){}),
-          (function(){}),
-          (function(total, loaded){})
-        );
+      if (composer && song) {
+        var p = ScriptNodePlayer.getInstance();
+        if ((this.player_composer == composer) && (this.player_song == song)) {
+          p.resume();
+        } else {
+          this.player_composer = composer;
+          this.player_song = song;
+          if (p.isReady()) {
+            p.loadMusicFromURL(
+              'musics/' + this.player_composer + '/' + this.player_song,
+              new Object(),
+              (function(filename){}),
+              (function(){}),
+              (function(total, loaded){})
+            );
+          }
+        }
         this.playing = true
       }
     },
@@ -117,13 +123,13 @@ export default {
 
 
 <template>
-  <section class="header" ref="header">
+  <section class="content">
+    <div class="content__left">
+      <section class="header" ref="header">
     <div class="search">
       <input name="search" type="text" placeholder="Search" v-model="search" />
     </div>
   </section>
-  <section class="content">
-    <div class="content__left">
       <section class="navigation" ref="navigation" v-bind:style="computedHeight">
 
         <ComposerList :composers="composers"

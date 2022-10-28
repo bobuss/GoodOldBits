@@ -52,7 +52,7 @@ export default {
       <div class="artist__info__meta">
         <div class="artist__info__type">Artist</div>
 
-        <div class="artist__info__name">{{ composer }}</div>
+        <div class="artist__info__name">{{ composer.replace('_', ' ') }}</div>
       </div>
     </div>
 
@@ -81,16 +81,21 @@ export default {
                        :key="s"
                        class="track"
                        v-bind:class="{ track__selected: s == song }"
-                       @click.prevent="onClickSelectSong(s)">
+                       @click.prevent="onClickSelectSong(s)"
+                       @dblclick.prevent="play(s)">
 
                       <div v-if="s != song" class="track__number">{{ index + 1 }}</div>
                       <div v-else class="track__number">
 
-                        <a v-if="playing && (song == player_song)" class="ion-ios-pause" @click.prevent="pause()"></a>
-                        <a v-else class="ion-ios-play" @click.prevent="play(s)"></a>
+                        <a v-if="playing && (song == player_song)" class="ion-ios-pause" @click.prevent="pause()">
+                          <i class="material-icons">pause</i>
+                        </a>
+                        <a v-else @click.prevent="play(s)">
+                          <i class="material-icons">play_arrow</i>
+                        </a>
 
                       </div>
-                      <div class="track__title">{{ s }}</div>
+                      <div class="track__title">{{ s.replace('_', ' ').replace('.sndh', '') }}</div>
 
                     </a>
                   </div>
