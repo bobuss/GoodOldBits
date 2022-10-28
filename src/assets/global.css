@@ -161,10 +161,11 @@ body a:hover {
   flex-flow: row nowrap;
   align-items: center;
 }
+.navigation__list__item__selected{
+  background-color: hsla(0,0%,100%,.3);
+}
 .navigation__list__item:hover {
-  color: white;
-  text-decoration: none;
-  border-right: 3px solid #1ed760;
+  background-color: hsla(0,0%,100%,.1);
 }
 .navigation__list__item i {
   width: 25px;
@@ -234,6 +235,8 @@ body a:hover {
   display: flex;
   flex-flow: row nowrap;
   align-items: center;
+  min-width: 180px;
+  width: 30%;
 }
 .playing__art img {
   width: 50px;
@@ -269,9 +272,17 @@ body a:hover {
   display: flex;
   flex-flow: row wrap;
   align-items: center;
+  display: flex;
+  flex-direction: row;
+  height: 90px;
+  justify-content: space-between;
+}
+.current-track__player {
+  max-width: 722px;
+  width: 40%;
 }
 .current-track__actions {
-  width: 5%;
+  width: 50%;
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-between;
@@ -452,7 +463,7 @@ body a:hover {
   overflow-y: scroll;
 }
 .artist__header {
-  height: 320px;
+  height: 140px;
   border-bottom: 1px solid #282828;
   position: relative;
   background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/7022/spotify_img_bground.png);
@@ -707,6 +718,15 @@ body a:hover {
     text-align: center;
   }
 }
+.hide {
+  display: none;
+}
+.tracks .track:hover .hide{
+  display: block;
+}
+.tracks .track:hover .show{
+  display: none;
+}
 .tracks {
   display: flex;
   flex-flow: column wrap;
@@ -745,6 +765,9 @@ body a:hover {
   flex-flow: row wrap;
   align-items: center;
 }
+.track__selected{
+  background-color: hsla(0,0%,100%,.3);
+}
 .tracks .track:hover {
   background: #282828;
 }
@@ -773,7 +796,7 @@ body a:hover {
 .tracks .track__title {
   width: 45%;
   margin-left: 30px;
-  color: white;
+  color:  #aaaaaa;
 }
 .tracks .track__title.featured .title:after {
   content: "-";

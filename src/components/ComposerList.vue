@@ -35,9 +35,14 @@ export default {
 <template>
 
   <div class="navigation__list">
-    <a v-for="composer in filteredList" :key="composer" href="#" class="navigation__list__item"  @click.prevent="onClickSelectComposer(composer)">
+    <a v-for="c in filteredList"
+       :key="c"
+       href="#"
+       class="navigation__list__item"
+       v-bind:class="{ navigation__list__item__selected: c == composer  }"
+       @click.prevent="onClickSelectComposer(c)">
       <i class="ion-person"></i>
-      <span>{{ composer }}</span>
+      <span>{{ c }}</span>
     </a>
   </div>
 

@@ -1,13 +1,34 @@
 <script>
 import ComposerList from './components/ComposerList.vue'
 import Composer from './components/Composer.vue'
-import Song from './components/Song.vue'
 import Player from './components/Player.vue'
 
 import musics from './json/data.json'
 
+function doOnTrackEnd(){
+	//if (playerControls) playerControls.playNextSong();
+}
+function doOnTrackReadyToPlay(){
+	ScriptNodePlayer.getInstance().play();
+	//songDisplay.redrawSongInfo();
+}
+function doOnPlayerReady() {
+	//if (playerControls) playerControls.playNextSong();
+}
+function doOnUpdate(){} // unused
 
-//import { ScriptNodePlayer } from './scriptprocessor_player.js';
+var basePath= '';		// not needed here
+
+ScriptNodePlayer.createInstance(
+  new SC68BackendAdapter(),
+  basePath,
+  [],
+  true,
+  doOnPlayerReady,
+  doOnTrackReadyToPlay,
+  doOnTrackEnd,
+  doOnUpdate
+);
 
 export default {
   name: 'Atarify',
@@ -16,9 +37,12 @@ export default {
       composers: Object.keys(musics),
       composer: 'Furax',
       song: null,
+      player_composer: null,
+      player_song: null,
       navHeight: 617,
       artistHeight: 617,
-      search: ''
+      search: '',
+      playing: false
     }
   },
   computed:{
@@ -42,7 +66,6 @@ export default {
   components: {
     ComposerList,
     Composer,
-    Song,
     Player
   },
   methods: {
@@ -52,18 +75,47 @@ export default {
     },
     onSelectSong (song) {
       this.song = song;
-      //this.$refs.player.play();
     },
     getHeight() {
       const totalHeight = window.innerHeight;
       const headerHeight = this.$refs.header.clientHeight;
       const footerHeight = this.$refs.player.$refs.currentTrack.clientHeight;
       const playlistHeight = 0;
-      const nowPlaying = this.$refs.song.$refs.playing.clientHeight;
+      const nowPlaying = 0; //this.$refs.song.$refs.playing.clientHeight;
 
       this.navHeight = totalHeight - (headerHeight + footerHeight + playlistHeight + nowPlaying);
       this.artistHeight = totalHeight - (headerHeight + footerHeight);
-    }
+    },
+    play: function(composer, song) {
+      this.player_composer = composer;
+      this.player_song = song;
+      if (this.playing) {
+        ScriptNodePlayer.getInstance().pause();
+        this.playing = false
+      } else {
+        var p= ScriptNodePlayer.getInstance();
+        if (p.isReady()) {
+          p.loadMusicFromURL(
+            'musics/' + this.player_composer + '/' + this.player_song,
+            new Object(),
+            (function(filename){}),
+            (function(){}),
+            (function(total, loaded){})
+          );
+          this.playing = true
+        }
+      }
+    },
+    pause: function() {
+
+
+    },
+	  setVolume: function(value) {
+      ScriptNodePlayer.getInstance().setVolume(value);
+    },
+	  getSongInfo: function () {
+      return ScriptNodePlayer.getInstance().getSongInfo();
+    },
   }
 }
 </script>
@@ -79,36 +131,30 @@ export default {
     <div class="content__left">
 
       <section class="navigation" ref="navigation" v-bind:style="computedHeight">
-        <ComposerList
-          :composers="composers"
-          :search="search"
-          @select-composer="onSelectComposer" />
+        <ComposerList :composers="composers"
+                      :search="search"
+                      @select-composer="onSelectComposer" />
       </section>
-
-      <Song
-        :composer="composer"
-        :song="song"
-        ref="song" />
 
     </div>
 
     <div class="content__middle">
 
-      <Composer
-        :composer="composer"
-        :songs="songs"
-        @select-song="onSelectSong"
-        ref="composer"
-        v-bind:style="computedHeight" />
+      <Composer :composer="composer"
+                :songs="songs"
+                @select-song="onSelectSong"
+                @play-song="play"
+                ref="composer"
+                v-bind:style="computedHeight" />
 
     </div>
   </section>
 
 
-  <Player
-    :composer="composer"
-    :song="song"
-    ref="player"/>
+  <Player :composer="player_composer"
+          :song="player_song"
+          @play-song="play"
+          ref="player"/>
 
 
 </template>
