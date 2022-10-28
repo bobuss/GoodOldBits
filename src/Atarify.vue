@@ -89,26 +89,21 @@ export default {
     play: function(composer, song) {
       this.player_composer = composer;
       this.player_song = song;
-      if (this.playing) {
-        ScriptNodePlayer.getInstance().pause();
-        this.playing = false
-      } else {
-        var p= ScriptNodePlayer.getInstance();
-        if (p.isReady()) {
-          p.loadMusicFromURL(
-            'musics/' + this.player_composer + '/' + this.player_song,
-            new Object(),
-            (function(filename){}),
-            (function(){}),
-            (function(total, loaded){})
-          );
-          this.playing = true
-        }
+      var p= ScriptNodePlayer.getInstance();
+      if (p.isReady()) {
+        p.loadMusicFromURL(
+          'musics/' + this.player_composer + '/' + this.player_song,
+          new Object(),
+          (function(filename){}),
+          (function(){}),
+          (function(total, loaded){})
+        );
+        this.playing = true
       }
     },
     pause: function() {
-
-
+      ScriptNodePlayer.getInstance().pause();
+      this.playing = false
     },
 	  setVolume: function(value) {
       ScriptNodePlayer.getInstance().setVolume(value);
@@ -129,21 +124,25 @@ export default {
   </section>
   <section class="content">
     <div class="content__left">
-
       <section class="navigation" ref="navigation" v-bind:style="computedHeight">
+
         <ComposerList :composers="composers"
                       :search="search"
                       @select-composer="onSelectComposer" />
-      </section>
 
+      </section>
     </div>
 
     <div class="content__middle">
 
-      <Composer :composer="composer"
-                :songs="songs"
+      <Composer :songs="songs"
+                :composer="composer"
+                :player_composer="player_composer"
+                :player_song="player_song"
+                :playing="playing"
                 @select-song="onSelectSong"
                 @play-song="play"
+                @pause-song="pause"
                 ref="composer"
                 v-bind:style="computedHeight" />
 
@@ -153,7 +152,9 @@ export default {
 
   <Player :composer="player_composer"
           :song="player_song"
+          :playing="playing"
           @play-song="play"
+          @pause-song="pause"
           ref="player"/>
 
 

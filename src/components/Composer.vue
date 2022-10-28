@@ -2,14 +2,27 @@
 export default {
   name: 'Composer',
   props: {
-    composer: {
-      type: String,
-      required: false
-    },
     songs: {
       type: Array,
       required: false
     },
+    composer: {
+      type: String,
+      required: false
+    },
+    player_composer: {
+      type: String,
+      required: false
+    },
+    player_song: {
+      type: String,
+      required: false
+    },
+    playing: {
+      type: Boolean,
+      required: false,
+      default: false
+    }
   },
   data() {
     return {
@@ -18,11 +31,13 @@ export default {
   },
   methods: {
     onClickSelectSong(song) {
-      //this.$emit('select-song', song)
       this.song = song
     },
     play(song) {
       this.$emit('play-song', this.composer, song)
+    },
+    pause() {
+      this.$emit('pause-song')
     }
   }
 }
@@ -61,11 +76,22 @@ export default {
                       <div class="tracks__heading__number">#</div>
                       <div class="tracks__heading__title">Song</div>
                     </div>
-                    <a v-for="(s, index) in songs" href="#" :key="s" class="track"
-                      v-bind:class="{ track__selected: s == song }" @click.prevent="onClickSelectSong(s)">
+                    <a v-for="(s, index) in songs"
+                       href="#"
+                       :key="s"
+                       class="track"
+                       v-bind:class="{ track__selected: s == song }"
+                       @click.prevent="onClickSelectSong(s)">
+
                       <div v-if="s != song" class="track__number">{{ index + 1 }}</div>
-                      <div v-else="s == song" class="track__number"><a class="ion-ios-play" @click.prevent="play(s)"></a></div>
+                      <div v-else class="track__number">
+
+                        <a v-if="playing && (song == player_song)" class="ion-ios-pause" @click.prevent="pause()"></a>
+                        <a v-else class="ion-ios-play" @click.prevent="play(s)"></a>
+
+                      </div>
                       <div class="track__title">{{ s }}</div>
+
                     </a>
                   </div>
                 </div>

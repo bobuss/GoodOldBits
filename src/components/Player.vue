@@ -12,11 +12,19 @@ export default {
       type: String,
       required: false,
       default: null
+    },
+    playing: {
+      type: Boolean,
+      required: false,
+      default: false
     }
   },
   methods: {
     play() {
       this.$emit('play-song', this.composer, this.song)
+    },
+    pause() {
+      this.$emit('pause-song')
     }
   }
 }
@@ -26,15 +34,18 @@ export default {
 <template>
   <section class="current-track" ref="currentTrack">
     <section class="playing" ref="playing">
-    <div class="playing__song">
-      <a class="playing__song__name">{{ song }}</a>
-      <a class="playing__song__artist">{{ composer }}</a>
-    </div>
-  </section>
+      <div class="playing__song">
+        <a class="playing__song__name">{{ song }}</a>
+        <a class="playing__song__artist">{{ composer }}</a>
+      </div>
+    </section>
     <div class="current-track__player">
       <div class="current-track__actions">
         <a class="ion-ios-skipbackward"></a>
-        <a class="ion-ios-play play" @click.prevent="play()"></a>
+
+        <a v-if="playing" class="play ion-ios-pause" @click.prevent="pause()"></a>
+        <a v-else class="ion-ios-play" @click.prevent="play()"></a>
+
         <a class="ion-ios-skipforward"></a>
       </div>
       <div class="current-track__progress">
