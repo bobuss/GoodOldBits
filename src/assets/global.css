@@ -765,9 +765,11 @@ a:hover .material-icons {
 .tracks__heading__number {
   margin-left: 10px;
   font-style: italic;
+  width: 24px;
+  text-align: center;
 }
 .tracks__heading__title {
-  margin-left: 70px;
+  margin-left: 30px;
   width: 45%;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -804,7 +806,8 @@ a:hover .material-icons {
 .tracks .track__number {
   margin-left: 10px;
   color: #aaaaaa;
-  width: 12px;
+  width: 24px;
+  text-align: center;
 }
 .tracks .track__added {
   margin-left: 30px;

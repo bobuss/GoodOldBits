@@ -26,7 +26,8 @@ export default {
   },
   data() {
     return {
-      song: null
+      song: null,
+      hover: null
     }
   },
   methods: {
@@ -82,9 +83,19 @@ export default {
                        class="track"
                        v-bind:class="{ track__selected: s == song }"
                        @click.prevent="onClickSelectSong(s)"
-                       @dblclick.prevent="play(s)">
+                       @dblclick.prevent="play(s)"
+                       @mouseover="hover = s"
+                       @mouseleave="hover = null">
 
-                      <div v-if="s != song" class="track__number">{{ index + 1 }}</div>
+                      <div v-if="s != song"
+                          class="track__number">
+                        <span v-if="hover==s">
+                          <a @click.prevent="play(s)">
+                            <i class="material-icons">play_arrow</i>
+                          </a>
+                        </span>
+                        <span v-else>{{ index + 1 }}</span>
+                      </div>
                       <div v-else class="track__number">
 
                         <a v-if="playing && (song == player_song)" class="ion-ios-pause" @click.prevent="pause()">

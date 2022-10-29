@@ -50,11 +50,19 @@ export default {
           <i class="material-icons">skip_previous</i>
         </a>
 
+        <a href="#">
+          <i class="material-icons">navigate_before</i>
+        </a>
+
         <a v-if="playing" @click.prevent="pause()">
           <i class="material-icons">pause_circle_filled</i>
         </a>
         <a v-else @click.prevent="play()">
           <i class="material-icons">play_circle_filled</i>
+        </a>
+
+        <a href="#">
+          <i class="material-icons">navigate_next</i>
         </a>
 
         <a href="#">

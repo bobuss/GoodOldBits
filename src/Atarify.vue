@@ -39,6 +39,7 @@ export default {
       song: null,
       player_composer: null,
       player_song: null,
+      player_track: 0,
       navHeight: 617,
       artistHeight: 617,
       search: '',
@@ -97,7 +98,9 @@ export default {
           if (p.isReady()) {
             p.loadMusicFromURL(
               'musics/' + this.player_composer + '/' + this.player_song,
-              new Object(),
+              {
+                track: this.player_track
+              },
               (function(filename){}),
               (function(){}),
               (function(total, loaded){})
