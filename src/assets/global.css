@@ -368,6 +368,10 @@ a:hover .material-icons {
   flex-flow: row wrap;
   align-items: center;
 }
+.current-track__options a:hover {
+  color: white;
+  cursor: pointer;
+}
 .current-track__options .lyrics {
   font-size: 11px;
   text-transform: uppercase;

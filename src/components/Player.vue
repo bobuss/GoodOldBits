@@ -13,6 +13,17 @@ export default {
       required: false,
       default: null
     },
+    track: {
+      type: Number,
+      required: false,
+      default: 0
+    },
+    songInfo: {
+      type: Object,
+      default: {
+        numberOfTracks: 1
+      }
+    },
     playing: {
       type: Boolean,
       required: false,
@@ -21,10 +32,22 @@ export default {
   },
   methods: {
     play() {
-      this.$emit('play-song', this.composer, this.song)
+      this.$emit('playSong', this.composer, this.song, this.track)
     },
     pause() {
-      this.$emit('pause-song')
+      this.$emit('pauseSong')
+    },
+    nextSong() {
+      this.$emit('nextSong')
+    },
+    previousSong() {
+      this.$emit('previousSong')
+    },
+    nextTrack() {
+      this.$emit('nextTrack')
+    },
+    previousTrack() {
+      this.$emit('previousTrack')
     }
   }
 }
@@ -42,16 +65,12 @@ export default {
     <div class="current-track__player">
       <div class="current-track__actions">
 
-        <a href="#">
+        <a>
           <i class="material-icons">shuffle</i>
         </a>
 
-        <a href="#">
+        <a @click.prevent="previousSong()">
           <i class="material-icons">skip_previous</i>
-        </a>
-
-        <a href="#">
-          <i class="material-icons">navigate_before</i>
         </a>
 
         <a v-if="playing" @click.prevent="pause()">
@@ -61,15 +80,11 @@ export default {
           <i class="material-icons">play_circle_filled</i>
         </a>
 
-        <a href="#">
-          <i class="material-icons">navigate_next</i>
-        </a>
-
-        <a href="#">
+        <a @click.prevent="nextSong()">
           <i class="material-icons">skip_next</i>
         </a>
 
-        <a href="#">
+        <a>
           <i class="material-icons">repeat</i>
         </a>
       </div>
@@ -79,7 +94,14 @@ export default {
 
     <div class="current-track__options">
       <span class="controls">
-        <a href="#" class="control volume">
+        <a @click.prevent="previousTrack()">
+          <i class="material-icons">navigate_before</i>
+        </a>
+        <a class="control devices">Track: {{track + 1}}/{{songInfo.numberOfTracks}}</a>
+        <a @click.prevent="nextTrack()">
+          <i class="material-icons">navigate_next</i>
+        </a>
+        <a class="control volume">
             <i class="material-icons">volume_up</i>
           <div id="song-volume"></div>
         </a>

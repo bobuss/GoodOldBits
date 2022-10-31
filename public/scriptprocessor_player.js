@@ -858,6 +858,12 @@ var ScriptNodePlayer = (function () {
 			}
 			return -1;
 		},
+		/*
+		* change onTrackEnd callback, for looping
+		*/
+		setOnTrackEnd: function(onTrackEnd) {
+			this._onTrackEnd = onTrackEnd;
+		},
 		/**
 		* @value null=inactive; or range; -1 to 1 (-1 is original stereo, 0 creates "mono", 1 is inverted stereo)
 		*/
@@ -1101,7 +1107,9 @@ var ScriptNodePlayer = (function () {
 
 			this._fileReadyNotify= "";
 
-			if (this.loadMusicDataFromCache(fullFilename, options, onCompletion, onFail, onProgress)) { return; }
+			if (this.loadMusicDataFromCache(fullFilename, options, onCompletion, onFail, onProgress)) {
+				return;
+			}
 
 			var xhr = new XMLHttpRequest();
 			xhr.open("GET", this._backendAdapter.mapUrl(fullFilename), true);
@@ -1261,6 +1269,7 @@ var ScriptNodePlayer = (function () {
 					if (!this.isWaitingForFile()) {
 						onFail();
 					} else {
+						onCompletion(fullFilename);
 					}
 				}
 				return true;
@@ -1575,6 +1584,7 @@ var ScriptNodePlayer = (function () {
 
 								this._isPaused= true;	// stop playback (or this will retrigger again and again before new song is started)
 								if (this._onTrackEnd) {
+									console.log('track end')
 									this._onTrackEnd();
 								}
 								return;
@@ -1609,6 +1619,7 @@ var ScriptNodePlayer = (function () {
 				if ((this._silenceStarttime > 0) && ((this._currentPlaytime - this._silenceStarttime) >= this._silenceTimeout*this._correctSampleRate ) && (this._silenceTimeout >0)) {
 					this._isPaused= true;	// stop playback (or this will retrigger again and again before new song is started)
 					if (this._onTrackEnd) {
+						console.log(' on track end 2')
 						this._onTrackEnd();
 					}
 				}

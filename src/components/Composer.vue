@@ -2,7 +2,7 @@
 export default {
   name: 'Composer',
   props: {
-    songs: {
+    composerSongs: {
       type: Array,
       required: false
     },
@@ -10,12 +10,16 @@ export default {
       type: String,
       required: false
     },
-    player_composer: {
+    playerComposer: {
       type: String,
       required: false
     },
-    player_song: {
+    playerSong: {
       type: String,
+      required: false
+    },
+    playerTrack: {
+      type: Number,
       required: false
     },
     playing: {
@@ -26,19 +30,19 @@ export default {
   },
   data() {
     return {
-      song: null,
+      selectedSong: null,
       hover: null
     }
   },
   methods: {
-    onClickSelectSong(song) {
-      this.song = song
+    onSelectSong(song) {
+      this.selectedSong = song
     },
     play(song) {
-      this.$emit('play-song', this.composer, song)
+      this.$emit('playSong', this.composer, song, this.playerTrack)
     },
     pause() {
-      this.$emit('pause-song')
+      this.$emit('pauseSong')
     }
   }
 }
@@ -77,17 +81,17 @@ export default {
                       <div class="tracks__heading__number">#</div>
                       <div class="tracks__heading__title">Song</div>
                     </div>
-                    <a v-for="(s, index) in songs"
+                    <a v-for="(s, index) in composerSongs"
                        href="#"
                        :key="s"
                        class="track"
-                       v-bind:class="{ track__selected: s == song }"
-                       @click.prevent="onClickSelectSong(s)"
+                       v-bind:class="{ track__selected: s == selectedSong }"
+                       @click.prevent="onSelectSong(s)"
                        @dblclick.prevent="play(s)"
                        @mouseover="hover = s"
                        @mouseleave="hover = null">
 
-                      <div v-if="s != song"
+                      <div v-if="s != selectedSong"
                           class="track__number">
                         <span v-if="hover==s">
                           <a @click.prevent="play(s)">
@@ -98,7 +102,7 @@ export default {
                       </div>
                       <div v-else class="track__number">
 
-                        <a v-if="playing && (song == player_song)" class="ion-ios-pause" @click.prevent="pause()">
+                        <a v-if="playing && (selectedSong == playerSong)" class="ion-ios-pause" @click.prevent="pause()">
                           <i class="material-icons">pause</i>
                         </a>
                         <a v-else @click.prevent="play(s)">

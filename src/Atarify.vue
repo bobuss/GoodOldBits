@@ -5,41 +5,17 @@ import Player from './components/Player.vue'
 
 import musics from './json/data.json'
 
-function doOnTrackEnd(){
-	//if (playerControls) playerControls.playNextSong();
-}
-function doOnTrackReadyToPlay(){
-	ScriptNodePlayer.getInstance().play();
-	//songDisplay.redrawSongInfo();
-}
-function doOnPlayerReady() {
-	//if (playerControls) playerControls.playNextSong();
-}
-function doOnUpdate(){} // unused
-
-var basePath= '';		// not needed here
-
-ScriptNodePlayer.createInstance(
-  new SC68BackendAdapter(),
-  basePath,
-  [],
-  true,
-  doOnPlayerReady,
-  doOnTrackReadyToPlay,
-  doOnTrackEnd,
-  doOnUpdate
-);
-
 export default {
   name: 'Atarify',
   data () {
     return {
       composers: Object.keys(musics),
       composer: 'Furax',
-      song: null,
-      player_composer: null,
-      player_song: null,
-      player_track: 0,
+      selectedSong: null,
+      playerComposer: null,
+      playerSong: null,
+      playerTrack: 0,
+      songInfo: {numberOfTracks: 1},
       navHeight: 617,
       artistHeight: 617,
       search: '',
@@ -47,7 +23,7 @@ export default {
     }
   },
   computed:{
-    songs () {
+    composerSongs () {
       return musics[this.composer] || null
     },
     computedHeight () {
@@ -75,7 +51,7 @@ export default {
       this.song = null;
     },
     onSelectSong (song) {
-      this.song = song;
+      this.selectedSong = song;
     },
     getHeight() {
       const totalHeight = window.innerHeight;
@@ -85,25 +61,35 @@ export default {
       const nowPlaying = 0; //this.$refs.song.$refs.playing.clientHeight;
 
       this.navHeight = totalHeight - (headerHeight + footerHeight + playlistHeight + nowPlaying);
-      this.artistHeight = totalHeight - (headerHeight + footerHeight);
+      this.artistHeight = totalHeight - (footerHeight);
     },
-    play: function(composer, song) {
+    play: function(composer, song, track=0) {
       if (composer && song) {
         var p = ScriptNodePlayer.getInstance();
-        if ((this.player_composer == composer) && (this.player_song == song)) {
+        if ((this.playerComposer == composer) && (this.playerSong == song) && (this.playerTrack == track)) {
           p.resume();
         } else {
-          this.player_composer = composer;
-          this.player_song = song;
+          this.playerComposer = composer;
+          this.playerSong = song;
+          this.playerTrack = track;
+
           if (p.isReady()) {
+            var self = this;
             p.loadMusicFromURL(
-              'musics/' + this.player_composer + '/' + this.player_song,
+              'musics/' + this.playerComposer + '/' + this.playerSong,
               {
-                track: this.player_track
+                track: this.playerTrack
               },
-              (function(filename){}),
-              (function(){}),
-              (function(total, loaded){})
+              (function(filename){
+                // onCompletion
+                self.songInfo = ScriptNodePlayer.getInstance().getSongInfo()
+              }),
+              (function(){
+                // onFail
+              }),
+              (function(total, loaded){
+                // onProgress
+               })
             );
           }
         }
@@ -117,9 +103,40 @@ export default {
 	  setVolume: function(value) {
       ScriptNodePlayer.getInstance().setVolume(value);
     },
-	  getSongInfo: function () {
-      return ScriptNodePlayer.getInstance().getSongInfo();
+    nextSong: function() {
+      if (this.playerSong) {
+        const currentPlaylist = musics[this.playerComposer];
+        let index = currentPlaylist.indexOf(this.playerSong);
+        if (index < currentPlaylist.length) {
+
+          //this.play(this.playerComposer, currentPlaylist[++index], this.playerTrack);
+          if (this.playerComposer == this.composer) {
+            console.log('+' + index);
+            this.$refs.composer.onSelectSong(currentPlaylist[++index]);
+            this.play(this.playerComposer, this.selectedSong, this.playerTrack);
+          }
+        }
+      }
     },
+    previousSong: function() {
+      if (this.playerSong) {
+        const currentPlaylist = musics[this.playerComposer];
+        let index = currentPlaylist.indexOf(this.playerSong);
+        if (index > 0) {
+          this.play(this.playerComposer, currentPlaylist[--index], this.playerTrack);
+        }
+      }
+    },
+    nextTrack: function() {
+      if (ScriptNodePlayer.getInstance().getSongInfo().numberOfTracks > 1) {
+        this.play(this.playerComposer, this.playerSong, this.playerTrack+1);
+      }
+    },
+    previousTrack: function() {
+      if (this.playerTrack > 0) {
+        this.play(this.playerComposer, this.playerSong, this.playerTrack-1);
+      }
+    }
   }
 }
 </script>
@@ -144,14 +161,15 @@ export default {
 
     <div class="content__middle">
 
-      <Composer :songs="songs"
-                :composer="composer"
-                :player_composer="player_composer"
-                :player_song="player_song"
+      <Composer :composer="composer"
+                :composerSongs="composerSongs"
+                :playerComposer="playerComposer"
+                :playerSong="playerSong"
+                :playerTrack="playerTrack"
                 :playing="playing"
-                @select-song="onSelectSong"
-                @play-song="play"
-                @pause-song="pause"
+                @onSelectSong="onSelectSong"
+                @playSong="play"
+                @pauseSong="pause"
                 ref="composer"
                 v-bind:style="computedHeight" />
 
@@ -159,11 +177,17 @@ export default {
   </section>
 
 
-  <Player :composer="player_composer"
-          :song="player_song"
+  <Player :composer="playerComposer"
+          :song="playerSong"
+          :track="playerTrack"
+          :songInfo="songInfo"
           :playing="playing"
-          @play-song="play"
-          @pause-song="pause"
+          @playSong="play"
+          @pauseSong="pause"
+          @previousSong="previousSong"
+          @nextSong="nextSong"
+          @previousTrack="previousTrack"
+          @nextTrack="nextTrack"
           ref="player"/>
 
 
