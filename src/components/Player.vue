@@ -8,6 +8,11 @@ export default {
       required: false,
       default: null
     },
+    playlist: {
+      type: Array,
+      required: false,
+      default: []
+    },
     song: {
       type: String,
       required: false,

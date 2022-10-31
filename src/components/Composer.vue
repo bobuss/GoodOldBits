@@ -10,6 +10,10 @@ export default {
       type: String,
       required: false
     },
+    selectedSong: {
+      type: String,
+      required: false
+    },
     playerComposer: {
       type: String,
       required: false
@@ -30,13 +34,12 @@ export default {
   },
   data() {
     return {
-      selectedSong: null,
       hover: null
     }
   },
   methods: {
     onSelectSong(song) {
-      this.selectedSong = song
+      this.$emit('onSelectSong', song)
     },
     play(song) {
       this.$emit('playSong', this.composer, song, this.playerTrack)

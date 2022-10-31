@@ -30,6 +30,9 @@ export default {
       return {
         height: this.navHeight + 'px'
       }
+    },
+    playlist () {
+      return musics[this.playerComposer] || []
     }
   },
   mounted() {
@@ -48,7 +51,6 @@ export default {
   methods: {
     onSelectComposer (composer) {
       this.composer = composer
-      this.song = null;
     },
     onSelectSong (song) {
       this.selectedSong = song;
@@ -105,25 +107,24 @@ export default {
     },
     nextSong: function() {
       if (this.playerSong) {
-        const currentPlaylist = musics[this.playerComposer];
-        let index = currentPlaylist.indexOf(this.playerSong);
-        if (index < currentPlaylist.length) {
+        let index = this.playlist.indexOf(this.playerSong);
+        if (index != -1 && index < this.playlist.length) {
 
-          //this.play(this.playerComposer, currentPlaylist[++index], this.playerTrack);
-          if (this.playerComposer == this.composer) {
-            console.log('+' + index);
-            this.$refs.composer.onSelectSong(currentPlaylist[++index]);
-            this.play(this.playerComposer, this.selectedSong, this.playerTrack);
-          }
+          this.onSelectSong(this.playlist[++index]);
+          this.play(this.playerComposer, this.selectedSong);
+
         }
       }
+
     },
     previousSong: function() {
       if (this.playerSong) {
-        const currentPlaylist = musics[this.playerComposer];
-        let index = currentPlaylist.indexOf(this.playerSong);
-        if (index > 0) {
-          this.play(this.playerComposer, currentPlaylist[--index], this.playerTrack);
+        let index = this.playlist.indexOf(this.playerSong);
+        if (index != -1 && index > 0) {
+
+          this.onSelectSong(this.playlist[--index]);
+          this.play(this.playerComposer, this.selectedSong);
+
         }
       }
     },
@@ -163,13 +164,14 @@ export default {
 
       <Composer :composer="composer"
                 :composerSongs="composerSongs"
+                :selectedSong="selectedSong"
                 :playerComposer="playerComposer"
                 :playerSong="playerSong"
                 :playerTrack="playerTrack"
                 :playing="playing"
-                @onSelectSong="onSelectSong"
                 @playSong="play"
                 @pauseSong="pause"
+                @onSelectSong="onSelectSong"
                 ref="composer"
                 v-bind:style="computedHeight" />
 
@@ -178,6 +180,7 @@ export default {
 
 
   <Player :composer="playerComposer"
+          :playlist="playlist"
           :song="playerSong"
           :track="playerTrack"
           :songInfo="songInfo"
