@@ -26,11 +26,6 @@ export default {
     composerSongs () {
       return musics[this.composer] || null
     },
-    computedHeight () {
-      return {
-        height: this.navHeight + 'px'
-      }
-    },
     playlist () {
       return musics[this.playerComposer] || []
     }
@@ -58,12 +53,16 @@ export default {
     getHeight() {
       const totalHeight = window.innerHeight;
       const headerHeight = this.$refs.header.clientHeight;
-      const footerHeight = this.$refs.player.$refs.currentTrack.clientHeight;
-      const playlistHeight = 0;
-      const nowPlaying = 0; //this.$refs.song.$refs.playing.clientHeight;
+      const footerHeight = this.$refs.currentTrack.clientHeight;
 
-      this.navHeight = totalHeight - (headerHeight + footerHeight + playlistHeight + nowPlaying);
-      this.artistHeight = totalHeight - (footerHeight);
+      const totalWidth = window.innerWidth;
+      if (totalWidth <= 768) {
+        this.navHeight = 200;
+        this.artistHeight = totalHeight - (footerHeight + 200);
+      } else {
+        this.navHeight = totalHeight - (headerHeight + footerHeight);
+        this.artistHeight = totalHeight - (footerHeight + footerHeight);
+      }
     },
     play: function(composer, song, track=0) {
       if (composer && song) {
@@ -137,6 +136,9 @@ export default {
       if (this.playerTrack > 0) {
         this.play(this.playerComposer, this.playerSong, this.playerTrack-1);
       }
+    },
+    clearSearch() {
+      this.search = '';
     }
   }
 }
@@ -144,14 +146,15 @@ export default {
 
 
 <template>
-  <section class="content">
-    <div class="content__left">
-      <section class="header" ref="header">
+  <section class="header" ref="header">
     <div class="search">
-      <input name="search" type="text" placeholder="Search" v-model="search" />
+      <input name="search" type="text" required placeholder="Search" v-model="search" />
+      <i class="material-icons clear-icon" @click.prevent="clearSearch()">clear</i>
     </div>
   </section>
-      <section class="navigation" ref="navigation" v-bind:style="computedHeight">
+  <section class="content">
+    <div class="content__left">
+      <section class="navigation" ref="navigation" v-bind:style="{ height: this.navHeight + 'px' }">
 
         <ComposerList :composers="composers"
                       :search="search"
@@ -173,26 +176,26 @@ export default {
                 @pauseSong="pause"
                 @onSelectSong="onSelectSong"
                 ref="composer"
-                v-bind:style="computedHeight" />
+                v-bind:style="{ height: this.artistHeight + 'px' }" />
 
     </div>
   </section>
 
-
-  <Player :composer="playerComposer"
-          :playlist="playlist"
-          :song="playerSong"
-          :track="playerTrack"
-          :songInfo="songInfo"
-          :playing="playing"
-          @playSong="play"
-          @pauseSong="pause"
-          @previousSong="previousSong"
-          @nextSong="nextSong"
-          @previousTrack="previousTrack"
-          @nextTrack="nextTrack"
-          ref="player"/>
-
+  <section class="current-track" ref="currentTrack">
+    <Player :composer="playerComposer"
+            :playlist="playlist"
+            :song="playerSong"
+            :track="playerTrack"
+            :songInfo="songInfo"
+            :playing="playing"
+            @playSong="play"
+            @pauseSong="pause"
+            @previousSong="previousSong"
+            @nextSong="nextSong"
+            @previousTrack="previousTrack"
+            @nextTrack="nextTrack"
+            ref="player"/>
+  </section>
 
 </template>
 

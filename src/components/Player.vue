@@ -60,7 +60,7 @@ export default {
 
 
 <template>
-  <section class="current-track" ref="currentTrack">
+
     <section class="playing" ref="playing">
       <div v-if="song" class="playing__song">
         <a class="playing__song__name">{{ song.replace('_', ' ').replace('.sndh', '') }}</a>
@@ -112,5 +112,5 @@ export default {
         </a>
       </span>
     </div>
-  </section>
+
 </template>
