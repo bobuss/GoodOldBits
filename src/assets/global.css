@@ -421,7 +421,6 @@ a:hover .material-icons {
 .current-track__options .controls .volume #song-volume {
   width: calc( 80% - 20px );
   border: none;
-  height: 4px;
 }
 .current-track__options .controls .volume #song-volume .noUi-base {
   background: #c8c8c8;

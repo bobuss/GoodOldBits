@@ -53,7 +53,7 @@ export default {
     getHeight() {
       const totalHeight = window.innerHeight;
       const headerHeight = this.$refs.header.clientHeight;
-      const footerHeight = this.$refs.currentTrack.clientHeight;
+      const footerHeight = this.$refs.player.$refs.currentTrack.clientHeight;
 
       const totalWidth = window.innerWidth;
       if (totalWidth <= 768) {
@@ -101,7 +101,7 @@ export default {
       ScriptNodePlayer.getInstance().pause();
       this.playing = false
     },
-	  setVolume: function(value) {
+	  changeVolume: function(value) {
       ScriptNodePlayer.getInstance().setVolume(value);
     },
     nextSong: function() {
@@ -114,7 +114,6 @@ export default {
 
         }
       }
-
     },
     previousSong: function() {
       if (this.playerSong) {
@@ -181,21 +180,20 @@ export default {
     </div>
   </section>
 
-  <section class="current-track" ref="currentTrack">
-    <Player :composer="playerComposer"
-            :playlist="playlist"
-            :song="playerSong"
-            :track="playerTrack"
-            :songInfo="songInfo"
-            :playing="playing"
-            @playSong="play"
-            @pauseSong="pause"
-            @previousSong="previousSong"
-            @nextSong="nextSong"
-            @previousTrack="previousTrack"
-            @nextTrack="nextTrack"
-            ref="player"/>
-  </section>
+  <Player :composer="playerComposer"
+          :playlist="playlist"
+          :song="playerSong"
+          :track="playerTrack"
+          :songInfo="songInfo"
+          :playing="playing"
+          @playSong="play"
+          @pauseSong="pause"
+          @previousSong="previousSong"
+          @nextSong="nextSong"
+          @previousTrack="previousTrack"
+          @nextTrack="nextTrack"
+          @changeVolume="changeVolume"
+          ref="player"/>
 
 </template>
 

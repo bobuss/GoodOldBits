@@ -53,6 +53,10 @@ export default {
     },
     previousTrack() {
       this.$emit('previousTrack')
+    },
+    changeVolume(v) {
+      console.log(v);
+      this.$emit('changeVolume', v);
     }
   }
 }
@@ -60,7 +64,7 @@ export default {
 
 
 <template>
-
+  <section class="current-track" ref="currentTrack">
     <section class="playing" ref="playing">
       <div v-if="song" class="playing__song">
         <a class="playing__song__name">{{ song.replace('_', ' ').replace('.sndh', '') }}</a>
@@ -106,11 +110,14 @@ export default {
         <a @click.prevent="nextTrack()">
           <i class="material-icons">navigate_next</i>
         </a>
+
         <a class="control volume">
             <i class="material-icons">volume_up</i>
-          <div id="song-volume"></div>
+          <div id="song-volume">
+            <input type="range" min="0" max="1" value="1" step="0.1" @change="changeVolume($event.target.value)">
+          </div>
         </a>
       </span>
     </div>
-
+  </section>
 </template>
