@@ -629,6 +629,7 @@ SC68BackendAdapter = (function () {
         for (i = 1; i < this._currentTrack; i++) {
           seek += this.getSongLength(i);
         }
+
         // hack; seeking doesnt seem to work before emu_compute_audio_samples is called
         this.Module.ccall('emu_compute_audio_samples', 'number');
         this.seekPlaybackPosition(seek);

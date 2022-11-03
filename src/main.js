@@ -5,8 +5,10 @@ import './assets/global.css'
 
 const app = createApp(Atarify).mount('#app')
 
+
 function doOnTrackEnd() {
-    //if (playerControls) playerControls.playNextSong();
+    // strange hack here, but it works: repeat current track
+    app.play(app.playerComposer, app.playerSong, app.playerTrack++);
 }
 function doOnTrackReadyToPlay() {
     ScriptNodePlayer.getInstance().play();
