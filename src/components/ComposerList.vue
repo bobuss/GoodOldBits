@@ -2,9 +2,8 @@
 export default {
   name: 'ComposerList',
   props: {
-    composers: {
-      type: Array,
-      required: true
+    flatSongs: {
+      type: Array
     },
     search: {
       type: String
@@ -12,20 +11,31 @@ export default {
   },
   data () {
     return {
-      composer: 'Furax'
+      selectedComposer: ''
     }
   },
   computed: {
-    filteredList() {
-      return this.composers.filter(composer => {
-        return composer.toLowerCase().includes(this.search.toLowerCase())
+    facetedComposers() {
+      const search = this.search.replaceAll(' ', '_').toLowerCase();
+
+      const filteredSongs = this.flatSongs.filter(song => {
+        return song.toLowerCase().includes(search)
       })
+
+      const groupByComposer = filteredSongs.reduce((group, song) => {
+        const category = song.split('/')[0]
+        group[category] = group[category] ?? 0;
+        group[category]++
+        return group;
+      }, {})
+
+      return groupByComposer
     }
   },
   methods: {
     onClickSelectComposer (composer) {
       this.$emit('select-composer', composer)
-      this.composer = composer
+      this.selectedComposer = composer
     }
   }
 }
@@ -35,14 +45,14 @@ export default {
 <template>
 
   <div class="navigation__list">
-    <a v-for="c in filteredList"
-       :key="c"
-       href="#"
-       class="navigation__list__item"
-       v-bind:class="{ navigation__list__item__selected: c == composer  }"
-       @click.prevent="onClickSelectComposer(c)">
-      <i class="ion-person"></i>
-      <span>{{ c.replaceAll('_', ' ') }}</span>
+    <a v-for="(count, composer) in facetedComposers"
+      :key="composer"
+      href="#"
+      class="navigation__list__item"
+      v-bind:class="{ navigation__list__item__selected: composer == selectedComposer }"
+      @click.prevent="onClickSelectComposer(composer)">
+
+      <span>{{ composer.replaceAll('_', ' ') }} ({{ count }})</span>
     </a>
   </div>
 

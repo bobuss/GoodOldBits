@@ -55,7 +55,6 @@ export default {
       this.$emit('previousTrack')
     },
     changeVolume(v) {
-      console.log(v);
       this.$emit('changeVolume', v);
     }
   }

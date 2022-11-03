@@ -4,13 +4,17 @@ import Composer from './components/Composer.vue'
 import Player from './components/Player.vue'
 
 import musics from './json/data.json'
+const flatSongs = Object.keys(musics).reduce((acc, key) => {
+    return acc.concat(musics[key].map(music => `${key}/${music}`))
+}, []);
 
 export default {
   name: 'Atarify',
   data () {
     return {
       composers: Object.keys(musics),
-      composer: 'Furax',
+      flatSongs: flatSongs,
+      composer: '',
       selectedSong: null,
       playerComposer: null,
       playerSong: null,
@@ -19,15 +23,16 @@ export default {
       navHeight: 617,
       artistHeight: 617,
       search: '',
-      playing: false
+      playing: false,
+      playlist: []
     }
   },
   computed:{
-    composerSongs () {
-      return musics[this.composer] || null
-    },
-    playlist () {
-      return musics[this.playerComposer] || []
+    flatComposerSongs () {
+
+      const composerSongs = musics[this.composer] || [];
+      return composerSongs.map(song => this.composer + '/' + song)
+
     }
   },
   mounted() {
@@ -61,7 +66,7 @@ export default {
         this.artistHeight = totalHeight - (footerHeight + 200);
       } else {
         this.navHeight = totalHeight - (headerHeight + footerHeight);
-        this.artistHeight = totalHeight - (footerHeight + footerHeight);
+        this.artistHeight = totalHeight - (headerHeight + footerHeight);
       }
     },
     play: function(composer, song, track=0) {
@@ -73,6 +78,7 @@ export default {
           this.playerComposer = composer;
           this.playerSong = song;
           this.playerTrack = track;
+          this.playlist = [song];
 
           if (p.isReady()) {
             var self = this;
@@ -155,7 +161,7 @@ export default {
     <div class="content__left">
       <section class="navigation" ref="navigation" v-bind:style="{ height: this.navHeight + 'px' }">
 
-        <ComposerList :composers="composers"
+        <ComposerList :flatSongs="flatSongs"
                       :search="search"
                       @select-composer="onSelectComposer" />
 
@@ -165,17 +171,22 @@ export default {
     <div class="content__middle">
 
       <Composer :composer="composer"
-                :composerSongs="composerSongs"
+                :flatComposerSongs="flatComposerSongs"
                 :selectedSong="selectedSong"
                 :playerComposer="playerComposer"
                 :playerSong="playerSong"
                 :playerTrack="playerTrack"
                 :playing="playing"
+                :search="search"
                 @playSong="play"
                 @pauseSong="pause"
                 @onSelectSong="onSelectSong"
                 ref="composer"
                 v-bind:style="{ height: this.artistHeight + 'px' }" />
+
+    </div>
+
+    <div class="content__right">
 
     </div>
   </section>

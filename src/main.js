@@ -6,7 +6,6 @@ import './assets/global.css'
 const app = createApp(Atarify).mount('#app')
 
 function doOnTrackEnd() {
-    console.log('onTrackEnd');
     //if (playerControls) playerControls.playNextSong();
 }
 function doOnTrackReadyToPlay() {

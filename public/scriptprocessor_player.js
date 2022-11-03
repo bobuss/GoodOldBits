@@ -1581,7 +1581,6 @@ var ScriptNodePlayer = (function () {
 
 								this._isPaused= true;	// stop playback (or this will retrigger again and again before new song is started)
 								if (this._onTrackEnd) {
-									console.log('track end')
 									this._onTrackEnd();
 								}
 								return;
@@ -1616,7 +1615,6 @@ var ScriptNodePlayer = (function () {
 				if ((this._silenceStarttime > 0) && ((this._currentPlaytime - this._silenceStarttime) >= this._silenceTimeout*this._correctSampleRate ) && (this._silenceTimeout >0)) {
 					this._isPaused= true;	// stop playback (or this will retrigger again and again before new song is started)
 					if (this._onTrackEnd) {
-						console.log(' on track end 2')
 						this._onTrackEnd();
 					}
 				}

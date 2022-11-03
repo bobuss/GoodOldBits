@@ -2,7 +2,7 @@
 export default {
   name: 'Composer',
   props: {
-    composerSongs: {
+    flatComposerSongs: {
       type: Array,
       required: false
     },
@@ -30,11 +30,25 @@ export default {
       type: Boolean,
       required: false,
       default: false
+    },
+    search: {
+      type: String,
+      required: false,
+      default: ''
     }
   },
   data() {
     return {
       hover: null
+    }
+  },
+  computed: {
+    filteredSongs() {
+
+      return this.flatComposerSongs.filter(song => {
+        return song.toLowerCase().includes(this.search.replaceAll(' ', '_').toLowerCase());
+      }).map(song => song.substring(this.composer.length + 1) );
+
     }
   },
   methods: {
@@ -84,7 +98,7 @@ export default {
                       <div class="tracks__heading__number">#</div>
                       <div class="tracks__heading__title">Song</div>
                     </div>
-                    <a v-for="(s, index) in composerSongs"
+                    <a v-for="(s, index) in filteredSongs"
                        href="#"
                        :key="s"
                        class="track"
