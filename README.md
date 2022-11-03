@@ -1,19 +1,12 @@
-# Atari music player
+# Atari music jukebox
 
-design from https://codepen.io/alowenthal/pen/rxboRv
+https://player.tornil.me/
 
-player from Juergen Wothke
+## Resources
 
-https://bitbucket.org/wothke/webaudio-player
-
-demo
-
-http://www.wothke.ch/webaudio68/
-
-
+- design from https://codepen.io/alowenthal/pen/rxboRv
+- player from Juergen Wothke https://bitbucket.org/wothke/webaudio-player
 
 ## TODO
-- volume
 - routing
-- tracks
-- hover with play button instead of song number
+- playlists
