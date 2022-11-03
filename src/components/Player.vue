@@ -67,8 +67,8 @@ export default {
   <section class="current-track" ref="currentTrack">
     <section class="playing" ref="playing">
       <div v-if="song" class="playing__song">
-        <a class="playing__song__name">{{ song.replace('_', ' ').replace('.sndh', '') }}</a>
-        <a class="playing__song__artist">{{ composer.replace('_', ' ') }}</a>
+        <a class="playing__song__name">{{ song.replaceAll('_', ' ').replace('.sndh', '') }}</a>
+        <a class="playing__song__artist">{{ composer.replaceAll('_', ' ') }}</a>
       </div>
     </section>
     <div class="current-track__player">

@@ -18,9 +18,6 @@
 *
 * 	Copyright (C) 2022 Juergen Wothke
 *
-*   Oct 27, 2022: Adjust class declarations and export ScriptNodePlayer for external usage
-*      - Bertrand Tornil
-*
 * Terms of Use: This software is licensed under a CC BY-NC-SA
 * (http://creativecommons.org/licenses/by-nc-sa/4.0/).
 */

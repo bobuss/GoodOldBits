@@ -60,7 +60,7 @@ export default {
       <div class="artist__info__meta">
         <div class="artist__info__type">Artist</div>
 
-        <div class="artist__info__name">{{ composer.replace('_', ' ') }}</div>
+        <div class="artist__info__name">{{ composer.replaceAll('_', ' ') }}</div>
       </div>
     </div>
 
@@ -113,7 +113,7 @@ export default {
                         </a>
 
                       </div>
-                      <div class="track__title">{{ s.replace('_', ' ').replace('.sndh', '') }}</div>
+                      <div class="track__title">{{ s.replaceAll('_', ' ').replace('.sndh', '') }}</div>
 
                     </a>
                   </div>
