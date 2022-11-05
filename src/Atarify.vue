@@ -1,21 +1,46 @@
 <script>
+
+const collections = {}
+
 import ComposerList from './components/ComposerList.vue'
 import Composer from './components/Composer.vue'
 import Player from './components/Player.vue'
+import Playlist from './components/Playlist.vue'
+import libymWrapper from './libymWrapper'
 
-import musics from './json/data.json'
-const flatSongs = Object.keys(musics).reduce((acc, key) => {
-    return acc.concat(musics[key].map(music => `${key}/${music}`))
-}, []);
+import sndh from './json/sndh.json';
+collections['sndh'] = sndh
+
+import ym from './json/ym.json';
+collections['ym'] = ym
+
+import sc68 from './json/sc68.json';
+collections['sc68'] = sc68
+
+
+function doOnTrackEnd() {
+    // strange hack here, but it works: repeat current track
+    console.log('doOnTrackEnd')
+    app.play(app.playerComposer, app.playerSong, app.playerTrack++);
+}
+function doOnTrackReadyToPlay() {
+    //ScriptNodePlayer.getInstance().play();
+    //songDisplay.redrawSongInfo();
+}
+function doOnPlayerReady() {
+    //if (playerControls) playerControls.playNextSong();
+}
+function doOnUpdate() { } // unused
+
 
 export default {
   name: 'Atarify',
   data () {
     return {
-      composers: Object.keys(musics),
-      flatSongs: flatSongs,
+      format: 'sc68',
       composer: '',
       selectedSong: null,
+      player: null,
       playerComposer: null,
       playerSong: null,
       playerTrack: 0,
@@ -28,27 +53,74 @@ export default {
     }
   },
   computed:{
+    backendAdapter() {
+      switch (this.format) {
+        case 'sndh':
+        case 'sc68':
+          return SC68BackendAdapter;
+          break;
+      }
+    },
+    musics() {
+      return collections[this.format]
+    },
+    composers(){
+      return Object.keys(this.musics)
+    },
     flatComposerSongs () {
-
-      const composerSongs = musics[this.composer] || [];
+      const composerSongs = this.musics[this.composer] || [];
       return composerSongs.map(song => this.composer + '/' + song)
-
+    },
+    flatSongs() {
+      return Object.keys(this.musics).reduce((acc, key) => {
+        return acc.concat(this.musics[key].map(music => `${key}/${music}`))
+      }, []);
     }
   },
   mounted() {
     window.addEventListener('load', this.getHeight);
     window.addEventListener('resize', this.getHeight);
   },
+  created() {
+    this.createPlayerInstance();
+  },
   beforeDestroy() {
+    this.player.pause();
+    this.player = null;
     window.removeEventListener('load', this.getHeight);
     window.removeEventListener('resize', this.getHeight);
   },
   components: {
     ComposerList,
     Composer,
-    Player
+    Player,
+    Playlist
   },
   methods: {
+    createPlayerInstance() {
+
+      switch (this.format) {
+        case 'ym':
+          this.player = libymWrapper
+          break;
+        case 'sndh':
+        case 'sc68':
+          const backendAdapter = this.backendAdapter;
+          ScriptNodePlayer.createInstance(
+            new this.backendAdapter(), // backendAdapter
+            '',                        // basePath, not needed here
+            [],                        // requiredFiles
+            true,                      // enableSpectrum
+            doOnPlayerReady,           // onPlayerReady
+            doOnTrackReadyToPlay,      // onTrackReadyToPlay
+            doOnTrackEnd,              // onTrackEnd
+            doOnUpdate                 // doOnUpdate
+          );
+          this.player = ScriptNodePlayer.getInstance()
+          break;
+      }
+
+    },
     onSelectComposer (composer) {
       this.composer = composer
     },
@@ -71,44 +143,44 @@ export default {
     },
     play: function(composer, song, track=0) {
       if (composer && song) {
-        var p = ScriptNodePlayer.getInstance();
         if ((this.playerComposer == composer) && (this.playerSong == song) && (this.playerTrack == track)) {
-          p.resume();
+          this.player.resume();
         } else {
           this.playerComposer = composer;
           this.playerSong = song;
           this.playerTrack = track;
           this.playlist = [song];
 
-          if (p.isReady()) {
-            var self = this;
-            p.loadMusicFromURL(
-              'musics/' + this.playerComposer + '/' + this.playerSong,
-              {
-                track: this.playerTrack
-              },
-              (function(filename){
-                // onCompletion
-                self.songInfo = ScriptNodePlayer.getInstance().getSongInfo()
-              }),
-              (function(){
-                // onFail
-              }),
-              (function(total, loaded){
-                // onProgress
-               })
-            );
-          }
+
+          var self = this;
+          var path = 'musics/' + this.format + '/' + this.playerComposer + '/' + this.playerSong;
+          this.player.loadMusicFromURL(
+            path,
+            {
+              track: this.playerTrack
+            },
+            (function(filename){
+              // onCompletion
+              self.songInfo = self.player.getSongInfo()
+            }),
+            (function(){
+              // onFail
+            }),
+            (function(total, loaded){
+              // onProgress
+             })
+          );
+
         }
         this.playing = true
       }
     },
     pause: function() {
-      ScriptNodePlayer.getInstance().pause();
+      this.player.pause();
       this.playing = false
     },
 	  changeVolume: function(value) {
-      ScriptNodePlayer.getInstance().setVolume(value);
+      this.player.setVolume(value);
     },
     nextSong: function() {
       if (this.playerSong) {
@@ -133,7 +205,7 @@ export default {
       }
     },
     nextTrack: function() {
-      if (ScriptNodePlayer.getInstance().getSongInfo().numberOfTracks > 1) {
+      if (this.player.songInfo.numberOfTracks > 1) {
         this.play(this.playerComposer, this.playerSong, this.playerTrack+1);
       }
     },
@@ -144,7 +216,14 @@ export default {
     },
     clearSearch() {
       this.search = '';
-    }
+    },
+    // switchCollection(format) {
+    //   this.playerComposer = null;
+    //   this.playerSong = null;
+    //   this.playerTrack = 1;
+    //   this.createPlayerInstance();
+    //   this.format = format;
+    // }
   }
 }
 </script>
@@ -156,6 +235,19 @@ export default {
       <input name="search" type="text" required placeholder="Search" v-model="search" />
       <i class="material-icons clear-icon" @click.prevent="clearSearch()">clear</i>
     </div>
+
+<!--
+    <a @click.prevent="switchCollection('ym')">ym</a>
+    <a @click.prevent="switchCollection('sndh')">sndh</a>
+    <a @click.prevent="switchCollection('sc68')">sc68</a>
+-->
+
+    <div class="user">
+      <a href="https://github.com/bobuss/atari_player" target="_blank">
+        <img src="@/assets/github.png" />
+      </a>
+    </div>
+
   </section>
   <section class="content">
     <div class="content__left">
@@ -170,7 +262,8 @@ export default {
 
     <div class="content__middle">
 
-      <Composer :composer="composer"
+      <Composer :format="format"
+                :composer="composer"
                 :flatComposerSongs="flatComposerSongs"
                 :selectedSong="selectedSong"
                 :playerComposer="playerComposer"
@@ -188,10 +281,13 @@ export default {
 
     <div class="content__right">
 
+      <Playlist :playlist="playlist" />
+
     </div>
   </section>
 
-  <Player :composer="playerComposer"
+  <Player :format="format"
+          :composer="playerComposer"
           :playlist="playlist"
           :song="playerSong"
           :track="playerTrack"

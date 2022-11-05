@@ -3,6 +3,9 @@
 export default {
   name: 'Player',
   props: {
+    format: {
+      type: String
+    },
     composer: {
       type: String,
       required: false,
@@ -66,7 +69,7 @@ export default {
   <section class="current-track" ref="currentTrack">
     <section class="playing" ref="playing">
       <div v-if="song" class="playing__song">
-        <a class="playing__song__name">{{ song.replaceAll('_', ' ').replace('.sndh', '') }}</a>
+        <a class="playing__song__name">{{ song.replaceAll('_', ' ').replace(`.${format}`, '') }}</a>
         <a class="playing__song__artist">{{ composer.replaceAll('_', ' ') }}</a>
       </div>
     </section>

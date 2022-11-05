@@ -2,6 +2,9 @@
 export default {
   name: 'Composer',
   props: {
+    format: {
+      type: String
+    },
     flatComposerSongs: {
       type: Array,
       required: false
@@ -127,7 +130,7 @@ export default {
                         </a>
 
                       </div>
-                      <div class="track__title">{{ s.replaceAll('_', ' ').replace('.sndh', '') }}</div>
+                      <div class="track__title">{{ s.replaceAll('_', ' ').replace(`.${format}`, '') }}</div>
 
                     </a>
                   </div>
