@@ -12,7 +12,7 @@ export default {
 
 <template>
   <div>
-    <h1>Playlist</h1>
+    <h1>Playlist (WIP)</h1>
 
     <ul>
       <li v-for="song in playlist">{{ song }}</li>

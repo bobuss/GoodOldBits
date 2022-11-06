@@ -403,7 +403,7 @@ a:hover .material-icons {
   flex-flow: row wrap;
   justify-content: space-between;
 }
-.current-track__options .controls .devices:hover {
+.current-track__options .controls a:hover {
   text-decoration: none;
 }
 .current-track__options .controls .devices i {
@@ -414,7 +414,7 @@ a:hover .material-icons {
   text-transform: uppercase;
 }
 .current-track__options .controls .volume {
-  width: 25%;
+  width: 55%;
   display: flex;
   flex-flow: row wrap;
   align-items: center;
@@ -426,6 +426,7 @@ a:hover .material-icons {
 .current-track__options .controls .volume #song-volume {
   width: calc( 80% - 20px );
   border: none;
+  margin-left: 10px;
 }
 .current-track__options .controls .volume #song-volume .noUi-base {
   background: #c8c8c8;
@@ -448,6 +449,10 @@ a:hover .material-icons {
 }
 .current-track__options .controls .volume #song-volume:hover .noUi-handle {
   display: block;
+}
+.current-track__options .controls .current-track__track-control i {
+  position: relative;
+  top: 7px;
 }
 @media (max-width: 1400px) {
   .current-track__actions {

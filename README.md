@@ -29,6 +29,5 @@ docker run --rm -v $PWD/stsound:/data -w /data emscripten/emsdk:latest emmake ma
 - routing
 - playlists
 - select format
-- fix track to 0 when playing a new song
 - seek for formats that support it
 - more formats

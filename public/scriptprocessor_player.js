@@ -1265,9 +1265,9 @@ var ScriptNodePlayer = (function () {
 				if(!this.prepareTrackForPlayback(fullFilename, data, options, onCompletion, onFail, onProgress)) {
 					if (!this.isWaitingForFile()) {
 						onFail();
-					} else {
-						onCompletion(fullFilename);
 					}
+				} else {
+					onCompletion(fullFilename);
 				}
 				return true;
 			} else {

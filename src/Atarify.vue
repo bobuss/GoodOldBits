@@ -146,6 +146,10 @@ export default {
         if ((this.playerComposer == composer) && (this.playerSong == song) && (this.playerTrack == track)) {
           this.player.resume();
         } else {
+          // different song, let's reset the track number
+          if ((this.playerComposer != composer) || (this.playerSong != song)) {
+            track = 0;
+          }
           this.playerComposer = composer;
           this.playerSong = song;
           this.playerTrack = track;
@@ -205,7 +209,7 @@ export default {
       }
     },
     nextTrack: function() {
-      if (this.player.songInfo.numberOfTracks > 1) {
+      if (this.songInfo.numberOfTracks > 1) {
         this.play(this.playerComposer, this.playerSong, this.playerTrack+1);
       }
     },
