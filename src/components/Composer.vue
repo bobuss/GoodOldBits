@@ -13,17 +13,13 @@ export default {
       type: String,
       required: false
     },
-    selectedSong: {
-      type: String,
-      required: false
-    },
-    playerComposer: {
-      type: String,
-      required: false
-    },
     playerSong: {
       type: String,
       required: false
+    },
+    playlist: {
+      type: Array,
+      default: []
     },
     playerTrack: {
       type: Number,
@@ -42,7 +38,8 @@ export default {
   },
   data() {
     return {
-      hover: null
+      hover: null,
+      selectedSong: null
     }
   },
   computed: {
@@ -56,13 +53,22 @@ export default {
   },
   methods: {
     onSelectSong(song) {
-      this.$emit('onSelectSong', song)
+      this.selectedSong = song
     },
     play(song) {
-      this.$emit('playSong', this.composer, song, this.playerTrack)
+      this.$emit('playSong', this.composer + '/' + song, this.playerTrack, true)
     },
     pause() {
       this.$emit('pauseSong')
+    },
+    addToPlaylist(song) {
+      this.$emit('onAddToPlaylist', this.composer + '/' + song)
+    },
+    removeFromPlaylist(song) {
+      this.$emit('onRemoveFromPlaylist', this.composer + '/' + song)
+    },
+    isSongInPlaylist(song) {
+      return this.playlist.indexOf(this.composer + '/' + song) > -1
     }
   }
 }
@@ -130,7 +136,16 @@ export default {
                         </a>
 
                       </div>
-                      <div class="track__title">{{ s.replaceAll('_', ' ').replace(`.${format}`, '') }}</div>
+                      <div :class="{ playing__song: s == playerSong }" class="track__title">{{ s.replaceAll('_', ' ').replace(`.${format}`, '') }}</div>
+
+                      <div class="track__added">
+                        <a v-if="isSongInPlaylist(s)" @click.prevent="removeFromPlaylist(s)">
+                          <i class="material-icons">remove</i>
+                        </a>
+                        <a v-else @click.prevent="addToPlaylist(s)">
+                          <i class="material-icons">add</i>
+                        </a>
+                      </div>
 
                     </a>
                   </div>

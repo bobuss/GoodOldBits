@@ -36,6 +36,9 @@ export default {
       type: Boolean,
       required: false,
       default: false
+    },
+    playlistMode: {
+      type: Boolean
     }
   },
   methods: {
@@ -59,6 +62,9 @@ export default {
     },
     changeVolume(v) {
       this.$emit('changeVolume', v);
+    },
+    switchPlaylistView() {
+      this.$emit('switchPlaylistView')
     }
   }
 }
@@ -105,6 +111,9 @@ export default {
 
     <div class="current-track__options">
       <span class="controls">
+        <a class="control" @click.prevent="switchPlaylistView()">
+          <i class="material-icons" :class="{ playlist_mode: playlistMode }">queue_music</i>
+        </a>
         <a class="control volume">
           <i class="material-icons">volume_up</i>
           <div id="song-volume">

@@ -16,6 +16,7 @@ https://player.tornil.me/
 - YM resources https://github.com/simondotm/ym2149f/blob/master/doc/Resources.md
 - sndh collection from http://sndh.atari.org/
 - sc68 collection from http://sc68.atari.org/
+- checked out https://github.com/demozoo/cowbell, but does not support multi-track songs
 
 
 ## Building the ST-Sound library Emscripten port
@@ -28,7 +29,7 @@ docker run --rm -v $PWD/stsound:/data -w /data emscripten/emsdk:latest emmake ma
 
 ## TODO
 - routing
-- playlists
 - select format
 - seek for formats that support it
 - more formats
+- rework on responsive

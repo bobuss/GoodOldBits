@@ -26,7 +26,7 @@ collections['xmp'] = xmp
 function doOnTrackEnd() {
     // strange hack here, but it works: repeat current track
     console.log('doOnTrackEnd')
-    app.play(app.playerComposer, app.playerSong, app.playerTrack++);
+    app.play(app.playerPath, app.playerTrack++);
 }
 function doOnTrackReadyToPlay() {
     //ScriptNodePlayer.getInstance().play();
@@ -38,13 +38,13 @@ function doOnPlayerReady() {
 function doOnUpdate() { } // unused
 
 
+
 export default {
   name: 'Atarify',
   data () {
     return {
       format: 'sc68',
       composer: '',
-      selectedSong: null,
       player: null,
       playerComposer: null,
       playerSong: null,
@@ -55,7 +55,8 @@ export default {
       artistHeight: 617,
       search: '',
       playing: false,
-      playlist: []
+      playlist: [],
+      playlistMode: false
     }
   },
   computed:{
@@ -72,19 +73,22 @@ export default {
     musics() {
       return collections[this.format]
     },
+    playerPath() {
+      return this.playerComposer + '/' + this.playerSong
+    },
     musicPath() {
       switch (this.format) {
         case 'xmp':
-          return 'http://modland.com/pub/modules/' + this.tracker + '/' + this.playerComposer + '/' + this.playerSong;
+          return 'http://modland.com/pub/modules/' + this.tracker + '/' + this.playerPath
           break;
         case 'sndh':
-          return 'musics/sndh/' + this.playerComposer + '/' + this.playerSong;
+          return 'musics/sndh/' + this.playerPath
           break;
         case 'sc68':
-          return 'musics/sc68/' + this.playerComposer + '/' + this.playerSong;
+          return 'musics/sc68/' + this.playerPath
           break;
         case 'ym':
-          return 'musics/ym/' + this.playerComposer + '/' + this.playerSong;
+          return 'musics/ym/' + this.playerPath
           break;
       }
     },
@@ -147,10 +151,8 @@ export default {
 
     },
     onSelectComposer (composer) {
+      this.playlistMode = false;
       this.composer = composer
-    },
-    onSelectSong (song) {
-      this.selectedSong = song;
     },
     getHeight() {
       const totalHeight = window.innerHeight;
@@ -166,7 +168,11 @@ export default {
         this.artistHeight = totalHeight - (headerHeight + footerHeight);
       }
     },
-    play: function(composer, song, track=0) {
+    play: function(composer_song, track=0, clearPlaylist=false) {
+      var arr = composer_song.split('/')
+      var composer = arr[0]
+      var song = arr.slice(1).join('/')
+
       if (composer && song) {
         if ((this.playerComposer == composer) && (this.playerSong == song) && (this.playerTrack == track)) {
           this.player.resume();
@@ -178,8 +184,8 @@ export default {
           this.playerComposer = composer;
           this.playerSong = song;
           this.playerTrack = track;
-          this.playlist = [song];
-
+          if (clearPlaylist)
+            this.playlist = [this.playerPath];
 
           var self = this;
 
@@ -213,46 +219,51 @@ export default {
     },
     nextSong: function() {
       if (this.playerSong) {
-        let index = this.playlist.indexOf(this.playerSong);
+        let index = this.playlist.indexOf(this.playerPath);
         if (index != -1 && index < this.playlist.length) {
-
-          this.onSelectSong(this.playlist[++index]);
-          this.play(this.playerComposer, this.selectedSong);
-
+          this.play(this.playlist[++index]);
         }
       }
     },
     previousSong: function() {
       if (this.playerSong) {
-        let index = this.playlist.indexOf(this.playerSong);
+        let index = this.playlist.indexOf(this.playerPath);
         if (index != -1 && index > 0) {
-
-          this.onSelectSong(this.playlist[--index]);
-          this.play(this.playerComposer, this.selectedSong);
-
+          this.play(this.playlist[--index]);
         }
       }
     },
     nextTrack: function() {
       if (this.songInfo.numberOfTracks > 1) {
-        this.play(this.playerComposer, this.playerSong, this.playerTrack+1);
+        this.play(this.playerPath, this.playerTrack+1);
       }
     },
     previousTrack: function() {
       if (this.playerTrack > 0) {
-        this.play(this.playerComposer, this.playerSong, this.playerTrack-1);
+        this.play(this.playerPath, this.playerTrack-1);
       }
     },
     clearSearch() {
       this.search = '';
     },
-    // switchCollection(format) {
-    //   this.playerComposer = null;
-    //   this.playerSong = null;
-    //   this.playerTrack = 1;
-    //   this.createPlayerInstance();
-    //   this.format = format;
-    // }
+    onAddToPlaylist(song) {
+      this.playlist.push(song)
+      // if it was the 1st element, then load the player
+      if (this.playlist.length == 1) {
+        var arr = song.split('/')
+        this.playerComposer = arr[0];
+        this.playerSong = arr.slice(1).join('/');
+      }
+    },
+    onRemoveFromPlaylist(song) {
+      const index = this.playlist.indexOf(song);
+      if (index > -1) {
+        this.playlist.splice(index, 1);
+      }
+    },
+    switchPlaylistView() {
+      this.playlistMode = !this.playlistMode
+    }
   }
 }
 </script>
@@ -264,12 +275,6 @@ export default {
       <input name="search" type="text" required placeholder="Search" v-model="search" />
       <i class="material-icons clear-icon" @click.prevent="clearSearch()">clear</i>
     </div>
-
-<!--
-    <a @click.prevent="switchCollection('ym')">ym</a>
-    <a @click.prevent="switchCollection('sndh')">sndh</a>
-    <a @click.prevent="switchCollection('sc68')">sc68</a>
--->
 
     <div class="user">
       <a href="https://github.com/bobuss/atari_player" target="_blank">
@@ -284,7 +289,9 @@ export default {
 
         <ComposerList :flatSongs="flatSongs"
                       :search="search"
-                      @select-composer="onSelectComposer" />
+                      :playerComposer="playerComposer"
+                      :songInfo="songInfo"
+                      @onSelectComposer="onSelectComposer" />
 
       </section>
     </div>
@@ -294,23 +301,27 @@ export default {
       <Composer :format="format"
                 :composer="composer"
                 :flatComposerSongs="flatComposerSongs"
-                :selectedSong="selectedSong"
                 :playerComposer="playerComposer"
                 :playerSong="playerSong"
                 :playerTrack="playerTrack"
+                :playlist="playlist"
                 :playing="playing"
                 :search="search"
                 @playSong="play"
                 @pauseSong="pause"
-                @onSelectSong="onSelectSong"
-                ref="composer"
-                v-bind:style="{ height: this.artistHeight + 'px' }" />
+                @onAddToPlaylist="onAddToPlaylist"
+                @onRemoveFromPlaylist="onRemoveFromPlaylist"
+                v-bind:style="{ height: this.artistHeight + 'px', display: this.playlistMode ? 'none' : 'block' }" />
 
-    </div>
+        <Playlist :format="format"
+                :playerPath="playerPath"
+                :playerTrack="playerTrack"
+                :playlist="playlist"
+                :playing="playing"
+                @playSong="play"
+                @pauseSong="pause"
+                v-bind:style="{ height: this.artistHeight + 'px', display: this.playlistMode ? 'block' : 'none'  }"/>
 
-    <div class="content__right">
-
-      <Playlist :playlist="playlist" />
 
     </div>
   </section>
@@ -322,6 +333,7 @@ export default {
           :track="playerTrack"
           :songInfo="songInfo"
           :playing="playing"
+          :playlistMode="playlistMode"
           @playSong="play"
           @pauseSong="pause"
           @previousSong="previousSong"
@@ -329,6 +341,7 @@ export default {
           @previousTrack="previousTrack"
           @nextTrack="nextTrack"
           @changeVolume="changeVolume"
+          @switchPlaylistView="switchPlaylistView"
           ref="player"/>
 
 </template>

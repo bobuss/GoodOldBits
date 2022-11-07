@@ -7,6 +7,9 @@ export default {
     },
     search: {
       type: String
+    },
+    playerComposer: {
+      type: String
     }
   },
   data () {
@@ -33,8 +36,8 @@ export default {
     }
   },
   methods: {
-    onClickSelectComposer (composer) {
-      this.$emit('select-composer', composer)
+    onSelectComposer (composer) {
+      this.$emit('onSelectComposer', composer)
       this.selectedComposer = composer
     }
   }
@@ -50,9 +53,9 @@ export default {
       href="#"
       class="navigation__list__item"
       v-bind:class="{ navigation__list__item__selected: composer == selectedComposer }"
-      @click.prevent="onClickSelectComposer(composer)">
+      @click.prevent="onSelectComposer(composer)">
 
-      <span>{{ composer.replaceAll('_', ' ') }} ({{ count }})</span>
+      <span :class="{ playing__song: composer == playerComposer }">{{ composer.replaceAll('_', ' ') }} ({{ count }})</span>
     </a>
   </div>
 
