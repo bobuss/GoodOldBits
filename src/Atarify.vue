@@ -115,8 +115,8 @@ export default {
   beforeDestroy() {
     this.player.pause();
     this.player = null;
-    window.removeEventListener('load', this.getHeight);
-    window.removeEventListener('resize', this.getHeight);
+    //window.removeEventListener('load', this.getHeight);
+    //window.removeEventListener('resize', this.getHeight);
   },
   components: {
     ComposerList,
@@ -248,11 +248,13 @@ export default {
     },
     onAddToPlaylist(song) {
       this.playlist.push(song)
-      // if it was the 1st element, then load the player
+      // if it was the 1st element, then load the player,
+      // set -1 as current track to force to download the song in play method
       if (this.playlist.length == 1) {
         var arr = song.split('/')
         this.playerComposer = arr[0];
         this.playerSong = arr.slice(1).join('/');
+        this.playerTrack = -1
       }
     },
     onRemoveFromPlaylist(song) {
@@ -316,6 +318,7 @@ export default {
         <Playlist :format="format"
                 :playerPath="playerPath"
                 :playerTrack="playerTrack"
+                :songInfo="songInfo"
                 :playlist="playlist"
                 :playing="playing"
                 @playSong="play"

@@ -12,6 +12,12 @@ export default {
     playerPath: {
       type: String
     },
+    songInfo: {
+      type: Object,
+      default: {
+        numberOfTracks: 1
+      }
+    },
     playerTrack: {
       type: Number
     },
