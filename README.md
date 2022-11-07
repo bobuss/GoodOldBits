@@ -10,6 +10,7 @@ https://player.tornil.me/
 - player from Juergen Wothke https://bitbucket.org/wothke/webaudio-player
   - sc68 backend: https://bitbucket.org/wothke/sc68-2.2.1/src/master/
   - ym backend: https://bitbucket.org/wothke/webym/src/master/
+  - xmp backend: https://bitbucket.org/wothke/libxmp-4.4.1/src/master/
 - ym player by https://github.com/nguillaumin/ym-jukebox
 - sc68 replay bin files from https://github.com/DeaDBeeF-Player/deadbeef build
 - YM resources https://github.com/simondotm/ym2149f/blob/master/doc/Resources.md

@@ -17,6 +17,11 @@ collections['ym'] = ym
 import sc68 from './json/sc68.json';
 collections['sc68'] = sc68
 
+import xmp from './json/xmp.json';
+collections['xmp'] = xmp
+
+
+
 
 function doOnTrackEnd() {
     // strange hack here, but it works: repeat current track
@@ -44,6 +49,7 @@ export default {
       playerComposer: null,
       playerSong: null,
       playerTrack: 0,
+      tracker: 'Fasttracker 2',
       songInfo: {numberOfTracks: 1},
       navHeight: 617,
       artistHeight: 617,
@@ -55,6 +61,8 @@ export default {
   computed:{
     backendAdapter() {
       switch (this.format) {
+        case 'xmp':
+          return XMPBackendAdapter;
         case 'sndh':
         case 'sc68':
           return SC68BackendAdapter;
@@ -63,6 +71,22 @@ export default {
     },
     musics() {
       return collections[this.format]
+    },
+    musicPath() {
+      switch (this.format) {
+        case 'xmp':
+          return 'http://modland.com/pub/modules/' + this.tracker + '/' + this.playerComposer + '/' + this.playerSong;
+          break;
+        case 'sndh':
+          return 'musics/sndh/' + this.playerComposer + '/' + this.playerSong;
+          break;
+        case 'sc68':
+          return 'musics/sc68/' + this.playerComposer + '/' + this.playerSong;
+          break;
+        case 'ym':
+          return 'musics/ym/' + this.playerComposer + '/' + this.playerSong;
+          break;
+      }
     },
     composers(){
       return Object.keys(this.musics)
@@ -103,6 +127,7 @@ export default {
         case 'ym':
           this.player = libymWrapper
           break;
+        case 'xmp':
         case 'sndh':
         case 'sc68':
           const backendAdapter = this.backendAdapter;
@@ -157,9 +182,9 @@ export default {
 
 
           var self = this;
-          var path = 'musics/' + this.format + '/' + this.playerComposer + '/' + this.playerSong;
+
           this.player.loadMusicFromURL(
-            path,
+            this.musicPath,
             {
               track: this.playerTrack
             },

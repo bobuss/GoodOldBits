@@ -111,7 +111,7 @@ export default {
             <input type="range" min="0" max="1" value="1" step="0.1" @change="changeVolume($event.target.value)">
           </div>
         </a>
-        <span class="current-track__track-control">
+        <span v-if="songInfo.numberOfTracks" class="current-track__track-control">
           <a @click.prevent="previousTrack()">
             <i class="material-icons">navigate_before</i>
           </a>
