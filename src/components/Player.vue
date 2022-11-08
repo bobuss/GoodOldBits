@@ -43,7 +43,7 @@ export default {
   },
   methods: {
     play() {
-      this.$emit('playSong', this.composer, this.song, this.track)
+      this.$emit('playSong', this.composer + '/' + this.song, this.playerTrack, true)
     },
     pause() {
       this.$emit('pauseSong')

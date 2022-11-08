@@ -59,7 +59,6 @@ export default {
       this.$emit('playSong', path)
     },
     pause() {
-      console.log('pause')
       this.$emit('pauseSong')
     },
     removeFromPlaylist(path) {
@@ -128,7 +127,6 @@ export default {
                         <span class="title">{{ s.title.replaceAll('_', ' ').replace(`.${format}`, '') }}</span>
                         <a class="composer" @click.prevent="onSelectComposer(s.composer)">{{ s.composer.replaceAll('_', ' ') }}</a>
                       </div>
-
                       <div class="track__added">
                         <a @click.prevent="removeFromPlaylist(s.path)">
                           <i class="material-icons">remove</i>

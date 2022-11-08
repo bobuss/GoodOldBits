@@ -7,6 +7,7 @@ import Composer from './components/Composer.vue'
 import Player from './components/Player.vue'
 import Playlist from './components/Playlist.vue'
 import libymWrapper from './libymWrapper'
+import cowbellWrapper from './cowbellWrapper'
 
 import sndh from './json/sndh.json';
 collections['sndh'] = sndh
@@ -19,8 +20,6 @@ collections['sc68'] = sc68
 
 import xmp from './json/xmp.json';
 collections['xmp'] = xmp
-
-
 
 
 function doOnTrackEnd() {
@@ -131,8 +130,6 @@ export default {
         case 'ym':
           this.player = libymWrapper
           break;
-        case 'xmp':
-        case 'sndh':
         case 'sc68':
           const backendAdapter = this.backendAdapter;
           ScriptNodePlayer.createInstance(
@@ -146,6 +143,10 @@ export default {
             doOnUpdate                 // doOnUpdate
           );
           this.player = ScriptNodePlayer.getInstance()
+          break;
+        case 'xmp':
+        case 'sndh':
+          this.player = cowbellWrapper
           break;
       }
 
@@ -352,3 +353,6 @@ export default {
 </template>
 
 
+<style lang="scss">
+@import '@/assets/global.scss'
+</style>
