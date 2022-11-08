@@ -323,6 +323,8 @@ export default {
                 :playing="playing"
                 @playSong="play"
                 @pauseSong="pause"
+                @onRemoveFromPlaylist="onRemoveFromPlaylist"
+                @onSelectComposer="onSelectComposer"
                 v-bind:style="{ height: this.artistHeight + 'px', display: this.playlistMode ? 'block' : 'none'  }"/>
 
 

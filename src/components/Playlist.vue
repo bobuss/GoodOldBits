@@ -64,6 +64,9 @@ export default {
     },
     removeFromPlaylist(path) {
       this.$emit('onRemoveFromPlaylist', path)
+    },
+    onSelectComposer (composer) {
+      this.$emit('onSelectComposer', composer)
     }
   }
 }
@@ -123,7 +126,7 @@ export default {
 
                       <div :class="{ playing__song: s.path == playerPath }" class="track__title">
                         <span class="title">{{ s.title.replaceAll('_', ' ').replace(`.${format}`, '') }}</span>
-                        <span class="composer">{{ s.composer.replaceAll('_', ' ') }}</span>
+                        <a class="composer" @click.prevent="onSelectComposer(s.composer)">{{ s.composer.replaceAll('_', ' ') }}</a>
                       </div>
 
                       <div class="track__added">
