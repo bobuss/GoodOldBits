@@ -21,22 +21,11 @@
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
-
-  // overflow: hidden;
-  // position: relative;
-   flex: 1;
+  flex: 1;
   width: 100%;
   height: var( --height, 100vh );
-  // background-color: $colorDocumentDark;
+  min-width: 320px;
 
-  @media #{$screenMedium} {
-    //margin: 0 ( $padSpace * 2 );
-    // max-width: 1080px;
-    //height: calc( var( --height, 100vh ) - ( #{$padSpace} * 4 ) );
-    //max-height: 700px;
-    border-radius: $lineJoin;
-    box-shadow: $shadowContainer;
-  }
 }
 
 .player-layout {
@@ -260,13 +249,13 @@ body {
 
     &__left {
       width: 100%;
-      height: 50%;
+      height: 25%;
     }
 
     &__middle {
       position: relative;
       width: 100%;
-      height: 50%;
+      height: 75%;
     }
 
   }
@@ -361,7 +350,8 @@ body {
 
     &__list {
       margin-bottom: 0;
-      width: calc( 100% / 3 );
+      //width: calc( 100% / 3 );
+      width: 100%;
       text-align: center;
 
       &__item {
@@ -472,21 +462,17 @@ body {
 .current-track {
 
   & {
-    //position: fixed;
-    //bottom: 0;
-    //width: 100%;
 
     background: $light-black;
     border-top: solid 1px $light-black;
     padding: $padding-xs $padding;
 
     display: flex;
-    flex-flow: row wrap;
+    //flex-flow: row wrap;
     align-items: center;
 
     flex-direction: row;
     height: $margin-xxl;
-    min-width: 620px;
     justify-content: space-between;
   }
 
@@ -803,6 +789,11 @@ body {
       flex-flow: row wrap;
       justify-content: space-between;
       align-items: flex-end;
+
+      @media (max-width: 768px) {
+        border: solid 1px red;
+        height: 45px;
+      }
     }
 
     .artist__info {
@@ -834,6 +825,10 @@ body {
         font-size: $xx-large;
         font-weight: 100;
         padding: 0 0 $padding-sm 0;
+
+        @media (max-width: 768px) {
+          font-size: $x-large;
+        }
       }
 
       &__actions {
@@ -1033,46 +1028,7 @@ body {
 
 }
 
-  @media (max-width: 522px) {
 
-    .artist {
-
-      &__header {
-        height: auto;
-
-        flex-flow: column wrap;
-
-        .artist__info {
-
-          & {
-            margin-top: 0;
-            width: 100%;
-
-            display: flex;
-            flex-flow: column wrap;
-            align-items: center;
-            text-align: center;
-          }
-
-          .profile__img {
-            margin-right: 0;
-          }
-
-          &__type {
-            margin-top: $margin-sm;
-          }
-
-        }
-
-        .artist__listeners {
-          width: 100%;
-          text-align: center;
-        }
-      }
-
-    }
-
-  }
 
 .tracks {
 
@@ -1200,42 +1156,6 @@ body {
 
 }
 
-  @media (max-width: 1200px) {
-
-    .tracks {
-
-      &__heading {
-
-        &__title {
-          width: auto;
-        }
-
-        &__popularity {
-          display: none;
-        }
-
-      }
-
-      .track {
-
-        &__title {
-          width: auto !important;
-        }
-
-        &__explicit {
-          display: none;
-        }
-
-        &__popularity {
-          display: none;
-        }
-
-      }
-
-    }
-
-  }
-
 .related-artists {
 
   & {
@@ -1338,6 +1258,10 @@ body {
     width: 100%;
     margin-top: $margin-lg;
 
+    @media (max-width: 768px) {
+      margin-top: $margin-xs;
+    }
+
     &__head {
 
       & {
@@ -1394,24 +1318,6 @@ body {
 
 }
 
-  @media (max-width: 1200px) {
-
-  .album {
-
-    .tracks {
-
-      .track {
-
-        height: auto;
-        padding: $padding-sm 0;
-
-      }
-
-    }
-
-  }
-
-}
 
 .social {
 

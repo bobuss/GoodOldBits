@@ -15,12 +15,20 @@ var sndhPlayer = new Cowbell.Player.PSGPlay({
   'pathToLibPSGPlay': 'cowbell/libpsgplay.js'
 });
 
-var track;
+var currentTrack;
 var audioElement;
 
 function loadMusicFromURL(url, options, onCompletion, onFail, onProgress) {
-  track = new modPlayer.Track(url);
-  audioElement = track.open();
+  var track = new modPlayer.Track(url);
+  if (audioElement && !audioElement.paused) {
+    audioElement.pause();
+  }
+  if (currentTrack && currentTrack.close) {
+    currentTrack.close();
+  }
+  currentTrack = track;
+  audioElement = null;
+  audioElement = currentTrack.open();
   audioElement.play()
 }
 

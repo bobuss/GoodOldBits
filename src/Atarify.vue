@@ -14,8 +14,8 @@ collections['ym'] = ym
 import sc68 from './json/sc68.json';
 collections['sc68'] = sc68
 
-import xmp from './json/xmp.json';
-collections['xmp'] = xmp
+// import xmp from './json/xmp.json';
+// collections['xmp'] = xmp
 
 
 export default {
@@ -29,7 +29,7 @@ export default {
       playerComposer: null,
       playerSong: null,
       playerTrack: 0,
-      tracker: 'Fasttracker 2',
+      tracker: 'Protracker',
       songInfo: { numberOfTracks: 1 },
       search: '',
       playing: false,
@@ -160,7 +160,7 @@ export default {
             new this.backendAdapter(),    // backendAdapter
             '',                           // basePath, not needed here
             [],                           // requiredFiles
-            true,                         // enableSpectrum
+            false,                        // enableSpectrum
             function() {},                // onPlayerReady
             function() {},                // onTrackReadyToPlay
             function() {                  // onTrackEnd
