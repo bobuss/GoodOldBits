@@ -398,27 +398,10 @@ body {
   height: 100%;
   border-radius: $lineJoin;
   //background-color: rgba( $colorOverlay, 0 );
+  background-color: $black;
   pointer-events: none;
-  z-index: 1;
+  z-index: -1;
 
-
-  .playlist-sidebar {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    justify-content: stretch;
-    position: absolute;
-    top: 0;
-    left: 100%;
-    width: 100vw;
-    min-height: 100%;
-    max-height: 100%;
-    background-color: $black; //lighten( $colorDocumentDark, 2% );
-
-    @media #{$screenSmall} {
-      width: 620px;
-    }
-  }
 
   &.active {
     pointer-events: auto;
@@ -427,17 +410,8 @@ body {
 
   // slide out
   &.visible {
-    background-color: $colorOverlay;
-
-    .playlist-sidebar {
-      transform: translate3d( 0, 0, 0 );
-      transform: translateX( -100vw );
-
-      @media #{$screenSmall} {
-        transform: translateX( -620px );
-        box-shadow: $shadowOverlay;
-      }
-    }
+    background-color: $black;
+    z-index: 1;
   }
 }
 
@@ -641,6 +615,7 @@ body {
 
         &:hover {
           text-decoration: none;
+          cursor: pointer;
         }
 
         i {
@@ -809,6 +784,7 @@ body {
   width: 100%;
   overflow: hidden;
   overflow-y: scroll;
+  background-color: $black;
 
   &__header {
 
@@ -1197,6 +1173,9 @@ body {
     }
 
     &__selected {
+
+      background-color: $transparent;
+
       &:hover {
         background-color: $transparent;
         text-decoration: none;

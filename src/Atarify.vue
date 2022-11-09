@@ -18,24 +18,6 @@ import xmp from './json/xmp.json';
 collections['xmp'] = xmp
 
 
-function doOnTrackEnd() {
-  // strange hack here, but it works: repeat current track
-  console.log('doOnTrackEnd')
-  console.log(app)
-  app.play(app.playerPath, app.playerTrack++);
-}
-function doOnTrackReadyToPlay() {
-  //ScriptNodePlayer.getInstance().play();
-  //songDisplay.redrawSongInfo();
-}
-function doOnPlayerReady() {
-  //if (playerControls) playerControls.playNextSong();
-}
-function doOnUpdate() { } // unused
-
-
-
-
 export default {
   name: 'Atarify',
   data() {
@@ -52,15 +34,14 @@ export default {
       search: '',
       playing: false,
       playlist: [],
-      playlistMode: false,
       hover: null,
       selectedSong: null,
-      // sidebar toggles
       sbActive: false,
       sbVisible: false,
     }
   },
   computed: {
+
     facetedComposers() {
       const search = this.search.replaceAll(' ', '_').toLowerCase();
 
@@ -77,11 +58,13 @@ export default {
 
       return groupByComposer
     },
+
     filteredSongs() {
       return this.flatComposerSongs.filter(song => {
         return song.toLowerCase().includes(this.search.replaceAll(' ', '_').toLowerCase());
       }).map(song => song.substring(this.selectedComposer.length + 1) )
     },
+
     backendAdapter() {
       switch (this.format) {
         case 'xmp':
@@ -92,12 +75,15 @@ export default {
           break;
       }
     },
+
     musics() {
       return collections[this.format]
     },
+
     playerPath() {
       return this.playerComposer + '/' + this.playerSong
     },
+
     musicPath() {
       switch (this.format) {
         case 'xmp':
@@ -114,18 +100,18 @@ export default {
           break;
       }
     },
-    composers() {
-      return Object.keys(this.musics)
-    },
+
     flatComposerSongs() {
       const composerSongs = this.musics[this.selectedComposer] || [];
       return composerSongs.map(song => this.selectedComposer + '/' + song)
     },
+
     flatSongs() {
       return Object.keys(this.musics).reduce((acc, key) => {
         return acc.concat(this.musics[key].map(music => `${key}/${music}`))
       }, []);
     },
+
     listOfSongs() {
       return this.playlist.map(function (path) {
         var arr = path.split('/')
@@ -135,8 +121,10 @@ export default {
           'title': arr.slice(1).join('/')
         }
       })
-    },
+    }
+
   },
+
   updated(){
     this.initDisplay();
   },
@@ -146,14 +134,18 @@ export default {
     this.updateHeight();
     this.initDisplay();
   },
+
   created() {
     this.createPlayerInstance();
   },
+
   beforeDestroy() {
     this.player.pause();
     this.player = null;
   },
+
   methods: {
+
     createPlayerInstance() {
 
       switch (this.format) {
@@ -162,15 +154,21 @@ export default {
           break;
         case 'sc68':
           const backendAdapter = this.backendAdapter;
+          let self = this;
+
           ScriptNodePlayer.createInstance(
-            new this.backendAdapter(), // backendAdapter
-            '',                        // basePath, not needed here
-            [],                        // requiredFiles
-            true,                      // enableSpectrum
-            doOnPlayerReady,           // onPlayerReady
-            doOnTrackReadyToPlay,      // onTrackReadyToPlay
-            doOnTrackEnd,              // onTrackEnd
-            doOnUpdate                 // doOnUpdate
+            new this.backendAdapter(),    // backendAdapter
+            '',                           // basePath, not needed here
+            [],                           // requiredFiles
+            true,                         // enableSpectrum
+            function() {},                // onPlayerReady
+            function() {},                // onTrackReadyToPlay
+            function() {                  // onTrackEnd
+              // strange hack here, but it works: repeat current track
+              console.log('doOnTrackEnd')
+              self.play(self.playerPath, self.playerTrack++);
+            },
+            function() {}                 // doOnUpdate
           );
           this.player = ScriptNodePlayer.getInstance()
           break;
@@ -181,10 +179,12 @@ export default {
       }
 
     },
+
     onSelectComposer(composer) {
-      this.playlistMode = false;
+      this.togglePlaylist(false)
       this.selectedComposer = composer
     },
+
     play: function (composer_song, track = 0, clearPlaylist = false) {
       var arr = composer_song.split('/')
       var composer = arr[0]
@@ -227,29 +227,36 @@ export default {
         this.playing = true
       }
     },
+
     pause: function () {
       this.player.pause();
       this.playing = false
     },
+
     changeVolume: function (value) {
       this.player.setVolume(value);
     },
+
     isSongInPlaylist(song) {
       return this.playlist.indexOf(this.selectedComposer + '/' + song) > -1
     },
+
     onSelectSong(song) {
       this.selectedSong = song
+      console.log(song)
     },
+
     nextSong: function () {
       if (this.playerSong) {
         console.log(this.playerSong)
         let index = this.playlist.indexOf(this.playerPath);
         console.log(index);
-        if (index != -1 && index < this.playlist.length) {
+        if ( index != -1 && index < this.playlist.length ) {
           this.play(this.playlist[++index]);
         }
       }
     },
+
     previousSong: function () {
       if (this.playerSong) {
         let index = this.playlist.indexOf(this.playerPath);
@@ -258,19 +265,23 @@ export default {
         }
       }
     },
+
     nextTrack: function () {
       if (this.songInfo.numberOfTracks > 1) {
         this.play(this.playerPath, this.playerTrack + 1);
       }
     },
+
     previousTrack: function () {
       if (this.playerTrack > 0) {
         this.play(this.playerPath, this.playerTrack - 1);
       }
     },
+
     clearSearch() {
       this.search = '';
     },
+
     addToPlaylist(song) {
       this.playlist.push(song)
       // if it was the 1st element, then load the player,
@@ -282,23 +293,24 @@ export default {
         this.playerTrack = -1
       }
     },
+
     removeFromPlaylist(song) {
       const index = this.playlist.indexOf(song);
       if (index > -1) {
         this.playlist.splice(index, 1);
       }
     },
-    switchPlaylistView() {
-      this.playlistMode = !this.playlistMode
-    },
+
     setCssHeight(elm, height) {
       elm.style.setProperty('--height', `${height}px`);
     },
+
     setupEvents() {
       document.addEventListener( 'visibilitychange', e => { this.visible = ( document.visibilityState === 'visible' ) } );
       //window.addEventListener( 'hashchange', e => this.applyRoute( window.location.hash ) );
       //window.addEventListener( 'keydown', this.onKeyboard );
     },
+
     applyRoute( route, sidebar = false ) {
       const data   = String( route || '' ).replace( /^[\#\/]+|[\/]+$/g, '' ).trim().split( '/' );
       const action = data.length ? data.shift() : '';
@@ -314,15 +326,15 @@ export default {
       // // nothing to do, reset player
       // this.closeAudio();
       // this.resetPlayer();
-      // this.toggleSidebar( sidebar );
+      // this.togglePlaylist( sidebar );
     },
 
     // on keyboard events
     onKeyboard( e ) {
       const k = e.key || '';
       // if ( k === ' ' && this.channel.id ) return this.togglePlay();
-      // if ( k === 'Enter' ) return this.toggleSidebar( true );
-      // if ( k === 'Escape' ) return this.toggleSidebar( false );
+      // if ( k === 'Enter' ) return this.togglePlaylist( true );
+      // if ( k === 'Escape' ) return this.togglePlaylist( false );
     },
 
     updateHeight() {
@@ -337,11 +349,12 @@ export default {
         this.init = true;
       }, 100);
     },
-    toggleSidebar()  {
-      const currentstate = !this.sbActive;
+
+    togglePlaylist( state )  {
+      const currentstate = typeof state == 'boolean' ? state : !this.sbActive;
       if ( currentstate ) {
-        this.sbActive = true; // bring to front
-        this.sbVisible = true; // show drawer
+        this.sbActive = true;
+        this.sbVisible = true;
       } else {
         this.sbVisible = false;
         setTimeout( () => { this.sbActive = false; }, 500 );
@@ -428,16 +441,23 @@ export default {
 
                           <div v-if="s != selectedSong" class="track__number">
                             <span v-if="hover == s">
-                              <a @click.prevent="play(selectedComposer + '/' + s, playerTrack, true)">
+
+                              <a v-if="playing && (s == playerSong)" @click.prevent="pause()">
+                                <i class="material-icons">pause_arrow</i>
+                              </a>
+
+                              <a v-else @click.prevent="play(selectedComposer + '/' + s, playerTrack, true)">
                                 <i class="material-icons">play_arrow</i>
                               </a>
+
                             </span>
+
                             <span v-else>{{ index + 1 }}</span>
+
                           </div>
                           <div v-else class="track__number">
 
-                            <a v-if="playing && (selectedSong == playerSong)" class="ion-ios-pause"
-                              @click.prevent="pause()">
+                            <a v-if="playing && (s == playerSong)" class="ion-ios-pause" @click.prevent="pause()">
                               <i class="material-icons">pause</i>
                             </a>
                             <a v-else @click.prevent="play(selectedComposer + '/' + s, playerTrack, true)">
@@ -449,10 +469,10 @@ export default {
 
                           <div class="track__added">
                             <a v-if="isSongInPlaylist(s)" @click.prevent="removeFromPlaylist(selectedComposer + '/' + s)">
-                              <i class="material-icons">remove</i>
+                              <i class="material-icons">playlist_remove</i>
                             </a>
                             <a v-else @click.prevent="addToPlaylist(selectedComposer + '/' + s)">
-                              <i class="material-icons">add</i>
+                              <i class="material-icons">playlist_add</i>
                             </a>
                           </div>
 
@@ -469,7 +489,7 @@ export default {
           <!-- PLAYLIST -->
           <div class="playlist" :class="{ 'active': sbActive, 'visible': sbVisible }">
 
-            <aside class="playlist-sidebar artist__content">
+            <aside class="artist__content">
 
               <div class="overview">
 
@@ -500,16 +520,21 @@ export default {
 
                             <div v-if="s.path != selectedSong" class="track__number">
                               <span v-if="hover == s.path">
-                                <a @click.prevent="play(s.path)">
+
+                                <a v-if="playing && (s.path == playerPath)" @click.prevent="pause()">
+                                  <i class="material-icons">pause_arrow</i>
+                                </a>
+                                <a v-else @click.prevent="play(s.path)">
                                   <i class="material-icons">play_arrow</i>
                                 </a>
+
                               </span>
+
                               <span v-else>{{ index + 1 }}</span>
+
                             </div>
                             <div v-else class="track__number">
-
-                              <a v-if="playing && (selectedSong == playerPath)" class="ion-ios-pause"
-                                @click.prevent="pause()">
+                              <a v-if="playing && (s.path == playerPath)" class="ion-ios-pause" @click.prevent="pause()">
                                 <i class="material-icons">pause</i>
                               </a>
                               <a v-else @click.prevent="play(s.path)">
@@ -526,7 +551,7 @@ export default {
                             </div>
                             <div class="track__added">
                               <a @click.prevent="removeFromPlaylist(s.path)">
-                                <i class="material-icons">remove</i>
+                                <i class="material-icons">playlist_remove</i>
                               </a>
                             </div>
 
@@ -587,12 +612,11 @@ export default {
             </a>
           </div>
 
-
         </div>
 
         <div class="current-track__options">
           <span class="controls">
-            <a class="control" @click.prevent="toggleSidebar()">
+            <a class="control" @click.prevent="togglePlaylist()">
               <i class="material-icons" :class="{ playlist_mode: sbVisible }">queue_music</i>
             </a>
             <a class="control volume">
