@@ -1,0 +1,103 @@
+// Colors
+
+$green: rgb(30, 215, 96);
+$light-black: rgb(40, 40, 40);
+$black: rgb(24, 24, 24);
+$grey: rgb(170, 170, 170);
+$sand: rgb(200, 200, 200);
+$white: rgb(255, 255, 255);
+$transparent: hsla(0,0%,100%,.3);
+$transparent-light: hsla(0,0%,100%,.1);
+$blue: #4688d7;
+
+// document colors
+$colorDocument: #8086a0;
+$colorDocumentDark: #1e1f30;
+$colorDocumentDarker: darken( $colorDocumentDark, 10% );
+$colorDocumentLight: #a0a6b0;
+$colorDocumentText: desaturate( lighten( $colorDocumentDark, 40% ), 5% );
+
+// common colors
+$colorPrimary: crimson;
+$colorPrimaryText: lighten( $colorPrimary, 40% );
+$colorSecondary: cornflowerblue;
+$colorSecondaryText: darken( $colorSecondary, 40% );
+$colorDefault: lightslategray;
+$colorDefaultText: darken( $colorDefault, 40% );
+$colorGrey: slategray;
+$colorGreyText: darken( $colorGrey, 40% );
+$colorBright: whitesmoke;
+$colorBrightText: darken( $colorBright, 40% );
+$colorOverlay: rgba( black, 0.4 );
+$colorCard: rgba( black, 0.2 );
+
+// Spacing
+$padSpace: 1em;
+$padSmall: calc($padSpace / 2);
+$headerHeight: 3.6em;
+
+$padding-xs  : 5px;
+$padding-sm  : 10px;
+$padding     : 15px;
+$padding-lg  : 30px;
+$padding-xl  : 60px;
+
+$margin-xs  : 5px;
+$margin-sm  : 10px;
+$margin     : 15px;
+$margin-lg  : 30px;
+$margin-xl  : 60px;
+$margin-xxl : 90px;
+
+// borders and lines
+
+$border-radius: 15px;
+$lineWidth: 2px;
+$lineStyle: solid;
+$lineColor: rgba( black, 0.08 );
+$lineJoin: 6px;
+
+// Font-sizes
+
+$x-small: 11px;
+$small: 14px;
+$medium: 16px;
+$large: 20px;
+$x-large: 24px;
+$xx-large: 36px;
+$xxx-large: 52px;
+
+// base font options
+$fontFamily: 'Assistant', sans-serif;
+$fontSize: 16px;
+$fontSpace: 1.4em;
+$fontWeight: 400;
+
+// focus effects
+$focusText: 0 0 12px rgba( darkorange, .5 );
+$focusBox: 0 0 12px rgba( darkorange, .5 );
+
+// shadow styles
+$shadowContainer: 0 1px 30px rgba( black, 0.8 );
+$shadowOverlay: 0 1px 20px rgba( black, 0.6 );
+$shadowPaper: 0 1px 3px rgba( black, 0.5 );
+
+
+// transition props
+$fxSpeed: 400ms;
+$fxEase: cubic-bezier( 0.215, 0.610, 0.355, 1.000 );
+$fxSpeedOffset: calc( #{$fxSpeed} / 3 );
+$fxSlideDist: 50px;
+$fxShrinkScale: .4;
+$fxGrowScale: 1.4;
+$fxRotateAmount: 8deg;
+
+// screen sizes
+$sizeSmall: 480px;
+$sizeMedium: 820px;
+$sizeLarge: 1200px;
+
+// screen breakpoints
+$screenSmall: "only screen and (min-width: #{$sizeSmall})";
+$screenMedium: "only screen and (min-width: #{$sizeMedium})";
+$screenLarge: "only screen and (min-width: #{$sizeLarge})";

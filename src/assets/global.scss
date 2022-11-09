@@ -1,44 +1,76 @@
-// Colors
 
-$green: rgb(30, 215, 96);
-$light-black: rgb(40, 40, 40);
-$black: rgb(24, 24, 24);
-$grey: rgb(170, 170, 170);
-$sand: rgb(200, 200, 200);
-$white: rgb(255, 255, 255);
-$transparent: hsla(0,0%,100%,.3);
-$transparent-light: hsla(0,0%,100%,.1);
-$blue: #4688d7;
 
-// Spacing
+@import './variables';
+@import './reset';
+@import './document';
 
-$padding-xs  : 5px;
-$padding-sm  : 10px;
-$padding     : 15px;
-$padding-lg  : 30px;
-$padding-xl  : 60px;
+// app root
+.app-wrap {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+  width: 100%;
+  //height: 100vh;
+  max-height: var( --height, 100vh );
+}
 
-$margin-xs  : 5px;
-$margin-sm  : 10px;
-$margin     : 15px;
-$margin-lg  : 30px;
-$margin-xl  : 60px;
-$margin-xxl : 90px;
+// player container
+.player-wrap {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
 
-// Borders
+  // overflow: hidden;
+  // position: relative;
+   flex: 1;
+  width: 100%;
+  height: var( --height, 100vh );
+  // background-color: $colorDocumentDark;
 
-$border-radius: 15px;
+  @media #{$screenMedium} {
+    //margin: 0 ( $padSpace * 2 );
+    // max-width: 1080px;
+    //height: calc( var( --height, 100vh ) - ( #{$padSpace} * 4 ) );
+    //max-height: 700px;
+    border-radius: $lineJoin;
+    box-shadow: $shadowContainer;
+  }
+}
 
-// Font-sizes
+.player-layout {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: stretch;
+  height: 100%;
+  position: relative;
+  z-index: 3;
 
-$x-small: 11px;
-$small: 14px;
-$medium: 16px;
-$large: 20px;
-$x-large: 24px;
-$xx-large: 36px;
-$xxx-large: 52px;
+  .header,
+  .content,
+  .current-track {
+    position: relative;
+  }
 
+  .content {
+    flex: 1;
+    height: 100%;
+    overflow: hidden;
+    overflow-y: auto;
+    & > section {
+      margin: auto 0; // prevent vertical aligned flex item from overflowing
+    }
+
+  }
+
+}
+
+input[type="range"] {
+  display: block;
+  width: 100%;
+}
 
 
 // ===== Styles ==== //
@@ -49,6 +81,7 @@ body {
 
   a {
     color: $grey;
+    text-decoration: none;
 
     &:hover {
       color: $sand;
@@ -185,77 +218,6 @@ body {
       }
     }
 
-    &__notifications {}
-
-    &__inbox {}
-
-    &__info {
-
-      img {
-
-        max-width: 30px;
-        max-height: 30px;
-        border-radius: 50%;
-        display: inline-block;
-
-      }
-
-    }
-
-    &__actions {
-
-      button {
-        background: none;
-        border: none;
-      }
-
-      .dropdown-menu {
-        background: $light-black;
-        margin-top: 25px;
-        border-radius: 2px;
-        padding: 0;
-        border: none;
-
-        &:before {
-          font-family: "Ionicons";
-          content: "\f365";
-          position: absolute;
-          top: -30px;
-          right: 7px;
-          color: $light-black;
-          font-size: $xx-large;
-        }
-
-        a {
-          color: $grey;
-          transition: all 0.2s ease;
-
-          &:hover {
-            background: none;
-            transition: all 0.2s ease;
-          }
-        }
-
-        li {
-          padding: $padding-sm;
-          margin: 0;
-          transition: all 0.2s ease;
-
-          &:hover {
-            background: $grey;
-            transition: all 0.2s ease;
-
-            a {
-              color: $sand;
-              transition: all 0.2s ease;
-            }
-          }
-        }
-
-      }
-
-    }
-
   }
 
 }
@@ -265,24 +227,31 @@ body {
   & {
     display: flex;
     flex-flow: row wrap;
+    height: 100%;
   }
 
   &__left {
     width: 20%;
+    height: 100%;
   }
 
   &__middle {
+    position: relative;
     width: 80%;
+    height: 100%;
   }
 
   @media (max-width: 1400px) {
 
     &__left {
       width: 20%;
+      height: 100%;
     }
 
     &__middle {
+      position: relative;
       width: 80%;
+      height: 100%;
     }
 
   }
@@ -291,10 +260,13 @@ body {
 
     &__left {
       width: 100%;
+      height: 50%;
     }
 
     &__middle {
+      position: relative;
       width: 100%;
+      height: 50%;
     }
 
   }
@@ -313,6 +285,8 @@ body {
     padding: $padding;
     background: $black;
     color: $grey;
+    height: 100%;
+    overflow: hidden;
     overflow-y: scroll;
   }
 
@@ -377,36 +351,34 @@ body {
 
 }
 
-  @media (max-width: 768px) {
+@media (max-width: 768px) {
 
-    .navigation {
+  .navigation {
 
-      display: flex;
-      flex-flow: row wrap;
-      justify-content: space-around;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
 
-      &__list {
-        margin-bottom: 0;
-        width: calc( 100% / 3 );
+    &__list {
+      margin-bottom: 0;
+      width: calc( 100% / 3 );
+      text-align: center;
+
+      &__item {
+
+        width: 100%;
         text-align: center;
 
-        &__item {
+        i {
+          display: none;
+        }
 
-          width: 100%;
-          text-align: center;
+        span {
+          margin: 0 auto;
+        }
 
-          i {
-            display: none;
-          }
-
-          span {
-            margin: 0 auto;
-          }
-
-          &:hover {
-            border: none;
-          }
-
+        &:hover {
+          border: none;
         }
 
       }
@@ -414,53 +386,59 @@ body {
     }
 
   }
-
-.playlist {
-
-  & {
-    padding: $padding;
-    background: $light-black;
-    border-top: 1px solid $black;
-    border-bottom: 1px solid $black;
-  }
-
-  &:hover {
-    background: lighten( $light-black, 10% );
-
-    a {
-      color: $white;
-    }
-  }
-
-  a {
-    color: $grey;
-
-    display: flex;
-    flex-flow: row nowrap;
-    align-items: center;
-
-    &:hover {
-      text-decoration: none;
-    }
-
-    i {
-      font-size: $x-large;
-      color: $white;
-      margin-right: $margin;
-    }
-
-  }
-
 }
 
-  @media (max-width: 768px) {
 
-  .playlist {
+.playlist {
+  position: absolute;
+  overflow: hidden;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: $lineJoin;
+  //background-color: rgba( $colorOverlay, 0 );
+  pointer-events: none;
+  z-index: 1;
 
-    display: none;
 
+  .playlist-sidebar {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: stretch;
+    position: absolute;
+    top: 0;
+    left: 100%;
+    width: 100vw;
+    min-height: 100%;
+    max-height: 100%;
+    background-color: $black; //lighten( $colorDocumentDark, 2% );
+
+    @media #{$screenSmall} {
+      width: 620px;
+    }
   }
 
+  &.active {
+    pointer-events: auto;
+    //z-index: 1000;
+  }
+
+  // slide out
+  &.visible {
+    background-color: $colorOverlay;
+
+    .playlist-sidebar {
+      transform: translate3d( 0, 0, 0 );
+      transform: translateX( -100vw );
+
+      @media #{$screenSmall} {
+        transform: translateX( -620px );
+        box-shadow: $shadowOverlay;
+      }
+    }
+  }
 }
 
 .playing {
@@ -824,7 +802,12 @@ body {
 
 .artist {
 
-  height: 617px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
   overflow-y: scroll;
 
   &__header {
@@ -868,13 +851,6 @@ body {
           height: 150px;
           border-radius: 50%;
         }
-      }
-
-      &__type {
-        color: $grey;
-        text-transform: uppercase;
-        font-size: 11px;
-        letter-spacing: 1px;
       }
 
       &__name {
@@ -1024,33 +1000,9 @@ body {
 
   }
 
-  &.is-verified {
-
-    .profile__img {
-
-      position: relative;
-
-      &:after {
-        font-family: "Ionicons";
-        content: "\f3fd";
-        position: absolute;
-        bottom: 5px;
-        right: 25px;
-        color: $white;
-        background: $blue;
-        width: 20px;
-        height: 20px;
-        border-radius: 50%;
-        text-align: center;
-        font-size: 18px;
-        line-height: 1;
-      }
-
-    }
-
-  }
-
   &__content {
+
+    height: 100%;
 
     & {
       padding: $padding;
@@ -1064,50 +1016,6 @@ body {
 
       display: flex;
       flex-flow: row wrap;
-
-      &__artist {
-
-        padding-right: $padding;
-        width: 70%;
-
-        .latest-release {
-          margin-bottom: $margin-lg;
-
-          display: flex;
-          flex-flow: row wrap;
-
-          &__art {
-
-            width: 75px;
-
-            img {
-              width: 75px;
-              height: 75px;
-            }
-
-          }
-
-          &__song {
-
-            width: calc( 100% - 75px );
-
-            padding: $padding-sm $padding;
-            background: $light-black;
-            color: $grey;
-
-            display: flex;
-            flex-flow: column wrap;
-            justify-content: space-between;
-
-            &__title {
-              color: $sand;
-            }
-
-          }
-
-        }
-
-      }
 
       &__related {
         width: 30%;
@@ -1143,6 +1051,7 @@ body {
   @media (max-width: 768px) {
 
   .artist {
+    height: 100%;
     overflow-y: auto;
   }
 
@@ -1192,6 +1101,7 @@ body {
 .tracks {
 
   & {
+    height: 100%;
     display: flex;
     flex-flow: column wrap;
     margin-bottom: $margin;
@@ -1494,74 +1404,6 @@ body {
 }
 
 .album {
-
-  &__info {
-
-    & {
-      margin-bottom: $margin;
-
-      display: flex;
-      flex-flow: row wrap;
-    }
-
-    &__art {
-
-      img {
-        width: 135px;
-        height: 135px;
-      }
-
-    }
-
-    &__meta {
-
-      & {
-        width: calc( 100% - 150px);
-        margin-left: $margin;
-
-        display: flex;
-        flex-flow: column wrap;
-      }
-
-      .album__year {
-        color: $grey;
-        letter-spacing: 1px;
-      }
-
-      .album__name {
-        color: $white;
-        font-size: calc($xx-large / 1.2);
-        font-weight: 100;
-      }
-
-      .album__actions {
-        margin-top: auto;
-
-        .save {
-
-          padding-left: $padding-lg;
-          padding-right: $padding-lg;
-          margin-right: $margin-sm;
-
-          &:hover {
-            border-color: $green;
-          }
-
-        }
-
-        .more {
-          width: 27px;
-          height: 27px;
-          border-radius: 50%;
-          padding: 0;
-          text-align: center;
-        }
-
-      }
-
-    }
-
-  }
 
   .track {
 
