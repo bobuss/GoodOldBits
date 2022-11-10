@@ -23,7 +23,7 @@ export default {
   data() {
     return {
       init: false,
-      format: 'sc68',
+      format: 'sndh',
       selectedComposer: '',
       player: null,
       playerComposer: null,
@@ -153,6 +153,7 @@ export default {
           this.player = libymWrapper
           break;
         case 'sc68':
+        case 'sndh':
           const backendAdapter = this.backendAdapter;
           let self = this;
 
@@ -173,7 +174,6 @@ export default {
           this.player = ScriptNodePlayer.getInstance()
           break;
         case 'xmp':
-        case 'sndh':
           this.player = cowbellWrapper
           break;
       }
@@ -243,14 +243,11 @@ export default {
 
     onSelectSong(song) {
       this.selectedSong = song
-      console.log(song)
     },
 
     nextSong: function () {
       if (this.playerSong) {
-        console.log(this.playerSong)
         let index = this.playlist.indexOf(this.playerPath);
-        console.log(index);
         if ( index != -1 && index < this.playlist.length ) {
           this.play(this.playlist[++index]);
         }
@@ -415,7 +412,7 @@ export default {
 
             <div class="artist__content">
 
-              [<div class="overview">
+              <div class="overview">
 
                 <div class="overview__albums">
                   <div class="overview__albums__head">
@@ -482,7 +479,7 @@ export default {
                   </div>
                 </div>
               </div>
-]            </div>
+            </div>
           </div>
           <!-- END SONG LIST -->
 
@@ -581,60 +578,56 @@ export default {
         <!-- PLAYER -->
         <section class="playing" ref="playing">
           <div v-if="playerSong" class="playing__song">
+            {{ playerSong }}
             <a class="playing__song__name">{{ playerSong.replaceAll('_', ' ').replace(`.${format}`, '') }}</a>
             <a class="playing__song__artist">{{ playerComposer.replaceAll('_', ' ') }}</a>
           </div>
         </section>
         <div class="current-track__player">
-          <div class="current-track__actions">
 
-            <a>
-              <i class="material-icons">shuffle</i>
-            </a>
+          <!-- <a>
+            <i class="material-icons">shuffle</i>
+          </a> -->
 
-            <a @click.prevent="previousSong()">
-              <i class="material-icons">skip_previous</i>
-            </a>
+          <a @click.prevent="previousSong()">
+            <i class="material-icons">skip_previous</i>
+          </a>
 
-            <a v-if="playing" @click.prevent="pause()">
-              <i class="material-icons">pause_circle_filled</i>
-            </a>
-            <a v-else @click.prevent="play(this.playerComposer + '/' + this.playerSong)">
-              <i class="material-icons">play_circle_filled</i>
-            </a>
+          <a v-if="playing" @click.prevent="pause()">
+            <i class="material-icons">pause_circle_filled</i>
+          </a>
+          <a v-else @click.prevent="play(this.playerComposer + '/' + this.playerSong)">
+            <i class="material-icons">play_circle_filled</i>
+          </a>
 
-            <a @click.prevent="nextSong()">
-              <i class="material-icons">skip_next</i>
-            </a>
+          <a @click.prevent="nextSong()">
+            <i class="material-icons">skip_next</i>
+          </a>
 
-            <a>
-              <i class="material-icons">repeat</i>
-            </a>
-          </div>
+          <!-- <a>
+            <i class="material-icons">repeat</i>
+          </a> -->
 
-        </div>
+          <a @click.prevent="togglePlaylist()">
+            <i class="material-icons" :class="{ playlist_mode: sbVisible }">queue_music</i>
+          </a>
 
-        <div class="current-track__options">
-          <span class="controls">
-            <a class="control" @click.prevent="togglePlaylist()">
-              <i class="material-icons" :class="{ playlist_mode: sbVisible }">queue_music</i>
-            </a>
-            <a class="control volume">
-              <i class="material-icons">volume_up</i>
-              <div id="song-volume">
-                <input type="range" min="0" max="1" value="1" step="0.1" @change="changeVolume($event.target.value)">
-              </div>
-            </a>
-            <span v-if="songInfo.numberOfTracks" class="current-track__track-control">
-              <a @click.prevent="previousTrack()">
-                <i class="material-icons">navigate_before</i>
-              </a>
-              <a class="control devices">Track: {{ playerTrack + 1 }}/{{ songInfo.numberOfTracks }}</a>
-              <a @click.prevent="nextTrack()">
-                <i class="material-icons">navigate_next</i>
-              </a>
-            </span>
-          </span>
+          <a class="volume">
+            <i class="material-icons">volume_up</i>
+            <div class="volume_range">
+              <input type="range" orient="vertical" min="0" max="1" value="1" step="0.1" @change="changeVolume($event.target.value)">
+            </div>
+          </a>
+
+          <a @click.prevent="previousTrack()">
+            <i class="material-icons">navigate_before</i>
+          </a>
+          <a class="devices">Track: {{ playerTrack + 1 }}/{{ songInfo.numberOfTracks }}</a>
+          <a @click.prevent="nextTrack()">
+            <i class="material-icons">navigate_next</i>
+          </a>
+
+
         </div>
         <!-- END PLAYER -->
       </footer>

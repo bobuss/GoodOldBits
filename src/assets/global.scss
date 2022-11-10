@@ -1,19 +1,20 @@
-
-
 @import './variables';
 @import './reset';
 @import './document';
 
 // app root
 .app-wrap {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  min-width: 320px;
+  width: 100%;
+
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
   flex-wrap: nowrap;
-  width: 100%;
-  //height: 100vh;
-  max-height: var( --height, 100vh );
+  max-height: var(--height, 100vh);
 }
 
 // player container
@@ -23,7 +24,7 @@
   flex-wrap: nowrap;
   flex: 1;
   width: 100%;
-  height: var( --height, 100vh );
+  height: var(--height, 100vh);
   min-width: 320px;
 
 }
@@ -48,7 +49,8 @@
     height: 100%;
     overflow: hidden;
     overflow-y: auto;
-    & > section {
+
+    &>section {
       margin: auto 0; // prevent vertical aligned flex item from overflowing
     }
 
@@ -56,10 +58,7 @@
 
 }
 
-input[type="range"] {
-  display: block;
-  width: 100%;
-}
+
 
 
 // ===== Styles ==== //
@@ -100,11 +99,11 @@ body {
   display: none;
 }
 
-.tracks .track:hover .hide{
+.tracks .track:hover .hide {
   display: block;
 }
 
-.tracks .track:hover .show{
+.tracks .track:hover .show {
   display: none;
 }
 
@@ -126,30 +125,9 @@ body {
     position: static;
   }
 
-  .window__actions {}
-
-  .page-flows {
-
-    .flow {
-
-      font-size: $large;
-      color: $grey;
-      margin: 0 $margin-sm;
-
-      &:hover {
-        color: $white;
-      }
-
-      .disabled {
-        color: darken( $grey , 30% );
-      }
-    }
-
-  }
-
   .search {
 
-    margin-left: 90px;
+    margin-left: 10px;
 
     input {
 
@@ -166,7 +144,7 @@ body {
       background-size: 10%;
       background-position: 5px;
 
-      &:invalid ~ .clear-icon{
+      &:invalid~.clear-icon {
         display: none;
       }
 
@@ -288,7 +266,6 @@ body {
     }
 
     &__header {
-      @extend .h2;
 
       &:after {
         font-family: "Ionicons";
@@ -437,6 +414,7 @@ body {
         cursor: pointer;
       }
     }
+
     .playing__song__name {
       color: $white;
     }
@@ -451,7 +429,7 @@ body {
 
 }
 
-  @media (max-width: 768px) {
+@media (max-width: 768px) {
 
   .playing {
     border-top: 1px solid $black;
@@ -472,7 +450,7 @@ body {
     align-items: center;
 
     flex-direction: row;
-    height: $margin-xxl;
+    //height: $margin-xl;
     justify-content: space-between;
   }
 
@@ -481,36 +459,93 @@ body {
   }
 
   &__player {
-    max-width: 722px;
-    width: 40%;
-  }
-
-  &__actions {
 
     & {
-      width: 50%;
-
+      width: 85%;
+      max-width: 400px;
       display: flex;
-      flex-flow: row nowrap;
+      flex-flow: row wrap;
       justify-content: space-between;
-      align-items: center;
     }
 
     a {
-      font-size: $x-large;
-      color: $sand;
 
       &:hover {
-        color: $white;
+        text-decoration: none;
         cursor: pointer;
+      }
+
+      i {
+        margin-right: $margin-xs;
+      }
+
+      span {
+        font-size: $x-small;
+        text-transform: uppercase;
+      }
+
+    }
+
+
+    .volume {
+
+
+      .volume_range {
+        display: none;
+        position: absolute;
+        writing-mode: bt-lr; /* IE */
+        -webkit-appearance: slider-vertical; /* Chromium */
+        width: 8px;
+        height: 175px;
+        top: -147px;
+        padding: 0 5px;
+      }
+
+      i {
+        width: 20px;
+        color: $grey;
+      }
+
+      #song-volume {
+        width: calc(80% - 20px);
+        border: none;
+        margin-left: $margin-sm;
+
+        .noUi-base {
+          background: $sand;
+        }
+
+        .noUi-origin {
+          background: darken($grey, 30%);
+        }
+
+        .noUi-handle {
+          background: $sand;
+          width: 15px;
+          height: 15px;
+          border-radius: 50%;
+          box-shadow: none;
+          border: none;
+          left: 0;
+          display: none;
+
+          &:before,
+          &:after {
+            background: none;
+          }
+        }
+
+        &:hover {
+
+          .noUi-handle {
+            display: block;
+          }
+        }
       }
     }
 
-    .play {
-      font-size: $xx-large;
-    }
-
   }
+
 
   &__progress {
 
@@ -540,7 +575,7 @@ body {
       }
 
       .noUi-origin {
-        background: darken( $grey , 30% );
+        background: darken($grey, 30%);
       }
 
       .noUi-handle {
@@ -553,7 +588,8 @@ body {
         left: 0;
         display: none;
 
-        &:before, &:after {
+        &:before,
+        &:after {
           background: none;
         }
       }
@@ -570,196 +606,8 @@ body {
 
   }
 
-  &__options {
-
-    & {
-      width: 25%;
-
-      display: flex;
-      flex-flow: row wrap;
-      align-items: center;
-    }
-
-    .lyrics {
-      font-size: $x-small;
-      text-transform: uppercase;
-      width: 15%;
-      padding: 0 $padding 0 0;
-    }
-
-    .controls {
-
-      & {
-        width: 85%;
-
-        display: flex;
-        flex-flow: row wrap;
-        justify-content: space-between;
-      }
-
-      a {
-
-        &:hover {
-          text-decoration: none;
-          cursor: pointer;
-        }
-
-        i {
-          margin-right: $margin-xs;
-        }
-
-        span {
-          font-size: $x-small;
-          text-transform: uppercase;
-        }
-
-      }
-
-      .current-track {
-        &__track-control{
-          i {
-            position: relative;
-            top: 7px;
-          }
-        }
-      }
-      .volume {
-        width: 55%;
-
-        display: flex;
-        flex-flow: row wrap;
-        align-items: center;
-
-        i {
-          width: 20px;
-          color: $grey;
-        }
-
-        #song-volume {
-          width: calc( 80% - 20px );
-          border: none;
-          margin-left: $margin-sm;
-
-          .noUi-base {
-            background: $sand;
-          }
-
-          .noUi-origin {
-            background: darken( $grey , 30% );
-          }
-
-          .noUi-handle {
-            background: $sand;
-            width: 15px;
-            height: 15px;
-            border-radius: 50%;
-            box-shadow: none;
-            border: none;
-            left: 0;
-            display: none;
-
-            &:before, &:after {
-              background: none;
-            }
-          }
-
-          &:hover {
-
-            .noUi-handle {
-              display: block;
-            }
-
-          }
-
-        }
-
-      }
-
-    }
-
-  }
-
-  @media (max-width: 1400px) {
-
-    &__actions {
-      width: 10%;
-    }
-
-    &__progress {
-      width: 50%;
-    }
-
-    &__options {
-      width: 40%;
-    }
-
-  }
-
-  @media (max-width: 980px) {
-
-    &__actions {
-      width: 10%;
-    }
-
-    &__progress {
-      width: 40%;
-    }
-
-    &__options {
-      width: 50%;
-    }
-
-  }
-
-  @media (max-width: 768px) {
-
-    &__actions {
-      width: 25%;
-    }
-
-    &__progress {
-      width: 75%;
-    }
-
-    &__options {
-      width: 100%;
-    }
-
-  }
-
-  @media (max-width: 480px) {
-
-    &__actions {
-      width: 100%;
-      justify-content: space-around;
-      padding: $padding-xs 0;
-    }
-
-    &__progress {
-      width: 100%;
-      padding: $padding-xs 0;
-    }
-
-    &__options {
-      width: 100%;
-      padding: $padding-xs 0;
-    }
-
-  }
-
 }
 
-  @media (max-width: 768px) {
-
-    .current-track {
-
-      &__action {
-        padding-top: $padding;
-      }
-
-    }
-
-  }
 
 .artist {
 
@@ -791,8 +639,11 @@ body {
       align-items: flex-end;
 
       @media (max-width: 768px) {
-        border: solid 1px red;
         height: 45px;
+        width: 100%;
+        position: fixed;
+        background-color: $black;
+        box-shadow: $shadowOverlay;
       }
     }
 
@@ -893,7 +744,7 @@ body {
       & {
         width: 100%;
         z-index: 1;
-        background: rgba( 24, 24, 24, .6);
+        background: rgba(24, 24, 24, .6);
 
         display: flex;
         flex-flow: row wrap;
@@ -1019,7 +870,7 @@ body {
 
 }
 
-  @media (max-width: 768px) {
+@media (max-width: 768px) {
 
   .artist {
     height: 100%;
@@ -1064,17 +915,6 @@ body {
       letter-spacing: 1px;
     }
 
-    &__length {
-      margin-left: auto;
-      font-size: $large;
-    }
-
-    &__popularity {
-      font-size: $large;
-      margin-left: 55px;
-      padding-right: $padding-sm;
-    }
-
   }
 
   .track {
@@ -1083,7 +923,7 @@ body {
       border-top: 1px solid $light-black;
       height: 42px;
       display: flex;
-      flex-flow: row wrap;
+      flex-wrap: nowrap;
       align-items: center;
     }
 
@@ -1093,15 +933,6 @@ body {
 
     &:last-child {
       border-bottom: 1px solid $light-black;
-    }
-
-    &__art {
-
-      img {
-        width: 42px;
-        height: 42px;
-      }
-
     }
 
     &__number {
@@ -1115,16 +946,8 @@ body {
 
     &__added {
 
-      margin-left: $margin * 2;
+      margin-left: $margin-sm * 2;
       color: $sand;
-
-      .added {
-        color: $sand;
-      }
-
-      .not-added {
-        color: $grey;
-      }
 
     }
 
@@ -1139,17 +962,18 @@ body {
     }
 
     &__title {
-      width: 45%;
-      margin-left: $margin * 2;
+      margin-left: $margin-sm * 2;
+      overflow: hidden;
+      width: 70%;
 
       .title:after {
         content: "-";
         margin: 0 5px;
       }
-    }
 
-    &__title .composer {
-      color: $white
+      .composer {
+        color: $white
+      }
     }
 
   }
@@ -1172,7 +996,7 @@ body {
     }
 
     &:hover {
-      background: lighten( $light-black , 6% );
+      background: lighten($light-black, 6%);
       text-decoration: none;
     }
 
@@ -1195,61 +1019,61 @@ body {
 
 }
 
-  @media (max-width: 1024px) {
+@media (max-width: 1024px) {
 
-    .related-artists {
+  .related-artists {
 
-      & {
-        flex-flow: row wrap;
-      }
+    & {
+      flex-flow: row wrap;
+    }
 
-      .related-artist {
-        margin: $margin-sm;
-        width: calc( (100% / 3) - 20px );
-      }
-
+    .related-artist {
+      margin: $margin-sm;
+      width: calc((100% / 3) - 20px);
     }
 
   }
 
-  @media (max-width: 768px) {
+}
 
-    .related-artists {
+@media (max-width: 768px) {
 
-      .related-artist {
-        margin: $margin-xs;
-        width: calc( (100% / 2) - 10px );
-      }
+  .related-artists {
 
+    .related-artist {
+      margin: $margin-xs;
+      width: calc((100% / 2) - 10px);
     }
-
-
 
   }
 
-  @media (max-width: 480px) {
 
-    .related-artists {
 
-      .related-artist {
-        margin: $margin-xs;
-        width: 20%;
+}
+
+@media (max-width: 480px) {
+
+  .related-artists {
+
+    .related-artist {
+      margin: $margin-xs;
+      width: 20%;
+      background: none;
+
+      &:hover {
         background: none;
+        opacity: .6;
+      }
 
-        &:hover {
-          background: none;
-          opacity: .6;
-        }
-
-        &__name {
-          display: none;
-        }
-
+      &__name {
+        display: none;
       }
 
     }
 
   }
+
+}
 
 .overview {
 
@@ -1293,25 +1117,13 @@ body {
           &:hover {
             padding: 8px;
             border-radius: 50%;
-            background: lighten( $light-black , 5% );
+            background: lighten($light-black, 5%);
             cursor: pointer;
           }
         }
 
       }
 
-    }
-
-  }
-
-}
-
-.album {
-
-  .track {
-
-    &__title {
-      width: 70%;
     }
 
   }
@@ -1371,7 +1183,7 @@ body {
 
     & {
       margin: $margin;
-      width: calc( (100% / 4) - 30px );
+      width: calc((100% / 4) - 30px);
     }
 
     &__image {
@@ -1426,135 +1238,63 @@ body {
 
 }
 
-  @media (max-width: 1100px) {
+@media (max-width: 1100px) {
 
-    .media-cards {
+  .media-cards {
 
-      .media-card {
+    .media-card {
 
-        & {
-          width: calc( (100% / 3) - 30px );
-        }
-
+      & {
+        width: calc((100% / 3) - 30px);
       }
 
     }
 
   }
 
-  @media (max-width: 768px) {
+}
 
-    .media-cards {
+@media (max-width: 768px) {
 
-      .media-card {
+  .media-cards {
 
-        & {
-          width: calc( (100% / 2) - 30px );
-        }
+    .media-card {
 
+      & {
+        width: calc((100% / 2) - 30px);
       }
 
     }
 
   }
 
-  @media (max-width: 480px) {
+}
 
-    .media-cards {
+@media (max-width: 480px) {
 
-      .media-card {
+  .media-cards {
 
-        & {
-          margin: $margin 0;
-          width: 100%;
-        }
+    .media-card {
 
+      & {
+        margin: $margin 0;
+        width: 100%;
       }
 
     }
 
   }
+
+}
 
 
 ::-webkit-scrollbar {
-	width: 8px;
+  width: 8px;
 }
+
 ::-webkit-scrollbar-thumb {
-	    border-radius: 4px;
-			background: lighten( $light-black , 6% );
-}
-
-
-// ==== Framework ==== //
-
-.h1 {
-  font-size: 36px;
-}
-
-.h2 {
-  font-size: $x-small;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  margin-bottom: $margin-xs;
-}
-
-.red {
-  color: #fc615c;
-
-  &:hover {
-    color: darken( #fc615c , 10% );
-  }
-}
-
-.yellow {
-  color: #fdbe41;
-
-  &:hover {
-    color: darken( #fdbe41 , 10% );
-  }
-}
-
-.green {
-  color: #34c94a;
-
-  &:hover {
-    color: darken( #34c94a , 10% );
-  }
-}
-
-button {
-  border-radius: 20px;
-  border: none;
-  padding: $padding-xs $padding;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  font-size: $x-small;
-  outline: none;
-
-  &:hover {
-    cursor: pointer;
-  }
-}
-
-.button-dark {
-  background: $green;
-  color: $white;
-  border: 1px solid $green;
-
-  &:hover {
-    background: lighten( $green, 10% );
-  }
-}
-
-.button-light {
-  background: none;
-  color: $sand;
-  border: 1px solid $sand;
-
-  &:hover {
-    border-color: $white;
-    color: $white;
-  }
+  border-radius: 4px;
+  background: lighten($light-black, 6%);
 }
 
 .section-title {
