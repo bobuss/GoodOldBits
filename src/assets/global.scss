@@ -293,6 +293,10 @@ body {
         align-items: center;
       }
 
+      .playing {
+        color: $green;
+      }
+
       &:hover {
         color: $white;
         text-decoration: none;
@@ -383,13 +387,6 @@ body {
   }
 }
 
-@media (max-width: 768px) {
-
-  .playing {
-    border-top: 1px solid $black;
-  }
-
-}
 
 .current-track {
 
@@ -928,6 +925,10 @@ body {
       align-items: center;
     }
 
+    .playing{
+      color: $green;
+    }
+
     &:hover {
       background: $light-black;
     }
@@ -973,7 +974,11 @@ body {
       }
 
       .composer {
-        color: $white
+        color: $white;
+
+        &:hover {
+          text-decoration: underline;
+        }
       }
     }
 

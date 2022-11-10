@@ -393,7 +393,7 @@ export default {
                   :class="{ navigation__list__item__selected: composer == selectedComposer }"
                   @click.prevent="onSelectComposer(composer)">
 
-                <span :class="{ playing__song: composer == playerComposer }">{{ composer.replaceAll('_', ' ') }} ({{ count
+                <span :class="{ playing: composer == playerComposer }">{{ composer.replaceAll('_', ' ') }} ({{ count
                 }})</span>
               </a>
             </div>
@@ -462,7 +462,7 @@ export default {
                             </a>
 
                           </div>
-                          <div :class="{ playing__song: s == playerSong }" class="track__title">{{ s.replaceAll('_', '').replace(`.${format}`, '') }}</div>
+                          <div :class="{ playing: s == playerSong }" class="track__title">{{ s.replaceAll('_', '').replace(`.${format}`, '') }}</div>
 
                           <div class="track__added">
                             <a v-if="isSongInPlaylist(s)" @click.prevent="removeFromPlaylist(selectedComposer + '/' + s)">
@@ -540,7 +540,7 @@ export default {
 
                             </div>
 
-                            <div :class="{ playing__song: s.path == playerPath }" class="track__title">
+                            <div :class="{ playing: s.path == playerPath }" class="track__title">
                               <span class="title">{{ s.title.replaceAll('_', ' ').replace(`.${format}`, '') }}</span>
                               <a class="composer" @click.prevent="onSelectComposer(s.composer)">{{
                                   s.composer.replaceAll('_', ' ')
