@@ -578,7 +578,6 @@ export default {
         <!-- PLAYER -->
         <section class="playing" ref="playing">
           <div v-if="playerSong" class="playing__song">
-            {{ playerSong }}
             <a class="playing__song__name">{{ playerSong.replaceAll('_', ' ').replace(`.${format}`, '') }}</a>
             <a class="playing__song__artist">{{ playerComposer.replaceAll('_', ' ') }}</a>
           </div>
@@ -588,44 +587,49 @@ export default {
           <!-- <a>
             <i class="material-icons">shuffle</i>
           </a> -->
+          <div>
+            <a @click.prevent="previousSong()">
+              <i class="material-icons">skip_previous</i>
+            </a>
 
-          <a @click.prevent="previousSong()">
-            <i class="material-icons">skip_previous</i>
-          </a>
+            <a v-if="playing" @click.prevent="pause()">
+              <i class="material-icons">pause_circle_filled</i>
+            </a>
+            <a v-else @click.prevent="play(this.playerComposer + '/' + this.playerSong)">
+              <i class="material-icons">play_circle_filled</i>
+            </a>
 
-          <a v-if="playing" @click.prevent="pause()">
-            <i class="material-icons">pause_circle_filled</i>
-          </a>
-          <a v-else @click.prevent="play(this.playerComposer + '/' + this.playerSong)">
-            <i class="material-icons">play_circle_filled</i>
-          </a>
+            <a @click.prevent="nextSong()">
+              <i class="material-icons">skip_next</i>
+            </a>
 
-          <a @click.prevent="nextSong()">
-            <i class="material-icons">skip_next</i>
-          </a>
+            <!-- <a>
+              <i class="material-icons">repeat</i>
+            </a> -->
 
-          <!-- <a>
-            <i class="material-icons">repeat</i>
-          </a> -->
+            <a @click.prevent="togglePlaylist()">
+              <i class="material-icons" :class="{ playlist_mode: sbVisible }">queue_music</i>
+            </a>
+          </div>
 
-          <a @click.prevent="togglePlaylist()">
-            <i class="material-icons" :class="{ playlist_mode: sbVisible }">queue_music</i>
-          </a>
+          <div>
+            <a @click.prevent="previousTrack()">
+              <i class="material-icons">navigate_before</i>
+            </a>
+            <a class="devices">Track: {{ playerTrack + 1 }}/{{ songInfo.numberOfTracks }}</a>
+            <a @click.prevent="nextTrack()">
+              <i class="material-icons">navigate_next</i>
+            </a>
+            <a class="volume">
+              <i class="material-icons">volume_up</i>
+              <div class="volume_range">
+                <input type="range" orient="vertical" min="0" max="1" value="1" step="0.1" @change="changeVolume($event.target.value)">
+              </div>
+            </a>
+          </div>
 
-          <a class="volume">
-            <i class="material-icons">volume_up</i>
-            <div class="volume_range">
-              <input type="range" orient="vertical" min="0" max="1" value="1" step="0.1" @change="changeVolume($event.target.value)">
-            </div>
-          </a>
 
-          <a @click.prevent="previousTrack()">
-            <i class="material-icons">navigate_before</i>
-          </a>
-          <a class="devices">Track: {{ playerTrack + 1 }}/{{ songInfo.numberOfTracks }}</a>
-          <a @click.prevent="nextTrack()">
-            <i class="material-icons">navigate_next</i>
-          </a>
+
 
 
         </div>

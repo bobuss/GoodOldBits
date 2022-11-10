@@ -2,6 +2,7 @@
 @import './reset';
 @import './document';
 
+
 // app root
 .app-wrap {
   -webkit-box-sizing: border-box;
@@ -382,53 +383,6 @@ body {
   }
 }
 
-.playing {
-
-  & {
-    background: $light-black;
-    display: flex;
-    flex-flow: row nowrap;
-    align-items: center;
-    min-width: 180px;
-    width: 30%;
-  }
-
-  &__art {
-
-    img {
-      width: 50px;
-      height: 50px;
-    }
-
-  }
-
-  &__song {
-    color: $green;
-    display: flex;
-
-    a {
-      color: $grey;
-
-      &:hover {
-        color: $white;
-        cursor: pointer;
-      }
-    }
-
-    .playing__song__name {
-      color: $white;
-    }
-
-  }
-
-  &__add {
-    margin-left: auto;
-    padding-right: $padding;
-    color: $grey;
-  }
-
-}
-
 @media (max-width: 768px) {
 
   .playing {
@@ -443,29 +397,75 @@ body {
 
     background: $light-black;
     border-top: solid 1px $light-black;
-    padding: $padding-xs $padding;
+    padding: $padding-xs $padding-xs;
 
     display: flex;
-    //flex-flow: row wrap;
     align-items: center;
 
     flex-direction: row;
-    //height: $margin-xl;
     justify-content: space-between;
+  }
+
+  .playing {
+
+    & {
+      background: $light-black;
+      display: flex;
+      flex-flow: row nowrap;
+      align-items: center;
+    }
+
+
+    &__song {
+      color: $green;
+      display: flex;
+
+      a {
+        color: $grey;
+
+        &:hover {
+          color: $white;
+          cursor: pointer;
+        }
+      }
+
+      .playing__song__name {
+        color: $white;
+      }
+
+    }
+
+    &__add {
+      margin-left: auto;
+      padding-right: $padding;
+      color: $grey;
+    }
+
   }
 
   & .playing__song {
     flex-flow: column wrap;
+    overflow: hidden;
   }
 
   &__player {
 
     & {
       width: 85%;
-      max-width: 400px;
+
+      margin: auto;
       display: flex;
       flex-flow: row wrap;
-      justify-content: space-between;
+      justify-content: space-around;
+    }
+
+    div {
+
+      display: flex;
+      flex-grow: 1;
+      justify-content: space-around;
+      max-width: 400px;
+
     }
 
     a {
@@ -485,6 +485,7 @@ body {
       }
 
     }
+
 
 
     .volume {
