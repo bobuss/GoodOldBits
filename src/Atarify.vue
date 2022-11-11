@@ -2,17 +2,17 @@
 
 const collections = {}
 
-import libymWrapper from './libymWrapper'
-import cowbellWrapper from './cowbellWrapper'
+// import libymWrapper from './libymWrapper'
+// import cowbellWrapper from './cowbellWrapper'
 
 import sndh from './json/sndh.json';
 collections['sndh'] = sndh
 
-import ym from './json/ym.json';
-collections['ym'] = ym
+// import ym from './json/ym.json';
+// collections['ym'] = ym
 
-import sc68 from './json/sc68.json';
-collections['sc68'] = sc68
+// import sc68 from './json/sc68.json';
+// collections['sc68'] = sc68
 
 // import xmp from './json/xmp.json';
 // collections['xmp'] = xmp
@@ -38,6 +38,7 @@ export default {
       selectedSong: null,
       sbActive: false,
       sbVisible: false,
+      vVisible: false
     }
   },
   computed: {
@@ -67,6 +68,8 @@ export default {
 
     backendAdapter() {
       switch (this.format) {
+        case 'ym':
+          return YMBackendAdapter;
         case 'xmp':
           return XMPBackendAdapter;
         case 'sndh':
@@ -149,11 +152,13 @@ export default {
     createPlayerInstance() {
 
       switch (this.format) {
-        case 'ym':
-          this.player = libymWrapper
-          break;
-        case 'sc68':
+        // case 'ym':
+        //   this.player = libymWrapper
+        //   break;
+
+        case 'xmp':
         case 'sndh':
+        case 'sc68':
           const backendAdapter = this.backendAdapter;
           let self = this;
 
@@ -173,9 +178,10 @@ export default {
           );
           this.player = ScriptNodePlayer.getInstance()
           break;
-        case 'xmp':
-          this.player = cowbellWrapper
-          break;
+        // case 'xmp':
+        case 'ym':
+           this.player = cowbellWrapper
+           break;
       }
 
     },
@@ -357,6 +363,11 @@ export default {
         setTimeout( () => { this.sbActive = false; }, 500 );
       }
     },
+
+    toggleVolumeBar( state ) {
+      const nextState = typeof state == 'boolean' ? state : !this.vVisible;
+      this.vVisible = nextState
+    }
   }
 }
 </script>
@@ -612,7 +623,7 @@ export default {
             </a>
           </div>
 
-          <div>
+          <div v-if="songInfo.numberOfTracks">
             <a @click.prevent="previousTrack()">
               <i class="material-icons">navigate_before</i>
             </a>
@@ -620,9 +631,11 @@ export default {
             <a @click.prevent="nextTrack()">
               <i class="material-icons">navigate_next</i>
             </a>
+            </div>
+            <div>
             <a class="volume">
-              <i class="material-icons">volume_up</i>
-              <div class="volume_range">
+              <i class="material-icons" @click.prevent="toggleVolumeBar()">volume_up</i>
+              <div class="volume_range" :style="{display: vVisible ? 'block' : 'none'}">
                 <input type="range" orient="vertical" min="0" max="1" value="1" step="0.1" @change="changeVolume($event.target.value)">
               </div>
             </a>
