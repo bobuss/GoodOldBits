@@ -22,6 +22,7 @@ export default {
   name: 'Atarify',
   data() {
     return {
+      route: '/',
       init: false,
       format: 'sndh',
       selectedComposer: '',
@@ -199,38 +200,19 @@ export default {
       if (composer && song) {
         if ((this.playerComposer == composer) && (this.playerSong == song) && (this.playerTrack == track)) {
           this.player.resume();
+          this.playing = true
         } else {
           // different song, let's reset the track number
           if ((this.playerComposer != composer) || (this.playerSong != song)) {
             track = 0;
           }
-          this.playerComposer = composer;
-          this.playerSong = song;
-          this.playerTrack = track;
-          if (clearPlaylist)
+          if (clearPlaylist) {
             this.playlist = [this.playerPath];
+          }
 
-          var self = this;
-
-          this.player.loadMusicFromURL(
-            this.musicPath,
-            {
-              track: this.playerTrack
-            },
-            (function (filename) {
-              // onCompletion
-              self.songInfo = self.player.getSongInfo()
-            }),
-            (function () {
-              // onFail
-            }),
-            (function (total, loaded) {
-              // onProgress
-            })
-          );
+          this.setRoute( composer + '/' + song + '/' + track);
 
         }
-        this.playing = true
       }
     },
 
@@ -310,26 +292,43 @@ export default {
 
     setupEvents() {
       document.addEventListener( 'visibilitychange', e => { this.visible = ( document.visibilityState === 'visible' ) } );
-      //window.addEventListener( 'hashchange', e => this.applyRoute( window.location.hash ) );
+      window.addEventListener( 'hashchange', e => this.applyRoute( window.location.hash ) );
       //window.addEventListener( 'keydown', this.onKeyboard );
     },
 
-    applyRoute( route, sidebar = false ) {
-      const data   = String( route || '' ).replace( /^[\#\/]+|[\/]+$/g, '' ).trim().split( '/' );
-      const action = data.length ? data.shift() : '';
-      const param  = data.length ? data.shift() : '';
+    setRoute( route ) {
+      route = '/'+ String( route || '' ).replace( /^[\#\/]+|[\/]+$/g, '' ).trim();
+      window.location.hash = route;
+      this.route = route;
+    },
 
-      // select a channel from the url
-      // if ( action === 'channel' && param ) {
-      //   const channel = this.channels.filter( c => ( c.id === param ) ).shift();
-      //   if ( channel && channel.id ) {
-      //     return this.selectChannel( channel );
-      //   }
-      // }
-      // // nothing to do, reset player
-      // this.closeAudio();
-      // this.resetPlayer();
-      // this.togglePlaylist( sidebar );
+    applyRoute( route ) {
+      const data   = String( route || '' ).replace( /^[\#\/]+|[\/]+$/g, '' ).trim().split( '/' );
+
+      if (data.length >= 3) {
+        this.playerComposer = data.shift()
+        this.playerTrack = Number(data.pop())
+        this.playerSong = data.join('/')
+
+        var self = this;
+        this.player.loadMusicFromURL(
+          this.musicPath,
+          {
+            track: this.playerTrack
+          },
+          (function (filename) {
+            // onCompletion
+            self.songInfo = self.player.getSongInfo()
+          }),
+          (function () {
+            // onFail
+          }),
+          (function (total, loaded) {
+            // onProgress
+          })
+        );
+        this.playing = true
+      }
     },
 
     // on keyboard events
@@ -473,7 +472,7 @@ export default {
                             </a>
 
                           </div>
-                          <div :class="{ playing: s == playerSong }" class="track__title">{{ s.replaceAll('_', '').replace(`.${format}`, '') }}</div>
+                          <div :class="{ playing: s == playerSong }" class="track__title">{{ s.replaceAll('_', ' ').replace(`.${format}`, '') }}</div>
 
                           <div class="track__added">
                             <a v-if="isSongInPlaylist(s)" @click.prevent="removeFromPlaylist(selectedComposer + '/' + s)">
