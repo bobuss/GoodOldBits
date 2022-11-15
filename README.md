@@ -28,8 +28,8 @@ docker run --rm -v $PWD/stsound:/data -w /data emscripten/emsdk:latest emmake ma
 
 
 ## TODO
-- routing
 - select format
 - seek for formats that support it
 - more formats
-- rework on responsive
+- bug on playlist with routing
+- revisit volume widget closing behavior

@@ -29,7 +29,7 @@ export default {
       player: null,
       playerComposer: null,
       playerSong: null,
-      playerTrack: 0,
+      playerTrack: 1,
       tracker: 'Protracker',
       songInfo: { numberOfTracks: 1 },
       search: '',
@@ -85,7 +85,7 @@ export default {
     },
 
     playerPath() {
-      return this.playerComposer + '/' + this.playerSong
+      return this.playerComposer + '/' + this.playerSong;
     },
 
     musicPath() {
@@ -136,6 +136,7 @@ export default {
   mounted() {
     this.setupEvents();
     this.updateHeight();
+    this.applyRoute( window.location.hash, true ) ;
     this.initDisplay();
   },
 
@@ -192,25 +193,28 @@ export default {
       this.selectedComposer = composer
     },
 
-    play: function (composer_song, track = 0, clearPlaylist = false) {
+    play: function (composer_song, track = 1, clearPlaylist = false) {
+
       var arr = composer_song.split('/')
       var composer = arr[0]
       var song = arr.slice(1).join('/')
 
       if (composer && song) {
+
         if ((this.playerComposer == composer) && (this.playerSong == song) && (this.playerTrack == track)) {
           this.player.resume();
           this.playing = true
         } else {
           // different song, let's reset the track number
           if ((this.playerComposer != composer) || (this.playerSong != song)) {
-            track = 0;
+            track = 1;
           }
+
+          this.setRoute( composer + '/' + song + '/' + track );
+
           if (clearPlaylist) {
             this.playlist = [this.playerPath];
           }
-
-          this.setRoute( composer + '/' + song + '/' + track);
 
         }
       }
@@ -218,7 +222,22 @@ export default {
 
     pause: function () {
       this.player.pause();
-      this.playing = false
+      this.playing = false;
+    },
+
+    resume: function() {
+      if ((this.playerComposer ) && (this.playerSong ) && (this.playerTrack )) {
+        this.player.resume();
+        this.playing = true;
+      }
+    },
+
+    togglePlay() {
+      if (this.playing) {
+        this.pause()
+      } else {
+        this.resume()
+      }
     },
 
     changeVolume: function (value) {
@@ -252,13 +271,13 @@ export default {
     },
 
     nextTrack: function () {
-      if (this.songInfo.numberOfTracks > 1) {
+      if (this.playerTrack < this.songInfo.numberOfTracks) {
         this.play(this.playerPath, this.playerTrack + 1);
       }
     },
 
     previousTrack: function () {
-      if (this.playerTrack > 0) {
+      if (this.playerTrack > 1) {
         this.play(this.playerPath, this.playerTrack - 1);
       }
     },
@@ -275,7 +294,7 @@ export default {
         var arr = song.split('/')
         this.playerComposer = arr[0];
         this.playerSong = arr.slice(1).join('/');
-        this.playerTrack = -1
+        this.playerTrack = 0
       }
     },
 
@@ -293,7 +312,7 @@ export default {
     setupEvents() {
       document.addEventListener( 'visibilitychange', e => { this.visible = ( document.visibilityState === 'visible' ) } );
       window.addEventListener( 'hashchange', e => this.applyRoute( window.location.hash ) );
-      //window.addEventListener( 'keydown', this.onKeyboard );
+      window.addEventListener( 'keydown', this.onKeyboard );
     },
 
     setRoute( route ) {
@@ -302,19 +321,36 @@ export default {
       this.route = route;
     },
 
-    applyRoute( route ) {
+    applyRoute( route, init=false ) {
+
+      function isPositiveInteger(str) {
+        if (typeof str !== 'string') {
+          return false;
+        }
+        const num = Number(str);
+        if (Number.isInteger(num) && num > 0) {
+          return true;
+        }
+        return false;
+      }
+
       const data   = String( route || '' ).replace( /^[\#\/]+|[\/]+$/g, '' ).trim().split( '/' );
 
       if (data.length >= 3) {
         this.playerComposer = data.shift()
-        this.playerTrack = Number(data.pop())
+        this.playerTrack = data.pop()
+        if (isPositiveInteger(this.playerTrack)){
+          this.playerTrack=parseInt(this.playerTrack)
+        } else {
+          this.playerTrack=1;
+        }
         this.playerSong = data.join('/')
 
         var self = this;
         this.player.loadMusicFromURL(
           this.musicPath,
           {
-            track: this.playerTrack
+            track: this.playerTrack - 1
           },
           (function (filename) {
             // onCompletion
@@ -327,14 +363,14 @@ export default {
             // onProgress
           })
         );
-        this.playing = true
+        this.playing = !init
       }
     },
 
     // on keyboard events
     onKeyboard( e ) {
       const k = e.key || '';
-      // if ( k === ' ' && this.channel.id ) return this.togglePlay();
+      if ( k === ' ' ) return this.togglePlay();
       // if ( k === 'Enter' ) return this.togglePlaylist( true );
       // if ( k === 'Escape' ) return this.togglePlaylist( false );
     },
@@ -605,7 +641,7 @@ export default {
             <a v-if="playing" @click.prevent="pause()">
               <i class="material-icons">pause_circle_filled</i>
             </a>
-            <a v-else @click.prevent="play(this.playerComposer + '/' + this.playerSong)">
+            <a v-else @click.prevent="play(playerComposer + '/' + playerSong, playerTrack)">
               <i class="material-icons">play_circle_filled</i>
             </a>
 
@@ -626,7 +662,7 @@ export default {
             <a @click.prevent="previousTrack()">
               <i class="material-icons">navigate_before</i>
             </a>
-            <a class="devices">Track: {{ playerTrack + 1 }}/{{ songInfo.numberOfTracks }}</a>
+            <a class="devices">Track: {{ playerTrack }}/{{ songInfo.numberOfTracks }}</a>
             <a @click.prevent="nextTrack()">
               <i class="material-icons">navigate_next</i>
             </a>
