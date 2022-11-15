@@ -11,8 +11,8 @@ collections['sndh'] = sndh
 // import ym from './json/ym.json';
 // collections['ym'] = ym
 
-// import sc68 from './json/sc68.json';
-// collections['sc68'] = sc68
+import sc68 from './json/sc68.json';
+collections['sc68'] = sc68
 
 // import xmp from './json/xmp.json';
 // collections['xmp'] = xmp
@@ -24,7 +24,7 @@ export default {
     return {
       route: '/',
       init: false,
-      format: 'sndh',
+      format: 'sc68',
       selectedComposer: '',
       player: null,
       playerComposer: null,
@@ -188,12 +188,18 @@ export default {
 
     },
 
-    onSelectComposer(composer) {
-      this.togglePlaylist(false)
-      this.selectedComposer = composer
+    onSelectSong(song) {
+      this.selectedSong = song
     },
 
-    play: function (composer_song, track = 1, clearPlaylist = false) {
+    onSelectComposer(composer, scroll=false) {
+      this.togglePlaylist(false)
+      this.selectedComposer = composer
+      const element = document.getElementById("nav_c_" + composer);
+      if (scroll && element) element.scrollIntoView({behavior: "smooth", block: "center", inline: "nearest"});
+    },
+
+    play: function (composer_song, track = 1) {
 
       var arr = composer_song.split('/')
       var composer = arr[0]
@@ -211,10 +217,6 @@ export default {
           }
 
           this.setRoute( composer + '/' + song + '/' + track );
-
-          if (clearPlaylist) {
-            this.playlist = [this.playerPath];
-          }
 
         }
       }
@@ -246,10 +248,6 @@ export default {
 
     isSongInPlaylist(song) {
       return this.playlist.indexOf(this.selectedComposer + '/' + song) > -1
-    },
-
-    onSelectSong(song) {
-      this.selectedSong = song
     },
 
     nextSong: function () {
@@ -337,14 +335,14 @@ export default {
       const data   = String( route || '' ).replace( /^[\#\/]+|[\/]+$/g, '' ).trim().split( '/' );
 
       if (data.length >= 3) {
-        this.playerComposer = data.shift()
+        this.playerComposer = decodeURIComponent(data.shift())
         this.playerTrack = data.pop()
         if (isPositiveInteger(this.playerTrack)){
           this.playerTrack=parseInt(this.playerTrack)
         } else {
           this.playerTrack=1;
         }
-        this.playerSong = data.join('/')
+        this.playerSong = decodeURIComponent(data.join('/'))
 
         var self = this;
         this.player.loadMusicFromURL(
@@ -364,6 +362,9 @@ export default {
           })
         );
         this.playing = !init
+
+        this.playlist = [this.playerPath];
+
       }
     },
 
@@ -434,6 +435,8 @@ export default {
 
             <div class="navigation__list">
               <a v-for="(count, composer) in facetedComposers"
+                  :id="'nav_c_' + composer"
+                  :ref="composer"
                   :key="composer" href="#"
                   class="navigation__list__item"
                   :class="{ navigation__list__item__selected: composer == selectedComposer }"
@@ -489,7 +492,7 @@ export default {
                                 <i class="material-icons">pause_arrow</i>
                               </a>
 
-                              <a v-else @click.prevent="play(selectedComposer + '/' + s, playerTrack, true)">
+                              <a v-else @click.prevent="play(selectedComposer + '/' + s, playerTrack)">
                                 <i class="material-icons">play_arrow</i>
                               </a>
 
@@ -503,7 +506,7 @@ export default {
                             <a v-if="playing && (s == playerSong)" class="ion-ios-pause" @click.prevent="pause()">
                               <i class="material-icons">pause</i>
                             </a>
-                            <a v-else @click.prevent="play(selectedComposer + '/' + s, playerTrack, true)">
+                            <a v-else @click.prevent="play(selectedComposer + '/' + s, playerTrack)">
                               <i class="material-icons">play_arrow</i>
                             </a>
 
@@ -588,7 +591,7 @@ export default {
 
                             <div :class="{ playing: s.path == playerPath }" class="track__title">
                               <span class="title">{{ s.title.replaceAll('_', ' ').replace(`.${format}`, '') }}</span>
-                              <a class="composer" @click.prevent="onSelectComposer(s.composer)">{{
+                              <a class="composer" @click.prevent="onSelectComposer(s.composer, true)">{{
                                   s.composer.replaceAll('_', ' ')
                               }}</a>
                             </div>
@@ -624,8 +627,8 @@ export default {
         <!-- PLAYER -->
         <section class="playing" ref="playing">
           <div v-if="playerSong" class="playing__song">
-            <a class="playing__song__name">{{ playerSong.replaceAll('_', ' ').replace(`.${format}`, '') }}</a>
-            <a class="playing__song__artist">{{ playerComposer.replaceAll('_', ' ') }}</a>
+            <a class="playing__song__name" >{{ playerSong.replaceAll('_', ' ').replace(`.${format}`, '') }}</a>
+            <a class="playing__song__artist" @click.prevent="onSelectComposer(playerComposer, true)">{{ playerComposer.replaceAll('_', ' ') }}</a>
           </div>
         </section>
         <div class="current-track__player">
@@ -658,7 +661,7 @@ export default {
             </a>
           </div>
 
-          <div v-if="songInfo.numberOfTracks">
+          <div v-if="songInfo.numberOfTracks > 1">
             <a @click.prevent="previousTrack()">
               <i class="material-icons">navigate_before</i>
             </a>
