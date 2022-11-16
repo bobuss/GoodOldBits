@@ -174,7 +174,7 @@ export default {
             function() {                  // onTrackEnd
               // strange hack here, but it works: repeat current track
               console.log('doOnTrackEnd')
-              self.play(self.playerPath, self.playerTrack++);
+              self.play(self.playerPath, self.playerTrack);
             },
             function() {}                 // doOnUpdate
           );
