@@ -373,7 +373,10 @@ export default {
     // on keyboard events
     onKeyboard( e ) {
       const k = e.key || '';
-      if ( k === ' ' ) return this.togglePlay();
+      if ( k === ' ' ) {
+        e.preventDefault();
+        return this.togglePlay();
+      }
       // if ( k === 'Enter' ) return this.togglePlaylist( true );
       // if ( k === 'Escape' ) return this.togglePlaylist( false );
     },
