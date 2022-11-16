@@ -24,7 +24,7 @@ export default {
     return {
       route: '/',
       init: false,
-      format: 'sc68',
+      format: 'sndh',
       selectedComposer: '',
       player: null,
       playerComposer: null,
@@ -311,6 +311,8 @@ export default {
       document.addEventListener( 'visibilitychange', e => { this.visible = ( document.visibilityState === 'visible' ) } );
       window.addEventListener( 'hashchange', e => this.applyRoute( window.location.hash ) );
       window.addEventListener( 'keydown', this.onKeyboard );
+      document.addEventListener( 'click' , this.handleVolumeDisplay );
+
     },
 
     setRoute( route ) {
@@ -403,7 +405,16 @@ export default {
     toggleVolumeBar( state ) {
       const nextState = typeof state == 'boolean' ? state : !this.vVisible;
       this.vVisible = nextState
-    }
+    },
+
+    handleVolumeDisplay(event) {
+      event.preventDefault();
+      const box = document.querySelector('.volume');
+      if (this.vVisible && !box.contains(event.target)) {
+        this.vVisible = false;
+      }
+    },
+
   }
 }
 </script>
