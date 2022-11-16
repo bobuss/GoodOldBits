@@ -34,7 +34,7 @@ export default {
       songInfo: { numberOfTracks: 1 },
       search: '',
       playing: false,
-      playlist: [],
+      queue: [],
       hover: null,
       selectedSong: null,
       sbActive: false,
@@ -117,7 +117,7 @@ export default {
     },
 
     listOfSongs() {
-      return this.playlist.map(function (path) {
+      return this.queue.map(function (path) {
         var arr = path.split('/')
         return {
           'path': path,
@@ -193,7 +193,7 @@ export default {
     },
 
     onSelectComposer(composer, scroll=false) {
-      this.togglePlaylist(false)
+      this.toggleQueue(false)
       this.selectedComposer = composer
       const element = document.getElementById("nav_c_" + composer);
       if (scroll && element) element.scrollIntoView({behavior: "smooth", block: "center", inline: "nearest"});
@@ -246,24 +246,24 @@ export default {
       this.player.setVolume(value);
     },
 
-    isSongInPlaylist(song) {
-      return this.playlist.indexOf(this.selectedComposer + '/' + song) > -1
+    isSongInQueue(song) {
+      return this.queue.indexOf(this.selectedComposer + '/' + song) > -1
     },
 
     nextSong: function () {
       if (this.playerSong) {
-        let index = this.playlist.indexOf(this.playerPath);
-        if ( index != -1 && index < this.playlist.length ) {
-          this.play(this.playlist[++index]);
+        let index = this.queue.indexOf(this.playerPath);
+        if ( index != -1 && index < this.queue.length ) {
+          this.play(this.queue[++index]);
         }
       }
     },
 
     previousSong: function () {
       if (this.playerSong) {
-        let index = this.playlist.indexOf(this.playerPath);
+        let index = this.queue.indexOf(this.playerPath);
         if (index != -1 && index > 0) {
-          this.play(this.playlist[--index]);
+          this.play(this.queue[--index]);
         }
       }
     },
@@ -284,11 +284,11 @@ export default {
       this.search = '';
     },
 
-    addToPlaylist(song) {
-      this.playlist.push(song)
+    addToQueue(song) {
+      this.queue.push(song)
       // if it was the 1st element, then load the player,
       // set -1 as current track to force to download the song in play method
-      if (this.playlist.length == 1) {
+      if (this.queue.length == 1) {
         var arr = song.split('/')
         this.playerComposer = arr[0];
         this.playerSong = arr.slice(1).join('/');
@@ -296,10 +296,10 @@ export default {
       }
     },
 
-    removeFromPlaylist(song) {
-      const index = this.playlist.indexOf(song);
+    removeFromQueue(song) {
+      const index = this.queue.indexOf(song);
       if (index > -1) {
-        this.playlist.splice(index, 1);
+        this.queue.splice(index, 1);
       }
     },
 
@@ -375,8 +375,8 @@ export default {
           this.playing = true
         }
 
-        if ( this.playlist.indexOf(this.playerPath) == -1 )
-          this.playlist = [this.playerPath];
+        if ( this.queue.indexOf(this.playerPath) == -1 )
+          this.queue.unshift(this.playerPath);
 
       }
     },
@@ -388,8 +388,8 @@ export default {
         e.preventDefault();
         return this.togglePlay();
       }
-      // if ( k === 'Enter' ) return this.togglePlaylist( true );
-      // if ( k === 'Escape' ) return this.togglePlaylist( false );
+      // if ( k === 'Enter' ) return this.toggleQueue( true );
+      // if ( k === 'Escape' ) return this.toggleQueue( false );
     },
 
     updateHeight() {
@@ -405,7 +405,7 @@ export default {
       }, 100);
     },
 
-    togglePlaylist( state )  {
+    toggleQueue( state )  {
       const currentstate = typeof state == 'boolean' ? state : !this.sbActive;
       if ( currentstate ) {
         this.sbActive = true;
@@ -539,11 +539,11 @@ export default {
                           <div :class="{ playing: s == playerSong }" class="track__title">{{ s.replaceAll('_', ' ').replace(`.${format}`, '') }}</div>
 
                           <div class="track__added">
-                            <a v-if="isSongInPlaylist(s)" @click.prevent="removeFromPlaylist(selectedComposer + '/' + s)">
-                              <i class="material-icons">playlist_remove</i>
+                            <a v-if="isSongInQueue(s)" @click.prevent="removeFromQueue(selectedComposer + '/' + s)">
+                              <i class="material-icons">remove_from_queue</i>
                             </a>
-                            <a v-else @click.prevent="addToPlaylist(selectedComposer + '/' + s)">
-                              <i class="material-icons">playlist_add</i>
+                            <a v-else @click.prevent="addToQueue(selectedComposer + '/' + s)">
+                              <i class="material-icons">add_to_queue</i>
                             </a>
                           </div>
 
@@ -557,8 +557,8 @@ export default {
           </div>
           <!-- END SONG LIST -->
 
-          <!-- PLAYLIST -->
-          <div class="playlist" :class="{ 'active': sbActive, 'visible': sbVisible }">
+          <!-- QUEUE -->
+          <div class="queue" :class="{ 'active': sbActive, 'visible': sbVisible }">
 
             <aside class="artist__content">
 
@@ -566,7 +566,7 @@ export default {
 
                 <div class="overview__albums">
                   <div class="overview__albums__head">
-                    <h1>Playlist</h1>
+                    <h1>Queue</h1>
                   </div>
                   <div class="album">
                     <div class="album__tracks">
@@ -621,8 +621,8 @@ export default {
                               }}</a>
                             </div>
                             <div class="track__added">
-                              <a @click.prevent="removeFromPlaylist(s.path)">
-                                <i class="material-icons">playlist_remove</i>
+                              <a @click.prevent="removeFromQueue(s.path)">
+                                <i class="material-icons">remove_from_queue</i>
                               </a>
                             </div>
 
@@ -639,7 +639,7 @@ export default {
 
             </aside>
           </div>
-          <!-- END PLAYLIST -->
+          <!-- END Queue -->
 
         </div>
 
@@ -681,8 +681,8 @@ export default {
               <i class="material-icons">repeat</i>
             </a> -->
 
-            <a @click.prevent="togglePlaylist()">
-              <i class="material-icons" :class="{ playlist_mode: sbVisible }">queue_music</i>
+            <a @click.prevent="toggleQueue()">
+              <i class="material-icons" :class="{ Queue_mode: sbVisible }">queue_music</i>
             </a>
           </div>
 
