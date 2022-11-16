@@ -1,4 +1,4 @@
 import { createApp } from 'vue'
-import Atarify from './Atarify.vue'
+import Player from './Player.vue'
 
-const app = createApp(Atarify).mount('#app')
+const app = createApp(Player).mount('#app')

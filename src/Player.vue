@@ -19,7 +19,7 @@ collections['sc68'] = sc68
 
 
 export default {
-  name: 'Atarify',
+  name: 'Player',
   data() {
     return {
       route: '/',
@@ -303,6 +303,10 @@ export default {
       }
     },
 
+    isLoadedInPlayer(composer, song) {
+      return (this.playerComposer == composer) && (this.playerSong == song);
+    },
+
     setCssHeight(elm, height) {
       elm.style.setProperty('--height', `${height}px`);
     },
@@ -363,9 +367,16 @@ export default {
             // onProgress
           })
         );
-        this.playing = !init
 
-        this.playlist = [this.playerPath];
+        if (init) {
+          this.onSelectComposer(this.playerComposer, true)
+          this.playing = false
+        } else {
+          this.playing = true
+        }
+
+        if ( this.playlist.indexOf(this.playerPath) == -1 )
+          this.playlist = [this.playerPath];
 
       }
     },
