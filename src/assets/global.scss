@@ -409,6 +409,7 @@ body {
 
     flex-direction: row;
     justify-content: space-between;
+    height: $margin-xxl;
   }
 
   .playing {
@@ -959,6 +960,7 @@ body {
     &__added {
 
       margin-left: $margin-sm * 2;
+      margin-right: $margin-sm * 2;
       color: $sand;
 
     }
@@ -976,11 +978,10 @@ body {
     &__title {
       margin-left: $margin-sm * 2;
       overflow: hidden;
-      width: 85%;
+      width: calc(85% - ($margin-sm * 10));
 
       display: flex;
       flex-wrap: wrap;
-      //@at-root: center;
 
       .title {
         width: 100%;
@@ -1056,164 +1057,6 @@ body {
   }
 
 }
-
-
-.social {
-
-  & {
-    padding: $padding;
-    text-align: center;
-    overflow-y: scroll;
-  }
-
-  .friends {
-
-    & {
-      display: flex;
-      flex-flow: column wrap;
-      margin-bottom: $margin;
-    }
-
-    .friend {
-
-      & {
-        padding: $padding 0;
-
-        display: flex;
-        flex-flow: row nowrap;
-        align-items: center;
-      }
-
-      &:first-child {
-        padding-top: 0;
-      }
-
-      i {
-        font-size: $large;
-        margin-right: $margin;
-      }
-
-    }
-
-  }
-
-}
-
-.media-cards {
-
-  & {
-    display: flex;
-    flex-flow: row wrap;
-  }
-
-  .media-card {
-
-    & {
-      margin: $margin;
-      width: calc((100% / 4) - 30px);
-    }
-
-    &__image {
-      height: 200px;
-      background-repeat: no-repeat;
-      background-position: center;
-      background-size: cover;
-
-      display: flex;
-      align-items: center;
-
-      i {
-        color: $white;
-        font-size: 72px;
-        margin: 0 auto;
-        opacity: 0;
-        transition: all 0.5s ease;
-        text-shadow: 1px 5px 15px $black;
-
-        &:hover {
-          cursor: pointer;
-        }
-      }
-
-      &:hover {
-
-        i {
-          opacity: 1;
-          transition: all 0.5s ease;
-        }
-
-      }
-
-    }
-
-    &__footer {
-
-      & {
-        display: block;
-        background: $light-black;
-        padding: $padding;
-        color: $white;
-      }
-
-      &:hover {
-        cursor: pointer;
-      }
-
-    }
-
-  }
-
-}
-
-@media (max-width: 1100px) {
-
-  .media-cards {
-
-    .media-card {
-
-      & {
-        width: calc((100% / 3) - 30px);
-      }
-
-    }
-
-  }
-
-}
-
-@media (max-width: 768px) {
-
-  .media-cards {
-
-    .media-card {
-
-      & {
-        width: calc((100% / 2) - 30px);
-      }
-
-    }
-
-  }
-
-}
-
-@media (max-width: 480px) {
-
-  .media-cards {
-
-    .media-card {
-
-      & {
-        margin: $margin 0;
-        width: 100%;
-      }
-
-    }
-
-  }
-
-}
-
 
 ::-webkit-scrollbar {
   width: 8px;
