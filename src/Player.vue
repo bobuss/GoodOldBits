@@ -42,6 +42,15 @@ export default {
       vVisible: false
     }
   },
+  watch: {
+    queue: {
+      deep: true,
+      handler(newQueue) {
+        console.log(newQueue)
+        localStorage.queue = newQueue
+      }
+    }
+  },
   computed: {
 
     facetedComposers() {
@@ -134,6 +143,11 @@ export default {
   },
 
   mounted() {
+    if (localStorage.queue) {
+      let potential_songs = localStorage.queue.split(',')
+      this.queue = this.flatSongs.filter(x => potential_songs.includes(x));
+      localStorage.queue = this.queue
+    }
     this.setupEvents();
     this.updateHeight();
     this.applyRoute( window.location.hash, true ) ;
@@ -172,7 +186,7 @@ export default {
             function() {},                // onPlayerReady
             function() {},                // onTrackReadyToPlay
             function() {                  // onTrackEnd
-              // strange hack here, but it works: repeat current track
+              // repeat current track
               console.log('doOnTrackEnd')
               self.play(self.playerPath, self.playerTrack);
             },
