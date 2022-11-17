@@ -383,7 +383,7 @@ export default {
 
       const data = String( route || '' ).replace( /^[\#\/]+|[\/]+$/g, '' ).trim().split( '/' );
 
-      if (data.length >= 5) {
+      if (data.length >= 4) {
         this.playerComposer = decodeURIComponent(data.slice(0,2).join('/'))
         this.playerTrack = data.pop()
         if (isPositiveInteger(this.playerTrack)){
@@ -473,7 +473,7 @@ export default {
     },
 
     displaySong(song) {
-      var re = new RegExp(this.formats.map(x => `.${x}`).join("|"), 'gi');
+      var re = new RegExp(this.formats.map(x => `.s${x}`).join("|"), 'gi');
       return song.replace(re, matched => '').replaceAll('_', ' ');
     },
 
