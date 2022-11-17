@@ -46,7 +46,6 @@ export default {
     queue: {
       deep: true,
       handler(newQueue) {
-        console.log(newQueue)
         localStorage.queue = newQueue
       }
     }
@@ -56,12 +55,14 @@ export default {
     facetedComposers() {
       const search = this.search.replaceAll(' ', '_').toLowerCase();
 
+      // filter flatSongs (aka format/author/song) by seach, and sort by author
       const filteredSongs = this.flatSongs.filter(song => {
         return song.toLowerCase().includes(search)
-      })
+      }).sort((a, b) => a.split('/')[1].localeCompare(b.split('/')[1]))
 
+      // count the number of matching songs and group by author
       const groupByComposer = filteredSongs.reduce((group, song) => {
-        const category = song.split('/')[0]
+        const category = song.split('/').slice(0,2).join('/')
         group[category] = group[category] ?? 0;
         group[category]++
         return group;
@@ -76,21 +77,35 @@ export default {
       }).map(song => song.substring(this.selectedComposer.length + 1) )
     },
 
-    backendAdapter() {
-      switch (this.format) {
-        case 'ym':
-          return YMBackendAdapter;
-        case 'xmp':
-          return XMPBackendAdapter;
-        case 'sndh':
-        case 'sc68':
-          return SC68BackendAdapter;
-          break;
-      }
+    formats() {
+      return Object.keys(collections)
     },
 
+    // backendAdapter() {
+    //   switch (this.format) {
+    //     case 'ym':
+    //       return YMBackendAdapter;
+    //     case 'xmp':
+    //       return XMPBackendAdapter;
+    //     case 'sndh':
+    //     case 'sc68':
+    //       return SC68BackendAdapter;
+    //       break;
+    //   }
+    // },
+
     musics() {
-      return collections[this.format]
+
+      return Object.keys(collections).reduce(
+        (acc1,format) => ({
+            ...acc1,
+            ...Object.keys(collections[format]).reduce(
+                (acc2, author) => ({
+                    ...acc2,
+                    ...{ [`${format}/${author}`]: collections[format][author] }})
+            ,{})
+        }),{})
+
     },
 
     playerPath() {
@@ -98,20 +113,19 @@ export default {
     },
 
     musicPath() {
-      switch (this.format) {
-        case 'xmp':
-          return 'http://modland.com/pub/modules/' + this.tracker + '/' + this.playerPath
-          break;
-        case 'sndh':
-          return 'musics/sndh/' + this.playerPath
-          break;
-        case 'sc68':
-          return 'musics/sc68/' + this.playerPath
-          break;
-        case 'ym':
-          return 'musics/ym/' + this.playerPath
-          break;
-      }
+      return 'musics/' + this.playerPath
+      // switch (this.format) {
+      //   case 'xmp':
+      //     return 'http://modland.com/pub/modules/' + this.tracker + '/' + this.playerPath
+      //     break;
+      //   case 'sndh':
+      //   case 'sc68':
+      //     return 'musics/' + this.playerPath
+      //     break;
+      //   case 'ym':
+      //     return 'musics/ym/' + this.playerPath
+      //     break;
+      // }
     },
 
     flatComposerSongs() {
@@ -125,13 +139,13 @@ export default {
       }, []);
     },
 
-    listOfSongs() {
+    listOfSongsInQueue() {
       return this.queue.map(function (path) {
         var arr = path.split('/')
         return {
           'path': path,
-          'composer': arr[0],
-          'title': arr.slice(1).join('/')
+          'composer': arr.slice(0,2).join('/'),
+          'title': arr.slice(2).join('/')
         }
       })
     }
@@ -167,38 +181,54 @@ export default {
 
     createPlayerInstance() {
 
-      switch (this.format) {
-        // case 'ym':
-        //   this.player = libymWrapper
-        //   break;
+      let self = this;
 
-        case 'xmp':
-        case 'sndh':
-        case 'sc68':
-          const backendAdapter = this.backendAdapter;
-          let self = this;
+      ScriptNodePlayer.createInstance(
+        new SC68BackendAdapter(),     // backendAdapter
+        '',                           // basePath, not needed here
+        [],                           // requiredFiles
+        false,                        // enableSpectrum
+        function() {},                // onPlayerReady
+        function() {},                // onTrackReadyToPlay
+        function() {                  // onTrackEnd
+          // repeat current track
+          console.log('doOnTrackEnd')
+          self.play(self.playerPath, self.playerTrack);
+        },
+        function() {}                 // doOnUpdate
+      );
+      this.player = ScriptNodePlayer.getInstance()
 
-          ScriptNodePlayer.createInstance(
-            new this.backendAdapter(),    // backendAdapter
-            '',                           // basePath, not needed here
-            [],                           // requiredFiles
-            false,                        // enableSpectrum
-            function() {},                // onPlayerReady
-            function() {},                // onTrackReadyToPlay
-            function() {                  // onTrackEnd
-              // repeat current track
-              console.log('doOnTrackEnd')
-              self.play(self.playerPath, self.playerTrack);
-            },
-            function() {}                 // doOnUpdate
-          );
-          this.player = ScriptNodePlayer.getInstance()
-          break;
-        // case 'xmp':
-        case 'ym':
-           this.player = cowbellWrapper
-           break;
-      }
+      // switch (this.format) {
+
+      //   case 'xmp':
+      //   case 'sndh':
+      //   case 'sc68':
+
+      //     let self = this;
+
+      //     ScriptNodePlayer.createInstance(
+      //       new SC68BackendAdapter(),     // backendAdapter
+      //       '',                           // basePath, not needed here
+      //       [],                           // requiredFiles
+      //       false,                        // enableSpectrum
+      //       function() {},                // onPlayerReady
+      //       function() {},                // onTrackReadyToPlay
+      //       function() {                  // onTrackEnd
+      //         // repeat current track
+      //         console.log('doOnTrackEnd')
+      //         self.play(self.playerPath, self.playerTrack);
+      //       },
+      //       function() {}                 // doOnUpdate
+      //     );
+      //     this.player = ScriptNodePlayer.getInstance()
+      //     break;
+      //   // case 'xmp':
+      //   case 'ym':
+      //      this.player = cowbellWrapper
+      //      //this.player = libymWrapper
+      //      break;
+      // }
 
     },
 
@@ -216,8 +246,8 @@ export default {
     play: function (composer_song, track = 1) {
 
       var arr = composer_song.split('/')
-      var composer = arr[0]
-      var song = arr.slice(1).join('/')
+      var composer = arr.slice(0,2).join('/')
+      var song = arr.slice(2).join('/')
 
       if (composer && song) {
 
@@ -300,12 +330,11 @@ export default {
 
     addToQueue(song) {
       this.queue.push(song)
-      // if it was the 1st element, then load the player,
-      // set -1 as current track to force to download the song in play method
+      // if it was the 1st element, then load the player
       if (this.queue.length == 1) {
         var arr = song.split('/')
-        this.playerComposer = arr[0];
-        this.playerSong = arr.slice(1).join('/');
+        this.playerComposer = arr.slice(0,2).join('/');
+        this.playerSong = arr.slice(2).join('/');
         this.playerTrack = 0
       }
     },
@@ -352,17 +381,17 @@ export default {
         return false;
       }
 
-      const data   = String( route || '' ).replace( /^[\#\/]+|[\/]+$/g, '' ).trim().split( '/' );
+      const data = String( route || '' ).replace( /^[\#\/]+|[\/]+$/g, '' ).trim().split( '/' );
 
-      if (data.length >= 3) {
-        this.playerComposer = decodeURIComponent(data.shift())
+      if (data.length >= 5) {
+        this.playerComposer = decodeURIComponent(data.slice(0,2).join('/'))
         this.playerTrack = data.pop()
         if (isPositiveInteger(this.playerTrack)){
           this.playerTrack=parseInt(this.playerTrack)
         } else {
           this.playerTrack=1;
         }
-        this.playerSong = decodeURIComponent(data.join('/'))
+        this.playerSong = decodeURIComponent(data.slice(2).join('/'))
 
         var self = this;
         this.player.loadMusicFromURL(
@@ -443,6 +472,16 @@ export default {
       }
     },
 
+    displaySong(song) {
+      var re = new RegExp(this.formats.map(x => `.${x}`).join("|"), 'gi');
+      return song.replace(re, matched => '').replaceAll('_', ' ');
+    },
+
+    displayComposer(composer) {
+      const comp_format = composer.split('/').reverse().map(x => x.replaceAll('_', ' '))
+      return comp_format[0] + ' [' + comp_format[1] + ']'
+    }
+
   }
 }
 </script>
@@ -481,7 +520,7 @@ export default {
                   :class="{ navigation__list__item__selected: composer == selectedComposer }"
                   @click.prevent="onSelectComposer(composer)">
 
-                <span :class="{ playing: composer == playerComposer }">{{ composer.replaceAll('_', ' ') }} ({{ count
+                <span :class="{ playing: composer == playerComposer }">{{ displayComposer(composer) }} ({{ count
                 }})</span>
               </a>
             </div>
@@ -495,7 +534,7 @@ export default {
           <div class="artist" ref="artist">
 
             <div class="artist__header">
-                <div class="artist__info__name">{{ selectedComposer.replaceAll('_', ' ') }}</div>
+                <div class="artist__info__name">{{ displayComposer(selectedComposer) }}</div>
             </div>
 
             <div class="artist__content">
@@ -550,7 +589,7 @@ export default {
                             </a>
 
                           </div>
-                          <div :class="{ playing: s == playerSong }" class="track__title">{{ s.replaceAll('_', ' ').replace(`.${format}`, '') }}</div>
+                          <div :class="{ playing: s == playerSong }" class="track__title">{{ displaySong(s) }}</div>
 
                           <div class="track__added">
                             <a v-if="isSongInQueue(s)" @click.prevent="removeFromQueue(selectedComposer + '/' + s)">
@@ -593,7 +632,7 @@ export default {
                         <div class="tracks">
 
 
-                          <a v-for="(s, index) in listOfSongs"
+                          <a v-for="(s, index) in listOfSongsInQueue"
                               href="#"
                               :key="s.path"
                               class="track"
@@ -629,9 +668,9 @@ export default {
                             </div>
 
                             <div :class="{ playing: s.path == playerPath }" class="track__title">
-                              <span class="title">{{ s.title.replaceAll('_', ' ').replace(`.${format}`, '') }}</span>
+                              <span class="title">{{ displaySong(s.title) }}</span>
                               <a class="composer" @click.prevent="onSelectComposer(s.composer, true)">{{
-                                  s.composer.replaceAll('_', ' ')
+                                  displayComposer(s.composer)
                               }}</a>
                             </div>
                             <div class="track__added">
@@ -642,15 +681,12 @@ export default {
 
                           </a>
 
-
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-
-
             </aside>
           </div>
           <!-- END Queue -->
@@ -666,8 +702,8 @@ export default {
         <!-- PLAYER -->
         <section class="playing" ref="playing">
           <div v-if="playerSong" class="playing__song">
-            <a class="playing__song__name" >{{ playerSong.replaceAll('_', ' ').replace(`.${format}`, '') }}</a>
-            <a class="playing__song__artist" @click.prevent="onSelectComposer(playerComposer, true)">{{ playerComposer.replaceAll('_', ' ') }}</a>
+            <a class="playing__song__name" >{{ displaySong(playerSong) }}</a>
+            <a class="playing__song__artist" @click.prevent="onSelectComposer(playerComposer, true)">{{ displayComposer(playerComposer) }}</a>
           </div>
         </section>
         <div class="current-track__player">
@@ -675,7 +711,9 @@ export default {
           <!-- <a>
             <i class="material-icons">shuffle</i>
           </a> -->
+
           <div>
+
             <a @click.prevent="previousSong()">
               <i class="material-icons">skip_previous</i>
             </a>
@@ -698,6 +736,7 @@ export default {
             <a @click.prevent="toggleQueue()">
               <i class="material-icons" :class="{ Queue_mode: sbVisible }">queue_music</i>
             </a>
+
           </div>
 
           <div v-if="songInfo.numberOfTracks > 1">
@@ -717,10 +756,6 @@ export default {
               </div>
             </a>
           </div>
-
-
-
-
 
         </div>
         <!-- END PLAYER -->

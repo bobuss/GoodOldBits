@@ -380,6 +380,7 @@ body {
   background-color: $black;
   pointer-events: none;
   z-index: -1;
+  overflow-y: scroll;
 
 
   &.active {
