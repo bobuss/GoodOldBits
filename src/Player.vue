@@ -473,7 +473,7 @@ export default {
     },
 
     displaySong(song) {
-      var re = new RegExp(this.formats.map(x => `.s${x}`).join("|"), 'gi');
+      var re = new RegExp(this.formats.map(x => `.${x}`).join("|"), 'gi');
       return song.replace(re, matched => '').replaceAll('_', ' ');
     },
 

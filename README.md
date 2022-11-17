@@ -3,7 +3,7 @@
 https://player.tornil.me/
 
 
-## Resources
+## Resources and Inspirations
 
 - design from https://codepen.io/alowenthal/pen/rxboRv
 - icons from https://fonts.google.com/icons
@@ -28,8 +28,10 @@ docker run --rm -v $PWD/stsound:/data -w /data emscripten/emsdk:latest emmake ma
 
 
 ## TODO
-- select format
-- seek for formats that support it
+- fixed width for player
+- work on onTrackEnd functions
+- more visible queue icon, maybe with visible info from the player
+- work on multi-tracks songs
+- save volume level
+- move song within the queue
 - more formats
-- bug on playlist with routing
-- revisit volume widget closing behavior
