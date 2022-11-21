@@ -61,4 +61,5 @@ generate_json = function(format) {
 generate_json('ym')
 generate_json('sndh')
 generate_json('sc68')
+generate_json('ahx')
 

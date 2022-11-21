@@ -4,6 +4,7 @@ const collections = {}
 
 // import libymWrapper from './libymWrapper'
 // import cowbellWrapper from './cowbellWrapper'
+import ahxWrapper from './ahxWrapper'
 
 import sndh from './json/sndh.json';
 collections['sndh'] = sndh
@@ -17,6 +18,9 @@ collections['sc68'] = sc68
 // import xmp from './json/xmp.json';
 // collections['xmp'] = xmp
 
+import ahx from './json/ahx.json';
+collections['ahx'] = ahx
+
 
 export default {
   name: 'Player',
@@ -24,11 +28,11 @@ export default {
     return {
       route: '/',
       init: false,
-      format: 'sndh',
       selectedComposer: '',
       player: null,
       playerComposer: null,
       playerSong: null,
+      playerFormat: null,
       playerTrack: 1,
       tracker: 'Protracker',
       songInfo: { numberOfTracks: 1 },
@@ -81,21 +85,7 @@ export default {
       return Object.keys(collections)
     },
 
-    // backendAdapter() {
-    //   switch (this.format) {
-    //     case 'ym':
-    //       return YMBackendAdapter;
-    //     case 'xmp':
-    //       return XMPBackendAdapter;
-    //     case 'sndh':
-    //     case 'sc68':
-    //       return SC68BackendAdapter;
-    //       break;
-    //   }
-    // },
-
     musics() {
-
       return Object.keys(collections).reduce(
         (acc1,format) => ({
             ...acc1,
@@ -105,7 +95,6 @@ export default {
                     ...{ [`${format}/${author}`]: collections[format][author] }})
             ,{})
         }),{})
-
     },
 
     playerPath() {
@@ -113,19 +102,9 @@ export default {
     },
 
     musicPath() {
-      return 'musics/' + this.playerPath
-      // switch (this.format) {
       //   case 'xmp':
       //     return 'http://modland.com/pub/modules/' + this.tracker + '/' + this.playerPath
-      //     break;
-      //   case 'sndh':
-      //   case 'sc68':
-      //     return 'musics/' + this.playerPath
-      //     break;
-      //   case 'ym':
-      //     return 'musics/ym/' + this.playerPath
-      //     break;
-      // }
+      return 'musics/' + this.playerPath
     },
 
     flatComposerSongs() {
@@ -181,8 +160,6 @@ export default {
 
     createPlayerInstance() {
 
-      let self = this;
-
       ScriptNodePlayer.createInstance(
         new SC68BackendAdapter(),     // backendAdapter
         '',                           // basePath, not needed here
@@ -197,39 +174,27 @@ export default {
         },
         function() {}                 // doOnUpdate
       );
-      this.player = ScriptNodePlayer.getInstance()
 
-      // switch (this.format) {
+    },
 
-      //   case 'xmp':
-      //   case 'sndh':
-      //   case 'sc68':
+    selectPlayer() {
+      switch (this.playerFormat) {
 
-      //     let self = this;
+        case 'xmp':
+        case 'sndh':
+        case 'sc68':
 
-      //     ScriptNodePlayer.createInstance(
-      //       new SC68BackendAdapter(),     // backendAdapter
-      //       '',                           // basePath, not needed here
-      //       [],                           // requiredFiles
-      //       false,                        // enableSpectrum
-      //       function() {},                // onPlayerReady
-      //       function() {},                // onTrackReadyToPlay
-      //       function() {                  // onTrackEnd
-      //         // repeat current track
-      //         console.log('doOnTrackEnd')
-      //         self.play(self.playerPath, self.playerTrack);
-      //       },
-      //       function() {}                 // doOnUpdate
-      //     );
-      //     this.player = ScriptNodePlayer.getInstance()
-      //     break;
-      //   // case 'xmp':
-      //   case 'ym':
-      //      this.player = cowbellWrapper
-      //      //this.player = libymWrapper
-      //      break;
-      // }
+          this.player = ScriptNodePlayer.getInstance()
+          break;
 
+        case 'ym':
+          this.player = cowbellWrapper
+          break;
+
+        case 'ahx':
+          this.player = ahxWrapper
+          break;
+      }
     },
 
     onSelectSong(song) {
@@ -246,17 +211,18 @@ export default {
     play: function (composer_song, track = 1) {
 
       var arr = composer_song.split('/')
+      var format = arr[0]
       var composer = arr.slice(0,2).join('/')
       var song = arr.slice(2).join('/')
 
       if (composer && song) {
 
-        if ((this.playerComposer == composer) && (this.playerSong == song) && (this.playerTrack == track)) {
+        if ((this.playerFormat == format) && (this.playerComposer == composer) && (this.playerSong == song) && (this.playerTrack == track)) {
           this.player.resume();
           this.playing = true
         } else {
           // different song, let's reset the track number
-          if ((this.playerComposer != composer) || (this.playerSong != song)) {
+          if ((this.playerFormat != format) || (this.playerComposer != composer) || (this.playerSong != song)) {
             track = 1;
           }
 
@@ -297,7 +263,7 @@ export default {
     nextSong: function () {
       if (this.playerSong) {
         let index = this.queue.indexOf(this.playerPath);
-        if ( index != -1 && index < this.queue.length ) {
+        if ( index != -1 && index < this.queue.length - 1) {
           this.play(this.queue[++index]);
         }
       }
@@ -384,6 +350,7 @@ export default {
       const data = String( route || '' ).replace( /^[\#\/]+|[\/]+$/g, '' ).trim().split( '/' );
 
       if (data.length >= 4) {
+        this.playerFormat = decodeURIComponent(data[0])
         this.playerComposer = decodeURIComponent(data.slice(0,2).join('/'))
         this.playerTrack = data.pop()
         if (isPositiveInteger(this.playerTrack)){
@@ -392,6 +359,11 @@ export default {
           this.playerTrack=1;
         }
         this.playerSong = decodeURIComponent(data.slice(2).join('/'))
+
+        // pause current player if needed
+        if (this.player)
+          this.player.pause()
+        this.selectPlayer()
 
         var self = this;
         this.player.loadMusicFromURL(
