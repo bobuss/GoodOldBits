@@ -17,6 +17,9 @@ https://player.tornil.me/
 - sndh collection from http://sndh.atari.org/
 - sc68 collection from http://sc68.atari.org/
 - checked out https://github.com/demozoo/cowbell, but does not support multi-track songs
+- https://github.com/bryc/ahx-web-player
+
+Big up to Nectarine web radio: https://scenestream.net/demovibes/streams/
 
 
 ## Building the ST-Sound library Emscripten port
