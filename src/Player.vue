@@ -5,6 +5,8 @@ const collections = {}
 // import libymWrapper from './libymWrapper'
 // import cowbellWrapper from './cowbellWrapper'
 import ahxWrapper from './ahxWrapper'
+import sc68Wrapper from './sc68Wrapper'
+import xmpWrapper from './xmpWrapper'
 
 import sndh from './json/sndh.json';
 collections['sndh'] = sndh
@@ -15,8 +17,8 @@ collections['sndh'] = sndh
 import sc68 from './json/sc68.json';
 collections['sc68'] = sc68
 
-// import xmp from './json/xmp.json';
-// collections['xmp'] = xmp
+import xmp from './json/allmods/Screamtracker 3.json';
+collections['Screamtracker 3'] = xmp
 
 import ahx from './json/ahx.json';
 collections['ahx'] = ahx
@@ -34,7 +36,6 @@ export default {
       playerSong: null,
       playerFormat: null,
       playerTrack: 1,
-      tracker: 'Protracker',
       songInfo: { numberOfTracks: 1 },
       search: '',
       playing: false,
@@ -102,9 +103,18 @@ export default {
     },
 
     musicPath() {
-      //   case 'xmp':
-      //     return 'http://modland.com/pub/modules/' + this.tracker + '/' + this.playerPath
-      return 'musics/' + this.playerPath
+
+      switch (this.playerFormat) {
+
+        case 'Screamtracker 3':
+          // https://modland.com/pub/modules/Fasttracker%202/Laxity/
+          return 'http://modland.com/pub/modules/' + this.playerPath
+          break;
+
+        default:
+          return 'musics/' + this.playerPath
+          break;
+      }
     },
 
     flatComposerSongs() {
@@ -148,7 +158,7 @@ export default {
   },
 
   created() {
-    this.createPlayerInstance();
+    this.createPlayerInstance()
   },
 
   beforeDestroy() {
@@ -159,6 +169,8 @@ export default {
   methods: {
 
     createPlayerInstance() {
+
+      var self = this;
 
       ScriptNodePlayer.createInstance(
         new SC68BackendAdapter(),     // backendAdapter
@@ -175,24 +187,30 @@ export default {
         function() {}                 // doOnUpdate
       );
 
+      this.player = ScriptNodePlayer.getInstance()
+
     },
 
     selectPlayer() {
       switch (this.playerFormat) {
 
-        case 'xmp':
+        case 'Screamtracker 3':
+
+          this.player = xmpWrapper;
+          break;
+
         case 'sndh':
         case 'sc68':
 
-          this.player = ScriptNodePlayer.getInstance()
+          this.player = sc68Wrapper;
           break;
 
         case 'ym':
-          this.player = cowbellWrapper
+          this.player = cowbellWrapper;
           break;
 
         case 'ahx':
-          this.player = ahxWrapper
+          this.player = ahxWrapper;
           break;
       }
     },
@@ -398,6 +416,9 @@ export default {
 
     // on keyboard events
     onKeyboard( e ) {
+      if (e.target.nodeName == 'INPUT') {
+        return
+      }
       const k = e.key || '';
       if ( k === ' ' ) {
         e.preventDefault();

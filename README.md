@@ -38,3 +38,4 @@ docker run --rm -v $PWD/stsound:/data -w /data emscripten/emsdk:latest emmake ma
 - save volume level
 - move song within the queue
 - more formats
+- seek bar for formats which support it

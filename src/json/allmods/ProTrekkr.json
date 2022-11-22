@@ -1,0 +1,28 @@
+{
+  "Dune": [
+    "alterraid.ptk"
+  ],
+  "Hitchhikr": [
+    "303 test.ptk"
+  ],
+  "Mice": [
+    "bitchbiker.ptk",
+    "primitive.ptk"
+  ],
+  "Nula": [
+    "ordinary-zero.ptk"
+  ],
+  "Rhino": [
+    "brass tacks.ptk",
+    "chemistry.ptk",
+    "c-masters.ptk",
+    "dragon.ptk",
+    "dream weaver.ptk",
+    "jameson.ptk",
+    "money.ptk",
+    "round a bout.ptk"
+  ],
+  "Tomchi": [
+    "devenirunpoulet.ptk"
+  ]
+}

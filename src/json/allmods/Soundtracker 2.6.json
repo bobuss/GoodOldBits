@@ -1,0 +1,32 @@
+{
+  "- unknown": [
+    "bachbell.mod",
+    "base boost.mod",
+    "killvictor.mod",
+    "news2.mod"
+  ],
+  "Cubic": [
+    "doitnow.mod",
+    "interactive.mod",
+    "virtual-reality.mod",
+    "you got it.mod"
+  ],
+  "Jan": [
+    "ref 8.mod"
+  ],
+  "Jan Caper": [
+    "astralwarp.mod",
+    "creatorofhailstones.mod",
+    "italo2.mod",
+    "rainbow.mod",
+    "rondo(a la turk).mod",
+    "sonate.mod",
+    "teknototti.mod"
+  ],
+  "Mark Wilson": [
+    "round the bend.mod"
+  ],
+  "Starbuck": [
+    "test.mod"
+  ]
+}

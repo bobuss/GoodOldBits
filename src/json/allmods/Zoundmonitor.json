@@ -1,0 +1,73 @@
+{
+  "AJ": [
+    "hittheroad.sng",
+    "sonjavanveen.sng"
+  ],
+  "Samples": [
+    "ackerbell",
+    "analogstring",
+    "awcpiano1",
+    "backingstr",
+    "bass2",
+    "bass6",
+    "bassdrum 5160",
+    "bigbang.smp",
+    "blow",
+    "bongo1 2206",
+    "claps1",
+    "detune",
+    "digdug",
+    "dxtom",
+    "electom",
+    "funbass",
+    "guitar2",
+    "hae.smp",
+    "hallbrass",
+    "heavysynth",
+    "heavytom.smp",
+    "highhat2",
+    "highhat2 2006",
+    "highop2",
+    "hihat1",
+    "hihat2",
+    "hooman",
+    "korgbass",
+    "koto",
+    "metalbell",
+    "metalkeys",
+    "panflute",
+    "perco",
+    "pingbells",
+    "pizza",
+    "plunkbass",
+    "plunkbass2",
+    "popbass",
+    "shaker",
+    "shamus",
+    "sinecz",
+    "snare3",
+    "snare4",
+    "snarehard.smp",
+    "strings6",
+    "strings.ss",
+    "thguitar",
+    "tom1",
+    "tom2",
+    "tom4",
+    "woodblock"
+  ],
+  "Sffen": [
+    "universe.sng"
+  ],
+  "The Balance": [
+    "gravediving.sng",
+    "gravedriving.sng",
+    "instructions.sng",
+    "karate.sng",
+    "maddick.sng",
+    "space.sng"
+  ],
+  "readme.txt": [
+    ""
+  ]
+}
