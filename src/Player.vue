@@ -2,26 +2,54 @@
 
 const collections = {}
 
-// import libymWrapper from './libymWrapper'
+import libymWrapper from './libymWrapper'
 // import cowbellWrapper from './cowbellWrapper'
 import ahxWrapper from './ahxWrapper'
 import sc68Wrapper from './sc68Wrapper'
 import xmpWrapper from './xmpWrapper'
+import mdxWrapper from './mdxWrapper'
 
 import sndh from './json/sndh.json';
 collections['sndh'] = sndh
 
-// import ym from './json/ym.json';
-// collections['ym'] = ym
+import ym from './json/ym.json';
+collections['ym'] = ym
 
 import sc68 from './json/sc68.json';
 collections['sc68'] = sc68
 
-import xmp from './json/allmods/Screamtracker 3.json';
-collections['Screamtracker 3'] = xmp
-
 import ahx from './json/ahx.json';
 collections['ahx'] = ahx
+
+// import s3m from './json/allmods/Screamtracker 3.json';
+// collections['Screamtracker 3'] = s3m
+
+// import md0 from './json/allmods/OctaMED MMD0.json';
+// collections['OctaMED MMD0'] = md0
+
+// import md1 from './json/allmods/OctaMED MMD1.json';
+// collections['OctaMED MMD1'] = md1
+
+// import md2 from './json/allmods/OctaMED MMD2.json';
+// collections['OctaMED MMD2'] = md2
+
+// import md3 from './json/allmods/OctaMED MMD3.json';
+// collections['OctaMED MMD3'] = md3
+
+// import mdc from './json/allmods/OctaMED MMDC.json';
+// collections['OctaMED MMDC'] = mdc
+
+// import ult from './json/allmods/Ultratracker.json';
+// collections['Ultratracker'] = ult
+
+// import mdx from './json/allmods/MDX.json';
+// collections['MDX'] = mdx
+
+// import Protracker from './json/allmods/Protracker.json';
+// collections['Protracker'] = Protracker
+
+// import Fasttracker2 from './json/allmods/Fasttracker 2.json';
+// collections['Fasttracker 2'] = Fasttracker2
 
 
 export default {
@@ -106,8 +134,16 @@ export default {
 
       switch (this.playerFormat) {
 
+        case 'MDX':
         case 'Screamtracker 3':
-          // https://modland.com/pub/modules/Fasttracker%202/Laxity/
+        case 'OctaMED MMD0':
+        case 'OctaMED MMD1':
+        case 'OctaMED MMD2':
+        case 'OctaMED MMD3':
+        case 'OctaMED MMDC':
+        case 'Ultratracker':
+        case 'Protracker':
+        case 'Fasttracker 2':
           return 'http://modland.com/pub/modules/' + this.playerPath
           break;
 
@@ -195,6 +231,14 @@ export default {
       switch (this.playerFormat) {
 
         case 'Screamtracker 3':
+        case 'OctaMED MMD0':
+        case 'OctaMED MMD1':
+        case 'OctaMED MMD2':
+        case 'OctaMED MMD3':
+        case 'OctaMED MMDC':
+        case 'Ultratracker':
+        case 'Protracker':
+        case 'Fasttracker 2':
 
           this.player = xmpWrapper;
           break;
@@ -206,12 +250,15 @@ export default {
           break;
 
         case 'ym':
-          this.player = cowbellWrapper;
+          this.player = libymWrapper;
           break;
 
         case 'ahx':
           this.player = ahxWrapper;
           break;
+
+        case 'mdx':
+          this.player = mdxWrapper;
       }
     },
 
