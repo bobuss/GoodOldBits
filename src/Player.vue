@@ -86,11 +86,15 @@ export default {
   computed: {
 
     facetedComposers() {
-      const search = this.search.replaceAll(' ', '_').toLowerCase();
+      const searches = this.search.toLowerCase().split(' ');
 
       // filter flatSongs (aka format/author/song) by seach, and sort by author
       const filteredSongs = this.flatSongs.filter(song => {
-        return song.toLowerCase().includes(search)
+
+        return searches.map(search => song.toLowerCase().includes(search)).reduce((acc,key) => {
+          return acc && key
+        }, true)
+
       }).sort((a, b) => a.split('/')[1].localeCompare(b.split('/')[1]))
 
       // count the number of matching songs and group by author
@@ -105,8 +109,14 @@ export default {
     },
 
     filteredSongs() {
+      const searches = this.search.toLowerCase().split(' ');
+
       return this.flatComposerSongs.filter(song => {
-        return song.toLowerCase().includes(this.search.replaceAll(' ', '_').toLowerCase());
+
+        return searches.map(search => song.toLowerCase().includes(search)).reduce((acc,key) => {
+          return acc && key
+        }, true)
+
       }).map(song => song.substring(this.selectedComposer.length + 1) )
     },
 
