@@ -7,13 +7,14 @@ import libymWrapper from './libymWrapper'
 import ahxWrapper from './ahxWrapper'
 import sc68Wrapper from './sc68Wrapper'
 import xmpWrapper from './xmpWrapper'
+import mptWrapper from './mptWrapper'
 import mdxWrapper from './mdxWrapper'
 
 import sndh from './json/sndh.json';
 collections['sndh'] = sndh
 
-import ym from './json/ym.json';
-collections['ym'] = ym
+// import ym from './json/ym.json';
+// collections['ym'] = ym
 
 import sc68 from './json/sc68.json';
 collections['sc68'] = sc68
@@ -45,8 +46,11 @@ collections['ahx'] = ahx
 // import mdx from './json/allmods/MDX.json';
 // collections['MDX'] = mdx
 
-// import Protracker from './json/allmods/Protracker.json';
-// collections['Protracker'] = Protracker
+import Protracker from './json/allmods/Protracker.json';
+collections['Protracker'] = Protracker
+
+import Soundtracker from './json/allmods/Soundtracker.json';
+collections['Soundtracker'] = Soundtracker
 
 // import Fasttracker2 from './json/allmods/Fasttracker 2.json';
 // collections['Fasttracker 2'] = Fasttracker2
@@ -105,7 +109,7 @@ export default {
         return group;
       }, {})
 
-      return groupByComposer
+      return groupByComposer;
     },
 
     filteredSongs() {
@@ -153,6 +157,7 @@ export default {
         case 'OctaMED MMDC':
         case 'Ultratracker':
         case 'Protracker':
+        case 'Soundtracker':
         case 'Fasttracker 2':
           return 'http://modland.com/pub/modules/' + this.playerPath
           break;
@@ -226,9 +231,8 @@ export default {
         function() {},                // onPlayerReady
         function() {},                // onTrackReadyToPlay
         function() {                  // onTrackEnd
-          // repeat current track
           console.log('doOnTrackEnd')
-          self.play(self.playerPath, self.playerTrack);
+          self.nextSong()
         },
         function() {}                 // doOnUpdate
       );
@@ -248,6 +252,7 @@ export default {
         case 'OctaMED MMDC':
         case 'Ultratracker':
         case 'Protracker':
+        case 'Soundtracker':
         case 'Fasttracker 2':
 
           this.player = xmpWrapper;
@@ -400,7 +405,11 @@ export default {
       window.addEventListener( 'hashchange', e => this.applyRoute( window.location.hash ) );
       window.addEventListener( 'keydown', this.onKeyboard );
       document.addEventListener( 'click' , this.handleVolumeDisplay );
+      document.querySelector('#scrollArea').addEventListener('scroll', this.scrollEv);
+    },
 
+    scrollEv(e) {
+      //console.log(e)
     },
 
     setRoute( route ) {
@@ -559,7 +568,7 @@ export default {
       <main class="content">
         <div class="content__left">
           <!-- COMPOSER LIST -->
-          <section class="navigation">
+          <section class="navigation" id="scrollArea">
 
             <div class="navigation__list">
               <a v-for="(count, composer) in facetedComposers"

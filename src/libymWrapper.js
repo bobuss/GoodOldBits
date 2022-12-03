@@ -16,6 +16,7 @@ libymModule().then(( instance ) => {
 // only create it when we play a song
 var audioCtx
 var scriptNode
+var gainNode
 
 var state = {
   paused: false,
@@ -82,6 +83,8 @@ function playSong (path, onCompletion) {
   if (!audioCtx) {
     audioCtx = new (window.AudioContext || window.webkitAudioContext)()
     scriptNode = audioCtx.createScriptProcessor(8192, 0, 1)
+    gainNode = audioCtx.createGain();
+    scriptNode.connect(gainNode);
   }
 
   axios.get(path.replace(/#/, '%23'), {
@@ -184,11 +187,18 @@ function getSongInfo (path) {
   return state.songInfo
 }
 
+function setVolume(value) {
+  if (typeof gainNode != 'undefined') {
+    gainNode.gain.value = value;
+  }
+}
+
 export default {
   loadMusicFromURL: loadMusicFromURL,
   pause: pause,
   resume: resume,
   getSongInfo: getSongInfo,
+  setVolume: setVolume,
   setOnSongEnded (callback) {
     onSongEnded = callback
   }

@@ -33,6 +33,18 @@ function getSongInfo() {
   return getPlayer().getSongInfo()
 }
 
+function getMaxPlaybackPosition() {
+  return getPlayer().getMaxPlaybackPosition()
+}
+
+function getPlaybackPosition(){
+  return getPlayer().getPlaybackPosition()
+}
+
+function seekPlaybackPosition(pos) {
+  return getPlayer().seekPlaybackPosition(pos)
+}
+
 
 
 
@@ -41,5 +53,8 @@ export default {
   pause: pause,
   resume: resume,
   getSongInfo: getSongInfo,
-  setVolume: setVolume
+  setVolume: setVolume,
+  getMaxPlaybackPosition: getMaxPlaybackPosition,
+  getPlaybackPosition: getPlaybackPosition,
+  seekPlaybackPosition: seekPlaybackPosition
 }
