@@ -2,13 +2,7 @@
 
 const collections = {}
 
-import libymWrapper from './libymWrapper'
-// import cowbellWrapper from './cowbellWrapper'
-import ahxWrapper from './ahxWrapper'
-import sc68Wrapper from './sc68Wrapper'
-import xmpWrapper from './xmpWrapper'
-import mptWrapper from './mptWrapper'
-import mdxWrapper from './mdxWrapper'
+import { NodePlayer } from './nodePlayer.js'
 
 import sndh from './json/sndh.json';
 collections['sndh'] = sndh
@@ -16,11 +10,11 @@ collections['sndh'] = sndh
 // import ym from './json/ym.json';
 // collections['ym'] = ym
 
-import sc68 from './json/sc68.json';
-collections['sc68'] = sc68
+// import sc68 from './json/sc68.json';
+// collections['sc68'] = sc68
 
-import ahx from './json/ahx.json';
-collections['ahx'] = ahx
+// import ahx from './json/ahx.json';
+// collections['ahx'] = ahx
 
 // import s3m from './json/allmods/Screamtracker 3.json';
 // collections['Screamtracker 3'] = s3m
@@ -46,14 +40,19 @@ collections['ahx'] = ahx
 // import mdx from './json/allmods/MDX.json';
 // collections['MDX'] = mdx
 
-import Protracker from './json/allmods/Protracker.json';
-collections['Protracker'] = Protracker
+// import Protracker from './json/allmods/Protracker.json';
+// collections['Protracker'] = Protracker
 
-import Soundtracker from './json/allmods/Soundtracker.json';
-collections['Soundtracker'] = Soundtracker
+// import Soundtracker from './json/allmods/Soundtracker.json';
+// collections['Soundtracker'] = Soundtracker
 
-// import Fasttracker2 from './json/allmods/Fasttracker 2.json';
-// collections['Fasttracker 2'] = Fasttracker2
+import Fasttracker2 from './json/allmods/Fasttracker 2.json';
+collections['Fasttracker 2'] = Fasttracker2
+
+const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+const player = new NodePlayer(audioContext)
+await player.loadWorkletProcessor('sc68')
+await player.loadWorkletProcessor('openmpt')
 
 
 export default {
@@ -76,10 +75,15 @@ export default {
       selectedSong: null,
       sbActive: false,
       sbVisible: false,
-      vVisible: false
+      vVisible: false,
+      volume: 0.5
     }
   },
   watch: {
+    volume() {
+      this.setVolume()
+    },
+
     queue: {
       deep: true,
       handler(newQueue) {
@@ -168,6 +172,32 @@ export default {
       }
     },
 
+    processorName() {
+
+      switch (this.playerFormat) {
+
+        case 'Screamtracker 3':
+        case 'OctaMED MMD0':
+        case 'OctaMED MMD1':
+        case 'OctaMED MMD2':
+        case 'OctaMED MMD3':
+        case 'OctaMED MMDC':
+        case 'Ultratracker':
+        case 'Protracker':
+        case 'Soundtracker':
+        case 'Fasttracker 2':
+
+          return 'openmpt';
+          break;
+
+        case 'sndh':
+        case 'sc68':
+
+          return 'sc68';
+          break;
+      }
+    },
+
     flatComposerSongs() {
       const composerSongs = this.musics[this.selectedComposer] || [];
       return composerSongs.map(song => this.selectedComposer + '/' + song)
@@ -196,6 +226,10 @@ export default {
     this.initDisplay();
   },
 
+  created() {
+    this.player = player
+  },
+
   mounted() {
     if (localStorage.queue) {
       let potential_songs = localStorage.queue.split(',')
@@ -208,74 +242,12 @@ export default {
     this.initDisplay();
   },
 
-  created() {
-    this.createPlayerInstance()
-  },
-
   beforeDestroy() {
     this.player.pause();
     this.player = null;
   },
 
   methods: {
-
-    createPlayerInstance() {
-
-      var self = this;
-
-      ScriptNodePlayer.createInstance(
-        new SC68BackendAdapter(),     // backendAdapter
-        '',                           // basePath, not needed here
-        [],                           // requiredFiles
-        false,                        // enableSpectrum
-        function() {},                // onPlayerReady
-        function() {},                // onTrackReadyToPlay
-        function() {                  // onTrackEnd
-          console.log('doOnTrackEnd')
-          self.nextSong()
-        },
-        function() {}                 // doOnUpdate
-      );
-
-      this.player = ScriptNodePlayer.getInstance()
-
-    },
-
-    selectPlayer() {
-      switch (this.playerFormat) {
-
-        case 'Screamtracker 3':
-        case 'OctaMED MMD0':
-        case 'OctaMED MMD1':
-        case 'OctaMED MMD2':
-        case 'OctaMED MMD3':
-        case 'OctaMED MMDC':
-        case 'Ultratracker':
-        case 'Protracker':
-        case 'Soundtracker':
-        case 'Fasttracker 2':
-
-          this.player = xmpWrapper;
-          break;
-
-        case 'sndh':
-        case 'sc68':
-
-          this.player = sc68Wrapper;
-          break;
-
-        case 'ym':
-          this.player = libymWrapper;
-          break;
-
-        case 'ahx':
-          this.player = ahxWrapper;
-          break;
-
-        case 'mdx':
-          this.player = mdxWrapper;
-      }
-    },
 
     onSelectSong(song) {
       this.selectedSong = song
@@ -332,8 +304,8 @@ export default {
       }
     },
 
-    changeVolume: function (value) {
-      this.player.setVolume(value);
+    setVolume: function () {
+      this.player.setVolume(this.volume);
     },
 
     isSongInQueue(song) {
@@ -418,7 +390,7 @@ export default {
       this.route = route;
     },
 
-    applyRoute( route, init=false ) {
+    async applyRoute( route, init=false ) {
 
       function isPositiveInteger(str) {
         if (typeof str !== 'string') {
@@ -444,28 +416,31 @@ export default {
         }
         this.playerSong = decodeURIComponent(data.slice(2).join('/'))
 
+
         // pause current player if needed
         if (this.player)
-          this.player.pause()
-        this.selectPlayer()
+           this.player.pause()
 
         var self = this;
-        this.player.loadMusicFromURL(
-          this.musicPath,
-          {
-            track: this.playerTrack - 1
-          },
-          (function (filename) {
-            // onCompletion
-            self.songInfo = self.player.getSongInfo()
-          }),
-          (function () {
-            // onFail
-          }),
-          (function (total, loaded) {
-            // onProgress
-          })
-        );
+        this.setVolume();
+
+        await this.player.load(this.musicPath, this.processorName)
+
+        this.player.resume()
+        //   {
+        //     track: this.playerTrack - 1
+        //   },
+        //   (function (filename) {
+        //     // onCompletion
+        //     self.songInfo = self.player.getSongInfo()
+        //   }),
+        //   (function () {
+        //     // onFail
+        //   }),
+        //   (function (total, loaded) {
+        //     // onProgress
+        //   })
+        // );
 
         if (init) {
           this.onSelectComposer(this.playerComposer, true)
@@ -811,7 +786,9 @@ export default {
             <a class="volume">
               <i class="material-icons" @click.prevent="toggleVolumeBar()">volume_up</i>
               <div class="volume_range" :style="{display: vVisible ? 'block' : 'none'}">
-                <input type="range" orient="vertical" min="0" max="1" value="1" step="0.1" @change="changeVolume($event.target.value)">
+
+                <input type="range" orient="vertical" min="0" max="1" step="0.05" v-model="volume" @change="setVolume()"/>
+
               </div>
             </a>
           </div>
