@@ -3,6 +3,15 @@
 https://player.tornil.me/
 
 
+## Based on NodePlayer
+Modern WebAudio Module player, uses AudioWorklets
+
+Supports
+- [libopnmpt](https://lib.openmpt.org/libopenmpt/) worklet processor (version 0.6.7, 2023-01-08)
+- [sc68](http://sc68.atari.org/index.html) worklet processor
+
+
+
 ## Resources and Inspirations
 
 - design from https://codepen.io/alowenthal/pen/rxboRv
