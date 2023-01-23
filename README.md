@@ -1,14 +1,19 @@
 # Atari music jukebox
 
+![Good Old Bits](screen.png)
+
 https://player.tornil.me/
+
 
 
 ## Based on NodePlayer
 Modern WebAudio Module player, uses AudioWorklets
 
-Supports
+Supports:
 - [libopnmpt](https://lib.openmpt.org/libopenmpt/) worklet processor (version 0.6.7, 2023-01-08)
+  - emscripten worklet-compatible module... built manually. Will push that on a repository, on day
 - [sc68](http://sc68.atari.org/index.html) worklet processor
+  - emscripten worklet-compatible module from https://github.com/bobuss/sc68-2.2.1
 
 
 

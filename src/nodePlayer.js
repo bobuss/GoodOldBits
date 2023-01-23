@@ -13,16 +13,24 @@ const SUPPORTED_PROCESSORS = [ 'sc68', 'openmpt' ]
 export class NodePlayer {
 
     spectrumEnabled = false
-    canvas;
-    canvasContext;
+    scopes = [];
 
     // container for song infos like: name, author, etc
     songInfo = {};
 
     // general WebAudio stuff
-    audioRoutings = {}
+    processors = {}
 
-    gainNode;
+    splitter;
+    merger;
+    leftGain;
+    rightGain;
+    mainGain;
+
+    leftAnalyser;
+    rightAnalyser;
+    mainAnalyser;
+
     panNode;
     audioWorklet;
     processorName;
@@ -49,19 +57,54 @@ export class NodePlayer {
         this.onPlayerReady = function () { console.log('onPlayerReady') }
         this.onTrackReadyToPlay = function () { console.log('onTrackReadyToPlay') }
         this.onTrackEnd = function () { console.log('onTrackEnd') }
+        this.onSongInfoUpdated = function () { console.log('onSongInfoUpdated') }
 
 
         if (this.isAppleShit()) {
             this.iOSHack(this.audioContext);
         }
 
-        this.gainNode = this.audioContext.createGain();
+        this.mainGain = this.audioContext.createGain();
+        this.splitter = this.audioContext.createChannelSplitter(2);
+        this.merger = this.audioContext.createChannelMerger(2);
         this.panNode = this.audioContext.createStereoPanner();
 
-        this.gainNode.connect(this.panNode)
+        // Split output in 2 branches for stero
+        //  - dedicated analyser
+        //  - dedicated volume
+        //
+
+        // LEFT
+        this.leftGain = this.audioContext.createGain();
+        this.leftAnalyser = this.createAnalyser();
+        this.splitter.connect(this.leftGain, 0, 0);
+        this.leftGain.connect(this.leftAnalyser);
+        this.leftAnalyser.connect(this.merger, 0, 0);
+
+        // RIGHT
+        this.rightGain = this.audioContext.createGain();
+        this.rightAnalyser = this.createAnalyser();
+        this.splitter.connect(this.rightGain, 1, 0);
+        this.rightGain.connect(this.rightAnalyser);
+        this.rightAnalyser.connect(this.merger, 0, 1);
+
+        // Main routing to destinatino
+        this.mainAnalyser = this.createAnalyser()
+        this.merger.connect(this.mainAnalyser);
+        this.mainAnalyser.connect(this.mainGain)
+        this.mainGain.connect(this.panNode)
         this.panNode.connect(this.audioContext.destination);
     }
 
+    createAnalyser() {
+        const analyser = this.audioContext.createAnalyser();
+        // analysers parameters to tweak, certainly not the right place
+        analyser.minDecibels = -140;
+        analyser.maxDecibels = 0;
+        analyser.fftSize = 128
+        analyser.smoothingTimeConstant = 0.8;
+        return analyser
+    }
 
     async loadWorkletProcessor(processorName) {
         if (!processorName in SUPPORTED_PROCESSORS) {
@@ -69,7 +112,7 @@ export class NodePlayer {
             return false
         } else {
 
-            if (this.audioRoutings[processorName] === undefined) {
+            if (this.processors[processorName] === undefined) {
 
                 const timestamp = Date.now()
 
@@ -86,25 +129,7 @@ export class NodePlayer {
                 audioWorkletNode.port.onmessage = this.onmessage.bind(this);
                 audioWorkletNode.port.start()
 
-                const splitter = this.audioContext.createChannelSplitter(2);
-                audioWorkletNode.connect(splitter)
-
-                const merger = this.audioContext.createChannelMerger(2);
-
-                const analyzerNodes = []
-
-                for (let i = 0; i < 2 ; ++i) {
-                    const analyser = this.audioContext.createAnalyser();
-                    splitter.connect(analyser, i, 0)
-                    analyser.connect(merger, 0, i)
-                    analyzerNodes.push(analyser)
-                }
-
-                this.audioRoutings[processorName] = {
-                    'audioWorkletNode': audioWorkletNode,
-                    'analyzerNodes': analyzerNodes,
-                    'merger': merger
-                };
+                this.processors[processorName] = audioWorkletNode,
 
                 console.log('registered ' + processorName + '-worklet-processor')
             } else {
@@ -114,30 +139,19 @@ export class NodePlayer {
     }
 
     selectWorkletProcessor(processorName) {
-        if (this.processorName) {
+        if (SUPPORTED_PROCESSORS.indexOf(this.processorName) != -1 && this.processorName in this.processors ) {
             // stop and unplug the current worklet processor
             this.pause()
-            this.merger.disconnect(this.gainNode);
+            this.audioWorkletNode.disconnect(this.splitter)
         }
         this.processorName = processorName
-        this.merger.connect(this.gainNode);
+        this.audioWorkletNode.connect(this.splitter)
     }
 
-    get merger() {
-        if (SUPPORTED_PROCESSORS.indexOf(this.processorName) != -1 ) {
-            return this.audioRoutings[this.processorName]['merger'];
-        }
-    }
 
     get audioWorkletNode() {
-        if (SUPPORTED_PROCESSORS.indexOf(this.processorName) != -1 ) {
-            return this.audioRoutings[this.processorName]['audioWorkletNode'];
-        }
-    }
-
-    get analyzerNodes() {
-        if (SUPPORTED_PROCESSORS.indexOf(this.processorName) != -1 ) {
-            return this.audioRoutings[this.processorName]['analyzerNodes'];
+        if (SUPPORTED_PROCESSORS.indexOf(this.processorName) != -1 && this.processorName in this.processors ) {
+            return this.processors[this.processorName]
         }
     }
 
@@ -149,6 +163,7 @@ export class NodePlayer {
 
             case 'songInfoUpdated':
                 this.songInfo = data.songInfo
+                this.onSongInfoUpdated()
                 break;
 
             case 'fileRequestCallback':
@@ -172,7 +187,6 @@ export class NodePlayer {
                 break;
 
             case 'retryPrepareTrackForPlayback':
-                console.log('retry')
                 this.prepareTrackForPlayback(this.lasFullFilename, this.lastData, this.lastTrack)
                 break;
 
@@ -208,7 +222,7 @@ export class NodePlayer {
     getPathAndFilename(filename) {
         const sp = filename.split('/');
         const fn = sp[sp.length - 1];
-        const path = filename.substring(0, filename.lastIndexOf("/"));
+        let path = filename.substring(0, filename.lastIndexOf("/"));
         if (path.lenght) path = path + "/";
 
         return [path, fn];
@@ -236,7 +250,8 @@ export class NodePlayer {
             this.setTrack(track)
 
             this.audioWorkletNode.port.postMessage({
-                type: 'updateSongInfo'
+                type: 'updateSongInfo',
+                filename: fullFilename
             })
 
             console.log('prepareTrackForPlayback succeded')
@@ -254,7 +269,7 @@ export class NodePlayer {
     /*
     * start audio playback
     */
-    resume(options) {
+    play(options) {
         if (this.audioWorkletNode) {
             // on Safari macOS/iOS, the audioContext is suspended if it's not created
             // in the event handler of a user action: we attempt to resume it.
@@ -271,9 +286,32 @@ export class NodePlayer {
     }
 
     /*
-    * pause audio playback
+    * pause / resume audio playback
     */
     pause() {
+        if (this.audioWorkletNode) {
+            if (this.playing) {
+                this.audioWorkletNode.port.postMessage({
+                    type: 'pause'
+                })
+                this.playing = false;
+            }
+        }
+    }
+
+    resume() {
+        if (this.audioWorkletNode) {
+            if (!this.playing) {
+                this.audioWorkletNode.port.postMessage({
+                    type: 'play'
+                })
+                this.playing = false;
+                this.render();
+            }
+        }
+    }
+
+    stop() {
         if (this.audioWorkletNode) {
             this.audioWorkletNode.port.postMessage({
                 type: 'pause'
@@ -297,12 +335,11 @@ export class NodePlayer {
     * set the playback volume (input between 0 and 1)
     */
     setVolume(value) {
-        this.gainNode.gain.setValueAtTime(value, this.audioContext.currentTime);
+        this.mainGain.gain.setValueAtTime(value, this.audioContext.currentTime);
     }
 
-
     getVolume() {
-        return this.gainNode.gain.value;
+        return this.mainGain.gain.value;
     }
 
 
@@ -320,11 +357,8 @@ export class NodePlayer {
         this.onTrackEnd = onTrackEnd;
     }
 
-    /**
-    * Get backend specific song infos like 'author', 'name', etc.
-    */
-    getSongInfo() {
-        return this.songInfo;
+    setOnSongInfoUpdated(onSongInfoUpdated) {
+        this.onSongInfoUpdated = onSongInfoUpdated
     }
 
     // ******* song "position seek" related (if available with used backend)
@@ -365,8 +399,28 @@ export class NodePlayer {
         }
     }
 
+    /**
+    To get a better result, we also play on the gain nodes bound to each individual channel (left and right)
+    panning goes from -1 (left) to 1 (right)
+        as a result:
+        when the panning is [-1:0], the left gain goes from [0: 1]
+        when the panning is [0:1], the right gain goes from [0: 1]
+    */
     setPanning(panning) {
+        panning = parseFloat(panning)
         this.panNode.pan.setValueAtTime(panning, this.audioContext.currentTime);
+        this.leftGain.gain.value = 1
+        this.rightGain.gain.value = 1
+
+        if (panning < 0) {
+            // left
+            this.leftGain.gain.setValueAtTime(panning + 1, this.audioContext.currentTime);
+        }
+        else if (panning > 0) {
+            // right
+            this.rightGain.gain.setValueAtTime(1 - panning, this.audioContext.currentTime);
+        }
+
     }
 
 
@@ -414,76 +468,37 @@ export class NodePlayer {
         }
     }
 
+    addScopeToMain(scope) {
+        scope.register_analyser(this.mainAnalyser)
+        this.scopes.push(scope)
+    }
 
-    enableSpectrum(canvas) {
-        this.canvas = canvas;
-        this.canvasContext = this.canvas.getContext('2d');
+    addScopeToLeftChannel(scope) {
+        scope.register_analyser(this.leftAnalyser)
+        this.scopes.push(scope)
+    }
+
+    addScopeToRightChannel(scope) {
+        scope.register_analyser(this.rightAnalyser)
+        this.scopes.push(scope)
+    }
+
+    enableSpectrum() {
         this.spectrumEnabled = true
     }
 
+    disableSpectrum() {
+        this.spectrumEnabled = false
+    }
 
     render() {
-        if (this.playing && this.spectrumEnabled && this.canvasContext !== undefined) {
-            this.renderScope();
+        if (this.playing && this.spectrumEnabled && this.scopes.length != 0) {
+            this.scopes.forEach((scope) => {
+                scope.render();
+            })
             requestAnimationFrame(this.render.bind(this));
         }
     }
 
-
-    renderScope() {
-
-        this.canvasContext.fillStyle = "transparent";
-        this.canvasContext.clearRect(0, 0, this.canvas.width, this.canvas.height);
-        const num_analysers = this.analyzerNodes.length
-
-        if (num_analysers == 0) {
-            return
-        }
-
-        const style = "rgb(43, 156, 212)",
-            edgeThreshold = 0;
-
-
-        this.analyzerNodes.forEach((analyzerNode, i) => {
-
-            const timeData = new Float32Array(analyzerNode.frequencyBinCount);
-            let risingEdge = 0;
-
-            analyzerNode.getFloatTimeDomainData(timeData);
-
-            this.canvasContext.fillStyle = "rgba(255,255,255,0.8)";
-            this.canvasContext.strokeStyle = style;
-            this.canvasContext.fillStyle = style;
-
-            // this.canvasContext.beginPath();
-
-            while (timeData[risingEdge] > 0 &&
-                risingEdge <= this.canvas.width / num_analysers &&
-                risingEdge < timeData.length) {
-                risingEdge++;
-            }
-
-            if (risingEdge >= this.canvas.width / num_analysers) { risingEdge = 0; }
-
-
-            while (timeData[risingEdge] < edgeThreshold &&
-                risingEdge <= this.canvas.width / num_analysers&&
-                risingEdge < timeData.length) {
-                risingEdge++;
-            }
-
-            if (risingEdge >= this.canvas.width / num_analysers) { risingEdge = 0; }
-
-            for (let x = risingEdge; x < timeData.length && x - risingEdge < this.canvas.width / num_analysers; x++) {
-                const y = this.canvas.height - (((timeData[x] + 1) / 2) * this.canvas.height);
-                // this.canvasContext.moveTo(x - risingEdge + i * this.canvas.width, y-1);
-                // this.canvasContext.lineTo(x - risingEdge + i * this.canvas.width, y);
-                this.canvasContext.fillRect(x - risingEdge + i * this.canvas.width / num_analysers, y, 1, 1);
-            }
-
-
-        });
-
-    }
 }
 

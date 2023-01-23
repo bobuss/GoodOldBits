@@ -2,13 +2,8 @@
 
 const collections = {}
 
-import { NodePlayer } from './nodePlayer.js'
-
 import sndh from './json/sndh.json';
 collections['sndh'] = sndh
-
-// import ym from './json/ym.json';
-// collections['ym'] = ym
 
 // import sc68 from './json/sc68.json';
 // collections['sc68'] = sc68
@@ -49,10 +44,6 @@ collections['sndh'] = sndh
 import Fasttracker2 from './json/allmods/Fasttracker 2.json';
 collections['Fasttracker 2'] = Fasttracker2
 
-const audioContext = new (window.AudioContext || window.webkitAudioContext)();
-const player = new NodePlayer(audioContext)
-await player.loadWorkletProcessor('sc68')
-await player.loadWorkletProcessor('openmpt')
 
 
 export default {
@@ -62,7 +53,6 @@ export default {
       route: '/',
       init: false,
       selectedComposer: '',
-      player: null,
       playerComposer: null,
       playerSong: null,
       playerFormat: null,
@@ -94,38 +84,47 @@ export default {
   computed: {
 
     facetedComposers() {
+
       const searches = this.search.toLowerCase().split(' ');
 
-      // filter flatSongs (aka format/author/song) by seach, and sort by author
-      const filteredSongs = this.flatSongs.filter(song => {
+      const filteredSongs = []
+      this.flatSongs.forEach(song => {
+        let res = true
 
-        return searches.map(search => song.toLowerCase().includes(search)).reduce((acc,key) => {
-          return acc && key
-        }, true)
+        searches.forEach(search => {
+          if (song.toLowerCase().indexOf(search) != -1) {
+            res = res && true
+          } else {
+            res = res && false
+          }
+        })
 
-      }).sort((a, b) => a.split('/')[1].localeCompare(b.split('/')[1]))
+        if (res) {
+          filteredSongs.push(song)
+        }
 
+      })
       // count the number of matching songs and group by author
-      const groupByComposer = filteredSongs.reduce((group, song) => {
-        const category = song.split('/').slice(0,2).join('/')
-        group[category] = group[category] ?? 0;
-        group[category]++
-        return group;
-      }, {})
+      const groupByComposer = {}
 
-      return groupByComposer;
+      filteredSongs.forEach(song => {
+        const category = song.split('/').slice(0, 2).join('/')
+        groupByComposer[category] = groupByComposer[category] ?? 0;
+        groupByComposer[category]++
+      })
+
+      return groupByComposer
+
     },
 
     filteredSongs() {
       const searches = this.search.toLowerCase().split(' ');
 
       return this.flatComposerSongs.filter(song => {
-
-        return searches.map(search => song.toLowerCase().includes(search)).reduce((acc,key) => {
+        return searches.map(search => song.toLowerCase().includes(search)).reduce((acc, key) => {
           return acc && key
         }, true)
-
-      }).map(song => song.substring(this.selectedComposer.length + 1) )
+      }).map(song => song.substring(this.selectedComposer.length + 1))
     },
 
     formats() {
@@ -134,14 +133,15 @@ export default {
 
     musics() {
       return Object.keys(collections).reduce(
-        (acc1,format) => ({
-            ...acc1,
-            ...Object.keys(collections[format]).reduce(
-                (acc2, author) => ({
-                    ...acc2,
-                    ...{ [`${format}/${author}`]: collections[format][author] }})
-            ,{})
-        }),{})
+        (acc1, format) => ({
+          ...acc1,
+          ...Object.keys(collections[format]).reduce(
+            (acc2, author) => ({
+              ...acc2,
+              ...{ [`${format}/${author}`]: collections[format][author] }
+            })
+            , {})
+        }), {})
     },
 
     playerPath() {
@@ -214,7 +214,7 @@ export default {
         var arr = path.split('/')
         return {
           'path': path,
-          'composer': arr.slice(0,2).join('/'),
+          'composer': arr.slice(0, 2).join('/'),
           'title': arr.slice(2).join('/')
         }
       })
@@ -222,15 +222,19 @@ export default {
 
   },
 
-  updated(){
+  updated() {
     this.initDisplay();
   },
 
-  created() {
-    this.player = player
-  },
-
   mounted() {
+    const self = this
+    this.player.setOnTrackEnd(function() {
+      self.nextSong()
+    });
+    this.player.setOnSongInfoUpdated(function() {
+      self.songInfo = this.songInfo
+    });
+    // this.player.reset() ?
     if (localStorage.queue) {
       let potential_songs = localStorage.queue.split(',')
       this.queue = this.flatSongs.filter(x => potential_songs.includes(x));
@@ -238,11 +242,12 @@ export default {
     }
     this.setupEvents();
     this.updateHeight();
-    this.applyRoute( window.location.hash, true ) ;
+    this.applyRoute(window.location.hash, true);
     this.initDisplay();
   },
 
   beforeDestroy() {
+    console.log('beforeDestroy')
     this.player.pause();
     this.player = null;
   },
@@ -253,24 +258,24 @@ export default {
       this.selectedSong = song
     },
 
-    onSelectComposer(composer, scroll=false) {
+    onSelectComposer(composer, scroll = false) {
       this.toggleQueue(false)
       this.selectedComposer = composer
       const element = document.getElementById("nav_c_" + composer);
-      if (scroll && element) element.scrollIntoView({behavior: "smooth", block: "center", inline: "nearest"});
+      if (scroll && element) element.scrollIntoView({ behavior: "smooth", block: "center", inline: "nearest" });
     },
 
     play: function (composer_song, track = 1) {
 
       var arr = composer_song.split('/')
       var format = arr[0]
-      var composer = arr.slice(0,2).join('/')
+      var composer = arr.slice(0, 2).join('/')
       var song = arr.slice(2).join('/')
 
       if (composer && song) {
 
         if ((this.playerFormat == format) && (this.playerComposer == composer) && (this.playerSong == song) && (this.playerTrack == track)) {
-          this.player.resume();
+          this.player.play();
           this.playing = true
         } else {
           // different song, let's reset the track number
@@ -278,7 +283,7 @@ export default {
             track = 1;
           }
 
-          this.setRoute( composer + '/' + song + '/' + track );
+          this.setRoute(composer + '/' + song + '/' + track);
 
         }
       }
@@ -289,8 +294,8 @@ export default {
       this.playing = false;
     },
 
-    resume: function() {
-      if ((this.playerComposer ) && (this.playerSong ) && (this.playerTrack )) {
+    resume: function () {
+      if ((this.playerComposer) && (this.playerSong) && (this.playerTrack)) {
         this.player.resume();
         this.playing = true;
       }
@@ -315,7 +320,7 @@ export default {
     nextSong: function () {
       if (this.playerSong) {
         let index = this.queue.indexOf(this.playerPath);
-        if ( index != -1 && index < this.queue.length - 1) {
+        if (index != -1 && index < this.queue.length - 1) {
           this.play(this.queue[++index]);
         }
       }
@@ -351,7 +356,7 @@ export default {
       // if it was the 1st element, then load the player
       if (this.queue.length == 1) {
         var arr = song.split('/')
-        this.playerComposer = arr.slice(0,2).join('/');
+        this.playerComposer = arr.slice(0, 2).join('/');
         this.playerSong = arr.slice(2).join('/');
         this.playerTrack = 0
       }
@@ -373,10 +378,10 @@ export default {
     },
 
     setupEvents() {
-      document.addEventListener( 'visibilitychange', e => { this.visible = ( document.visibilityState === 'visible' ) } );
-      window.addEventListener( 'hashchange', e => this.applyRoute( window.location.hash ) );
-      window.addEventListener( 'keydown', this.onKeyboard );
-      document.addEventListener( 'click' , this.handleVolumeDisplay );
+      document.addEventListener('visibilitychange', e => { this.visible = (document.visibilityState === 'visible') });
+      window.addEventListener('hashchange', e => this.applyRoute(window.location.hash));
+      window.addEventListener('keydown', this.onKeyboard);
+      document.addEventListener('click', this.handleVolumeDisplay);
       document.querySelector('#scrollArea').addEventListener('scroll', this.scrollEv);
     },
 
@@ -384,13 +389,13 @@ export default {
       //console.log(e)
     },
 
-    setRoute( route ) {
-      route = '/'+ String( route || '' ).replace( /^[\#\/]+|[\/]+$/g, '' ).trim();
+    setRoute(route) {
+      route = '/' + String(route || '').replace(/^[\#\/]+|[\/]+$/g, '').trim();
       window.location.hash = route;
       this.route = route;
     },
 
-    async applyRoute( route, init=false ) {
+    async applyRoute(route, init = false) {
 
       function isPositiveInteger(str) {
         if (typeof str !== 'string') {
@@ -403,44 +408,34 @@ export default {
         return false;
       }
 
-      const data = String( route || '' ).replace( /^[\#\/]+|[\/]+$/g, '' ).trim().split( '/' );
+      const data = String(route || '').replace(/^[\#\/]+|[\/]+$/g, '').trim().split('/');
 
       if (data.length >= 4) {
+        // save to compare
+        const oldMusicPath = this.musicPath;
         this.playerFormat = decodeURIComponent(data[0])
-        this.playerComposer = decodeURIComponent(data.slice(0,2).join('/'))
+        this.playerComposer = decodeURIComponent(data.slice(0, 2).join('/'))
+        const oldPlayerTrack = this.playerTrack;
         this.playerTrack = data.pop()
-        if (isPositiveInteger(this.playerTrack)){
-          this.playerTrack=parseInt(this.playerTrack)
+        if (isPositiveInteger(this.playerTrack)) {
+          this.playerTrack = parseInt(this.playerTrack)
         } else {
-          this.playerTrack=1;
+          this.playerTrack = 1;
         }
         this.playerSong = decodeURIComponent(data.slice(2).join('/'))
 
 
         // pause current player if needed
-        if (this.player)
-           this.player.pause()
-
-        var self = this;
+        if (this.player) this.player.pause()
         this.setVolume();
 
-        await this.player.load(this.musicPath, this.processorName)
+        if (oldMusicPath == this.musicPath && oldPlayerTrack != this.playerTrack) {
+          this.player.setTrack(this.playerTrack)
+        } else {
+          await this.player.load(this.musicPath, this.processorName, this.playerTrack-1)
+        }
 
-        this.player.resume()
-        //   {
-        //     track: this.playerTrack - 1
-        //   },
-        //   (function (filename) {
-        //     // onCompletion
-        //     self.songInfo = self.player.getSongInfo()
-        //   }),
-        //   (function () {
-        //     // onFail
-        //   }),
-        //   (function (total, loaded) {
-        //     // onProgress
-        //   })
-        // );
+        if (this.player) this.player.play()
 
         if (init) {
           this.onSelectComposer(this.playerComposer, true)
@@ -449,19 +444,19 @@ export default {
           this.playing = true
         }
 
-        if ( this.queue.indexOf(this.playerPath) == -1 )
+        if (this.queue.indexOf(this.playerPath) == -1)
           this.queue.unshift(this.playerPath);
 
       }
     },
 
     // on keyboard events
-    onKeyboard( e ) {
+    onKeyboard(e) {
       if (e.target.nodeName == 'INPUT') {
         return
       }
       const k = e.key || '';
-      if ( k === ' ' ) {
+      if (k === ' ') {
         e.preventDefault();
         return this.togglePlay();
       }
@@ -482,18 +477,18 @@ export default {
       }, 100);
     },
 
-    toggleQueue( state )  {
+    toggleQueue(state) {
       const currentstate = typeof state == 'boolean' ? state : !this.sbActive;
-      if ( currentstate ) {
+      if (currentstate) {
         this.sbActive = true;
         this.sbVisible = true;
       } else {
         this.sbVisible = false;
-        setTimeout( () => { this.sbActive = false; }, 500 );
+        setTimeout(() => { this.sbActive = false; }, 500);
       }
     },
 
-    toggleVolumeBar( state ) {
+    toggleVolumeBar(state) {
       const nextState = typeof state == 'boolean' ? state : !this.vVisible;
       this.vVisible = nextState
     },
@@ -546,15 +541,13 @@ export default {
           <section class="navigation" id="scrollArea">
 
             <div class="navigation__list">
-              <a v-for="(count, composer) in facetedComposers"
-                  :id="'nav_c_' + composer"
-                  :ref="composer"
-                  :key="composer" href="#"
-                  class="navigation__list__item"
-                  :class="{ navigation__list__item__selected: composer == selectedComposer }"
-                  @click.prevent="onSelectComposer(composer)">
+              <a v-for="(count, composer) in facetedComposers" :id="'nav_c_' + composer" :ref="composer" :key="composer"
+                href="#" class="navigation__list__item"
+                :class="{ navigation__list__item__selected: composer == selectedComposer }"
+                @click.prevent="onSelectComposer(composer)">
 
-                <span :class="{ playing: composer == playerComposer }">{{ displayComposer(composer) }} ({{ count
+                <span :class="{ playing: composer == playerComposer }">{{ displayComposer(composer) }} ({{
+                  count
                 }})</span>
               </a>
             </div>
@@ -568,7 +561,7 @@ export default {
           <div class="artist" ref="artist">
 
             <div class="artist__header">
-                <div class="artist__info__name">{{ displayComposer(selectedComposer) }}</div>
+              <div class="artist__info__name">{{ displayComposer(selectedComposer) }}</div>
             </div>
 
             <div class="artist__content">
@@ -587,15 +580,10 @@ export default {
                           <div class="tracks__heading__number">#</div>
                           <div class="tracks__heading__title">Song</div>
                         </div>
-                        <a v-for="(s, index) in filteredSongs"
-                            href="#"
-                            :key="s"
-                            class="track"
-                            :class="{ track__selected: s == selectedSong }"
-                            @click.prevent="onSelectSong(s)"
-                            @dblclick.prevent="play(selectedComposer + '/' + s, playerTrack, true)"
-                            @mouseover="hover = s"
-                            @mouseleave="hover = null">
+                        <a v-for="(s, index) in filteredSongs" href="#" :key="s" class="track"
+                          :class="{ track__selected: s == selectedSong }" @click.prevent="onSelectSong(s)"
+                          @dblclick.prevent="play(selectedComposer + '/' + s, playerTrack, true)" @mouseover="hover = s"
+                          @mouseleave="hover = null">
 
                           <div v-if="s != selectedSong" class="track__number">
                             <span v-if="hover == s">
@@ -666,15 +654,9 @@ export default {
                         <div class="tracks">
 
 
-                          <a v-for="(s, index) in listOfSongsInQueue"
-                              href="#"
-                              :key="s.path"
-                              class="track"
-                              :class="{ track__selected: s.path == selectedSong }"
-                              @click.prevent="onSelectSong(s.path)"
-                              @dblclick.prevent="play(s.path)"
-                              @mouseover="hover = s.path"
-                              @mouseleave="hover = null">
+                          <a v-for="(s, index) in listOfSongsInQueue" href="#" :key="s.path" class="track"
+                            :class="{ track__selected: s.path == selectedSong }" @click.prevent="onSelectSong(s.path)"
+                            @dblclick.prevent="play(s.path)" @mouseover="hover = s.path" @mouseleave="hover = null">
 
                             <div v-if="s.path != selectedSong" class="track__number">
                               <span v-if="hover == s.path">
@@ -692,7 +674,8 @@ export default {
 
                             </div>
                             <div v-else class="track__number">
-                              <a v-if="playing && (s.path == playerPath)" class="ion-ios-pause" @click.prevent="pause()">
+                              <a v-if="playing && (s.path == playerPath)" class="ion-ios-pause"
+                                @click.prevent="pause()">
                                 <i class="material-icons">pause</i>
                               </a>
                               <a v-else @click.prevent="play(s.path)">
@@ -704,7 +687,7 @@ export default {
                             <div :class="{ playing: s.path == playerPath }" class="track__title">
                               <span class="title">{{ displaySong(s.title) }}</span>
                               <a class="composer" @click.prevent="onSelectComposer(s.composer, true)">{{
-                                  displayComposer(s.composer)
+                                displayComposer(s.composer)
                               }}</a>
                             </div>
                             <div class="track__added">
@@ -736,8 +719,10 @@ export default {
         <!-- PLAYER -->
         <section class="playing" ref="playing">
           <div v-if="playerSong" class="playing__song">
-            <a class="playing__song__name" >{{ displaySong(playerSong) }}</a>
-            <a class="playing__song__artist" @click.prevent="onSelectComposer(playerComposer, true)">{{ displayComposer(playerComposer) }}</a>
+            <a class="playing__song__name">{{ displaySong(playerSong) }}</a>
+            <a class="playing__song__artist" @click.prevent="onSelectComposer(playerComposer, true)">{{
+              displayComposer(playerComposer)
+            }}</a>
           </div>
         </section>
         <div class="current-track__player">
@@ -781,13 +766,13 @@ export default {
             <a @click.prevent="nextTrack()">
               <i class="material-icons">navigate_next</i>
             </a>
-            </div>
-            <div>
+          </div>
+          <div>
             <a class="volume">
               <i class="material-icons" @click.prevent="toggleVolumeBar()">volume_up</i>
-              <div class="volume_range" :style="{display: vVisible ? 'block' : 'none'}">
+              <div class="volume_range" :style="{ display: vVisible ? 'block' : 'none' }">
 
-                <input type="range" orient="vertical" min="0" max="1" step="0.05" v-model="volume" @change="setVolume()"/>
+                <input type="range" orient="vertical" min="0" max="1" step="0.05" v-model="volume" />
 
               </div>
             </a>
