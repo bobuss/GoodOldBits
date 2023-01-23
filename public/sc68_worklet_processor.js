@@ -514,7 +514,6 @@ class SC68BackendAdapter extends EmsHEAP16BackendAdapter {
             if (isWaiting) {
                 // eventually the "replay" will be loaded and normal
                 // processing will resume
-                //ScriptNodePlayer.getInstance().setWait(true);
                 return -1;
             } else {
                 if (this.Module.ccall('emu_is_track_change', 'number', ['number'], [status])) {

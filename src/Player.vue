@@ -1,49 +1,53 @@
 <script>
 
-const collections = {}
+const MODLAND_AVAILABLE_FORMATS = [
+  "Protracker",
+  "Screamtracker 3",
+  "Fasttracker 2",
+  "Impulsetracker",
+  "OpenMPT MPTM",
+  "Composer 669",
+  "Asylum",
+  "Extreme Tracker",
+  "Digibooster Pro",
+  "Digibooster",
+  "X-Tracker",
+  "Digital Sound Interface Kit",
+  "Digital Symphony",
+  "Digital Tracker DTM",
+  "Farandole Composer",
+  "FM Tracker",
+  "General DigiMusic",
+  "Imago Orpheus",
+  "Digitrakker",
+  "OctaMED MMD0",
+  "OctaMED MMD1",
+  "OctaMED MMD2",
+  "OctaMED MMD3",
+  "OctaMED MMDC",
+  "MO3",
+  "Mad Tracker 2",
+  "Multitracker",
+  "Oktalyzer",
+  "Epic Megagames MASI",
+  "Disorder Tracker 2",
+  "ProTracker 3.6 IFF",
+  "Polytracker",
+  "MultiMedia Sound",
+  "SoundFX",
+  "Screamtracker 2",
+  "Soundtracker Pro II",
+  "Symphonie",
+  "Ultratracker",
+  "SNDH",
+  "SC68"
+]
 
-import sndh from './json/sndh.json';
-collections['sndh'] = sndh
-
-// import sc68 from './json/sc68.json';
-// collections['sc68'] = sc68
-
-// import ahx from './json/ahx.json';
-// collections['ahx'] = ahx
-
-// import s3m from './json/allmods/Screamtracker 3.json';
-// collections['Screamtracker 3'] = s3m
-
-// import md0 from './json/allmods/OctaMED MMD0.json';
-// collections['OctaMED MMD0'] = md0
-
-// import md1 from './json/allmods/OctaMED MMD1.json';
-// collections['OctaMED MMD1'] = md1
-
-// import md2 from './json/allmods/OctaMED MMD2.json';
-// collections['OctaMED MMD2'] = md2
-
-// import md3 from './json/allmods/OctaMED MMD3.json';
-// collections['OctaMED MMD3'] = md3
-
-// import mdc from './json/allmods/OctaMED MMDC.json';
-// collections['OctaMED MMDC'] = mdc
-
-// import ult from './json/allmods/Ultratracker.json';
-// collections['Ultratracker'] = ult
-
-// import mdx from './json/allmods/MDX.json';
-// collections['MDX'] = mdx
-
-// import Protracker from './json/allmods/Protracker.json';
-// collections['Protracker'] = Protracker
-
-// import Soundtracker from './json/allmods/Soundtracker.json';
-// collections['Soundtracker'] = Soundtracker
-
-import Fasttracker2 from './json/allmods/Fasttracker 2.json';
-collections['Fasttracker 2'] = Fasttracker2
-
+const LOCAL_AVAILABLE_FORMATS = [
+  "sndh",
+  "sc68",
+  "ahx"
+]
 
 
 export default {
@@ -66,7 +70,13 @@ export default {
       sbActive: false,
       sbVisible: false,
       vVisible: false,
-      volume: 0.5
+      volume: 0.5,
+      modland_enabled_formats: ['Fasttracker 2'],
+      local_enabled_formats: ['sndh'],
+      composerSongs: {},
+      flatSongs: [],
+
+
     }
   },
   watch: {
@@ -127,23 +137,6 @@ export default {
       }).map(song => song.substring(this.selectedComposer.length + 1))
     },
 
-    formats() {
-      return Object.keys(collections)
-    },
-
-    musics() {
-      return Object.keys(collections).reduce(
-        (acc1, format) => ({
-          ...acc1,
-          ...Object.keys(collections[format]).reduce(
-            (acc2, author) => ({
-              ...acc2,
-              ...{ [`${format}/${author}`]: collections[format][author] }
-            })
-            , {})
-        }), {})
-    },
-
     playerPath() {
       return this.playerComposer + '/' + this.playerSong;
     },
@@ -152,23 +145,15 @@ export default {
 
       switch (this.playerFormat) {
 
-        case 'MDX':
-        case 'Screamtracker 3':
-        case 'OctaMED MMD0':
-        case 'OctaMED MMD1':
-        case 'OctaMED MMD2':
-        case 'OctaMED MMD3':
-        case 'OctaMED MMDC':
-        case 'Ultratracker':
-        case 'Protracker':
-        case 'Soundtracker':
-        case 'Fasttracker 2':
-          return 'http://modland.com/pub/modules/' + this.playerPath
+        case 'sc68':
+        case 'sndh':
+          return 'musics/' + this.playerPath
           break;
 
         default:
-          return 'musics/' + this.playerPath
+          return 'http://modland.com/pub/modules/' + this.playerPath
           break;
+
       }
     },
 
@@ -176,37 +161,24 @@ export default {
 
       switch (this.playerFormat) {
 
-        case 'Screamtracker 3':
-        case 'OctaMED MMD0':
-        case 'OctaMED MMD1':
-        case 'OctaMED MMD2':
-        case 'OctaMED MMD3':
-        case 'OctaMED MMDC':
-        case 'Ultratracker':
-        case 'Protracker':
-        case 'Soundtracker':
-        case 'Fasttracker 2':
-
-          return 'openmpt';
+        case 'SNDH':
+        case 'SC68':
+        case 'sc68':
+        case 'sndh':
+          return 'sc68';
           break;
 
-        case 'sndh':
-        case 'sc68':
-
-          return 'sc68';
+        default:
+          return 'openmpt';
           break;
       }
     },
 
     flatComposerSongs() {
-      const composerSongs = this.musics[this.selectedComposer] || [];
-      return composerSongs.map(song => this.selectedComposer + '/' + song)
-    },
-
-    flatSongs() {
-      return Object.keys(this.musics).reduce((acc, key) => {
-        return acc.concat(this.musics[key].map(music => `${key}/${music}`))
-      }, []);
+      if (this.selectedComposer in this.composerSongs) {
+        return this.composerSongs[this.selectedComposer].map(song => this.selectedComposer + '/' + song)
+      }
+      return []
     },
 
     listOfSongsInQueue() {
@@ -226,14 +198,30 @@ export default {
     this.initDisplay();
   },
 
-  mounted() {
+  async mounted() {
+
+    if (this.modland_enabled_formats.length >= 0) {
+      await this.buildSongListFromFile('modland', this.modland_enabled_formats)
+    }
+
+    this.local_enabled_formats.forEach(async format => {
+      await this.buildSongListFromFile(format, [format])
+    });
+
+    console.log(this.composerSongs)
+
     const self = this
-    this.player.setOnTrackEnd(function() {
+
+    // onTrackEnd
+    this.player.setOnTrackEnd(function () {
       self.nextSong()
     });
-    this.player.setOnSongInfoUpdated(function() {
+
+    // onSongInfoUpdated
+    this.player.setOnSongInfoUpdated(function () {
       self.songInfo = this.songInfo
     });
+
     // this.player.reset() ?
     if (localStorage.queue) {
       let potential_songs = localStorage.queue.split(',')
@@ -253,6 +241,45 @@ export default {
   },
 
   methods: {
+
+    async buildSongListFromFile(filename, enabled_formats) {
+
+      await fetch(`${filename}.txt`)
+        .then(response => {
+          if (!response.ok) {
+            throw new Error(response.status);
+          }
+          return response.text();
+        })
+        .then(lines => {
+
+          const start = Date.now()
+
+          lines.split('\n').forEach(line => {
+            const s = line.split('\t')
+            const size = s[0]
+            const path = s[1]
+            if (path !== undefined) {
+              const arr = path.split('/')
+              const format = arr[0]
+              const composer = arr.slice(0, 2).join('/')
+              const song = arr.slice(2).join('/')
+
+              if (enabled_formats.indexOf(format) != -1) {
+
+                this.flatSongs.push(s[1]);
+                if (composer in this.composerSongs) {
+                  this.composerSongs[composer].push(song)
+                } else {
+                  this.composerSongs[composer] = [song]
+                }
+              }
+            }
+          });
+
+          console.log(`buildSongsList(${filename}.txt): ${Date.now() - start} ms`);
+        });
+    },
 
     onSelectSong(song) {
       this.selectedSong = song
@@ -432,7 +459,7 @@ export default {
         if (oldMusicPath == this.musicPath && oldPlayerTrack != this.playerTrack) {
           this.player.setTrack(this.playerTrack)
         } else {
-          await this.player.load(this.musicPath, this.processorName, this.playerTrack-1)
+          await this.player.load(this.musicPath, this.processorName, this.playerTrack - 1)
         }
 
         if (this.player) this.player.play()
@@ -502,8 +529,9 @@ export default {
     },
 
     displaySong(song) {
-      var re = new RegExp(this.formats.map(x => `.${x}`).join("|"), 'gi');
-      return song.replace(re, matched => '').replaceAll('_', ' ');
+      //var re = new RegExp(this.formats.map(x => `.${x}`).join("|"), 'gi');
+      //return song.replace(re, matched => '').replaceAll('_', ' ');
+      return song
     },
 
     displayComposer(composer) {
