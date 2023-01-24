@@ -7,6 +7,7 @@ const audioContext = new (window.AudioContext || window.webkitAudioContext)();
 const player = new NodePlayer(audioContext)
 await player.loadWorkletProcessor('sc68')
 await player.loadWorkletProcessor('openmpt')
+await player.loadWorkletProcessor('ahx')
 
 app.config.globalProperties.player = player
 app.mount('#app')

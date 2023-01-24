@@ -40,7 +40,8 @@ const MODLAND_AVAILABLE_FORMATS = [
   "Symphonie",
   "Ultratracker",
   "SNDH",
-  "SC68"
+  "SC68",
+  "AHX"
 ]
 
 const LOCAL_AVAILABLE_FORMATS = [
@@ -71,8 +72,8 @@ export default {
       sbVisible: false,
       vVisible: false,
       volume: 0.5,
-      modland_enabled_formats: ['Fasttracker 2'],
-      local_enabled_formats: ['sndh'],
+      modland_enabled_formats: [],
+      local_enabled_formats: ['ahx'],
       composerSongs: {},
       flatSongs: [],
 
@@ -145,6 +146,7 @@ export default {
 
       switch (this.playerFormat) {
 
+        case 'ahx':
         case 'sc68':
         case 'sndh':
           return 'musics/' + this.playerPath
@@ -160,6 +162,11 @@ export default {
     processorName() {
 
       switch (this.playerFormat) {
+
+        case 'ahx':
+        case 'AHX':
+          return 'ahx';
+          break;
 
         case 'SNDH':
         case 'SC68':
@@ -207,8 +214,6 @@ export default {
     this.local_enabled_formats.forEach(async format => {
       await this.buildSongListFromFile(format, [format])
     });
-
-    console.log(this.composerSongs)
 
     const self = this
 
