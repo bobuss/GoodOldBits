@@ -8,6 +8,9 @@ const player = new NodePlayer(audioContext)
 await player.loadWorkletProcessor('sc68')
 await player.loadWorkletProcessor('openmpt')
 await player.loadWorkletProcessor('ahx')
+await player.loadWorkletProcessor('pt')
+await player.loadWorkletProcessor('ft2')
+await player.loadWorkletProcessor('st3')
 
 app.config.globalProperties.player = player
 app.mount('#app')

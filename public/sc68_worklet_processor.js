@@ -94,7 +94,7 @@ else if (typeof exports === 'object')
 
 version 2.0
 
-    Copyright (C) 2015 Juergen Wothke
+    Copyright (C) 2023 Bertrand Tornil
 
  LICENSE
 
