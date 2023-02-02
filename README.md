@@ -22,6 +22,18 @@ https://player.tornil.me/
 - It plays files served locally or served from internet, currently supports [modland](https://modland.com/).
 
 
+## Run it locally
+
+It's a Vue.js application
+
+Clone the repository. Then,
+
+```
+npm install
+npm run dev
+```
+
+
 ## Resources and Inspirations
 
 - design from https://codepen.io/alowenthal/pen/rxboRv

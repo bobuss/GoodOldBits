@@ -150,29 +150,16 @@ export default {
 
         musicPath() {
 
-            switch (this.playerFormat) {
+            if (LOCAL_AVAILABLE_FORMATS.indexOf(this.playerFormat) != -1)
+                return 'musics/' + this.playerPath
+            else
+                return 'https://modland.com/pub/modules/' + this.playerPath
 
-                case 'ahx':
-                case 'sc68':
-                case 'sndh':
-                    return 'musics/' + this.playerPath
-                    break;
-
-                default:
-                    return 'https://modland.com/pub/modules/' + this.playerPath
-                    break;
-
-            }
         },
 
         processorName() {
 
             switch (this.playerFormat) {
-
-                case 'ahx':
-                case 'AHX':
-                    return 'ahx';
-                    break;
 
                 case 'SNDH':
                 case 'SC68':
@@ -232,7 +219,7 @@ export default {
         };
 
         // sort the list by author
-        this.flatSongs.sort(function(a, b) {
+        this.flatSongs.sort(function (a, b) {
             return a.split('/')[1] < b.split('/')[1] ? -1 : 1
         })
 
@@ -495,7 +482,7 @@ export default {
                     this.player.setTrack(this.playerTrack)
                 } else {
                     // That's where we acutally load the music
-                    await this.player.load(this.musicPath, {'track': this.playerTrack})
+                    await this.player.load(this.musicPath, { 'track': this.playerTrack })
                 }
 
                 if (this.player) this.player.play()
@@ -646,13 +633,15 @@ export default {
                                                     <div class="tracks__heading__number">#</div>
                                                     <div class="tracks__heading__title">Song</div>
                                                 </div>
-                                                <a v-for="(s, index) in filteredComposerSongs" href="#" :key="s" class="track"
-                                                    :class="{ track__selected: s == selectedSong && selectedComposer == playerComposer}"
+                                                <a v-for="(s, index) in filteredComposerSongs" href="#" :key="s"
+                                                    class="track"
+                                                    :class="{ track__selected: s == selectedSong && selectedComposer == playerComposer }"
                                                     @click.prevent="onSelectSong(s)"
                                                     @dblclick.prevent="play(selectedComposer + '/' + s, playerTrack, true)"
                                                     @mouseover="hover = s" @mouseleave="hover = null">
 
-                                                    <div v-if="s != selectedSong || selectedComposer != playerComposer" class="track__number">
+                                                    <div v-if="s != selectedSong || selectedComposer != playerComposer"
+                                                        class="track__number">
                                                         <span v-if="hover == s">
 
                                                             <a v-if="playing && (s == playerSong)"
@@ -682,9 +671,10 @@ export default {
                                                         </a>
 
                                                     </div>
-                                                    <div :class="{ playing: s == playerSong && selectedComposer == playerComposer }" class="track__title">{{
-                                                        displaySong(s)
-                                                    }}</div>
+                                                    <div :class="{ playing: s == playerSong && selectedComposer == playerComposer }"
+                                                        class="track__title">{{
+                                                            displaySong(s)
+                                                        }}</div>
 
                                                     <div class="track__added">
                                                         <a v-if="isSongInQueue(s)"
