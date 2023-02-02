@@ -1,4 +1,4 @@
-# Atari music jukebox
+# Nostalgic music jukebox
 
 ![Good Old Bits](screen.png)
 
@@ -6,15 +6,20 @@ https://player.tornil.me/
 
 
 
-## Based on NodePlayer
-Modern WebAudio Module player, uses AudioWorklets
+## Features
+- Modern WebAudio Module player, uses [AudioWorklets](https://developer.mozilla.org/en-US/docs/Web/API/AudioWorklet).
 
-Supports:
-- [libopnmpt](https://lib.openmpt.org/libopenmpt/) worklet processor (version 0.6.7, 2023-01-08)
-  - emscripten worklet-compatible module... built manually. Will push that on a repository, on day
-- [sc68](http://sc68.atari.org/index.html) worklet processor
-  - emscripten worklet-compatible module from https://github.com/bobuss/sc68-2.2.1
+- Have a look to the list of [supported formats](src/README.md).
 
+- Supports the following backends:
+  - [libopnmpt](https://lib.openmpt.org/libopenmpt/) worklet processor (version 0.6.7, 2023-01-08)
+    - emscripten worklet-compatible module... built manually. Will push that on a repository, on day
+  - [sc68](http://sc68.atari.org/index.html) worklet processor
+    - emscripten worklet-compatible module from https://github.com/bobuss/sc68-2.2.1
+    - adapted from [Juergen Wothke webAudio86](https://bitbucket.org/wothke/sc68-2.2.1/src/master/).
+  - FastTracker2, Screamtracker3 and Protracker adapted from [webaudio-mod-player](https://github.com/electronoora/webaudio-mod-player)
+
+- It plays files served locally or served from internet, currently supports [modland](https://modland.com/).
 
 
 ## Resources and Inspirations
@@ -36,20 +41,9 @@ Supports:
 Big up to Nectarine web radio: https://scenestream.net/demovibes/streams/
 
 
-## Building the ST-Sound library Emscripten port
-
-```
-docker run --rm -v $PWD/stsound:/data -w /data emscripten/emsdk:latest emmake make clean libym.js
-```
-
-
 
 ## TODO
 - fixed width for player
-- work on onTrackEnd functions
+- work on onTrackEnd functions. Often stuck with sc68 backend...
 - more visible queue icon, maybe with visible info from the player
-- work on multi-tracks songs
-- save volume level
-- move song within the queue
-- more formats
 - seek bar for formats which support it
