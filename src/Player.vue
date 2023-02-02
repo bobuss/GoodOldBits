@@ -1,4 +1,7 @@
 <script>
+import { LegacyPlayer } from './legacy-player.js'
+
+const audioContext = new (window.AudioContext || window.webkitAudioContext)();
 
 const MODLAND_AVAILABLE_FORMATS = [
     "Protracker",
@@ -55,6 +58,7 @@ export default {
     name: 'Player',
     data() {
         return {
+            player: null,
             route: '/',
             init: false,
             selectedComposer: '',
@@ -208,6 +212,16 @@ export default {
     },
 
     async mounted() {
+
+        this.player = new LegacyPlayer(audioContext)
+
+        await this.player.loadWorkletProcessor('sc68')
+        await this.player.loadWorkletProcessor('openmpt')
+        await this.player.loadWorkletProcessor('ahx')
+        await this.player.loadWorkletProcessor('pt')
+        await this.player.loadWorkletProcessor('ft2')
+        await this.player.loadWorkletProcessor('st3')
+
 
         if (this.modland_enabled_formats.length >= 0) {
             await this.buildSongListFromFile('modland', this.modland_enabled_formats)
