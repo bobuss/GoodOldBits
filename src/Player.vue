@@ -159,7 +159,7 @@ export default {
                     break;
 
                 default:
-                    return 'http://modland.com/pub/modules/' + this.playerPath
+                    return 'https://modland.com/pub/modules/' + this.playerPath
                     break;
 
             }
