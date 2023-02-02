@@ -1,67 +1,380 @@
-{
-  "Jochen Hippel": [
-    "5th gear.hip",
-    "astaroth 2.hip",
-    "astaroth.hip",
-    "battle valley.hip",
-    "comic bakery.hip",
-    "crazy comets.hip",
-    "cybernoid 2.hip",
-    "dragonflight always.hip",
-    "dragonflight ani.hip",
-    "dragonflight dungeon.hip",
-    "dragonflight endsequence.hip",
-    "dragonflight fight.hip",
-    "dragonflight surface.hip",
-    "dragonflight title.hip",
-    "dragonflight town.hip",
-    "dragonflight unicorn.hip",
-    "endless piracy.hip",
-    "hurricane-100bobs.hip",
-    "leaving teramis 01.hip",
-    "leaving teramis 02.hip",
-    "leaving teramis 03.hip",
-    "leaving teramis 04.hip",
-    "leaving teramis 05.hip",
-    "leaving teramis 06.hip",
-    "leaving teramis 07.hip",
-    "leaving teramis 08.hip",
-    "leaving teramis 09.hip",
-    "leaving teramis 10.hip",
-    "leaving teramis 11.hip",
-    "leaving teramis 12.hip",
-    "loading2.hip",
-    "prince.hip",
-    "quartex-intro.hip",
-    "rings of medusa.hip",
-    "scoopmix.hip",
-    "shaolin ingame 1.hip",
-    "shaolin ingame 2.hip",
-    "shaolin ingame 4.hip",
-    "shaolin title.hip",
-    "thalion intro.hip",
-    "the seven gates of jambala (gameover).hip",
-    "the seven gates of jambala (ingame 2).hip",
-    "the seven gates of jambala (ingame).hip",
-    "the seven gates of jambala (intro).hip",
-    "the seven gates of jambala (the end).hip",
-    "tower fra.hip",
-    "triviatheultimatequest.hip",
-    "warp (end).hip",
-    "warp (ingame 1).hip",
-    "warp (ingame 2).hip",
-    "warp (secret title).hip",
-    "warp (title).hip",
-    "wings of death (a scape of fire).hip",
-    "wings of death (cold lands of doom).hip",
-    "wings of death (crystal world).hip",
-    "wings of death (end).hip",
-    "wings of death (intro).hip",
-    "wings of death (outro).hip",
-    "wings of death (sagyr's castle).hip",
-    "wings of death (the jungle of mutants).hip",
-    "wings of death (the lethal swamps).hip",
-    "wings of death (title).hip",
-    "wings of death (xandrilia's domain).hip"
-  ]
-}
+[
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "5th gear.hip",
+    "size": "42784"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "astaroth 2.hip",
+    "size": "30434"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "astaroth.hip",
+    "size": "28924"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "battle valley.hip",
+    "size": "50574"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "comic bakery.hip",
+    "size": "8724"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "crazy comets.hip",
+    "size": "37046"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "cybernoid 2.hip",
+    "size": "51218"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "dragonflight always.hip",
+    "size": "18062"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "dragonflight ani.hip",
+    "size": "7834"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "dragonflight dungeon.hip",
+    "size": "19090"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "dragonflight endsequence.hip",
+    "size": "13346"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "dragonflight fight.hip",
+    "size": "18066"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "dragonflight surface.hip",
+    "size": "19508"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "dragonflight title.hip",
+    "size": "190814"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "dragonflight town.hip",
+    "size": "10392"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "dragonflight unicorn.hip",
+    "size": "7818"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "endless piracy.hip",
+    "size": "11844"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "hurricane-100bobs.hip",
+    "size": "171006"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "leaving teramis 01.hip",
+    "size": "47408"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "leaving teramis 02.hip",
+    "size": "22194"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "leaving teramis 03.hip",
+    "size": "19598"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "leaving teramis 04.hip",
+    "size": "18468"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "leaving teramis 05.hip",
+    "size": "22394"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "leaving teramis 06.hip",
+    "size": "36906"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "leaving teramis 07.hip",
+    "size": "16558"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "leaving teramis 08.hip",
+    "size": "18812"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "leaving teramis 09.hip",
+    "size": "64710"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "leaving teramis 10.hip",
+    "size": "29520"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "leaving teramis 11.hip",
+    "size": "21484"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "leaving teramis 12.hip",
+    "size": "62958"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "loading2.hip",
+    "size": "15458"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "prince.hip",
+    "size": "10204"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "quartex-intro.hip",
+    "size": "27400"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "rings of medusa.hip",
+    "size": "69540"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "scoopmix.hip",
+    "size": "43988"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "shaolin ingame 1.hip",
+    "size": "35108"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "shaolin ingame 2.hip",
+    "size": "34450"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "shaolin ingame 4.hip",
+    "size": "33290"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "shaolin title.hip",
+    "size": "36032"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "thalion intro.hip",
+    "size": "15734"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "the seven gates of jambala (gameover).hip",
+    "size": "45106"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "the seven gates of jambala (ingame 2).hip",
+    "size": "137522"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "the seven gates of jambala (ingame).hip",
+    "size": "27400"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "the seven gates of jambala (intro).hip",
+    "size": "84998"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "the seven gates of jambala (the end).hip",
+    "size": "66892"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "tower fra.hip",
+    "size": "78600"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "triviatheultimatequest.hip",
+    "size": "100494"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "warp (end).hip",
+    "size": "20240"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "warp (ingame 1).hip",
+    "size": "21366"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "warp (ingame 2).hip",
+    "size": "23530"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "warp (secret title).hip",
+    "size": "98356"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "warp (title).hip",
+    "size": "76902"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "wings of death (a scape of fire).hip",
+    "size": "26448"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "wings of death (cold lands of doom).hip",
+    "size": "22600"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "wings of death (crystal world).hip",
+    "size": "24424"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "wings of death (end).hip",
+    "size": "82960"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "wings of death (intro).hip",
+    "size": "210448"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "wings of death (outro).hip",
+    "size": "82956"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "wings of death (sagyr's castle).hip",
+    "size": "27022"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "wings of death (the jungle of mutants).hip",
+    "size": "24212"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "wings of death (the lethal swamps).hip",
+    "size": "20544"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "wings of death (title).hip",
+    "size": "210448"
+  },
+  {
+    "tracker": "Hippel",
+    "composer": "Jochen Hippel",
+    "song": "wings of death (xandrilia's domain).hip",
+    "size": "25124"
+  }
+]

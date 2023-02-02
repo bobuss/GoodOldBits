@@ -1,7 +1,20 @@
-{
-  "Rob Hubbard": [
-    "battleships.rho",
-    "goldrunner.rho",
-    "jupiterprobe.rho"
-  ]
-}
+[
+  {
+    "tracker": "Rob Hubbard ST",
+    "composer": "Rob Hubbard",
+    "song": "battleships.rho",
+    "size": "2762"
+  },
+  {
+    "tracker": "Rob Hubbard ST",
+    "composer": "Rob Hubbard",
+    "song": "goldrunner.rho",
+    "size": "3378"
+  },
+  {
+    "tracker": "Rob Hubbard ST",
+    "composer": "Rob Hubbard",
+    "song": "jupiterprobe.rho",
+    "size": "4566"
+  }
+]

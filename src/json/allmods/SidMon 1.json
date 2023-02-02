@@ -1,88 +1,326 @@
-{
-  "- unknown": [
-    "anarchy.sid",
-    "brainwave.sid",
-    "kreuzas1.sid",
-    "landscape.sid",
-    "myfunnymazea.sid",
-    "myfunnymazeb.sid",
-    "paradox.sid",
-    "party pack.sid",
-    "powerdrive.sid",
-    "primitive.sid",
-    "seat fahrsimulator-load.sid",
-    "sidmon intro.sid",
-    "spirit.sid",
-    "tarkus team.sid",
-    "turtle byte.sid"
-  ],
-  "Daryl": [
-    "first scoopex theme.sid",
-    "newsontour.sid",
-    "science inc.sid",
-    "silver clouds.sid",
-    "the trashcan theme.sid"
-  ],
-  "Double Trouble": [
-    "trsi-cracktro.sid"
-  ],
-  "Heinz Brasch": [
-    "kick-intro.sid"
-  ],
-  "Jeff": [
-    "animators.sid"
-  ],
-  "LCD": [
-    "black monks intro.sid",
-    "black monks.sid",
-    "sunlight2.sid",
-    "valhalla.sid"
-  ],
-  "Mindstorm": [
-    "law of the kult.sid"
-  ],
-  "Mr. Soundwave": [
-    "master of time ii.sid",
-    "synthetic age.sid",
-    "the arpeggiator.sid",
-    "the sound of funk.sid"
-  ],
-  "NHP": [
-    "concept-td intro.sid",
-    "nhp2-anarchy.sid",
-    "nhp3-anarchy.sid"
-  ],
-  "Orpheus": [
-    "defjam.sid"
-  ],
-  "Ramon Braumuller": [
-    "army game.sid",
-    "ragnov.sid",
-    "sad story.sid",
-    "sidmon-intro.sid",
-    "sliding away.sid",
-    "street life.sid",
-    "venom wing (finish).sid",
-    "venom wing (ingame).sid",
-    "venom wing (intro).sid"
-  ],
-  "Reiner van Vliet": [
-    "e.a.r. demo.sid",
-    "raggae.sid"
-  ],
-  "Rhino": [
-    "bionic tune.sid",
-    "sidtest.sid"
-  ],
-  "Romeo Knight": [
-    "beat to the pulp.sid",
-    "enigma-gun.sid"
-  ],
-  "The DJ": [
-    "lostdream.sid",
-    "razor lostdream.sid"
-  ],
-  "Zeb": [
-    "trs utils.sid"
-  ]
-}
+[
+  {
+    "tracker": "SidMon 1",
+    "composer": "Daryl",
+    "song": "first scoopex theme.sid",
+    "size": "10752"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Daryl",
+    "song": "newsontour.sid",
+    "size": "42280"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Daryl",
+    "song": "science inc.sid",
+    "size": "6972"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Daryl",
+    "song": "silver clouds.sid",
+    "size": "11280"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Daryl",
+    "song": "the trashcan theme.sid",
+    "size": "16160"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Double Trouble",
+    "song": "trsi-cracktro.sid",
+    "size": "45124"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Heinz Brasch",
+    "song": "kick-intro.sid",
+    "size": "23232"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Jeff",
+    "song": "animators.sid",
+    "size": "17398"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "LCD",
+    "song": "black monks intro.sid",
+    "size": "17568"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "LCD",
+    "song": "black monks.sid",
+    "size": "20680"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "LCD",
+    "song": "sunlight2.sid",
+    "size": "27136"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "LCD",
+    "song": "valhalla.sid",
+    "size": "20004"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Mindstorm",
+    "song": "law of the kult.sid",
+    "size": "11152"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Mr. Soundwave",
+    "song": "master of time ii.sid",
+    "size": "8096"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Mr. Soundwave",
+    "song": "synthetic age.sid",
+    "size": "6560"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Mr. Soundwave",
+    "song": "the arpeggiator.sid",
+    "size": "6960"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Mr. Soundwave",
+    "song": "the sound of funk.sid",
+    "size": "5824"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "NHP",
+    "song": "concept-td intro.sid",
+    "size": "48914"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "NHP",
+    "song": "nhp2-anarchy.sid",
+    "size": "14520"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "NHP",
+    "song": "nhp3-anarchy.sid",
+    "size": "34624"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Orpheus",
+    "song": "defjam.sid",
+    "size": "17114"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Ramon Braumuller",
+    "song": "army game.sid",
+    "size": "43032"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Ramon Braumuller",
+    "song": "ragnov.sid",
+    "size": "20224"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Ramon Braumuller",
+    "song": "sad story.sid",
+    "size": "37838"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Ramon Braumuller",
+    "song": "sidmon-intro.sid",
+    "size": "122880"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Ramon Braumuller",
+    "song": "sliding away.sid",
+    "size": "56320"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Ramon Braumuller",
+    "song": "street life.sid",
+    "size": "64068"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Ramon Braumuller",
+    "song": "venom wing (finish).sid",
+    "size": "33890"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Ramon Braumuller",
+    "song": "venom wing (ingame).sid",
+    "size": "167964"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Ramon Braumuller",
+    "song": "venom wing (intro).sid",
+    "size": "96184"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Reiner van Vliet",
+    "song": "e.a.r. demo.sid",
+    "size": "10000"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Reiner van Vliet",
+    "song": "raggae.sid",
+    "size": "8960"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Rhino",
+    "song": "bionic tune.sid",
+    "size": "16384"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Rhino",
+    "song": "sidtest.sid",
+    "size": "17776"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Romeo Knight",
+    "song": "beat to the pulp.sid",
+    "size": "18858"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Romeo Knight",
+    "song": "enigma-gun.sid",
+    "size": "18710"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "The DJ",
+    "song": "lostdream.sid",
+    "size": "42092"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "The DJ",
+    "song": "razor lostdream.sid",
+    "size": "29106"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "- unknown",
+    "song": "anarchy.sid",
+    "size": "30586"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "- unknown",
+    "song": "brainwave.sid",
+    "size": "6828"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "- unknown",
+    "song": "kreuzas1.sid",
+    "size": "32430"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "- unknown",
+    "song": "landscape.sid",
+    "size": "14514"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "- unknown",
+    "song": "myfunnymazea.sid",
+    "size": "41014"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "- unknown",
+    "song": "myfunnymazeb.sid",
+    "size": "35352"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "- unknown",
+    "song": "paradox.sid",
+    "size": "23598"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "- unknown",
+    "song": "party pack.sid",
+    "size": "12962"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "- unknown",
+    "song": "powerdrive.sid",
+    "size": "12962"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "- unknown",
+    "song": "primitive.sid",
+    "size": "5472"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "- unknown",
+    "song": "seat fahrsimulator-load.sid",
+    "size": "23770"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "- unknown",
+    "song": "sidmon intro.sid",
+    "size": "119904"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "- unknown",
+    "song": "spirit.sid",
+    "size": "40544"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "- unknown",
+    "song": "tarkus team.sid",
+    "size": "14772"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "- unknown",
+    "song": "turtle byte.sid",
+    "size": "11100"
+  },
+  {
+    "tracker": "SidMon 1",
+    "composer": "Zeb",
+    "song": "trs utils.sid",
+    "size": "31124"
+  }
+]

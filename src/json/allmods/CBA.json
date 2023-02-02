@@ -1,33 +1,68 @@
-{
-  "Chuck Biscuits": [
-    "journey's beginning.cba",
-    "panoramica.cba"
-  ],
-  "FireLight": [
-    "virtuous reason.cba"
-  ],
-  "Force Format": [
-    "reactivate.cba"
-  ],
-  "Hunz": [
-    "i can feel the beat.cba"
-  ],
-  "Jase": [
-    "after sunset - mdisk mix.cba"
-  ],
-  "Jedi": [
-    "my child.cba"
-  ],
-  "Maral": [
-    "n'trance.cba"
-  ],
-  "Myzer": [
-    "endless legacy.cba"
-  ],
-  "Sane": [
-    "release me.cba"
-  ],
-  "Void (AU)": [
-    "mirage - lightspeed ii.cba"
-  ]
-}
+[
+  {
+    "tracker": "CBA",
+    "composer": "Chuck Biscuits",
+    "song": "journey's beginning.cba",
+    "size": "484835"
+  },
+  {
+    "tracker": "CBA",
+    "composer": "Chuck Biscuits",
+    "song": "panoramica.cba",
+    "size": "516918"
+  },
+  {
+    "tracker": "CBA",
+    "composer": "FireLight",
+    "song": "virtuous reason.cba",
+    "size": "273368"
+  },
+  {
+    "tracker": "CBA",
+    "composer": "Force Format",
+    "song": "reactivate.cba",
+    "size": "766482"
+  },
+  {
+    "tracker": "CBA",
+    "composer": "Hunz",
+    "song": "i can feel the beat.cba",
+    "size": "352081"
+  },
+  {
+    "tracker": "CBA",
+    "composer": "Jase",
+    "song": "after sunset - mdisk mix.cba",
+    "size": "409212"
+  },
+  {
+    "tracker": "CBA",
+    "composer": "Jedi",
+    "song": "my child.cba",
+    "size": "438365"
+  },
+  {
+    "tracker": "CBA",
+    "composer": "Maral",
+    "song": "n'trance.cba",
+    "size": "594079"
+  },
+  {
+    "tracker": "CBA",
+    "composer": "Myzer",
+    "song": "endless legacy.cba",
+    "size": "221810"
+  },
+  {
+    "tracker": "CBA",
+    "composer": "Sane",
+    "song": "release me.cba",
+    "size": "580716"
+  },
+  {
+    "tracker": "CBA",
+    "composer": "Void (AU)",
+    "song": "mirage - lightspeed ii.cba",
+    "size": "310006"
+  }
+]

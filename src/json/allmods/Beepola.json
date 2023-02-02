@@ -1,120 +1,470 @@
-{
-  "- unknown": [
-    "1943.bbsong",
-    "cauldron2.bbsong",
-    "heavy on the magick.bbsong",
-    "music studio demo.bbsong",
-    "sweevo's world.bbsong"
-  ],
-  "4mat": [
-    "plastic galaxy.bbsong"
-  ],
-  "Cheveron": [
-    "frogger.bbsong",
-    "frogger level up.bbsong",
-    "star wars credits.bbsong"
-  ],
-  "Chris Cowley": [
-    "cars.bbsong",
-    "cauldron2 savage mix.bbsong",
-    "chuck rock.bbsong",
-    "in the hall of the mountain king.bbsong",
-    "money money money.bbsong",
-    "monkey magic.bbsong",
-    "mr. blue sky.bbsong",
-    "root beer rag.bbsong",
-    "the great escape.bbsong"
-  ],
-  "Darkman007": [
-    "roll'n'balls.bbsong",
-    "unfunny joke.bbsong"
-  ],
-  "FrankT": [
-    "airwolf.bbsong",
-    "cant slow down.bbsong",
-    "classical gas.bbsong",
-    "day at the beach.bbsong",
-    "dweller on the threshold.bbsong",
-    "fire.bbsong",
-    "funky jumble.bbsong",
-    "hammer house of horror.bbsong",
-    "magnum p.i.bbsong",
-    "malaguena.bbsong",
-    "meloncholy.bbsong",
-    "sploogie.bbsong",
-    "the orphan.bbsong",
-    "the sweeney.bbsong",
-    "ufo.bbsong",
-    "wars of the world 2010.bbsong"
-  ],
-  "Irrlicht Project": [
-    "arp chaos.bbsong",
-    "burn down the music studio.bbsong",
-    "l'autre valse d'amelie.bbsong",
-    "savague.bbsong",
-    "sfxrox.bbsong",
-    "sfxtek.bbsong",
-    "tserebral'noe narushenie.bbsong"
-  ],
-  "Jredd": [
-    "1 bit rock.bbsong",
-    "phazer fun.bbsong",
-    "star field.bbsong"
-  ],
-  "LPChip": [
-    "monthy on the run - hiscore.bbsong",
-    "speedrun.bbsong"
-  ],
-  "Mister Beep": [
-    "greetings to c64.bbsong"
-  ],
-  "Mystic Hero": [
-    "black hat on black cat.bbsong"
-  ],
-  "Ne7": [
-    "hangover jaunt.bbsong",
-    "happy hippo.bbsong",
-    "pylon.bbsong"
-  ],
-  "Nq": [
-    "must blow your head.bbsong"
-  ],
-  "Rene Sens": [
-    "laura palmer.bbsong"
-  ],
-  "Riskej": [
-    "beeps over the era.bbsong"
-  ],
-  "Shiru": [
-    "butterfly catcher.bbsong",
-    "formation x.bbsong",
-    "river city rancor.bbsong",
-    "streets of rain.bbsong"
-  ],
-  "Siril": [
-    "harder-better-faster-rmx.bbsong"
-  ],
-  "Tacticalbread": [
-    "derp.bbsong"
-  ],
-  "Voxel": [
-    "atmosphere.bbsong",
-    "beeper dance.bbsong",
-    "beeper rock'and'roll.bbsong",
-    "break me.bbsong",
-    "dabada.bbsong",
-    "dream of beeper.bbsong",
-    "low rain.bbsong",
-    "my beep song.bbsong",
-    "radio wave.bbsong",
-    "saga of star king.bbsong",
-    "the one day of end.bbsong",
-    "the play.bbsong",
-    "up and down.bbsong"
-  ],
-  "uB": [
-    "command control.bbsong",
-    "starport patrol.bbsong",
-    "veeblefetzer.bbsong"
-  ]
-}
+[
+  {
+    "tracker": "Beepola",
+    "composer": "4mat",
+    "song": "plastic galaxy.bbsong",
+    "size": "27399"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Cheveron",
+    "song": "frogger.bbsong",
+    "size": "13059"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Cheveron",
+    "song": "frogger level up.bbsong",
+    "size": "12750"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Cheveron",
+    "song": "star wars credits.bbsong",
+    "size": "13142"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Chris Cowley",
+    "song": "cars.bbsong",
+    "size": "12937"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Chris Cowley",
+    "song": "cauldron2 savage mix.bbsong",
+    "size": "51274"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Chris Cowley",
+    "song": "chuck rock.bbsong",
+    "size": "13661"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Chris Cowley",
+    "song": "in the hall of the mountain king.bbsong",
+    "size": "13042"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Chris Cowley",
+    "song": "money money money.bbsong",
+    "size": "15383"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Chris Cowley",
+    "song": "monkey magic.bbsong",
+    "size": "53669"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Chris Cowley",
+    "song": "mr. blue sky.bbsong",
+    "size": "14789"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Chris Cowley",
+    "song": "root beer rag.bbsong",
+    "size": "13089"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Chris Cowley",
+    "song": "the great escape.bbsong",
+    "size": "14548"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Darkman007",
+    "song": "roll'n'balls.bbsong",
+    "size": "14133"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Darkman007",
+    "song": "unfunny joke.bbsong",
+    "size": "18423"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "FrankT",
+    "song": "airwolf.bbsong",
+    "size": "15821"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "FrankT",
+    "song": "cant slow down.bbsong",
+    "size": "15705"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "FrankT",
+    "song": "classical gas.bbsong",
+    "size": "11964"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "FrankT",
+    "song": "day at the beach.bbsong",
+    "size": "13632"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "FrankT",
+    "song": "dweller on the threshold.bbsong",
+    "size": "14918"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "FrankT",
+    "song": "fire.bbsong",
+    "size": "13248"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "FrankT",
+    "song": "funky jumble.bbsong",
+    "size": "13265"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "FrankT",
+    "song": "hammer house of horror.bbsong",
+    "size": "14245"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "FrankT",
+    "song": "magnum p.i.bbsong",
+    "size": "14542"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "FrankT",
+    "song": "malaguena.bbsong",
+    "size": "12689"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "FrankT",
+    "song": "meloncholy.bbsong",
+    "size": "13818"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "FrankT",
+    "song": "sploogie.bbsong",
+    "size": "34388"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "FrankT",
+    "song": "the orphan.bbsong",
+    "size": "13056"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "FrankT",
+    "song": "the sweeney.bbsong",
+    "size": "14000"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "FrankT",
+    "song": "ufo.bbsong",
+    "size": "13984"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "FrankT",
+    "song": "wars of the world 2010.bbsong",
+    "size": "34762"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Irrlicht Project",
+    "song": "arp chaos.bbsong",
+    "size": "17311"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Irrlicht Project",
+    "song": "burn down the music studio.bbsong",
+    "size": "14842"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Irrlicht Project",
+    "song": "l'autre valse d'amelie.bbsong",
+    "size": "16620"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Irrlicht Project",
+    "song": "savague.bbsong",
+    "size": "86181"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Irrlicht Project",
+    "song": "sfxrox.bbsong",
+    "size": "17289"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Irrlicht Project",
+    "song": "sfxtek.bbsong",
+    "size": "18027"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Irrlicht Project",
+    "song": "tserebral'noe narushenie.bbsong",
+    "size": "15073"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Jredd",
+    "song": "1 bit rock.bbsong",
+    "size": "14070"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Jredd",
+    "song": "phazer fun.bbsong",
+    "size": "15450"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Jredd",
+    "song": "star field.bbsong",
+    "size": "47602"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "LPChip",
+    "song": "monthy on the run - hiscore.bbsong",
+    "size": "20713"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "LPChip",
+    "song": "speedrun.bbsong",
+    "size": "17377"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Mister Beep",
+    "song": "greetings to c64.bbsong",
+    "size": "19801"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Mystic Hero",
+    "song": "black hat on black cat.bbsong",
+    "size": "12967"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Ne7",
+    "song": "hangover jaunt.bbsong",
+    "size": "13048"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Ne7",
+    "song": "happy hippo.bbsong",
+    "size": "46227"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Ne7",
+    "song": "pylon.bbsong",
+    "size": "13644"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Nq",
+    "song": "must blow your head.bbsong",
+    "size": "14883"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Rene Sens",
+    "song": "laura palmer.bbsong",
+    "size": "12985"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Riskej",
+    "song": "beeps over the era.bbsong",
+    "size": "13004"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Shiru",
+    "song": "butterfly catcher.bbsong",
+    "size": "12889"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Shiru",
+    "song": "formation x.bbsong",
+    "size": "12895"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Shiru",
+    "song": "river city rancor.bbsong",
+    "size": "14044"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Shiru",
+    "song": "streets of rain.bbsong",
+    "size": "13412"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Siril",
+    "song": "harder-better-faster-rmx.bbsong",
+    "size": "18373"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Tacticalbread",
+    "song": "derp.bbsong",
+    "size": "13751"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "uB",
+    "song": "command control.bbsong",
+    "size": "13591"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "uB",
+    "song": "starport patrol.bbsong",
+    "size": "13634"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "uB",
+    "song": "veeblefetzer.bbsong",
+    "size": "14709"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "- unknown",
+    "song": "1943.bbsong",
+    "size": "58164"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "- unknown",
+    "song": "cauldron2.bbsong",
+    "size": "14188"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "- unknown",
+    "song": "heavy on the magick.bbsong",
+    "size": "13627"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "- unknown",
+    "song": "music studio demo.bbsong",
+    "size": "12925"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "- unknown",
+    "song": "sweevo's world.bbsong",
+    "size": "13586"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Voxel",
+    "song": "atmosphere.bbsong",
+    "size": "12926"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Voxel",
+    "song": "beeper dance.bbsong",
+    "size": "12997"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Voxel",
+    "song": "beeper rock'and'roll.bbsong",
+    "size": "13013"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Voxel",
+    "song": "break me.bbsong",
+    "size": "13079"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Voxel",
+    "song": "dabada.bbsong",
+    "size": "12989"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Voxel",
+    "song": "dream of beeper.bbsong",
+    "size": "13004"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Voxel",
+    "song": "low rain.bbsong",
+    "size": "13011"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Voxel",
+    "song": "my beep song.bbsong",
+    "size": "12998"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Voxel",
+    "song": "radio wave.bbsong",
+    "size": "12952"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Voxel",
+    "song": "saga of star king.bbsong",
+    "size": "13009"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Voxel",
+    "song": "the one day of end.bbsong",
+    "size": "12988"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Voxel",
+    "song": "the play.bbsong",
+    "size": "13000"
+  },
+  {
+    "tracker": "Beepola",
+    "composer": "Voxel",
+    "song": "up and down.bbsong",
+    "size": "13009"
+  }
+]

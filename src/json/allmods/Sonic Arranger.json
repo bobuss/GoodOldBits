@@ -1,309 +1,1496 @@
-{
-  "- unknown": [
-    "albedo.sa",
-    "alpha.sa",
-    "alphaspiral.sa",
-    "anonymo.sa",
-    "anonym.sa",
-    "astardian.sa",
-    "axis.sa",
-    "bassriff.sa",
-    "behindthewall.sa",
-    "bionicstar.sa",
-    "black kangaroo.sa",
-    "braziliacafe.sa",
-    "brokenwings.sa",
-    "busy.sa",
-    "cebit93invitation.sa",
-    "chaosintro.sa",
-    "ch the piano hero.sa",
-    "closetothehedge.sa",
-    "comicbakery.sa",
-    "defcon.sa",
-    "digitalman.sa",
-    "dream dance.sa",
-    "dreamscope ii.sa",
-    "emotionsvi.sa",
-    "endtheme.sa",
-    "exodus.sa",
-    "fantasia.sa",
-    "fashionstyle.sa",
-    "fire & ice.sa",
-    "gameover.sa",
-    "hadesnebula.sa",
-    "hamm di damm di.sa",
-    "hangingaround.sa",
-    "highlight_crew-intro.sa",
-    "hittingtheschmalz.sa",
-    "hoi.sa",
-    "humanstrength.sa",
-    "introduction3.sa",
-    "introduction4.sa",
-    "i want to be your dog.sa",
-    "japan.sa",
-    "jewels on ice.sa",
-    "jingletime.sa",
-    "laserdance-laserart.sa",
-    "magneticfields4.sa",
-    "melf's acid arrow.sa",
-    "metallicrain.sa",
-    "metalwars.sa",
-    "misty dungeon hop.sa",
-    "nobody.sa",
-    "nucleogenesis2.sa",
-    "nucleogenesis3.sa",
-    "nucleogenesis.sa",
-    "oxygene.sa",
-    "panicaco.sa",
-    "phrpiano.sa",
-    "poseidon.sa",
-    "pullin' up the high gear.sa",
-    "recover the sonics.sa",
-    "remember2.sa",
-    "rendezvous.sa",
-    "rondaallaturca.sa",
-    "saphfirebofpurel.sa",
-    "secretgardens.sa",
-    "shadowofthemoon.sa",
-    "skidrow.sa",
-    "sknint36.sa",
-    "sledge hammer.sa",
-    "slowmotion 1 3.sa",
-    "sonata.sa",
-    "sonican.sa",
-    "sonic-intro-1.sa",
-    "sony.sa",
-    "space blipper.sa",
-    "spaceship-flight-8.sa",
-    "springair.sa",
-    "sth different.sa",
-    "stolenone.sa",
-    "svensktoppen1.sa",
-    "svensktoppen9.sa",
-    "sweeptrace.sa",
-    "syntune.sa",
-    "themoonstory.sa",
-    "thunderin' blueball.sa",
-    "tm musicmedley.sa",
-    "toccata2.sa",
-    "toccata.sa",
-    "tokyo.sa",
-    "tragedy.sa",
-    "trsi1.sa",
-    "tubularbells.sa",
-    "turbozone1.1.sa",
-    "wavefrontiers.sa",
-    "wizardry.sa",
-    "workfile1.sa",
-    "workfile2.sa",
-    "workfile3.sa",
-    "workfile4.sa",
-    "workfile5.sa",
-    "workfile6.sa",
-    "workfile7.sa"
-  ],
-  "Acute": [
-    "snake1.sa",
-    "snake2.sa",
-    "snake3.sa",
-    "snake4.sa",
-    "space taxi - level 10.sa",
-    "space taxi - level 11.sa",
-    "space taxi - level 12.sa",
-    "space taxi - level 1.sa",
-    "space taxi - level 2.sa",
-    "space taxi - level 3.sa",
-    "space taxi - level 4.sa",
-    "space taxi - level 5.sa",
-    "space taxi - level 6.sa",
-    "space taxi - level 7.sa",
-    "space taxi - level 8.sa",
-    "space taxi - level 9.sa",
-    "space taxi - loader.sa",
-    "space taxi - title.sa"
-  ],
-  "Andreas Spreen": [
-    "fleuch.sa"
-  ],
-  "Baal": [
-    "almighty.sa"
-  ],
-  "Bazzman": [
-    "gbd.sa"
-  ],
-  "Bluefish": [
-    "bluefish.sa"
-  ],
-  "Cross Spider": [
-    "behind the white line.sa"
-  ],
-  "DHS": [
-    "dr. bros.sa",
-    "ibb-ustrader.sa"
-  ],
-  "Daryl": [
-    "madness2b.sa",
-    "powerhouse-forgemaster06-menu.sa",
-    "silverclouds.sa"
-  ],
-  "Deathlord": [
-    "laserdance.sa"
-  ],
-  "Double Trouble": [
-    "doubletroubletrsi.sa"
-  ],
-  "Dr. Mastermind": [
-    "alien world.sa",
-    "bunny blue.sa",
-    "just for fun preview.sa",
-    "laserdance-bbs.sa",
-    "laserdance-bloodlust2.sa",
-    "laserdance-bloodlust.sa",
-    "laserdance-eddiesreturn2.sa",
-    "laserdance-eddiesreturn.sa",
-    "laserdance-first.sa",
-    "laserdance-multiorgas.sa",
-    "laserdance-sexybitchtes3.sa",
-    "laserdance-sexybitchtes4.sa",
-    "magic ride.sa",
-    "mountainized tune 1.sa",
-    "night in motion.sa",
-    "pad-aspirin01-1.sa",
-    "remember.sa",
-    "remember (with replay).sa"
-  ],
-  "Firefox": [
-    "mega end.sa"
-  ],
-  "Frank Lautensack": [
-    "dimos quest - game end.sa",
-    "dimos quest - infernal bytes intro.sa",
-    "dimos quest - ingame 2.sa",
-    "dimos quest - ngame 1.sa",
-    "dimos quest - ngame 3.sa",
-    "dimos quest - title.sa"
-  ],
-  "Jeff": [
-    "willy ingame.sa"
-  ],
-  "Joe Panic": [
-    "race drivin trainer.sa"
-  ],
-  "Jonah Ke!a": [
-    "hallo.sa",
-    "laserdance-jonah1.sa"
-  ],
-  "Lars Frantzen": [
-    "heretics-ahead!.sa"
-  ],
-  "Leffty": [
-    "trsi2.sa",
-    "was it worth it.sa"
-  ],
-  "Matthias Steinwachs": [
-    "amber11.sa",
-    "amber12.sa",
-    "amber13.sa",
-    "amber14.sa",
-    "amber16neu.sa",
-    "amber16.sa",
-    "amber19.sa",
-    "amber1.sa",
-    "amber20.sa",
-    "amber21.sa",
-    "amber22.sa",
-    "amber23.sa",
-    "amber24.sa",
-    "amber26.sa",
-    "amber27.sa",
-    "amber28.sa",
-    "amber29.sa",
-    "amber2.sa",
-    "amber30.sa",
-    "amber31.sa",
-    "amber32.sa",
-    "amber4.sa",
-    "amber5.sa",
-    "amber6.sa",
-    "amber7.sa",
-    "amber8.sa",
-    "amber moon01.sa",
-    "amber moon02.sa",
-    "amber moon04.sa",
-    "amber moon05.sa",
-    "amber moon06.sa",
-    "amber moon07.sa",
-    "amber moon08.sa",
-    "amber moon09.sa",
-    "amber moon10.sa",
-    "amber moon12.sa",
-    "amber moon13.sa",
-    "amber moon14.sa",
-    "amber moon15.sa",
-    "amber moon16.sa",
-    "amber moon17.sa",
-    "amber moon18.sa",
-    "amber moon20.sa",
-    "amber moon21.sa",
-    "amber moon22.sa",
-    "amber moon23.sa",
-    "amber moon24.sa",
-    "amber moon25.sa",
-    "amber moon26.sa",
-    "amber moon27.sa",
-    "amber moon29.sa",
-    "amber moon30.sa",
-    "ambermoon (extro).sa",
-    "ambermoon (ingame 1).sa",
-    "ambermoon (intro).sa",
-    "lionheart-drachenflug.sa"
-  ],
-  "Mindstorm": [
-    "handshake (with replay).sa",
-    "time to death (with replay).sa"
-  ],
-  "Monty": [
-    "hold of fame.sa"
-  ],
-  "Mr. Soundwave": [
-    "big in japan.sa",
-    "big in japan (with replay).sa",
-    "coop-Daryl/mountainized tune 4.sa",
-    "coop-Mindstorm/mountainized tune 3.sa",
-    "laserdance-limitededition18.sa",
-    "mountainized tune 2.sa",
-    "omd enola gay herbst.sa",
-    "omd enola gay (with replay).sa",
-    "wefightthegray.sa"
-  ],
-  "Nils Ruzicka": [
-    "marvinsma-199.sa",
-    "marvinsma-ingames.sa",
-    "marvinsma-lan.sa",
-    "marvinsma-title.sa",
-    "marvinsma-tm level1.sa",
-    "marvinsma-tm level2.sa",
-    "marvinsma-tm level3.sa",
-    "marvinsma-tm level4.sa",
-    "marvinsma-tm title1.sa",
-    "marvinsma-xentrix.sa",
-    "tm title(final).sa"
-  ],
-  "Q": [
-    "walkabout.sa"
-  ],
-  "Rob Hubbard": [
-    "prometeus.sa"
-  ],
-  "Skillion": [
-    "lueckenfueller 1.1.sa",
-    "mountainized tune 5.sa",
-    "shadow of the beast.sa"
-  ],
-  "Skope": [
-    "ink.sa"
-  ],
-  "Trash": [
-    "risk inc.sa"
-  ]
-}
+[
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Acute",
+    "song": "snake1.sa",
+    "size": "8256"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Acute",
+    "song": "snake2.sa",
+    "size": "8936"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Acute",
+    "song": "snake3.sa",
+    "size": "11504"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Acute",
+    "song": "snake4.sa",
+    "size": "7984"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Acute",
+    "song": "space taxi - level 10.sa",
+    "size": "8300"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Acute",
+    "song": "space taxi - level 11.sa",
+    "size": "9196"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Acute",
+    "song": "space taxi - level 12.sa",
+    "size": "7788"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Acute",
+    "song": "space taxi - level 1.sa",
+    "size": "9156"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Acute",
+    "song": "space taxi - level 2.sa",
+    "size": "9308"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Acute",
+    "song": "space taxi - level 3.sa",
+    "size": "8988"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Acute",
+    "song": "space taxi - level 4.sa",
+    "size": "8620"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Acute",
+    "song": "space taxi - level 5.sa",
+    "size": "14002"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Acute",
+    "song": "space taxi - level 6.sa",
+    "size": "8772"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Acute",
+    "song": "space taxi - level 7.sa",
+    "size": "8772"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Acute",
+    "song": "space taxi - level 8.sa",
+    "size": "8964"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Acute",
+    "song": "space taxi - level 9.sa",
+    "size": "8364"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Acute",
+    "song": "space taxi - loader.sa",
+    "size": "9156"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Acute",
+    "song": "space taxi - title.sa",
+    "size": "8540"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Andreas Spreen",
+    "song": "fleuch.sa",
+    "size": "31692"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Baal",
+    "song": "almighty.sa",
+    "size": "93062"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Bazzman",
+    "song": "gbd.sa",
+    "size": "26218"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Bluefish",
+    "song": "bluefish.sa",
+    "size": "96712"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Cross Spider",
+    "song": "behind the white line.sa",
+    "size": "164056"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Daryl",
+    "song": "madness2b.sa",
+    "size": "33306"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Daryl",
+    "song": "powerhouse-forgemaster06-menu.sa",
+    "size": "11628"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Daryl",
+    "song": "silverclouds.sa",
+    "size": "8760"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Deathlord",
+    "song": "laserdance.sa",
+    "size": "33252"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "DHS",
+    "song": "dr. bros.sa",
+    "size": "45610"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "DHS",
+    "song": "ibb-ustrader.sa",
+    "size": "92014"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Double Trouble",
+    "song": "doubletroubletrsi.sa",
+    "size": "40846"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Dr. Mastermind",
+    "song": "alien world.sa",
+    "size": "40980"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Dr. Mastermind",
+    "song": "bunny blue.sa",
+    "size": "36298"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Dr. Mastermind",
+    "song": "just for fun preview.sa",
+    "size": "17196"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Dr. Mastermind",
+    "song": "laserdance-bbs.sa",
+    "size": "29938"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Dr. Mastermind",
+    "song": "laserdance-bloodlust2.sa",
+    "size": "20436"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Dr. Mastermind",
+    "song": "laserdance-bloodlust.sa",
+    "size": "27702"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Dr. Mastermind",
+    "song": "laserdance-eddiesreturn2.sa",
+    "size": "94904"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Dr. Mastermind",
+    "song": "laserdance-eddiesreturn.sa",
+    "size": "16638"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Dr. Mastermind",
+    "song": "laserdance-first.sa",
+    "size": "20322"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Dr. Mastermind",
+    "song": "laserdance-multiorgas.sa",
+    "size": "13888"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Dr. Mastermind",
+    "song": "laserdance-sexybitchtes3.sa",
+    "size": "81288"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Dr. Mastermind",
+    "song": "laserdance-sexybitchtes4.sa",
+    "size": "15306"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Dr. Mastermind",
+    "song": "magic ride.sa",
+    "size": "29094"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Dr. Mastermind",
+    "song": "mountainized tune 1.sa",
+    "size": "17378"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Dr. Mastermind",
+    "song": "night in motion.sa",
+    "size": "26508"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Dr. Mastermind",
+    "song": "pad-aspirin01-1.sa",
+    "size": "59262"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Dr. Mastermind",
+    "song": "remember.sa",
+    "size": "16472"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Dr. Mastermind",
+    "song": "remember (with replay).sa",
+    "size": "22808"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Firefox",
+    "song": "mega end.sa",
+    "size": "187868"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Frank Lautensack",
+    "song": "dimos quest - game end.sa",
+    "size": "74558"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Frank Lautensack",
+    "song": "dimos quest - infernal bytes intro.sa",
+    "size": "29772"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Frank Lautensack",
+    "song": "dimos quest - ingame 2.sa",
+    "size": "64395"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Frank Lautensack",
+    "song": "dimos quest - ngame 1.sa",
+    "size": "67893"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Frank Lautensack",
+    "song": "dimos quest - ngame 3.sa",
+    "size": "62217"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Frank Lautensack",
+    "song": "dimos quest - title.sa",
+    "size": "45846"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Jeff",
+    "song": "willy ingame.sa",
+    "size": "29893"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Joe Panic",
+    "song": "race drivin trainer.sa",
+    "size": "8920"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Jonah Ke!a",
+    "song": "hallo.sa",
+    "size": "10196"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Jonah Ke!a",
+    "song": "laserdance-jonah1.sa",
+    "size": "66568"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Lars Frantzen",
+    "song": "heretics-ahead!.sa",
+    "size": "115206"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Leffty",
+    "song": "trsi2.sa",
+    "size": "49824"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Leffty",
+    "song": "was it worth it.sa",
+    "size": "26840"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber11.sa",
+    "size": "32770"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber12.sa",
+    "size": "17590"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber13.sa",
+    "size": "33828"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber14.sa",
+    "size": "25396"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber16neu.sa",
+    "size": "46882"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber16.sa",
+    "size": "43254"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber19.sa",
+    "size": "15336"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber1.sa",
+    "size": "6572"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber20.sa",
+    "size": "31712"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber21.sa",
+    "size": "32640"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber22.sa",
+    "size": "17992"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber23.sa",
+    "size": "20010"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber24.sa",
+    "size": "7546"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber26.sa",
+    "size": "6788"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber27.sa",
+    "size": "29448"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber28.sa",
+    "size": "14340"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber29.sa",
+    "size": "9092"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber2.sa",
+    "size": "6340"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber30.sa",
+    "size": "1960"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber31.sa",
+    "size": "2644"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber32.sa",
+    "size": "10252"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber4.sa",
+    "size": "23844"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber5.sa",
+    "size": "22356"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber6.sa",
+    "size": "17846"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber7.sa",
+    "size": "24698"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber8.sa",
+    "size": "20878"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon01.sa",
+    "size": "38124"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon02.sa",
+    "size": "28778"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon04.sa",
+    "size": "33834"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon05.sa",
+    "size": "28768"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon06.sa",
+    "size": "13136"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon07.sa",
+    "size": "27366"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon08.sa",
+    "size": "24116"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon09.sa",
+    "size": "30332"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon10.sa",
+    "size": "21862"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon12.sa",
+    "size": "31186"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon13.sa",
+    "size": "45106"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon14.sa",
+    "size": "31884"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon15.sa",
+    "size": "12904"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon16.sa",
+    "size": "40278"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon17.sa",
+    "size": "39258"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon18.sa",
+    "size": "24334"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon20.sa",
+    "size": "39052"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon21.sa",
+    "size": "24518"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon22.sa",
+    "size": "26460"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon23.sa",
+    "size": "14072"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon24.sa",
+    "size": "54076"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon25.sa",
+    "size": "13352"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon26.sa",
+    "size": "35136"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon27.sa",
+    "size": "20866"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon29.sa",
+    "size": "8524"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "amber moon30.sa",
+    "size": "9208"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "ambermoon (extro).sa",
+    "size": "128356"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "ambermoon (ingame 1).sa",
+    "size": "16816"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "ambermoon (intro).sa",
+    "size": "87570"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Matthias Steinwachs",
+    "song": "lionheart-drachenflug.sa",
+    "size": "60520"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Mindstorm",
+    "song": "handshake (with replay).sa",
+    "size": "22177"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Mindstorm",
+    "song": "time to death (with replay).sa",
+    "size": "10652"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Monty",
+    "song": "hold of fame.sa",
+    "size": "11936"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Mr. Soundwave",
+    "song": "big in japan.sa",
+    "size": "22272"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Mr. Soundwave",
+    "song": "big in japan (with replay).sa",
+    "size": "28532"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Mr. Soundwave",
+    "song": "coop-Daryl/mountainized tune 4.sa",
+    "size": "13808"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Mr. Soundwave",
+    "song": "coop-Mindstorm/mountainized tune 3.sa",
+    "size": "11472"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Mr. Soundwave",
+    "song": "laserdance-limitededition18.sa",
+    "size": "26872"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Mr. Soundwave",
+    "song": "mountainized tune 2.sa",
+    "size": "18016"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Mr. Soundwave",
+    "song": "omd enola gay herbst.sa",
+    "size": "42020"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Mr. Soundwave",
+    "song": "omd enola gay (with replay).sa",
+    "size": "41738"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Mr. Soundwave",
+    "song": "wefightthegray.sa",
+    "size": "18332"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Nils Ruzicka",
+    "song": "marvinsma-199.sa",
+    "size": "11540"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Nils Ruzicka",
+    "song": "marvinsma-ingames.sa",
+    "size": "38938"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Nils Ruzicka",
+    "song": "marvinsma-lan.sa",
+    "size": "77508"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Nils Ruzicka",
+    "song": "marvinsma-title.sa",
+    "size": "60364"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Nils Ruzicka",
+    "song": "marvinsma-tm level1.sa",
+    "size": "41554"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Nils Ruzicka",
+    "song": "marvinsma-tm level2.sa",
+    "size": "52206"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Nils Ruzicka",
+    "song": "marvinsma-tm level3.sa",
+    "size": "55446"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Nils Ruzicka",
+    "song": "marvinsma-tm level4.sa",
+    "size": "46998"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Nils Ruzicka",
+    "song": "marvinsma-tm title1.sa",
+    "size": "85484"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Nils Ruzicka",
+    "song": "marvinsma-xentrix.sa",
+    "size": "148798"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Nils Ruzicka",
+    "song": "tm title(final).sa",
+    "size": "84184"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Q",
+    "song": "walkabout.sa",
+    "size": "6828"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Rob Hubbard",
+    "song": "prometeus.sa",
+    "size": "14236"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Skillion",
+    "song": "lueckenfueller 1.1.sa",
+    "size": "6074"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Skillion",
+    "song": "mountainized tune 5.sa",
+    "size": "12300"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Skillion",
+    "song": "shadow of the beast.sa",
+    "size": "11160"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Skope",
+    "song": "ink.sa",
+    "size": "11972"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "Trash",
+    "song": "risk inc.sa",
+    "size": "47378"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "albedo.sa",
+    "size": "19874"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "alpha.sa",
+    "size": "16562"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "alphaspiral.sa",
+    "size": "7756"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "anonymo.sa",
+    "size": "4764"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "anonym.sa",
+    "size": "7364"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "astardian.sa",
+    "size": "6188"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "axis.sa",
+    "size": "52622"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "bassriff.sa",
+    "size": "36646"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "behindthewall.sa",
+    "size": "10894"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "bionicstar.sa",
+    "size": "11888"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "black kangaroo.sa",
+    "size": "43000"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "braziliacafe.sa",
+    "size": "26474"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "brokenwings.sa",
+    "size": "7664"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "busy.sa",
+    "size": "135310"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "cebit93invitation.sa",
+    "size": "76570"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "chaosintro.sa",
+    "size": "34458"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "ch the piano hero.sa",
+    "size": "2396"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "closetothehedge.sa",
+    "size": "33332"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "comicbakery.sa",
+    "size": "10500"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "defcon.sa",
+    "size": "25342"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "digitalman.sa",
+    "size": "84132"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "dream dance.sa",
+    "size": "6776"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "dreamscope ii.sa",
+    "size": "113588"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "emotionsvi.sa",
+    "size": "15024"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "endtheme.sa",
+    "size": "2764"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "exodus.sa",
+    "size": "2908"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "fantasia.sa",
+    "size": "17930"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "fashionstyle.sa",
+    "size": "11534"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "fire & ice.sa",
+    "size": "12496"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "gameover.sa",
+    "size": "42594"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "hadesnebula.sa",
+    "size": "4364"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "hamm di damm di.sa",
+    "size": "13454"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "hangingaround.sa",
+    "size": "40356"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "highlight_crew-intro.sa",
+    "size": "56680"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "hittingtheschmalz.sa",
+    "size": "77540"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "hoi.sa",
+    "size": "10755"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "humanstrength.sa",
+    "size": "8420"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "introduction3.sa",
+    "size": "2660"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "introduction4.sa",
+    "size": "1532"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "i want to be your dog.sa",
+    "size": "37002"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "japan.sa",
+    "size": "123960"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "jewels on ice.sa",
+    "size": "15118"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "jingletime.sa",
+    "size": "36834"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "laserdance-laserart.sa",
+    "size": "11920"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "magneticfields4.sa",
+    "size": "13174"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "melf's acid arrow.sa",
+    "size": "19748"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "metallicrain.sa",
+    "size": "6916"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "metalwars.sa",
+    "size": "44934"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "misty dungeon hop.sa",
+    "size": "55164"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "nobody.sa",
+    "size": "3052"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "nucleogenesis2.sa",
+    "size": "6780"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "nucleogenesis3.sa",
+    "size": "4892"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "nucleogenesis.sa",
+    "size": "5188"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "oxygene.sa",
+    "size": "7564"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "panicaco.sa",
+    "size": "740"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "phrpiano.sa",
+    "size": "6276"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "poseidon.sa",
+    "size": "121650"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "pullin' up the high gear.sa",
+    "size": "26976"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "recover the sonics.sa",
+    "size": "28046"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "remember2.sa",
+    "size": "16266"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "rendezvous.sa",
+    "size": "8426"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "rondaallaturca.sa",
+    "size": "193190"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "saphfirebofpurel.sa",
+    "size": "53244"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "secretgardens.sa",
+    "size": "12436"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "shadowofthemoon.sa",
+    "size": "18274"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "skidrow.sa",
+    "size": "33578"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "sknint36.sa",
+    "size": "19126"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "sledge hammer.sa",
+    "size": "56586"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "slowmotion 1 3.sa",
+    "size": "258436"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "sonata.sa",
+    "size": "9782"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "sonican.sa",
+    "size": "38584"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "sonic-intro-1.sa",
+    "size": "7996"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "sony.sa",
+    "size": "46710"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "space blipper.sa",
+    "size": "33346"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "spaceship-flight-8.sa",
+    "size": "7220"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "springair.sa",
+    "size": "11242"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "sth different.sa",
+    "size": "4428"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "stolenone.sa",
+    "size": "37484"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "svensktoppen1.sa",
+    "size": "13640"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "svensktoppen9.sa",
+    "size": "20612"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "sweeptrace.sa",
+    "size": "51494"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "syntune.sa",
+    "size": "10768"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "themoonstory.sa",
+    "size": "51394"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "thunderin' blueball.sa",
+    "size": "49006"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "tm musicmedley.sa",
+    "size": "200232"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "toccata2.sa",
+    "size": "100548"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "toccata.sa",
+    "size": "14348"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "tokyo.sa",
+    "size": "41078"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "tragedy.sa",
+    "size": "4580"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "trsi1.sa",
+    "size": "35232"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "tubularbells.sa",
+    "size": "3340"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "turbozone1.1.sa",
+    "size": "14804"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "wavefrontiers.sa",
+    "size": "23274"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "wizardry.sa",
+    "size": "5372"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "workfile1.sa",
+    "size": "6196"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "workfile2.sa",
+    "size": "36030"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "workfile3.sa",
+    "size": "40868"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "workfile4.sa",
+    "size": "2420"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "workfile5.sa",
+    "size": "7268"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "workfile6.sa",
+    "size": "13124"
+  },
+  {
+    "tracker": "Sonic Arranger",
+    "composer": "- unknown",
+    "song": "workfile7.sa",
+    "size": "6428"
+  }
+]

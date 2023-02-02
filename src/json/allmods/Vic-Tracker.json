@@ -1,31 +1,68 @@
-{
-  "Anders Carlsson": [
-    "sjamembi 8.vt"
-  ],
-  "Baron Knoxburry": [
-    "roger iv.vt"
-  ],
-  "Bjorn Stenberg": [
-    "djungel-zagor.vt"
-  ],
-  "Daniel Kahlin": [
-    "mystic.vt",
-    "slowride.vt",
-    "vt-theme.vt"
-  ],
-  "Kaneel": [
-    "super double hyper bash attack.vt"
-  ],
-  "Patrik Wallstrom": [
-    "blippblopp.vt"
-  ],
-  "Rio": [
-    "victrasher.vt"
-  ],
-  "Strobe": [
-    "smurfer.vt"
-  ],
-  "Warlord": [
-    "toxic cave.vt"
-  ]
-}
+[
+  {
+    "tracker": "Vic-Tracker",
+    "composer": "Anders Carlsson",
+    "song": "sjamembi 8.vt",
+    "size": "5250"
+  },
+  {
+    "tracker": "Vic-Tracker",
+    "composer": "Baron Knoxburry",
+    "song": "roger iv.vt",
+    "size": "8066"
+  },
+  {
+    "tracker": "Vic-Tracker",
+    "composer": "Bjorn Stenberg",
+    "song": "djungel-zagor.vt",
+    "size": "3970"
+  },
+  {
+    "tracker": "Vic-Tracker",
+    "composer": "Daniel Kahlin",
+    "song": "mystic.vt",
+    "size": "2882"
+  },
+  {
+    "tracker": "Vic-Tracker",
+    "composer": "Daniel Kahlin",
+    "song": "slowride.vt",
+    "size": "3330"
+  },
+  {
+    "tracker": "Vic-Tracker",
+    "composer": "Daniel Kahlin",
+    "song": "vt-theme.vt",
+    "size": "3394"
+  },
+  {
+    "tracker": "Vic-Tracker",
+    "composer": "Kaneel",
+    "song": "super double hyper bash attack.vt",
+    "size": "3778"
+  },
+  {
+    "tracker": "Vic-Tracker",
+    "composer": "Patrik Wallstrom",
+    "song": "blippblopp.vt",
+    "size": "2754"
+  },
+  {
+    "tracker": "Vic-Tracker",
+    "composer": "Rio",
+    "song": "victrasher.vt",
+    "size": "3650"
+  },
+  {
+    "tracker": "Vic-Tracker",
+    "composer": "Strobe",
+    "song": "smurfer.vt",
+    "size": "4738"
+  },
+  {
+    "tracker": "Vic-Tracker",
+    "composer": "Warlord",
+    "song": "toxic cave.vt",
+    "size": "10306"
+  }
+]

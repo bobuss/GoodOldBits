@@ -1,13 +1,56 @@
-{
-  "Karsten Koch": [
-    "arthur.imf",
-    "astaris-16bit.imf",
-    "astaris.imf",
-    "behind.imf",
-    "chronologie.imf",
-    "fort2-1.imf",
-    "spaceintro.imf",
-    "spheric.imf",
-    "wormhole.imf"
-  ]
-}
+[
+  {
+    "tracker": "Imago Orpheus",
+    "composer": "Karsten Koch",
+    "song": "arthur.imf",
+    "size": "189754"
+  },
+  {
+    "tracker": "Imago Orpheus",
+    "composer": "Karsten Koch",
+    "song": "astaris-16bit.imf",
+    "size": "1318724"
+  },
+  {
+    "tracker": "Imago Orpheus",
+    "composer": "Karsten Koch",
+    "song": "astaris.imf",
+    "size": "535850"
+  },
+  {
+    "tracker": "Imago Orpheus",
+    "composer": "Karsten Koch",
+    "song": "behind.imf",
+    "size": "384841"
+  },
+  {
+    "tracker": "Imago Orpheus",
+    "composer": "Karsten Koch",
+    "song": "chronologie.imf",
+    "size": "601565"
+  },
+  {
+    "tracker": "Imago Orpheus",
+    "composer": "Karsten Koch",
+    "song": "fort2-1.imf",
+    "size": "442487"
+  },
+  {
+    "tracker": "Imago Orpheus",
+    "composer": "Karsten Koch",
+    "song": "spaceintro.imf",
+    "size": "631770"
+  },
+  {
+    "tracker": "Imago Orpheus",
+    "composer": "Karsten Koch",
+    "song": "spheric.imf",
+    "size": "760513"
+  },
+  {
+    "tracker": "Imago Orpheus",
+    "composer": "Karsten Koch",
+    "song": "wormhole.imf",
+    "size": "947719"
+  }
+]

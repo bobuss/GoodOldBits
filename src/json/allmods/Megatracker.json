@@ -1,18 +1,38 @@
-{
-  "- unknown": [
-    "santa's back in town.mgt"
-  ],
-  "Cedyn": [
-    "codeine soundtrack.mgt",
-    "it - soundtrack.mgt"
-  ],
-  "GMX": [
-    "synthispev.mgt"
-  ],
-  "Raiden": [
-    "feasible.mgt"
-  ],
-  "Seabrush": [
-    "silly venture.mgt"
-  ]
-}
+[
+  {
+    "tracker": "Megatracker",
+    "composer": "Cedyn",
+    "song": "codeine soundtrack.mgt",
+    "size": "416766"
+  },
+  {
+    "tracker": "Megatracker",
+    "composer": "Cedyn",
+    "song": "it - soundtrack.mgt",
+    "size": "370563"
+  },
+  {
+    "tracker": "Megatracker",
+    "composer": "GMX",
+    "song": "synthispev.mgt",
+    "size": "1044032"
+  },
+  {
+    "tracker": "Megatracker",
+    "composer": "Raiden",
+    "song": "feasible.mgt",
+    "size": "421724"
+  },
+  {
+    "tracker": "Megatracker",
+    "composer": "Seabrush",
+    "song": "silly venture.mgt",
+    "size": "157178"
+  },
+  {
+    "tracker": "Megatracker",
+    "composer": "- unknown",
+    "song": "santa's back in town.mgt",
+    "size": "433792"
+  }
+]

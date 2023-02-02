@@ -1,101 +1,584 @@
-{
-  "Jochen Hippel": [
-    "a prehistoric tale end.soc",
-    "a prehistoric tale high.soc",
-    "a prehistoric tale level0.soc",
-    "a prehistoric tale level2.soc",
-    "a prehistoric tale menu.soc",
-    "a prehistoric tale ongame.soc",
-    "a prehistoric tale title.soc",
-    "asm quiz.soc",
-    "atomino title.soc",
-    "bomberman.soc",
-    "car race.soc",
-    "chambers of shaolin title.soc",
-    "crime time.soc",
-    "cybermind.soc",
-    "demo loader.soc",
-    "demo music0.soc",
-    "demo music11.soc",
-    "demo music1.soc",
-    "demo music2.soc",
-    "demo music3.soc",
-    "demo music4.soc",
-    "demo music5.soc",
-    "demo music6.soc",
-    "demo music7.soc",
-    "demo music8.soc",
-    "demo music9.soc",
-    "demo mus jam.soc",
-    "demo shorty.soc",
-    "dragonflight title.soc",
-    "ea2.soc",
-    "eas3.soc",
-    "enchanted lands intro.soc",
-    "enchanted lands lcomp.soc",
-    "enchanted lands level0.soc",
-    "enchanted lands level1.soc",
-    "enchanted lands level2.soc",
-    "enchanted lands level3.soc",
-    "enchanted lands ongame.soc",
-    "enchanted lands title.soc",
-    "fabwilly.soc",
-    "fletch.soc",
-    "franzosendemo1.soc",
-    "franzosendemo2.soc",
-    "gambol.soc",
-    "ghostbattle finished.soc",
-    "ghostbattle level1.soc",
-    "ghostbattle level2.soc",
-    "ghostbattle level3.soc",
-    "ghostbattle level4.soc",
-    "ghostbattle loader.soc",
-    "ghostbattle titletune.soc",
-    "golden child.soc",
-    "grand monster slam.soc",
-    "insects in space.soc",
-    "j1 titl.soc",
-    "jambala end.soc",
-    "jambala gameover.soc",
-    "jazzy.soc",
-    "lethal xs level1.soc",
-    "lethal xs level2.soc",
-    "lethal xs level3.soc",
-    "lethal xs level4.soc",
-    "lethal xs level5.soc",
-    "lethal xs menu.soc",
-    "l m.soc",
-    "masterblazer loading.soc",
-    "masterblazer.soc",
-    "michael raasch demo.soc",
-    "pokermusic.soc",
-    "return of medusa 3.soc",
-    "return of medusa game.soc",
-    "return of medusa loader2.soc",
-    "rings of medusa game.soc",
-    "rings of medusa loader.soc",
-    "robocop.soc",
-    "shaolin remix.soc",
-    "smp.set",
-    "spacedemo.soc",
-    "spiel.soc",
-    "stormlord game.soc",
-    "stormlord main.soc",
-    "stormlord original.soc",
-    "teramis highscore.soc",
-    "thalionb.soc",
-    "tim moss demo 2.soc",
-    "tim moss demo.soc",
-    "turrican loader.soc",
-    "unknown.soc",
-    "warp ongame.soc",
-    "warp title.soc",
-    "wings of death 1.soc",
-    "wings of death 2.soc",
-    "wings of death 3.soc",
-    "wings of death 4.soc",
-    "wings of death 5.soc",
-    "wings of death 6.soc",
-    "wings of death 7.soc"
-  ]
-}
+[
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "a prehistoric tale end.soc",
+    "size": "1678"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "a prehistoric tale high.soc",
+    "size": "1468"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "a prehistoric tale level0.soc",
+    "size": "2646"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "a prehistoric tale level2.soc",
+    "size": "2014"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "a prehistoric tale menu.soc",
+    "size": "1010"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "a prehistoric tale ongame.soc",
+    "size": "2198"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "a prehistoric tale title.soc",
+    "size": "6382"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "asm quiz.soc",
+    "size": "3448"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "atomino title.soc",
+    "size": "2296"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "bomberman.soc",
+    "size": "11240"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "car race.soc",
+    "size": "1476"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "chambers of shaolin title.soc",
+    "size": "5712"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "crime time.soc",
+    "size": "3976"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "cybermind.soc",
+    "size": "6832"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "demo loader.soc",
+    "size": "1302"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "demo music0.soc",
+    "size": "2712"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "demo music11.soc",
+    "size": "1672"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "demo music1.soc",
+    "size": "2766"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "demo music2.soc",
+    "size": "3252"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "demo music3.soc",
+    "size": "2660"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "demo music4.soc",
+    "size": "1508"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "demo music5.soc",
+    "size": "2218"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "demo music6.soc",
+    "size": "4430"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "demo music7.soc",
+    "size": "2530"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "demo music8.soc",
+    "size": "1822"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "demo music9.soc",
+    "size": "986"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "demo mus jam.soc",
+    "size": "1120"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "demo shorty.soc",
+    "size": "808"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "dragonflight title.soc",
+    "size": "4236"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "ea2.soc",
+    "size": "1480"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "eas3.soc",
+    "size": "4784"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "enchanted lands intro.soc",
+    "size": "2408"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "enchanted lands lcomp.soc",
+    "size": "928"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "enchanted lands level0.soc",
+    "size": "3606"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "enchanted lands level1.soc",
+    "size": "2920"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "enchanted lands level2.soc",
+    "size": "3550"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "enchanted lands level3.soc",
+    "size": "3466"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "enchanted lands ongame.soc",
+    "size": "3682"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "enchanted lands title.soc",
+    "size": "2046"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "fabwilly.soc",
+    "size": "2550"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "fletch.soc",
+    "size": "1986"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "franzosendemo1.soc",
+    "size": "1832"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "franzosendemo2.soc",
+    "size": "1526"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "gambol.soc",
+    "size": "5888"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "ghostbattle finished.soc",
+    "size": "2992"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "ghostbattle level1.soc",
+    "size": "3195"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "ghostbattle level2.soc",
+    "size": "3806"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "ghostbattle level3.soc",
+    "size": "3926"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "ghostbattle level4.soc",
+    "size": "5835"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "ghostbattle loader.soc",
+    "size": "3927"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "ghostbattle titletune.soc",
+    "size": "3773"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "golden child.soc",
+    "size": "1670"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "grand monster slam.soc",
+    "size": "2546"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "insects in space.soc",
+    "size": "3534"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "j1 titl.soc",
+    "size": "6428"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "jambala end.soc",
+    "size": "1908"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "jambala gameover.soc",
+    "size": "1830"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "jazzy.soc",
+    "size": "1446"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "lethal xs level1.soc",
+    "size": "6724"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "lethal xs level2.soc",
+    "size": "8766"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "lethal xs level3.soc",
+    "size": "9032"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "lethal xs level4.soc",
+    "size": "7502"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "lethal xs level5.soc",
+    "size": "7460"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "lethal xs menu.soc",
+    "size": "5008"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "l m.soc",
+    "size": "4156"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "masterblazer loading.soc",
+    "size": "1686"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "masterblazer.soc",
+    "size": "5488"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "michael raasch demo.soc",
+    "size": "6032"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "pokermusic.soc",
+    "size": "3560"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "return of medusa 3.soc",
+    "size": "2844"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "return of medusa game.soc",
+    "size": "5872"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "return of medusa loader2.soc",
+    "size": "926"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "rings of medusa game.soc",
+    "size": "3820"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "rings of medusa loader.soc",
+    "size": "884"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "robocop.soc",
+    "size": "2000"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "shaolin remix.soc",
+    "size": "2996"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "smp.set",
+    "size": "10611"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "spacedemo.soc",
+    "size": "3078"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "spiel.soc",
+    "size": "2594"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "stormlord game.soc",
+    "size": "9134"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "stormlord main.soc",
+    "size": "8906"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "stormlord original.soc",
+    "size": "9160"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "teramis highscore.soc",
+    "size": "3656"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "thalionb.soc",
+    "size": "3888"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "tim moss demo 2.soc",
+    "size": "9511"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "tim moss demo.soc",
+    "size": "7462"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "turrican loader.soc",
+    "size": "1318"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "unknown.soc",
+    "size": "2072"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "warp ongame.soc",
+    "size": "6468"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "warp title.soc",
+    "size": "3556"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "wings of death 1.soc",
+    "size": "3768"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "wings of death 2.soc",
+    "size": "2480"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "wings of death 3.soc",
+    "size": "4364"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "wings of death 4.soc",
+    "size": "3738"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "wings of death 5.soc",
+    "size": "3752"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "wings of death 6.soc",
+    "size": "3952"
+  },
+  {
+    "tracker": "Hippel ST COSO",
+    "composer": "Jochen Hippel",
+    "song": "wings of death 7.soc",
+    "size": "5976"
+  }
+]

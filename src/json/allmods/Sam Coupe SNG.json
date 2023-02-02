@@ -1,27 +1,92 @@
-{
-  "- unknown": [
-    "enola.sng",
-    "tetris.sng"
-  ],
-  "Frantisek Fuka": [
-    "evil.sng",
-    "music1.sng",
-    "music2.sng",
-    "shanghai.sng"
-  ],
-  "InfoSoft": [
-    "ddtitl.sng",
-    "neverendingstory.sng"
-  ],
-  "Qjeta": [
-    "kapsa3.sng",
-    "kapsa4.sng",
-    "kapsa5.sng"
-  ],
-  "Ziutek": [
-    "ofc1.sng",
-    "ofc2.sng",
-    "ofc3.sng",
-    "ofc4.sng"
-  ]
-}
+[
+  {
+    "tracker": "Sam Coupe SNG",
+    "composer": "Frantisek Fuka",
+    "song": "evil.sng",
+    "size": "4605"
+  },
+  {
+    "tracker": "Sam Coupe SNG",
+    "composer": "Frantisek Fuka",
+    "song": "music1.sng",
+    "size": "5600"
+  },
+  {
+    "tracker": "Sam Coupe SNG",
+    "composer": "Frantisek Fuka",
+    "song": "music2.sng",
+    "size": "19500"
+  },
+  {
+    "tracker": "Sam Coupe SNG",
+    "composer": "Frantisek Fuka",
+    "song": "shanghai.sng",
+    "size": "4500"
+  },
+  {
+    "tracker": "Sam Coupe SNG",
+    "composer": "InfoSoft",
+    "song": "ddtitl.sng",
+    "size": "2384"
+  },
+  {
+    "tracker": "Sam Coupe SNG",
+    "composer": "InfoSoft",
+    "song": "neverendingstory.sng",
+    "size": "4975"
+  },
+  {
+    "tracker": "Sam Coupe SNG",
+    "composer": "Qjeta",
+    "song": "kapsa3.sng",
+    "size": "3825"
+  },
+  {
+    "tracker": "Sam Coupe SNG",
+    "composer": "Qjeta",
+    "song": "kapsa4.sng",
+    "size": "2130"
+  },
+  {
+    "tracker": "Sam Coupe SNG",
+    "composer": "Qjeta",
+    "song": "kapsa5.sng",
+    "size": "7030"
+  },
+  {
+    "tracker": "Sam Coupe SNG",
+    "composer": "- unknown",
+    "song": "enola.sng",
+    "size": "1246"
+  },
+  {
+    "tracker": "Sam Coupe SNG",
+    "composer": "- unknown",
+    "song": "tetris.sng",
+    "size": "4201"
+  },
+  {
+    "tracker": "Sam Coupe SNG",
+    "composer": "Ziutek",
+    "song": "ofc1.sng",
+    "size": "14026"
+  },
+  {
+    "tracker": "Sam Coupe SNG",
+    "composer": "Ziutek",
+    "song": "ofc2.sng",
+    "size": "16384"
+  },
+  {
+    "tracker": "Sam Coupe SNG",
+    "composer": "Ziutek",
+    "song": "ofc3.sng",
+    "size": "10000"
+  },
+  {
+    "tracker": "Sam Coupe SNG",
+    "composer": "Ziutek",
+    "song": "ofc4.sng",
+    "size": "13000"
+  }
+]

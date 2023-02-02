@@ -1,90 +1,350 @@
-{
-  "505": [
-    "demotivation forever.gt2",
-    "electrolife.gt2",
-    "jm3 escape.gt2",
-    "jm3 groaumf.gt2",
-    "jm3 lifebox.gt2",
-    "jm3 magictea.gt2",
-    "jm3 now.gt2",
-    "jm3 survive.gt2",
-    "jm3 vacuum.gt2"
-  ],
-  "- unknown": [
-    "blaaha.gt2",
-    "gimmekuh!.gt2"
-  ],
-  "Alan DN": [
-    "ecstasy.gt2"
-  ],
-  "D-Force": [
-    "lowlif3.gt2"
-  ],
-  "DJ Fesus": [
-    "dragis.gt2"
-  ],
-  "Dumbo": [
-    "blouba.gt2",
-    "dream22.gt2",
-    "dream23.gt2",
-    "maitresm.gt2",
-    "million.gt2",
-    "radrace1.gt2",
-    "radrace2.gt2",
-    "radrace3.gt2",
-    "radrace4.gt2",
-    "radrace5.gt2",
-    "radrace6.gt2",
-    "rhaaaaa!.gt2"
-  ],
-  "Energizer": [
-    "ft pussy.gt2"
-  ],
-  "God": [
-    "revertant.gt2"
-  ],
-  "Laurent De Soras": [
-    "gnotura.gt2"
-  ],
-  "Marcer": [
-    "newan.gt2"
-  ],
-  "Mr. Future": [
-    "adlibjm4.gt2",
-    "beyondim.gt2",
-    "fnlthgts.gt2",
-    "imperfex.gt2",
-    "realovec.gt2",
-    "wannabe.gt2"
-  ],
-  "Pegase": [
-    "jb dream.gt2",
-    "piano001.gt2",
-    "piano31.gt2",
-    "rage.gt2"
-  ],
-  "Speechless": [
-    "bittersweet.gt2",
-    "bound.gt2",
-    "cartoon terror.gt2",
-    "in real life.gt2",
-    "mistake.gt2",
-    "moisture.gt2",
-    "tender blender.gt2",
-    "thoughts.gt2"
-  ],
-  "Xtream": [
-    "cityhunter.gt2",
-    "melislove.gt2",
-    "simplicity.gt2",
-    "spring.gt2",
-    "technow.gt2"
-  ],
-  "Zigo": [
-    "demo.gt2",
-    "evolution.gt2",
-    "k2.gt2",
-    "xeu.gt2",
-    "zigo.gt2"
-  ]
-}
+[
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "505",
+    "song": "demotivation forever.gt2",
+    "size": "702076"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "505",
+    "song": "electrolife.gt2",
+    "size": "383616"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "505",
+    "song": "jm3 escape.gt2",
+    "size": "540850"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "505",
+    "song": "jm3 groaumf.gt2",
+    "size": "628262"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "505",
+    "song": "jm3 lifebox.gt2",
+    "size": "558534"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "505",
+    "song": "jm3 magictea.gt2",
+    "size": "612076"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "505",
+    "song": "jm3 now.gt2",
+    "size": "459348"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "505",
+    "song": "jm3 survive.gt2",
+    "size": "455752"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "505",
+    "song": "jm3 vacuum.gt2",
+    "size": "372920"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Alan DN",
+    "song": "ecstasy.gt2",
+    "size": "277204"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "D-Force",
+    "song": "lowlif3.gt2",
+    "size": "547572"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "DJ Fesus",
+    "song": "dragis.gt2",
+    "size": "555188"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Dumbo",
+    "song": "blouba.gt2",
+    "size": "115822"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Dumbo",
+    "song": "dream22.gt2",
+    "size": "883004"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Dumbo",
+    "song": "dream23.gt2",
+    "size": "135768"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Dumbo",
+    "song": "maitresm.gt2",
+    "size": "1408956"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Dumbo",
+    "song": "million.gt2",
+    "size": "2021528"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Dumbo",
+    "song": "radrace1.gt2",
+    "size": "281948"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Dumbo",
+    "song": "radrace2.gt2",
+    "size": "244872"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Dumbo",
+    "song": "radrace3.gt2",
+    "size": "213740"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Dumbo",
+    "song": "radrace4.gt2",
+    "size": "262442"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Dumbo",
+    "song": "radrace5.gt2",
+    "size": "221898"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Dumbo",
+    "song": "radrace6.gt2",
+    "size": "111764"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Dumbo",
+    "song": "rhaaaaa!.gt2",
+    "size": "927726"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Energizer",
+    "song": "ft pussy.gt2",
+    "size": "1281326"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "God",
+    "song": "revertant.gt2",
+    "size": "5682852"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Laurent De Soras",
+    "song": "gnotura.gt2",
+    "size": "879770"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Marcer",
+    "song": "newan.gt2",
+    "size": "222678"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Mr. Future",
+    "song": "adlibjm4.gt2",
+    "size": "772728"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Mr. Future",
+    "song": "beyondim.gt2",
+    "size": "1045698"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Mr. Future",
+    "song": "fnlthgts.gt2",
+    "size": "2543896"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Mr. Future",
+    "song": "imperfex.gt2",
+    "size": "1313306"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Mr. Future",
+    "song": "realovec.gt2",
+    "size": "1838352"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Mr. Future",
+    "song": "wannabe.gt2",
+    "size": "545578"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Pegase",
+    "song": "jb dream.gt2",
+    "size": "804444"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Pegase",
+    "song": "piano001.gt2",
+    "size": "713582"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Pegase",
+    "song": "piano31.gt2",
+    "size": "606482"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Pegase",
+    "song": "rage.gt2",
+    "size": "75712"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Speechless",
+    "song": "bittersweet.gt2",
+    "size": "736280"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Speechless",
+    "song": "bound.gt2",
+    "size": "1397258"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Speechless",
+    "song": "cartoon terror.gt2",
+    "size": "860668"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Speechless",
+    "song": "in real life.gt2",
+    "size": "1206194"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Speechless",
+    "song": "mistake.gt2",
+    "size": "1491244"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Speechless",
+    "song": "moisture.gt2",
+    "size": "907466"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Speechless",
+    "song": "tender blender.gt2",
+    "size": "726886"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Speechless",
+    "song": "thoughts.gt2",
+    "size": "964558"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "- unknown",
+    "song": "blaaha.gt2",
+    "size": "955996"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "- unknown",
+    "song": "gimmekuh!.gt2",
+    "size": "464131"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Xtream",
+    "song": "cityhunter.gt2",
+    "size": "274286"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Xtream",
+    "song": "melislove.gt2",
+    "size": "372088"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Xtream",
+    "song": "simplicity.gt2",
+    "size": "325224"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Xtream",
+    "song": "spring.gt2",
+    "size": "299406"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Xtream",
+    "song": "technow.gt2",
+    "size": "529422"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Zigo",
+    "song": "demo.gt2",
+    "size": "709418"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Zigo",
+    "song": "evolution.gt2",
+    "size": "783556"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Zigo",
+    "song": "k2.gt2",
+    "size": "819140"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Zigo",
+    "song": "xeu.gt2",
+    "size": "13074344"
+  },
+  {
+    "tracker": "Graoumf Tracker 2",
+    "composer": "Zigo",
+    "song": "zigo.gt2",
+    "size": "2174346"
+  }
+]

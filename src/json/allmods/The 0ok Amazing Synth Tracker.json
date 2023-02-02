@@ -1,16 +1,50 @@
-{
-  "BeRo": [
-    "es ist total krank.t0ast",
-    "hard and harder.t0ast",
-    "lost in time.t0ast",
-    "popcorn.t0ast",
-    "the another side.t0ast",
-    "wippwapp.t0ast"
-  ],
-  "Dkamp": [
-    "tc.t0ast"
-  ],
-  "Eagle": [
-    "bacterias.t0ast"
-  ]
-}
+[
+  {
+    "tracker": "The 0ok Amazing Synth Tracker",
+    "composer": "BeRo",
+    "song": "es ist total krank.t0ast",
+    "size": "4251"
+  },
+  {
+    "tracker": "The 0ok Amazing Synth Tracker",
+    "composer": "BeRo",
+    "song": "hard and harder.t0ast",
+    "size": "12179"
+  },
+  {
+    "tracker": "The 0ok Amazing Synth Tracker",
+    "composer": "BeRo",
+    "song": "lost in time.t0ast",
+    "size": "5572"
+  },
+  {
+    "tracker": "The 0ok Amazing Synth Tracker",
+    "composer": "BeRo",
+    "song": "popcorn.t0ast",
+    "size": "2704"
+  },
+  {
+    "tracker": "The 0ok Amazing Synth Tracker",
+    "composer": "BeRo",
+    "song": "the another side.t0ast",
+    "size": "7719"
+  },
+  {
+    "tracker": "The 0ok Amazing Synth Tracker",
+    "composer": "BeRo",
+    "song": "wippwapp.t0ast",
+    "size": "14283"
+  },
+  {
+    "tracker": "The 0ok Amazing Synth Tracker",
+    "composer": "Dkamp",
+    "song": "tc.t0ast",
+    "size": "5424"
+  },
+  {
+    "tracker": "The 0ok Amazing Synth Tracker",
+    "composer": "Eagle",
+    "song": "bacterias.t0ast",
+    "size": "11871"
+  }
+]

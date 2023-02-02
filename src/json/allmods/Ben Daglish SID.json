@@ -1,7 +1,20 @@
-{
-  "Ben Daglish": [
-    "chubbygristle.bds",
-    "flintstones.bds",
-    "terramex.bds"
-  ]
-}
+[
+  {
+    "tracker": "Ben Daglish SID",
+    "composer": "Ben Daglish",
+    "song": "chubbygristle.bds",
+    "size": "18472"
+  },
+  {
+    "tracker": "Ben Daglish SID",
+    "composer": "Ben Daglish",
+    "song": "flintstones.bds",
+    "size": "18940"
+  },
+  {
+    "tracker": "Ben Daglish SID",
+    "composer": "Ben Daglish",
+    "song": "terramex.bds",
+    "size": "8352"
+  }
+]

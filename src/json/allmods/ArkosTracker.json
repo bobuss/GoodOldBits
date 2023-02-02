@@ -1,8 +1,14 @@
-{
-  "Glafouk": [
-    "sontagbeat.aks"
-  ],
-  "Targhan": [
-    "demo.aks"
-  ]
-}
+[
+  {
+    "tracker": "ArkosTracker",
+    "composer": "Glafouk",
+    "song": "sontagbeat.aks",
+    "size": "7718"
+  },
+  {
+    "tracker": "ArkosTracker",
+    "composer": "Targhan",
+    "song": "demo.aks",
+    "size": "51212"
+  }
+]

@@ -1,6 +1,14 @@
-{
-  "Tronic": [
-    "crystal.dp",
-    "locomotion.dp"
-  ]
-}
+[
+  {
+    "tracker": "Delta Packer",
+    "composer": "Tronic",
+    "song": "crystal.dp",
+    "size": "12552"
+  },
+  {
+    "tracker": "Delta Packer",
+    "composer": "Tronic",
+    "song": "locomotion.dp",
+    "size": "11944"
+  }
+]

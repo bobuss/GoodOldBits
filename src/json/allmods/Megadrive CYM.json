@@ -1,5 +1,8 @@
-{
-  "- unknown": [
-    "- misc/sample.cym"
-  ]
-}
+[
+  {
+    "tracker": "Megadrive CYM",
+    "composer": "- unknown",
+    "song": "- misc/sample.cym",
+    "size": "20921"
+  }
+]

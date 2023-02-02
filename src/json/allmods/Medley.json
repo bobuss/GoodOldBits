@@ -1,8 +1,26 @@
-{
-  "Paul Van Der Valk": [
-    "atmos.mso",
-    "birdfx.mso",
-    "combat.mso",
-    "imploder4.mso"
-  ]
-}
+[
+  {
+    "tracker": "Medley",
+    "composer": "Paul Van Der Valk",
+    "song": "atmos.mso",
+    "size": "3252"
+  },
+  {
+    "tracker": "Medley",
+    "composer": "Paul Van Der Valk",
+    "song": "birdfx.mso",
+    "size": "6652"
+  },
+  {
+    "tracker": "Medley",
+    "composer": "Paul Van Der Valk",
+    "song": "combat.mso",
+    "size": "11076"
+  },
+  {
+    "tracker": "Medley",
+    "composer": "Paul Van Der Valk",
+    "song": "imploder4.mso",
+    "size": "15612"
+  }
+]

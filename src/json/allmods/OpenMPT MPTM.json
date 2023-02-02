@@ -1,7 +1,20 @@
-{
-  "Saga Musix": [
-    "dancing on the milky way.mptm",
-    "escaping the orbit.mptm",
-    "ethereal voices.mptm"
-  ]
-}
+[
+  {
+    "tracker": "OpenMPT MPTM",
+    "composer": "Saga Musix",
+    "song": "dancing on the milky way.mptm",
+    "size": "1961237"
+  },
+  {
+    "tracker": "OpenMPT MPTM",
+    "composer": "Saga Musix",
+    "song": "escaping the orbit.mptm",
+    "size": "3013302"
+  },
+  {
+    "tracker": "OpenMPT MPTM",
+    "composer": "Saga Musix",
+    "song": "ethereal voices.mptm",
+    "size": "16933495"
+  }
+]

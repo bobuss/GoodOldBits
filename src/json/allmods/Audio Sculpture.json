@@ -1,14 +1,50 @@
-{
-  "- unknown": [
-    "popelich-brutalo.adsc",
-    "popelich-brutalo.adsc.as",
-    "turtle-ready.adsc",
-    "turtle-ready.adsc.as",
-    "turtle-title.adsc",
-    "turtle-title.adsc.as"
-  ],
-  "Darren Ithell": [
-    "daisy.adsc",
-    "daisy.adsc.as"
-  ]
-}
+[
+  {
+    "tracker": "Audio Sculpture",
+    "composer": "Darren Ithell",
+    "song": "daisy.adsc",
+    "size": "35554"
+  },
+  {
+    "tracker": "Audio Sculpture",
+    "composer": "Darren Ithell",
+    "song": "daisy.adsc.as",
+    "size": "8336"
+  },
+  {
+    "tracker": "Audio Sculpture",
+    "composer": "- unknown",
+    "song": "popelich-brutalo.adsc",
+    "size": "6204"
+  },
+  {
+    "tracker": "Audio Sculpture",
+    "composer": "- unknown",
+    "song": "popelich-brutalo.adsc.as",
+    "size": "8336"
+  },
+  {
+    "tracker": "Audio Sculpture",
+    "composer": "- unknown",
+    "song": "turtle-ready.adsc",
+    "size": "6204"
+  },
+  {
+    "tracker": "Audio Sculpture",
+    "composer": "- unknown",
+    "song": "turtle-ready.adsc.as",
+    "size": "8336"
+  },
+  {
+    "tracker": "Audio Sculpture",
+    "composer": "- unknown",
+    "song": "turtle-title.adsc",
+    "size": "24700"
+  },
+  {
+    "tracker": "Audio Sculpture",
+    "composer": "- unknown",
+    "song": "turtle-title.adsc.as",
+    "size": "8336"
+  }
+]

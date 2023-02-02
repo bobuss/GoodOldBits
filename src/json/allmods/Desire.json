@@ -1,9 +1,20 @@
-{
-  "- unknown": [
-    "batmanreturns.dsr"
-  ],
-  "Kev Bruce": [
-    "powerdrive 1.dsr",
-    "powerdrive 2.dsr"
-  ]
-}
+[
+  {
+    "tracker": "Desire",
+    "composer": "Kev Bruce",
+    "song": "powerdrive 1.dsr",
+    "size": "57930"
+  },
+  {
+    "tracker": "Desire",
+    "composer": "Kev Bruce",
+    "song": "powerdrive 2.dsr",
+    "size": "58668"
+  },
+  {
+    "tracker": "Desire",
+    "composer": "- unknown",
+    "song": "batmanreturns.dsr",
+    "size": "87852"
+  }
+]

@@ -47,16 +47,16 @@
 - "Soundtracker Pro II": "stp",
 - "Symphonie": "symmod",
 - "Ultratracker": "ult",
+- Composer 670 / CDFM (.c67)
+- SoundTracker and compatible (.m15 / .stk)
 
 ### Not sure
 - "Digital Sound Interface Kit RIFF": "dsm",
 
 ### Not in modland
-- Composer 670 / CDFM (.c67)
 - Ice Tracker / SoundTracker 2.6 (.ice / .st26)
 - Impulse Tracker Project (.itp) – legacy OpenMPT format with instruments stored in external files rather than directly in the module
 - Jazz Jackrabbit 2 Music (.j2b)
-- SoundTracker and compatible (.m15 / .stk)
 - Psycho Pinball / Micro Machines 2 music format (.mus)
 - OggMod-compressed XM files (.oxm)
 - SoundFX / MultiMedia Sound (.sfx2)

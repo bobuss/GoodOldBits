@@ -1,68 +1,326 @@
-{
-  "- unknown": [
-    "dark.ned",
-    "dmc-new.ned",
-    "mq-bt.ned",
-    "mq-sad.ned",
-    "mq-title.ned",
-    "retard7.ned"
-  ],
-  "Chibi-Tech": [
-    "downtown (flashing pink-screen mix).ned",
-    "i-love-u!.ned",
-    "paivantasaaja.ned",
-    "po-barabanu (dancedancedendy mix).ned",
-    "princess bride!.ned",
-    "she-know-be.ned"
-  ],
-  "Datschge": [
-    "children (2nd version).ned",
-    "children.ned",
-    "piano.ned",
-    "trance.ned",
-    "zelda 4 (wind fish).ned"
-  ],
-  "James Ternst": [
-    "gekkai merry-go-round.ned"
-  ],
-  "Memblers": [
-    "beyond the ice palace.ned",
-    "bubble bobble (in-game bgm).ned",
-    "butl1.ned",
-    "castlevania 2 (password theme).ned",
-    "dmsong5.ned",
-    "dooi2.ned",
-    "golden axe (first level).ned",
-    "gradius.ned",
-    "jfz9.ned",
-    "kid icarus (fortress).ned",
-    "kungfu.ned",
-    "lld1.ned",
-    "mannaz.ned",
-    "march of the pigs.ned",
-    "metroid (title theme).ned",
-    "newdum1.ned",
-    "nudrom1.ned",
-    "professor bill's tropical paradise.ned",
-    "quarth.ned",
-    "ruiner.ned",
-    "rusx.ned",
-    "solar wars (cold victory).ned",
-    "solar wars (planet select).ned",
-    "solar wars (title screen).ned",
-    "stairway to heaven.ned",
-    "star control 2 (hyperspace).ned",
-    "super fighter (lan's theme).ned",
-    "sy1.ned",
-    "the guardian legend (underwater level).ned",
-    "the hustle.ned",
-    "trcn1.ned",
-    "wish.ned",
-    "zanac (title theme).ned"
-  ],
-  "Mr. DNA": [
-    "alert.ned",
-    "benny hill theme.ned",
-    "golgotha.ned"
-  ]
-}
+[
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Chibi-Tech",
+    "song": "downtown (flashing pink-screen mix).ned",
+    "size": "8296"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Chibi-Tech",
+    "song": "i-love-u!.ned",
+    "size": "6063"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Chibi-Tech",
+    "song": "paivantasaaja.ned",
+    "size": "3043"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Chibi-Tech",
+    "song": "po-barabanu (dancedancedendy mix).ned",
+    "size": "3473"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Chibi-Tech",
+    "song": "princess bride!.ned",
+    "size": "15977"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Chibi-Tech",
+    "song": "she-know-be.ned",
+    "size": "7297"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Datschge",
+    "song": "children (2nd version).ned",
+    "size": "7971"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Datschge",
+    "song": "children.ned",
+    "size": "8426"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Datschge",
+    "song": "piano.ned",
+    "size": "1482"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Datschge",
+    "song": "trance.ned",
+    "size": "4203"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Datschge",
+    "song": "zelda 4 (wind fish).ned",
+    "size": "1689"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "James Ternst",
+    "song": "gekkai merry-go-round.ned",
+    "size": "3131"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "beyond the ice palace.ned",
+    "size": "9660"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "bubble bobble (in-game bgm).ned",
+    "size": "3392"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "butl1.ned",
+    "size": "2853"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "castlevania 2 (password theme).ned",
+    "size": "11416"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "dmsong5.ned",
+    "size": "11290"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "dooi2.ned",
+    "size": "5702"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "golden axe (first level).ned",
+    "size": "1955"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "gradius.ned",
+    "size": "9255"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "jfz9.ned",
+    "size": "960"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "kid icarus (fortress).ned",
+    "size": "1229"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "kungfu.ned",
+    "size": "852"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "lld1.ned",
+    "size": "1242"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "mannaz.ned",
+    "size": "5429"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "march of the pigs.ned",
+    "size": "2282"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "metroid (title theme).ned",
+    "size": "6600"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "newdum1.ned",
+    "size": "1480"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "nudrom1.ned",
+    "size": "1654"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "professor bill's tropical paradise.ned",
+    "size": "962"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "quarth.ned",
+    "size": "3504"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "ruiner.ned",
+    "size": "2199"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "rusx.ned",
+    "size": "6967"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "solar wars (cold victory).ned",
+    "size": "2212"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "solar wars (planet select).ned",
+    "size": "2719"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "solar wars (title screen).ned",
+    "size": "2196"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "stairway to heaven.ned",
+    "size": "943"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "star control 2 (hyperspace).ned",
+    "size": "3837"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "super fighter (lan's theme).ned",
+    "size": "1489"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "sy1.ned",
+    "size": "2811"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "the guardian legend (underwater level).ned",
+    "size": "5878"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "the hustle.ned",
+    "size": "2633"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "trcn1.ned",
+    "size": "1585"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "wish.ned",
+    "size": "3154"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Memblers",
+    "song": "zanac (title theme).ned",
+    "size": "6199"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Mr. DNA",
+    "song": "alert.ned",
+    "size": "2082"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Mr. DNA",
+    "song": "benny hill theme.ned",
+    "size": "1404"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "Mr. DNA",
+    "song": "golgotha.ned",
+    "size": "1786"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "- unknown",
+    "song": "dark.ned",
+    "size": "3537"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "- unknown",
+    "song": "dmc-new.ned",
+    "size": "5046"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "- unknown",
+    "song": "mq-bt.ned",
+    "size": "1374"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "- unknown",
+    "song": "mq-sad.ned",
+    "size": "572"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "- unknown",
+    "song": "mq-title.ned",
+    "size": "580"
+  },
+  {
+    "tracker": "NerdTracker 2",
+    "composer": "- unknown",
+    "song": "retard7.ned",
+    "size": "1431"
+  }
+]

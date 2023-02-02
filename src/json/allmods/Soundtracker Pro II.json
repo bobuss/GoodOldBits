@@ -1,7 +1,20 @@
-{
-  "- unknown": [
-    "jungle in germany.stp",
-    "noname.stp",
-    "this is 4 u.stp"
-  ]
-}
+[
+  {
+    "tracker": "Soundtracker Pro II",
+    "composer": "- unknown",
+    "song": "jungle in germany.stp",
+    "size": "635207"
+  },
+  {
+    "tracker": "Soundtracker Pro II",
+    "composer": "- unknown",
+    "song": "noname.stp",
+    "size": "278466"
+  },
+  {
+    "tracker": "Soundtracker Pro II",
+    "composer": "- unknown",
+    "song": "this is 4 u.stp",
+    "size": "852219"
+  }
+]

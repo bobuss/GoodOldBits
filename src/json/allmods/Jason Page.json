@@ -1,68 +1,386 @@
-{
-  "Jason Page": [
-    "jpn.empiresoccer94",
-    "jpn.fire and ice-1",
-    "jpn.fire and ice-2",
-    "jpn.fire and ice-3",
-    "jpn.fire and ice-4",
-    "jpn.fire and ice-5",
-    "jpn.fire and ice-6",
-    "jpn.fire and ice-7",
-    "jpn.fire and ice-gameover and highscore",
-    "jpn.fire and ice-intro",
-    "jpn.nipper vs thekats",
-    "jpn.realms ingame",
-    "jpn.realms intro",
-    "jpn.road",
-    "jpn.uridium2-loader",
-    "jpn.uridium2 music1",
-    "jpn.uridium2 music2",
-    "jpn.virocop-01",
-    "jpn.virocop-02",
-    "jpn.virocop-03",
-    "jpn.virocop-04",
-    "jpn.virocop-05",
-    "jpn.virocop-06",
-    "jpn.virocop-07",
-    "jpn.virocop-08",
-    "jpn.virocop-09",
-    "jpn.virocop-11",
-    "jpn.virocop-12",
-    "jpn.virocop-13",
-    "jpn.virocop-14",
-    "jpn.virocop-title",
-    "jpn.xmas demo",
-    "smp.empiresoccer94",
-    "smp.fire and ice-1",
-    "smp.fire and ice-2",
-    "smp.fire and ice-3",
-    "smp.fire and ice-4",
-    "smp.fire and ice-5",
-    "smp.fire and ice-6",
-    "smp.fire and ice-7",
-    "smp.fire and ice-gameover and highscore",
-    "smp.fire and ice-intro",
-    "smp.nipper vs thekats",
-    "smp.realms ingame",
-    "smp.realms intro",
-    "smp.road",
-    "smp.uridium2-loader",
-    "smp.uridium2 music1",
-    "smp.uridium2 music2",
-    "smp.virocop-01",
-    "smp.virocop-02",
-    "smp.virocop-03",
-    "smp.virocop-04",
-    "smp.virocop-05",
-    "smp.virocop-06",
-    "smp.virocop-07",
-    "smp.virocop-08",
-    "smp.virocop-09",
-    "smp.virocop-11",
-    "smp.virocop-12",
-    "smp.virocop-13",
-    "smp.virocop-14",
-    "smp.virocop-title",
-    "smp.xmas demo"
-  ]
-}
+[
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.empiresoccer94",
+    "size": "7452"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.fire and ice-1",
+    "size": "5374"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.fire and ice-2",
+    "size": "5304"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.fire and ice-3",
+    "size": "4962"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.fire and ice-4",
+    "size": "5766"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.fire and ice-5",
+    "size": "5902"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.fire and ice-6",
+    "size": "4572"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.fire and ice-7",
+    "size": "7016"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.fire and ice-gameover and highscore",
+    "size": "2958"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.fire and ice-intro",
+    "size": "6362"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.nipper vs thekats",
+    "size": "5974"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.realms ingame",
+    "size": "7382"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.realms intro",
+    "size": "7652"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.road",
+    "size": "4134"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.uridium2-loader",
+    "size": "3140"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.uridium2 music1",
+    "size": "15382"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.uridium2 music2",
+    "size": "15274"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.virocop-01",
+    "size": "7054"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.virocop-02",
+    "size": "7538"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.virocop-03",
+    "size": "6736"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.virocop-04",
+    "size": "6938"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.virocop-05",
+    "size": "6330"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.virocop-06",
+    "size": "5908"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.virocop-07",
+    "size": "6544"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.virocop-08",
+    "size": "6044"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.virocop-09",
+    "size": "6260"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.virocop-11",
+    "size": "7586"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.virocop-12",
+    "size": "1618"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.virocop-13",
+    "size": "2120"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.virocop-14",
+    "size": "1284"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.virocop-title",
+    "size": "6338"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "jpn.xmas demo",
+    "size": "5956"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.empiresoccer94",
+    "size": "119492"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.fire and ice-1",
+    "size": "17948"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.fire and ice-2",
+    "size": "19848"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.fire and ice-3",
+    "size": "19848"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.fire and ice-4",
+    "size": "24252"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.fire and ice-5",
+    "size": "19848"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.fire and ice-6",
+    "size": "19848"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.fire and ice-7",
+    "size": "21410"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.fire and ice-gameover and highscore",
+    "size": "17948"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.fire and ice-intro",
+    "size": "108548"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.nipper vs thekats",
+    "size": "34308"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.realms ingame",
+    "size": "19290"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.realms intro",
+    "size": "117538"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.road",
+    "size": "31606"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.uridium2-loader",
+    "size": "2696"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.uridium2 music1",
+    "size": "139944"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.uridium2 music2",
+    "size": "270712"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.virocop-01",
+    "size": "34712"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.virocop-02",
+    "size": "40412"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.virocop-03",
+    "size": "32456"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.virocop-04",
+    "size": "32456"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.virocop-05",
+    "size": "31532"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.virocop-06",
+    "size": "31532"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.virocop-07",
+    "size": "31416"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.virocop-08",
+    "size": "31416"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.virocop-09",
+    "size": "35022"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.virocop-11",
+    "size": "50496"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.virocop-12",
+    "size": "15856"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.virocop-13",
+    "size": "31234"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.virocop-14",
+    "size": "16245"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.virocop-title",
+    "size": "127006"
+  },
+  {
+    "tracker": "Jason Page",
+    "composer": "Jason Page",
+    "song": "smp.xmas demo",
+    "size": "21214"
+  }
+]

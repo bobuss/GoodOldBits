@@ -1,73 +1,368 @@
-{
-  "AJ": [
-    "hittheroad.sng",
-    "sonjavanveen.sng"
-  ],
-  "Samples": [
-    "ackerbell",
-    "analogstring",
-    "awcpiano1",
-    "backingstr",
-    "bass2",
-    "bass6",
-    "bassdrum 5160",
-    "bigbang.smp",
-    "blow",
-    "bongo1 2206",
-    "claps1",
-    "detune",
-    "digdug",
-    "dxtom",
-    "electom",
-    "funbass",
-    "guitar2",
-    "hae.smp",
-    "hallbrass",
-    "heavysynth",
-    "heavytom.smp",
-    "highhat2",
-    "highhat2 2006",
-    "highop2",
-    "hihat1",
-    "hihat2",
-    "hooman",
-    "korgbass",
-    "koto",
-    "metalbell",
-    "metalkeys",
-    "panflute",
-    "perco",
-    "pingbells",
-    "pizza",
-    "plunkbass",
-    "plunkbass2",
-    "popbass",
-    "shaker",
-    "shamus",
-    "sinecz",
-    "snare3",
-    "snare4",
-    "snarehard.smp",
-    "strings6",
-    "strings.ss",
-    "thguitar",
-    "tom1",
-    "tom2",
-    "tom4",
-    "woodblock"
-  ],
-  "Sffen": [
-    "universe.sng"
-  ],
-  "The Balance": [
-    "gravediving.sng",
-    "gravedriving.sng",
-    "instructions.sng",
-    "karate.sng",
-    "maddick.sng",
-    "space.sng"
-  ],
-  "readme.txt": [
-    ""
-  ]
-}
+[
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "AJ",
+    "song": "hittheroad.sng",
+    "size": "3082"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "AJ",
+    "song": "sonjavanveen.sng",
+    "size": "2442"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "readme.txt",
+    "song": "",
+    "size": "83"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "ackerbell",
+    "size": "5858"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "analogstring",
+    "size": "8800"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "awcpiano1",
+    "size": "32130"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "backingstr",
+    "size": "9762"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "bass2",
+    "size": "5506"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "bass6",
+    "size": "3006"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "bassdrum 5160",
+    "size": "5160"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "bigbang.smp",
+    "size": "23714"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "blow",
+    "size": "8450"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "bongo1 2206",
+    "size": "2206"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "claps1",
+    "size": "2300"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "detune",
+    "size": "5700"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "digdug",
+    "size": "3100"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "dxtom",
+    "size": "4000"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "electom",
+    "size": "3000"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "funbass",
+    "size": "6500"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "guitar2",
+    "size": "9406"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "hae.smp",
+    "size": "11710"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "hallbrass",
+    "size": "9400"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "heavysynth",
+    "size": "9800"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "heavytom.smp",
+    "size": "4152"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "highhat2",
+    "size": "2006"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "highhat2 2006",
+    "size": "2006"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "highop2",
+    "size": "5006"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "hihat1",
+    "size": "1400"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "hihat2",
+    "size": "2000"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "hooman",
+    "size": "6500"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "korgbass",
+    "size": "4000"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "koto",
+    "size": "7100"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "metalbell",
+    "size": "8034"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "metalkeys",
+    "size": "9400"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "panflute",
+    "size": "9900"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "perco",
+    "size": "4500"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "pingbells",
+    "size": "5400"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "pizza",
+    "size": "9400"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "plunkbass",
+    "size": "7618"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "plunkbass2",
+    "size": "2612"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "popbass",
+    "size": "2700"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "shaker",
+    "size": "2300"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "shamus",
+    "size": "9000"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "sinecz",
+    "size": "3900"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "snare3",
+    "size": "9006"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "snare4",
+    "size": "7006"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "snarehard.smp",
+    "size": "3388"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "strings6",
+    "size": "9900"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "strings.ss",
+    "size": "16450"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "thguitar",
+    "size": "6338"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "tom1",
+    "size": "4506"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "tom2",
+    "size": "4506"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "tom4",
+    "size": "10006"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Samples",
+    "song": "woodblock",
+    "size": "1200"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "Sffen",
+    "song": "universe.sng",
+    "size": "12138"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "The Balance",
+    "song": "gravediving.sng",
+    "size": "9098"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "The Balance",
+    "song": "gravedriving.sng",
+    "size": "5338"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "The Balance",
+    "song": "instructions.sng",
+    "size": "6794"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "The Balance",
+    "song": "karate.sng",
+    "size": "6938"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "The Balance",
+    "song": "maddick.sng",
+    "size": "6106"
+  },
+  {
+    "tracker": "Zoundmonitor",
+    "composer": "The Balance",
+    "song": "space.sng",
+    "size": "9178"
+  }
+]

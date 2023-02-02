@@ -1,43 +1,236 @@
-{
-  "BeRo": [
-    "acidhouse.pt2",
-    "alphazonerevelationtest.pt2",
-    "drreamsfinal.pt2",
-    "dutchtest.pt2",
-    "fr490.pt2",
-    "frq - eskimonologie - intro mix.pt2",
-    "guitar pluck test.pt2",
-    "guitartest.pt2",
-    "haddaway-whatislove-beroremake.pt2",
-    "hardkickedited2.pt2",
-    "hardkickedited.pt2",
-    "hardkick.pt2",
-    "hardtest1.pt2",
-    "hardtest2.pt2",
-    "hardtest3.pt2",
-    "hardtest4.pt2",
-    "hell.pt2",
-    "intothewater2.pt2",
-    "intothewater3.pt2",
-    "intothewater4.pt2",
-    "intothewater.pt2",
-    "kicktheparty.pt2",
-    "kleinersatelit.pt2",
-    "la femme immortelle.pt2",
-    "paulvandykforanangel.pt2",
-    "popcorn.pt2",
-    "quickhardtest.pt2",
-    "quietscheentchen.pt2",
-    "quietscheentchenreedited.pt2",
-    "revision2011-64k-pacemaker.pt2",
-    "supersaw2.pt2",
-    "supersaw.pt2",
-    "tanzbaer90ieshappyhardcore.pt2",
-    "tanzbaer.pt2",
-    "technolaughtest.pt2",
-    "technoneverdie.pt2",
-    "timesliders2.pt2",
-    "timesliders.pt2",
-    "yago-celebrate-the-love-bero-remix.pt2"
-  ]
-}
+[
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "acidhouse.pt2",
+    "size": "42031"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "alphazonerevelationtest.pt2",
+    "size": "110313"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "drreamsfinal.pt2",
+    "size": "181185"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "dutchtest.pt2",
+    "size": "41931"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "fr490.pt2",
+    "size": "20676"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "frq - eskimonologie - intro mix.pt2",
+    "size": "91442"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "guitar pluck test.pt2",
+    "size": "21609"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "guitartest.pt2",
+    "size": "38321"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "haddaway-whatislove-beroremake.pt2",
+    "size": "282639"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "hardkickedited2.pt2",
+    "size": "34920"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "hardkickedited.pt2",
+    "size": "34911"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "hardkick.pt2",
+    "size": "34933"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "hardtest1.pt2",
+    "size": "46429"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "hardtest2.pt2",
+    "size": "85519"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "hardtest3.pt2",
+    "size": "118045"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "hardtest4.pt2",
+    "size": "130172"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "hell.pt2",
+    "size": "313886"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "intothewater2.pt2",
+    "size": "246559"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "intothewater3.pt2",
+    "size": "255246"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "intothewater4.pt2",
+    "size": "246196"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "intothewater.pt2",
+    "size": "249929"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "kicktheparty.pt2",
+    "size": "246196"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "kleinersatelit.pt2",
+    "size": "428960"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "la femme immortelle.pt2",
+    "size": "163558"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "paulvandykforanangel.pt2",
+    "size": "385484"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "popcorn.pt2",
+    "size": "92936"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "quickhardtest.pt2",
+    "size": "78606"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "quietscheentchen.pt2",
+    "size": "190430"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "quietscheentchenreedited.pt2",
+    "size": "1095289"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "revision2011-64k-pacemaker.pt2",
+    "size": "434836"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "supersaw2.pt2",
+    "size": "54830"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "supersaw.pt2",
+    "size": "31018"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "tanzbaer90ieshappyhardcore.pt2",
+    "size": "271365"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "tanzbaer.pt2",
+    "size": "247351"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "technolaughtest.pt2",
+    "size": "320293"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "technoneverdie.pt2",
+    "size": "104663"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "timesliders2.pt2",
+    "size": "257987"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "timesliders.pt2",
+    "size": "236483"
+  },
+  {
+    "tracker": "Picatune2",
+    "composer": "BeRo",
+    "song": "yago-celebrate-the-love-bero-remix.pt2",
+    "size": "272249"
+  }
+]

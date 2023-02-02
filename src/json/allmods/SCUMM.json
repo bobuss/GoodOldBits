@@ -1,16 +1,62 @@
-{
-  "- unknown": [
-    "maniac mansion.scumm",
-    "maniac mansion-title.scumm"
-  ],
-  "Matthew Kane": [
-    "coop-Brian Hales/zakairport1.scumm",
-    "coop-Brian Hales/zakairport2.scumm",
-    "coop-Brian Hales/zakalarm.scumm",
-    "coop-Brian Hales/zakkazoo.scumm",
-    "coop-Brian Hales/zakmars.scumm",
-    "coop-Brian Hales/zakteleport1.scumm",
-    "coop-Brian Hales/zakteleport2.scumm",
-    "coop-Brian Hales/zaktitle.scumm"
-  ]
-}
+[
+  {
+    "tracker": "SCUMM",
+    "composer": "Matthew Kane",
+    "song": "coop-Brian Hales/zakairport1.scumm",
+    "size": "3232"
+  },
+  {
+    "tracker": "SCUMM",
+    "composer": "Matthew Kane",
+    "song": "coop-Brian Hales/zakairport2.scumm",
+    "size": "3760"
+  },
+  {
+    "tracker": "SCUMM",
+    "composer": "Matthew Kane",
+    "song": "coop-Brian Hales/zakalarm.scumm",
+    "size": "418"
+  },
+  {
+    "tracker": "SCUMM",
+    "composer": "Matthew Kane",
+    "song": "coop-Brian Hales/zakkazoo.scumm",
+    "size": "4866"
+  },
+  {
+    "tracker": "SCUMM",
+    "composer": "Matthew Kane",
+    "song": "coop-Brian Hales/zakmars.scumm",
+    "size": "12540"
+  },
+  {
+    "tracker": "SCUMM",
+    "composer": "Matthew Kane",
+    "song": "coop-Brian Hales/zakteleport1.scumm",
+    "size": "254"
+  },
+  {
+    "tracker": "SCUMM",
+    "composer": "Matthew Kane",
+    "song": "coop-Brian Hales/zakteleport2.scumm",
+    "size": "254"
+  },
+  {
+    "tracker": "SCUMM",
+    "composer": "Matthew Kane",
+    "song": "coop-Brian Hales/zaktitle.scumm",
+    "size": "51024"
+  },
+  {
+    "tracker": "SCUMM",
+    "composer": "- unknown",
+    "song": "maniac mansion.scumm",
+    "size": "23382"
+  },
+  {
+    "tracker": "SCUMM",
+    "composer": "- unknown",
+    "song": "maniac mansion-title.scumm",
+    "size": "41737"
+  }
+]

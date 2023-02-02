@@ -1,17 +1,80 @@
-{
-  "Ariel Gross": [
-    "tronic-bbs.dmf",
-    "tronic-game1.dmf",
-    "tronic-game2.dmf",
-    "tronic-game3.dmf",
-    "tronic-game4.dmf",
-    "tronic-game5.dmf",
-    "tronic-game6.dmf",
-    "tronic-game7.dmf",
-    "tronic-game8.dmf",
-    "tronic-gameover.dmf",
-    "tronic-hiscores.dmf",
-    "tronic-info.dmf",
-    "tronic-intro.dmf"
-  ]
-}
+[
+  {
+    "tracker": "Delusion Module Format",
+    "composer": "Ariel Gross",
+    "song": "tronic-bbs.dmf",
+    "size": "40402"
+  },
+  {
+    "tracker": "Delusion Module Format",
+    "composer": "Ariel Gross",
+    "song": "tronic-game1.dmf",
+    "size": "39529"
+  },
+  {
+    "tracker": "Delusion Module Format",
+    "composer": "Ariel Gross",
+    "song": "tronic-game2.dmf",
+    "size": "28285"
+  },
+  {
+    "tracker": "Delusion Module Format",
+    "composer": "Ariel Gross",
+    "song": "tronic-game3.dmf",
+    "size": "31543"
+  },
+  {
+    "tracker": "Delusion Module Format",
+    "composer": "Ariel Gross",
+    "song": "tronic-game4.dmf",
+    "size": "33485"
+  },
+  {
+    "tracker": "Delusion Module Format",
+    "composer": "Ariel Gross",
+    "song": "tronic-game5.dmf",
+    "size": "42480"
+  },
+  {
+    "tracker": "Delusion Module Format",
+    "composer": "Ariel Gross",
+    "song": "tronic-game6.dmf",
+    "size": "35253"
+  },
+  {
+    "tracker": "Delusion Module Format",
+    "composer": "Ariel Gross",
+    "song": "tronic-game7.dmf",
+    "size": "49870"
+  },
+  {
+    "tracker": "Delusion Module Format",
+    "composer": "Ariel Gross",
+    "song": "tronic-game8.dmf",
+    "size": "32878"
+  },
+  {
+    "tracker": "Delusion Module Format",
+    "composer": "Ariel Gross",
+    "song": "tronic-gameover.dmf",
+    "size": "22581"
+  },
+  {
+    "tracker": "Delusion Module Format",
+    "composer": "Ariel Gross",
+    "song": "tronic-hiscores.dmf",
+    "size": "42094"
+  },
+  {
+    "tracker": "Delusion Module Format",
+    "composer": "Ariel Gross",
+    "song": "tronic-info.dmf",
+    "size": "41811"
+  },
+  {
+    "tracker": "Delusion Module Format",
+    "composer": "Ariel Gross",
+    "song": "tronic-intro.dmf",
+    "size": "37834"
+  }
+]

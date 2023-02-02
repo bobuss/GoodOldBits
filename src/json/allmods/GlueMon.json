@@ -1,20 +1,98 @@
-{
-  "- unknown": [
-    "bestick.glue",
-    "flood.glue",
-    "game music 1.glue",
-    "giana sisters.glue",
-    "gnu-song.glue",
-    "gurksaft.glue",
-    "juice.glue",
-    "knytning.glue",
-    "latch.glue",
-    "loader.glue",
-    "memphis.glue",
-    "popcorn.glue",
-    "slugaren.glue",
-    "songname.glue",
-    "trudelut.glue",
-    "woodsock.glue"
-  ]
-}
+[
+  {
+    "tracker": "GlueMon",
+    "composer": "- unknown",
+    "song": "bestick.glue",
+    "size": "1904"
+  },
+  {
+    "tracker": "GlueMon",
+    "composer": "- unknown",
+    "song": "flood.glue",
+    "size": "1710"
+  },
+  {
+    "tracker": "GlueMon",
+    "composer": "- unknown",
+    "song": "game music 1.glue",
+    "size": "1446"
+  },
+  {
+    "tracker": "GlueMon",
+    "composer": "- unknown",
+    "song": "giana sisters.glue",
+    "size": "5562"
+  },
+  {
+    "tracker": "GlueMon",
+    "composer": "- unknown",
+    "song": "gnu-song.glue",
+    "size": "1716"
+  },
+  {
+    "tracker": "GlueMon",
+    "composer": "- unknown",
+    "song": "gurksaft.glue",
+    "size": "936"
+  },
+  {
+    "tracker": "GlueMon",
+    "composer": "- unknown",
+    "song": "juice.glue",
+    "size": "1710"
+  },
+  {
+    "tracker": "GlueMon",
+    "composer": "- unknown",
+    "song": "knytning.glue",
+    "size": "1706"
+  },
+  {
+    "tracker": "GlueMon",
+    "composer": "- unknown",
+    "song": "latch.glue",
+    "size": "1195"
+  },
+  {
+    "tracker": "GlueMon",
+    "composer": "- unknown",
+    "song": "loader.glue",
+    "size": "2222"
+  },
+  {
+    "tracker": "GlueMon",
+    "composer": "- unknown",
+    "song": "memphis.glue",
+    "size": "686"
+  },
+  {
+    "tracker": "GlueMon",
+    "composer": "- unknown",
+    "song": "popcorn.glue",
+    "size": "4538"
+  },
+  {
+    "tracker": "GlueMon",
+    "composer": "- unknown",
+    "song": "slugaren.glue",
+    "size": "1517"
+  },
+  {
+    "tracker": "GlueMon",
+    "composer": "- unknown",
+    "song": "songname.glue",
+    "size": "1706"
+  },
+  {
+    "tracker": "GlueMon",
+    "composer": "- unknown",
+    "song": "trudelut.glue",
+    "size": "1968"
+  },
+  {
+    "tracker": "GlueMon",
+    "composer": "- unknown",
+    "song": "woodsock.glue",
+    "size": "2484"
+  }
+]

@@ -1,204 +1,710 @@
-{
-  "A-Move": [
-    "coop-Netpoet/rain again.rns"
-  ],
-  "Adam Bomb": [
-    "dream dimension.rns",
-    "euphoric vibe.rns",
-    "hard hypnotizer.rns",
-    "negative energy.rns",
-    "positive energy.rns",
-    "waveform.rns"
-  ],
-  "Archon": [
-    "pianobar'06.rns"
-  ],
-  "Ashyimpala": [
-    "cold outside.rns"
-  ],
-  "Bacter": [
-    "meteoric sky.rns"
-  ],
-  "Berny": [
-    "scopes.rns"
-  ],
-  "Cactoos": [
-    "marast (good by my friend!).rns"
-  ],
-  "DJ Denson": [
-    "live in patterns.rns"
-  ],
-  "Dedanis": [
-    "quality.rns"
-  ],
-  "Dilvie": [
-    "authentic me.rns",
-    "detour.rns",
-    "in time.rns",
-    "quickie.rns",
-    "redemption.rns"
-  ],
-  "Dipswitch": [
-    "black maiden hifi sound.rns"
-  ],
-  "Dixan": [
-    "abyss.rns",
-    "freeflow.rns",
-    "symmetry and other duties.rns"
-  ],
-  "Gemini": [
-    "on my mind v2.0.rns"
-  ],
-  "Grogon": [
-    "nippon poorando no boodaa no yoru yuugata chyba no.rns"
-  ],
-  "Gwilym Wogan": [
-    "cold v2.rns"
-  ],
-  "Hein": [
-    "arp3.rns",
-    "musvisvuur.rns",
-    "womb.rns"
-  ],
-  "It-Alien": [
-    "1337.rns",
-    "dislocated.rns",
-    "first contact.rns",
-    "overlook.rns",
-    "schizopodia.rns",
-    "the path (2005 version).rns",
-    "vortex.rns"
-  ],
-  "JCO": [
-    "imperial code.rns"
-  ],
-  "Keith303": [
-    "frostnova (breakpoint 2006 edit).rns"
-  ],
-  "Looza": [
-    "trip to 2003ub313.rns"
-  ],
-  "Metal": [
-    "beatbattle 4 wintertune.rns"
-  ],
-  "Mick Rippon": [
-    "actions and words.rns",
-    "coop-Crimson/burning nothing - burning for goodbye.rns",
-    "coop-Sonicade/revenge of the dots.rns",
-    "coop-Xerxes/my toybox.rns",
-    "deja vu.rns",
-    "heart or soul.rns",
-    "lingo rollercoaster.rns",
-    "renoise demotune.rns"
-  ],
-  "MrGamer": [
-    "8-bit 2.rns",
-    "adventure.rns",
-    "capabilities.rns",
-    "chakkalakk.rns",
-    "chip i dipp.rns",
-    "defacto v. ii.rns",
-    "emil i loenneberga!.rns",
-    "feeling serious.rns",
-    "fleet 2.rns",
-    "fleet.rns",
-    "forest of metal ii.rns",
-    "gammelsynth.rns",
-    "isadora.rns",
-    "jazzparty ii.rns",
-    "jazzparty.rns",
-    "josefina.rns",
-    "lennart the rat.rns",
-    "leonard is dead.rns",
-    "littlebrother.rns",
-    "moteron.rns",
-    "pontus.rns",
-    "retarded chip.rns",
-    "retropack.rns",
-    "riv rav roev (enigmus).rns",
-    "root directory.rns",
-    "sofiziser.rns",
-    "swg theme.rns",
-    "tricronus.rns",
-    "waterworld.rns",
-    "what's the holdup.rns"
-  ],
-  "Netpoet": [
-    "wondering if fyzix.rns"
-  ],
-  "Nt": [
-    "fun to step 1.5.rns",
-    "fun to step (french house remix).rns",
-    "fun to step.rns",
-    "layla's face.rns",
-    "starlightzone gm.rns",
-    "super mario land, 1st level.rns"
-  ],
-  "Nula": [
-    "budu zly (na buenzli).rns"
-  ],
-  "Phazze": [
-    "bazzbrother.rns",
-    "trancespotting.rns"
-  ],
-  "Pinza": [
-    "kaliyan crunch.rns"
-  ],
-  "Ptrance": [
-    "drumartikulationsverschwallung.rns"
-  ],
-  "Rage": [
-    "coop-Teajay/evanescene.rns"
-  ],
-  "Rain": [
-    "away.rns",
-    "crystals.rns",
-    "leaving3.rns"
-  ],
-  "Rayko": [
-    "dream factor.rns"
-  ],
-  "Red Ribbon": [
-    "scientificly fascinating.rns"
-  ],
-  "Saboteur": [
-    "distance.rns",
-    "elegance.rns",
-    "for love without.rns",
-    "gravel.rns",
-    "greyscale (remix).rns"
-  ],
-  "Sascha Wagner": [
-    "awesome.rns",
-    "falcon.rns",
-    "sy34d.rns",
-    "sync.rns",
-    "xenon2-megablast.rns"
-  ],
-  "Selecta Novel": [
-    "slud (final).rns"
-  ],
-  "Shaper": [
-    "orient.rns"
-  ],
-  "Shytan": [
-    "acquaintance.rns",
-    "delicate shape.rns"
-  ],
-  "Skyrunner": [
-    "wrath.rns"
-  ],
-  "Tenterden": [
-    "premium light bulbs.rns"
-  ],
-  "Vincent Voois": [
-    "andando alla deriva fuori di lei.rns",
-    "blax.rns",
-    "shangai space-docks.rns",
-    "simple practise gig.rns"
-  ],
-  "X-Soul": [
-    "patriotic melody.rns",
-    "power of renoise.rns"
-  ]
-}
+[
+  {
+    "tracker": "Renoise Old",
+    "composer": "Adam Bomb",
+    "song": "dream dimension.rns",
+    "size": "4554330"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Adam Bomb",
+    "song": "euphoric vibe.rns",
+    "size": "1640656"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Adam Bomb",
+    "song": "hard hypnotizer.rns",
+    "size": "7027203"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Adam Bomb",
+    "song": "negative energy.rns",
+    "size": "10253195"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Adam Bomb",
+    "song": "positive energy.rns",
+    "size": "4226392"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Adam Bomb",
+    "song": "waveform.rns",
+    "size": "3665657"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "A-Move",
+    "song": "coop-Netpoet/rain again.rns",
+    "size": "1945637"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Archon",
+    "song": "pianobar'06.rns",
+    "size": "172721"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Ashyimpala",
+    "song": "cold outside.rns",
+    "size": "10063037"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Bacter",
+    "song": "meteoric sky.rns",
+    "size": "1647859"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Berny",
+    "song": "scopes.rns",
+    "size": "801421"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Cactoos",
+    "song": "marast (good by my friend!).rns",
+    "size": "819551"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Dedanis",
+    "song": "quality.rns",
+    "size": "407806"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Dilvie",
+    "song": "authentic me.rns",
+    "size": "8588275"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Dilvie",
+    "song": "detour.rns",
+    "size": "3904509"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Dilvie",
+    "song": "in time.rns",
+    "size": "508608"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Dilvie",
+    "song": "quickie.rns",
+    "size": "797629"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Dilvie",
+    "song": "redemption.rns",
+    "size": "4164557"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Dipswitch",
+    "song": "black maiden hifi sound.rns",
+    "size": "1825503"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Dixan",
+    "song": "abyss.rns",
+    "size": "1329470"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Dixan",
+    "song": "freeflow.rns",
+    "size": "1718535"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Dixan",
+    "song": "symmetry and other duties.rns",
+    "size": "2170018"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "DJ Denson",
+    "song": "live in patterns.rns",
+    "size": "959646"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Gemini",
+    "song": "on my mind v2.0.rns",
+    "size": "79087"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Grogon",
+    "song": "nippon poorando no boodaa no yoru yuugata chyba no.rns",
+    "size": "1457594"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Gwilym Wogan",
+    "song": "cold v2.rns",
+    "size": "466324"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Hein",
+    "song": "arp3.rns",
+    "size": "3889385"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Hein",
+    "song": "musvisvuur.rns",
+    "size": "4483199"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Hein",
+    "song": "womb.rns",
+    "size": "919836"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "It-Alien",
+    "song": "1337.rns",
+    "size": "45434"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "It-Alien",
+    "song": "dislocated.rns",
+    "size": "1029895"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "It-Alien",
+    "song": "first contact.rns",
+    "size": "731201"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "It-Alien",
+    "song": "overlook.rns",
+    "size": "131072"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "It-Alien",
+    "song": "schizopodia.rns",
+    "size": "29103"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "It-Alien",
+    "song": "the path (2005 version).rns",
+    "size": "687302"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "It-Alien",
+    "song": "vortex.rns",
+    "size": "1224209"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "JCO",
+    "song": "imperial code.rns",
+    "size": "2066756"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Keith303",
+    "song": "frostnova (breakpoint 2006 edit).rns",
+    "size": "2128460"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Looza",
+    "song": "trip to 2003ub313.rns",
+    "size": "2911874"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Metal",
+    "song": "beatbattle 4 wintertune.rns",
+    "size": "8504488"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Mick Rippon",
+    "song": "actions and words.rns",
+    "size": "4110118"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Mick Rippon",
+    "song": "coop-Crimson/burning nothing - burning for goodbye.rns",
+    "size": "79927"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Mick Rippon",
+    "song": "coop-Sonicade/revenge of the dots.rns",
+    "size": "1834780"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Mick Rippon",
+    "song": "coop-Xerxes/my toybox.rns",
+    "size": "1195939"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Mick Rippon",
+    "song": "deja vu.rns",
+    "size": "492438"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Mick Rippon",
+    "song": "heart or soul.rns",
+    "size": "2218536"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Mick Rippon",
+    "song": "lingo rollercoaster.rns",
+    "size": "5147726"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Mick Rippon",
+    "song": "renoise demotune.rns",
+    "size": "777839"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "8-bit 2.rns",
+    "size": "528778"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "adventure.rns",
+    "size": "971424"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "capabilities.rns",
+    "size": "612872"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "chakkalakk.rns",
+    "size": "189940"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "chip i dipp.rns",
+    "size": "554332"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "defacto v. ii.rns",
+    "size": "1047446"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "emil i loenneberga!.rns",
+    "size": "163989"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "feeling serious.rns",
+    "size": "352606"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "fleet 2.rns",
+    "size": "602226"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "fleet.rns",
+    "size": "270702"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "forest of metal ii.rns",
+    "size": "845684"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "gammelsynth.rns",
+    "size": "609124"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "isadora.rns",
+    "size": "1008748"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "jazzparty ii.rns",
+    "size": "2350458"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "jazzparty.rns",
+    "size": "1387125"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "josefina.rns",
+    "size": "2146960"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "lennart the rat.rns",
+    "size": "712416"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "leonard is dead.rns",
+    "size": "370567"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "littlebrother.rns",
+    "size": "336038"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "moteron.rns",
+    "size": "1514451"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "pontus.rns",
+    "size": "915985"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "retarded chip.rns",
+    "size": "1140469"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "retropack.rns",
+    "size": "280301"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "riv rav roev (enigmus).rns",
+    "size": "1157053"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "root directory.rns",
+    "size": "499619"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "sofiziser.rns",
+    "size": "657906"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "swg theme.rns",
+    "size": "766392"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "tricronus.rns",
+    "size": "860639"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "waterworld.rns",
+    "size": "941602"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "MrGamer",
+    "song": "what's the holdup.rns",
+    "size": "621210"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Netpoet",
+    "song": "wondering if fyzix.rns",
+    "size": "1437275"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Nt",
+    "song": "fun to step 1.5.rns",
+    "size": "297732"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Nt",
+    "song": "fun to step (french house remix).rns",
+    "size": "353088"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Nt",
+    "song": "fun to step.rns",
+    "size": "293973"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Nt",
+    "song": "layla's face.rns",
+    "size": "1989241"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Nt",
+    "song": "starlightzone gm.rns",
+    "size": "45436"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Nt",
+    "song": "super mario land, 1st level.rns",
+    "size": "180159"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Nula",
+    "song": "budu zly (na buenzli).rns",
+    "size": "1899445"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Phazze",
+    "song": "bazzbrother.rns",
+    "size": "816180"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Phazze",
+    "song": "trancespotting.rns",
+    "size": "859419"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Pinza",
+    "song": "kaliyan crunch.rns",
+    "size": "2348414"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Ptrance",
+    "song": "drumartikulationsverschwallung.rns",
+    "size": "985054"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Rage",
+    "song": "coop-Teajay/evanescene.rns",
+    "size": "2381445"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Rain",
+    "song": "away.rns",
+    "size": "3485083"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Rain",
+    "song": "crystals.rns",
+    "size": "2248905"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Rain",
+    "song": "leaving3.rns",
+    "size": "391241"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Rayko",
+    "song": "dream factor.rns",
+    "size": "14681802"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Red Ribbon",
+    "song": "scientificly fascinating.rns",
+    "size": "1322411"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Saboteur",
+    "song": "distance.rns",
+    "size": "5199220"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Saboteur",
+    "song": "elegance.rns",
+    "size": "1013348"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Saboteur",
+    "song": "for love without.rns",
+    "size": "8913281"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Saboteur",
+    "song": "gravel.rns",
+    "size": "482226"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Saboteur",
+    "song": "greyscale (remix).rns",
+    "size": "7693729"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Sascha Wagner",
+    "song": "awesome.rns",
+    "size": "2217941"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Sascha Wagner",
+    "song": "falcon.rns",
+    "size": "692979"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Sascha Wagner",
+    "song": "sy34d.rns",
+    "size": "100218"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Sascha Wagner",
+    "song": "sync.rns",
+    "size": "1025216"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Sascha Wagner",
+    "song": "xenon2-megablast.rns",
+    "size": "1089392"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Selecta Novel",
+    "song": "slud (final).rns",
+    "size": "1581409"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Shaper",
+    "song": "orient.rns",
+    "size": "3159438"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Shytan",
+    "song": "acquaintance.rns",
+    "size": "692636"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Shytan",
+    "song": "delicate shape.rns",
+    "size": "727806"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Skyrunner",
+    "song": "wrath.rns",
+    "size": "2030803"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Tenterden",
+    "song": "premium light bulbs.rns",
+    "size": "2475846"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Vincent Voois",
+    "song": "andando alla deriva fuori di lei.rns",
+    "size": "441310"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Vincent Voois",
+    "song": "blax.rns",
+    "size": "3754922"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Vincent Voois",
+    "song": "shangai space-docks.rns",
+    "size": "230905"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "Vincent Voois",
+    "song": "simple practise gig.rns",
+    "size": "518368"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "X-Soul",
+    "song": "patriotic melody.rns",
+    "size": "2633602"
+  },
+  {
+    "tracker": "Renoise Old",
+    "composer": "X-Soul",
+    "song": "power of renoise.rns",
+    "size": "1619949"
+  }
+]

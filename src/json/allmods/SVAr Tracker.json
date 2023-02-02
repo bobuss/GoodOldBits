@@ -1,7 +1,20 @@
-{
-  "- unknown": [
-    "demo midiout.svar",
-    "demo x00 command.svar",
-    "healing tune.svar"
-  ]
-}
+[
+  {
+    "tracker": "SVAr Tracker",
+    "composer": "- unknown",
+    "song": "demo midiout.svar",
+    "size": "13943"
+  },
+  {
+    "tracker": "SVAr Tracker",
+    "composer": "- unknown",
+    "song": "demo x00 command.svar",
+    "size": "296647"
+  },
+  {
+    "tracker": "SVAr Tracker",
+    "composer": "- unknown",
+    "song": "healing tune.svar",
+    "size": "1482843"
+  }
+]

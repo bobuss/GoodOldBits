@@ -1,13 +1,56 @@
-{
-  "Mike Davies": [
-    "alien storm.md",
-    "die hard ii.md",
-    "dynastywars.md",
-    "indiana jones 3 action.md",
-    "italy 1990 - winners edition.md",
-    "mercs.md",
-    "strider ii.md",
-    "strider.md",
-    "worldcupusa94.md"
-  ]
-}
+[
+  {
+    "tracker": "Mike Davies",
+    "composer": "Mike Davies",
+    "song": "alien storm.md",
+    "size": "65072"
+  },
+  {
+    "tracker": "Mike Davies",
+    "composer": "Mike Davies",
+    "song": "die hard ii.md",
+    "size": "98194"
+  },
+  {
+    "tracker": "Mike Davies",
+    "composer": "Mike Davies",
+    "song": "dynastywars.md",
+    "size": "57632"
+  },
+  {
+    "tracker": "Mike Davies",
+    "composer": "Mike Davies",
+    "song": "indiana jones 3 action.md",
+    "size": "119230"
+  },
+  {
+    "tracker": "Mike Davies",
+    "composer": "Mike Davies",
+    "song": "italy 1990 - winners edition.md",
+    "size": "55798"
+  },
+  {
+    "tracker": "Mike Davies",
+    "composer": "Mike Davies",
+    "song": "mercs.md",
+    "size": "30638"
+  },
+  {
+    "tracker": "Mike Davies",
+    "composer": "Mike Davies",
+    "song": "strider ii.md",
+    "size": "67262"
+  },
+  {
+    "tracker": "Mike Davies",
+    "composer": "Mike Davies",
+    "song": "strider.md",
+    "size": "88886"
+  },
+  {
+    "tracker": "Mike Davies",
+    "composer": "Mike Davies",
+    "song": "worldcupusa94.md",
+    "size": "184218"
+  }
+]

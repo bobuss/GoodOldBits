@@ -1,53 +1,260 @@
-{
-  "- unknown": [
-    "anal.puma",
-    "cyf-3-final-2.puma",
-    "muspe1.puma",
-    "st-castle.puma",
-    "st-catacmbs.puma",
-    "st-forest.puma",
-    "st-lakes.puma",
-    "st-ruins.puma",
-    "st-snow.puma",
-    "trainertune.puma"
-  ],
-  "Matthew Cannon": [
-    "elf-castle.puma",
-    "elf-catacombs.puma",
-    "elf-forest.puma",
-    "elf-lakes.puma",
-    "elf-ruins.puma",
-    "elf-snow.puma"
-  ],
-  "Pierre-Eric Loriaux": [
-    "liquid kids - big2.puma",
-    "liquid kids - boot.puma",
-    "liquid kids - carte.puma",
-    "liquid kids - final1.puma",
-    "liquid kids - finbig2.puma",
-    "liquid kids - inter.puma",
-    "liquid kids - liquid2.puma",
-    "liquid kids - lv1a.puma",
-    "liquid kids - lv2a.puma",
-    "liquid kids - lv3a.puma",
-    "liquid kids - lv4a.puma",
-    "liquid kids - lv5a.puma",
-    "liquid kids - lv6.puma",
-    "liquid kids - over.puma",
-    "toki - 1.puma",
-    "toki - 2.puma",
-    "toki - 3.puma",
-    "toki - 4.puma",
-    "toki - 5.puma",
-    "toki - 6.puma",
-    "toki - 7.puma",
-    "toki - 8.puma",
-    "toki - 91.puma",
-    "toki - 9.puma",
-    "toki - newmod4.puma"
-  ],
-  "Vim!": [
-    "vimto-01.puma",
-    "vimto-02.puma"
-  ]
-}
+[
+  {
+    "tracker": "Pumatracker",
+    "composer": "Matthew Cannon",
+    "song": "elf-castle.puma",
+    "size": "19312"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Matthew Cannon",
+    "song": "elf-catacombs.puma",
+    "size": "15456"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Matthew Cannon",
+    "song": "elf-forest.puma",
+    "size": "16242"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Matthew Cannon",
+    "song": "elf-lakes.puma",
+    "size": "15906"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Matthew Cannon",
+    "song": "elf-ruins.puma",
+    "size": "16662"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Matthew Cannon",
+    "song": "elf-snow.puma",
+    "size": "21954"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "liquid kids - big2.puma",
+    "size": "6204"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "liquid kids - boot.puma",
+    "size": "1066"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "liquid kids - carte.puma",
+    "size": "18524"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "liquid kids - final1.puma",
+    "size": "9746"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "liquid kids - finbig2.puma",
+    "size": "804"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "liquid kids - inter.puma",
+    "size": "2350"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "liquid kids - liquid2.puma",
+    "size": "3758"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "liquid kids - lv1a.puma",
+    "size": "15338"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "liquid kids - lv2a.puma",
+    "size": "20808"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "liquid kids - lv3a.puma",
+    "size": "13960"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "liquid kids - lv4a.puma",
+    "size": "3558"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "liquid kids - lv5a.puma",
+    "size": "2280"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "liquid kids - lv6.puma",
+    "size": "22652"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "liquid kids - over.puma",
+    "size": "254"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "toki - 1.puma",
+    "size": "3844"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "toki - 2.puma",
+    "size": "2040"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "toki - 3.puma",
+    "size": "6426"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "toki - 4.puma",
+    "size": "5840"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "toki - 5.puma",
+    "size": "7200"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "toki - 6.puma",
+    "size": "5140"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "toki - 7.puma",
+    "size": "7200"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "toki - 8.puma",
+    "size": "6702"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "toki - 91.puma",
+    "size": "2320"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "toki - 9.puma",
+    "size": "6328"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "toki - newmod4.puma",
+    "size": "7830"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "- unknown",
+    "song": "anal.puma",
+    "size": "7666"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "- unknown",
+    "song": "cyf-3-final-2.puma",
+    "size": "9498"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "- unknown",
+    "song": "muspe1.puma",
+    "size": "7584"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "- unknown",
+    "song": "st-castle.puma",
+    "size": "2840"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "- unknown",
+    "song": "st-catacmbs.puma",
+    "size": "1936"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "- unknown",
+    "song": "st-forest.puma",
+    "size": "3336"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "- unknown",
+    "song": "st-lakes.puma",
+    "size": "2358"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "- unknown",
+    "song": "st-ruins.puma",
+    "size": "3718"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "- unknown",
+    "song": "st-snow.puma",
+    "size": "5914"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "- unknown",
+    "song": "trainertune.puma",
+    "size": "1226"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Vim!",
+    "song": "vimto-01.puma",
+    "size": "3280"
+  },
+  {
+    "tracker": "Pumatracker",
+    "composer": "Vim!",
+    "song": "vimto-02.puma",
+    "size": "1176"
+  }
+]

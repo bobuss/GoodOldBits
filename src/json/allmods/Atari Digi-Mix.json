@@ -1,29 +1,92 @@
-{
-  "- unknown": [
-    "birdies2.mix",
-    "braindamage music.mix"
-  ],
-  "AN Cool": [
-    "m-demo 3 - intro.mix",
-    "m-demo 4 - altern 8 screen.mix",
-    "m-demo 4 - intro.mix",
-    "m-demo 4 - loader.mix",
-    "the cuddly demos - led scroller.mix",
-    "the cuddly demos - loading - digimix.mix",
-    "the cuddly demos - mega scroller.mix",
-    "the cuddly demos - tcb fullscreen.mix",
-    "union wow scroller by tcb.mix"
-  ],
-  "David Whittaker": [
-    "xenon2 (intro).mix"
-  ],
-  "Hexogen": [
-    "fnil demo by tnt crew.mix"
-  ],
-  "Mr. Bee": [
-    "european mega scroller.mix"
-  ],
-  "Techwave": [
-    "ecstacy.mix"
-  ]
-}
+[
+  {
+    "tracker": "Atari Digi-Mix",
+    "composer": "AN Cool",
+    "song": "m-demo 3 - intro.mix",
+    "size": "245827"
+  },
+  {
+    "tracker": "Atari Digi-Mix",
+    "composer": "AN Cool",
+    "song": "m-demo 4 - altern 8 screen.mix",
+    "size": "212085"
+  },
+  {
+    "tracker": "Atari Digi-Mix",
+    "composer": "AN Cool",
+    "song": "m-demo 4 - intro.mix",
+    "size": "97451"
+  },
+  {
+    "tracker": "Atari Digi-Mix",
+    "composer": "AN Cool",
+    "song": "m-demo 4 - loader.mix",
+    "size": "48973"
+  },
+  {
+    "tracker": "Atari Digi-Mix",
+    "composer": "AN Cool",
+    "song": "the cuddly demos - led scroller.mix",
+    "size": "58660"
+  },
+  {
+    "tracker": "Atari Digi-Mix",
+    "composer": "AN Cool",
+    "song": "the cuddly demos - loading - digimix.mix",
+    "size": "7532"
+  },
+  {
+    "tracker": "Atari Digi-Mix",
+    "composer": "AN Cool",
+    "song": "the cuddly demos - mega scroller.mix",
+    "size": "60107"
+  },
+  {
+    "tracker": "Atari Digi-Mix",
+    "composer": "AN Cool",
+    "song": "the cuddly demos - tcb fullscreen.mix",
+    "size": "63168"
+  },
+  {
+    "tracker": "Atari Digi-Mix",
+    "composer": "AN Cool",
+    "song": "union wow scroller by tcb.mix",
+    "size": "56666"
+  },
+  {
+    "tracker": "Atari Digi-Mix",
+    "composer": "David Whittaker",
+    "song": "xenon2 (intro).mix",
+    "size": "113639"
+  },
+  {
+    "tracker": "Atari Digi-Mix",
+    "composer": "Hexogen",
+    "song": "fnil demo by tnt crew.mix",
+    "size": "400327"
+  },
+  {
+    "tracker": "Atari Digi-Mix",
+    "composer": "Mr. Bee",
+    "song": "european mega scroller.mix",
+    "size": "70471"
+  },
+  {
+    "tracker": "Atari Digi-Mix",
+    "composer": "Techwave",
+    "song": "ecstacy.mix",
+    "size": "299492"
+  },
+  {
+    "tracker": "Atari Digi-Mix",
+    "composer": "- unknown",
+    "song": "birdies2.mix",
+    "size": "311218"
+  },
+  {
+    "tracker": "Atari Digi-Mix",
+    "composer": "- unknown",
+    "song": "braindamage music.mix",
+    "size": "243065"
+  }
+]

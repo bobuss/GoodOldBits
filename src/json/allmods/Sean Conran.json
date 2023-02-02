@@ -1,19 +1,92 @@
-{
-  "Sean Conran": [
-    "count duckula-1.scr",
-    "count duckula-2.scr",
-    "count duckula.scr",
-    "defenders of the earth.scr",
-    "hong kong phoohey.scr",
-    "infestation.scr",
-    "megatwins.scr",
-    "ruff and reddy.scr",
-    "topcat.scr",
-    "videokid2.scr",
-    "video kid (ingame).scr",
-    "video kid (title).scr",
-    "wackyraces long.scr",
-    "wwf wrestlemania.scr",
-    "yogi bear.scr"
-  ]
-}
+[
+  {
+    "tracker": "Sean Conran",
+    "composer": "Sean Conran",
+    "song": "count duckula-1.scr",
+    "size": "14702"
+  },
+  {
+    "tracker": "Sean Conran",
+    "composer": "Sean Conran",
+    "song": "count duckula-2.scr",
+    "size": "24864"
+  },
+  {
+    "tracker": "Sean Conran",
+    "composer": "Sean Conran",
+    "song": "count duckula.scr",
+    "size": "86577"
+  },
+  {
+    "tracker": "Sean Conran",
+    "composer": "Sean Conran",
+    "song": "defenders of the earth.scr",
+    "size": "179200"
+  },
+  {
+    "tracker": "Sean Conran",
+    "composer": "Sean Conran",
+    "song": "hong kong phoohey.scr",
+    "size": "82163"
+  },
+  {
+    "tracker": "Sean Conran",
+    "composer": "Sean Conran",
+    "song": "infestation.scr",
+    "size": "74496"
+  },
+  {
+    "tracker": "Sean Conran",
+    "composer": "Sean Conran",
+    "song": "megatwins.scr",
+    "size": "30560"
+  },
+  {
+    "tracker": "Sean Conran",
+    "composer": "Sean Conran",
+    "song": "ruff and reddy.scr",
+    "size": "66460"
+  },
+  {
+    "tracker": "Sean Conran",
+    "composer": "Sean Conran",
+    "song": "topcat.scr",
+    "size": "57912"
+  },
+  {
+    "tracker": "Sean Conran",
+    "composer": "Sean Conran",
+    "song": "videokid2.scr",
+    "size": "90592"
+  },
+  {
+    "tracker": "Sean Conran",
+    "composer": "Sean Conran",
+    "song": "video kid (ingame).scr",
+    "size": "63590"
+  },
+  {
+    "tracker": "Sean Conran",
+    "composer": "Sean Conran",
+    "song": "video kid (title).scr",
+    "size": "91490"
+  },
+  {
+    "tracker": "Sean Conran",
+    "composer": "Sean Conran",
+    "song": "wackyraces long.scr",
+    "size": "56000"
+  },
+  {
+    "tracker": "Sean Conran",
+    "composer": "Sean Conran",
+    "song": "wwf wrestlemania.scr",
+    "size": "85692"
+  },
+  {
+    "tracker": "Sean Conran",
+    "composer": "Sean Conran",
+    "song": "yogi bear.scr",
+    "size": "182908"
+  }
+]

@@ -1,399 +1,1976 @@
-{
-  "- unknown": [
-    "acid housemix.sfx",
-    "acoustica maurice.sfx",
-    "amjam-live.sfx",
-    "brian's.sfx",
-    "cambodia.sfx",
-    "chicago90.sfx",
-    "daylightsonate.sfx",
-    "dreamscapes.sfx",
-    "dugger.sfx",
-    "e-k-g.sfx",
-    "escape siro.sfx",
-    "fairlight.sfx",
-    "first intro.sfx",
-    "football maneger.sfx",
-    "forever.sfx",
-    "funk.sfx",
-    "hardstix.sfx",
-    "haunted.sfx",
-    "highway-patrol.sfx",
-    "hlmenu1.sfx",
-    "hsn.sfx",
-    "kill the nazi, mikkel.sfx",
-    "laas.sfx",
-    "magnetic2.sfx",
-    "matt song.sfx",
-    "melodious.sfx",
-    "phono-jack.sfx",
-    "pipes.sfx",
-    "poul's opus 1.sfx",
-    "psycho-psam.sfx",
-    "rende vouz.sfx",
-    "sfx-xor-snd.sfx",
-    "silent.sfx",
-    "silicon-sea.sfx",
-    "sunday morning.sfx",
-    "sweety.sfx",
-    "temptation.sfx",
-    "thrust.sfx",
-    "yo-baby-yo.sfx"
-  ],
-  "AM-FM": [
-    "silverstone.sfx",
-    "speed runner.sfx",
-    "sunday morning.sfx"
-  ],
-  "Ahmet Ergen": [
-    "smooth criminal.sfx"
-  ],
-  "Allister Brimble": [
-    "heavy-metal.sfx",
-    "labyrinth.sfx",
-    "september.sfx"
-  ],
-  "Amigaid": [
-    "zb-heavymetal.sfx"
-  ],
-  "Andre Wuethrich": [
-    "sound.data.sfx"
-  ],
-  "Andreas Hommel": [
-    "cyberblast-intro.sfx"
-  ],
-  "Android": [
-    "coop-Cyborg/a-cid.sfx",
-    "coop-Cyborg/execution.sfx",
-    "coop-Cyborg/killem.sfx",
-    "coop-Cyborg/megabl.sfx",
-    "coop-Cyborg/systematic.sfx",
-    "coop-Cyborg/tecnostromper.sfx"
-  ],
-  "Bassbomb": [
-    "19remix.sfx",
-    "19th_mix.sfx",
-    "accessory.sfx",
-    "alphaduck.sfx",
-    "arpegiator.sfx",
-    "blue monday.sfx",
-    "box-energy.sfx",
-    "catch it.sfx",
-    "cynthia.sfx",
-    "discokid.sfx",
-    "dr. acid.sfx",
-    "dragon fucker.sfx",
-    "electra.sfx",
-    "exoduz.sfx",
-    "heavyhell.sfx",
-    "hofnar.sfx",
-    "humane wake.sfx",
-    "karabeli.sfx",
-    "lemmick.sfx",
-    "non-acid.sfx",
-    "ok.sfx",
-    "p. bop.sfx",
-    "scandinavian news 7.sfx",
-    "signature.sfx",
-    "stand by.sfx",
-    "waterfall-remix.sfx",
-    "waterfall.sfx"
-  ],
-  "CSC": [
-    "scsi-powerdromecrack.sfx"
-  ],
-  "Chris Huelsbeck": [
-    "battle isle (data 2-looser).sfx",
-    "battle isle (data2-map).sfx",
-    "battle isle (data 2-winner).sfx",
-    "battle isle (data-intro).sfx",
-    "battle isle (data-map2).sfx",
-    "battle isle (looser).sfx",
-    "battle isle (winner).sfx"
-  ],
-  "Christian Weber": [
-    "demo.sfx"
-  ],
-  "Claude Abromont": [
-    "bushbuck-ingame01.sfx",
-    "bushbuck-ingame02.sfx",
-    "bushbuck-ingame03.sfx",
-    "bushbuck-ingame04.sfx",
-    "bushbuck-ingame05.sfx",
-    "bushbuck-ingame06.sfx",
-    "bushbuck-ingame07.sfx",
-    "bushbuck-ingame08.sfx",
-    "bushbuck-ingame09.sfx",
-    "bushbuck-ingame10.sfx",
-    "bushbuck-ingame11.sfx",
-    "bushbuck-ingame12.sfx",
-    "bushbuck-ingame13.sfx",
-    "bushbuck-ingame14.sfx",
-    "bushbuck-ingame15.sfx",
-    "bushbuck-ingame16.sfx",
-    "bushbuck-ingame17.sfx",
-    "bushbuck-ingame18.sfx",
-    "bushbuck-ingame19.sfx",
-    "bushbuck-ingame20.sfx",
-    "bushbuck-ingame21.sfx",
-    "bushbuck-ingame22.sfx",
-    "bushbuck-ingame23.sfx",
-    "eagles rider title.sfx",
-    "killerball.sfx",
-    "sliders (intro).sfx"
-  ],
-  "Dave J. Rogers": [
-    "exolon.sfx"
-  ],
-  "Fredius Darde": [
-    "acid jausa.sfx",
-    "anochece.sfx",
-    "bailando en el rio.sfx",
-    "blues del palodu.sfx",
-    "butonated.sfx",
-    "celtic sun.sfx",
-    "cementerio de hierro.sfx",
-    "chanson pour isabel.sfx",
-    "click and push.sfx",
-    "conan over the shit.sfx",
-    "demain.sfx",
-    "discotecapuya.sfx",
-    "distancia al ano.sfx",
-    "en la cuna de ramon.sfx",
-    "fucking guitar.sfx",
-    "ghost and bishos.sfx",
-    "gladiz mon amour.sfx",
-    "guta nene.sfx",
-    "hard me.sfx",
-    "hotel.sfx",
-    "house mendrugo.sfx",
-    "jules abort.sfx",
-    "karakulo ramirez.sfx",
-    "llego el final.sfx",
-    "los surcos de mi coco.sfx",
-    "mesate el tupe.sfx",
-    "my noise is fonito.sfx",
-    "nervium.sfx",
-    "no la puedo subir.sfx",
-    "no paraba de beber-1.sfx",
-    "no paraba de beber-2.sfx",
-    "on the sleep.sfx",
-    "our trastonik.sfx",
-    "out of disco.sfx",
-    "perversus.sfx",
-    "pitracus.sfx",
-    "please not eat.sfx",
-    "pop up the pen.sfx",
-    "porcus of roma.sfx",
-    "por odin que festin.sfx",
-    "presenteichon.sfx",
-    "push our shit.sfx",
-    "q-rioso.sfx",
-    "rockxanga.sfx",
-    "sant seg song.sfx",
-    "se murio.sfx",
-    "sobac friends.sfx",
-    "solo una puercona.sfx",
-    "steve make a feeling.sfx",
-    "symphonya.sfx",
-    "take a chute.sfx",
-    "the kirk death.sfx",
-    "the mad shadow.sfx",
-    "the toto is full.sfx",
-    "twenty spaces-1.sfx",
-    "twenty spaces-2.sfx",
-    "twenty spaces-3.sfx",
-    "typografy.sfx",
-    "va a llover.sfx",
-    "waiting for the gual.sfx",
-    "y estaba sola.sfx"
-  ],
-  "Haiko Ruttmann": [
-    "battleisle-end.sfx",
-    "battleisle-hq.sfx",
-    "battleisle-tot.sfx",
-    "greatcourts2-1.sfx",
-    "greatcourts2-2.sfx",
-    "greatcourts2-3.sfx",
-    "historyline-extro.sfx",
-    "historyline-hlintro2.sfx",
-    "historyline-hlintro3.sfx",
-    "historyline-hlintro4.sfx",
-    "historyline-mnuhi.sfx",
-    "historyline-ofra.sfx",
-    "historyline-oger.sfx",
-    "historyline-ongame1.sfx",
-    "historyline-ongame2.sfx",
-    "historyline-ongame3.sfx",
-    "historyline-sieg.sfx",
-    "historyline-staff.sfx",
-    "historyline-zwtxt1.sfx",
-    "historyline-zwtxt2.sfx",
-    "pro tennis tour 2.sfx",
-    "pro tennis tour.sfx",
-    "pro tennis tour-tune.sfx",
-    "twinworld 0-title.sfx",
-    "twinworld 1-caves.sfx",
-    "twinworld 2-forest.sfx",
-    "twinworld 3-castle.sfx",
-    "twinworld 4-swamp.sfx",
-    "twinworld 5-temple.sfx",
-    "twinworld 6-end.sfx"
-  ],
-  "Helmut Melcher": [
-    "champ (applause).sfx",
-    "champ (intro).sfx",
-    "champ (presentation).sfx"
-  ],
-  "J. Roudet": [
-    "pinball magic loader.sfx",
-    "pinball magic title.sfx"
-  ],
-  "Jean Baudlot": [
-    "cruise for a corpse - bar.sfx",
-    "cruise for a corpse - cabine fabiani & desire.sfx",
-    "cruise for a corpse - cabine raoul & julio.sfx",
-    "cruise for a corpse - cabine rebecca & niclos.sfx",
-    "cruise for a corpse - cabine suzanne & daphne.sfx",
-    "cruise for a corpse - cabine tom & rose.sfx",
-    "cruise for a corpse - corp05.sfx",
-    "cruise for a corpse - coursive.sfx",
-    "cruise for a corpse - fumoir.sfx",
-    "cruise for a corpse - intro.sfx",
-    "cruise for a corpse - lingerie.sfx",
-    "cruise for a corpse - salle a manger.sfx",
-    "future wars - time travellers - aliens.sfx",
-    "future wars - time travellers - dugger (title).sfx",
-    "future wars - time travellers - escalator.sfx",
-    "future wars - time travellers - future wars.sfx",
-    "future wars - time travellers - mediaval.sfx",
-    "future wars - time travellers - moines (monks).sfx",
-    "future wars - time travellers - suite 21.sfx",
-    "future wars - time travellers - suite 22.sfx",
-    "future wars - time travellers - suite 23 (end).sfx",
-    "future wars - time travellers - superfuture.sfx",
-    "operation stealth - bond10.sfx",
-    "operation stealth - bond11.sfx",
-    "operation stealth - bond14.sfx",
-    "operation stealth - bond16.sfx",
-    "operation stealth - bond1.sfx",
-    "operation stealth - bond20.sfx",
-    "operation stealth - bond22.sfx",
-    "operation stealth - bond23.sfx",
-    "operation stealth - bond24.sfx",
-    "operation stealth - bond31.sfx",
-    "operation stealth - bond32.sfx",
-    "operation stealth - bond4.sfx",
-    "operation stealth - intro.sfx"
-  ],
-  "Jean-Francois Freitas": [
-    "another world (intro).sfx",
-    "another world (outro).sfx"
-  ],
-  "Jean-Pierre Jandrain": [
-    "coloris ingame.sfx"
-  ],
-  "Kerni": [
-    "aademo1.sfx",
-    "aademo2.sfx",
-    "alcatrash.sfx",
-    "atmosphere.sfx",
-    "daylight.sfx",
-    "faster than light.sfx",
-    "follow the sign.sfx",
-    "freedom91.sfx",
-    "freeflight.sfx",
-    "iamtimfollin.sfx",
-    "illusion.sfx",
-    "immensedepth.sfx",
-    "intensity.sfx",
-    "jupiter.sfx",
-    "l.f.o.sfx",
-    "loading music 2.sfx",
-    "loading music.sfx",
-    "madmirage.sfx",
-    "momentsinspace.sfx",
-    "nexocis.sfx",
-    "odetokarsten.sfx",
-    "opwolfloader.sfx",
-    "oriental mix.sfx",
-    "perhaps.sfx",
-    "psa.sfx",
-    "rise.sfx",
-    "soundsii.sfx",
-    "spectrum.sfx",
-    "st-demo.sfx",
-    "stratosphere 2.sfx",
-    "stratosphere.sfx",
-    "the first memory.sfx",
-    "the mourning.sfx",
-    "timetravelling.sfx",
-    "trickydisco.sfx",
-    "voyager.sfx",
-    "workout.sfx",
-    "xouthiscore.sfx",
-    "youramiga.sfx"
-  ],
-  "Lucasvision": [
-    "miami vice.sfx"
-  ],
-  "Mat": [
-    "cube o matic.sfx"
-  ],
-  "McMullan and Low": [
-    "venus11.sfx",
-    "venus12.sfx",
-    "venus13.sfx",
-    "venus14.sfx",
-    "venus3.sfx",
-    "venus4.sfx",
-    "venus5.sfx",
-    "venus6.sfx",
-    "venus7.sfx",
-    "venus8.sfx",
-    "venus9.sfx",
-    "venus-end.sfx",
-    "venus-intro.sfx",
-    "venus-title.sfx"
-  ],
-  "Metal Death": [
-    "leprosy-kickemall.sfx"
-  ],
-  "Paul Summers": [
-    "matrix marauders intro.sfx"
-  ],
-  "Philip Jespersen": [
-    "supaplex.sfx"
-  ],
-  "Roman Werner": [
-    "clown-o-mania.sfx",
-    "eliminator title.sfx",
-    "rolling ronny 1.sfx",
-    "rolling ronny 2.sfx",
-    "rolling ronny intro.sfx"
-  ],
-  "Ronald Saake": [
-    "tie break menu.sfx",
-    "tie break title.sfx"
-  ],
-  "Skyrider": [
-    "easylife.sfx",
-    "funkout.sfx",
-    "rendezvous4.sfx",
-    "skyriding.sfx"
-  ],
-  "Stephane Picq": [
-    "kult.sfx"
-  ],
-  "Tony Francis": [
-    "dominator.sfx"
-  ],
-  "Zenith": [
-    "astro flight 741.sfx",
-    "blue sunrise.sfx",
-    "hold on.sfx",
-    "it's my life.sfx",
-    "pardie.sfx",
-    "synthetix selector.sfx"
-  ]
-}
+[
+  {
+    "tracker": "SoundFX",
+    "composer": "Ahmet Ergen",
+    "song": "smooth criminal.sfx",
+    "size": "31360"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Allister Brimble",
+    "song": "heavy-metal.sfx",
+    "size": "73640"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Allister Brimble",
+    "song": "labyrinth.sfx",
+    "size": "175452"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Allister Brimble",
+    "song": "september.sfx",
+    "size": "71900"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "AM-FM",
+    "song": "silverstone.sfx",
+    "size": "57096"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "AM-FM",
+    "song": "speed runner.sfx",
+    "size": "39932"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "AM-FM",
+    "song": "sunday morning.sfx",
+    "size": "47852"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Amigaid",
+    "song": "zb-heavymetal.sfx",
+    "size": "44648"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Andreas Hommel",
+    "song": "cyberblast-intro.sfx",
+    "size": "46908"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Andre Wuethrich",
+    "song": "sound.data.sfx",
+    "size": "75584"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Android",
+    "song": "coop-Cyborg/a-cid.sfx",
+    "size": "92564"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Android",
+    "song": "coop-Cyborg/execution.sfx",
+    "size": "160324"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Android",
+    "song": "coop-Cyborg/killem.sfx",
+    "size": "125812"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Android",
+    "song": "coop-Cyborg/megabl.sfx",
+    "size": "120584"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Android",
+    "song": "coop-Cyborg/systematic.sfx",
+    "size": "117716"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Android",
+    "song": "coop-Cyborg/tecnostromper.sfx",
+    "size": "151164"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "19remix.sfx",
+    "size": "80048"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "19th_mix.sfx",
+    "size": "70048"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "accessory.sfx",
+    "size": "113976"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "alphaduck.sfx",
+    "size": "106180"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "arpegiator.sfx",
+    "size": "125924"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "blue monday.sfx",
+    "size": "82200"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "box-energy.sfx",
+    "size": "114268"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "catch it.sfx",
+    "size": "92556"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "cynthia.sfx",
+    "size": "115152"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "discokid.sfx",
+    "size": "91368"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "dr. acid.sfx",
+    "size": "106896"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "dragon fucker.sfx",
+    "size": "106584"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "electra.sfx",
+    "size": "105120"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "exoduz.sfx",
+    "size": "128520"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "heavyhell.sfx",
+    "size": "117248"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "hofnar.sfx",
+    "size": "119388"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "humane wake.sfx",
+    "size": "110912"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "karabeli.sfx",
+    "size": "86696"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "lemmick.sfx",
+    "size": "111472"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "non-acid.sfx",
+    "size": "107984"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "ok.sfx",
+    "size": "98600"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "p. bop.sfx",
+    "size": "111340"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "scandinavian news 7.sfx",
+    "size": "106608"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "signature.sfx",
+    "size": "116244"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "stand by.sfx",
+    "size": "121504"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "waterfall-remix.sfx",
+    "size": "108816"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Bassbomb",
+    "song": "waterfall.sfx",
+    "size": "117464"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Chris Huelsbeck",
+    "song": "battle isle (data 2-looser).sfx",
+    "size": "76916"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Chris Huelsbeck",
+    "song": "battle isle (data2-map).sfx",
+    "size": "23980"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Chris Huelsbeck",
+    "song": "battle isle (data 2-winner).sfx",
+    "size": "53548"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Chris Huelsbeck",
+    "song": "battle isle (data-intro).sfx",
+    "size": "129472"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Chris Huelsbeck",
+    "song": "battle isle (data-map2).sfx",
+    "size": "27220"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Chris Huelsbeck",
+    "song": "battle isle (looser).sfx",
+    "size": "58800"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Chris Huelsbeck",
+    "song": "battle isle (winner).sfx",
+    "size": "58476"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Christian Weber",
+    "song": "demo.sfx",
+    "size": "187272"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "bushbuck-ingame01.sfx",
+    "size": "22688"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "bushbuck-ingame02.sfx",
+    "size": "28996"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "bushbuck-ingame03.sfx",
+    "size": "24400"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "bushbuck-ingame04.sfx",
+    "size": "23416"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "bushbuck-ingame05.sfx",
+    "size": "30044"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "bushbuck-ingame06.sfx",
+    "size": "19172"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "bushbuck-ingame07.sfx",
+    "size": "23400"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "bushbuck-ingame08.sfx",
+    "size": "17880"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "bushbuck-ingame09.sfx",
+    "size": "19172"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "bushbuck-ingame10.sfx",
+    "size": "19172"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "bushbuck-ingame11.sfx",
+    "size": "19172"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "bushbuck-ingame12.sfx",
+    "size": "20196"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "bushbuck-ingame13.sfx",
+    "size": "21352"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "bushbuck-ingame14.sfx",
+    "size": "23376"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "bushbuck-ingame15.sfx",
+    "size": "27676"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "bushbuck-ingame16.sfx",
+    "size": "27676"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "bushbuck-ingame17.sfx",
+    "size": "25424"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "bushbuck-ingame18.sfx",
+    "size": "19920"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "bushbuck-ingame19.sfx",
+    "size": "26372"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "bushbuck-ingame20.sfx",
+    "size": "18920"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "bushbuck-ingame21.sfx",
+    "size": "19172"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "bushbuck-ingame22.sfx",
+    "size": "26036"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "bushbuck-ingame23.sfx",
+    "size": "28924"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "eagles rider title.sfx",
+    "size": "75168"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "killerball.sfx",
+    "size": "78296"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Claude Abromont",
+    "song": "sliders (intro).sfx",
+    "size": "139184"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "CSC",
+    "song": "scsi-powerdromecrack.sfx",
+    "size": "66640"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Dave J. Rogers",
+    "song": "exolon.sfx",
+    "size": "40432"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "acid jausa.sfx",
+    "size": "151712"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "anochece.sfx",
+    "size": "151416"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "bailando en el rio.sfx",
+    "size": "99352"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "blues del palodu.sfx",
+    "size": "85640"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "butonated.sfx",
+    "size": "165392"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "celtic sun.sfx",
+    "size": "65060"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "cementerio de hierro.sfx",
+    "size": "85596"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "chanson pour isabel.sfx",
+    "size": "106496"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "click and push.sfx",
+    "size": "77892"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "conan over the shit.sfx",
+    "size": "152720"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "demain.sfx",
+    "size": "209760"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "discotecapuya.sfx",
+    "size": "111068"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "distancia al ano.sfx",
+    "size": "161476"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "en la cuna de ramon.sfx",
+    "size": "67960"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "fucking guitar.sfx",
+    "size": "73928"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "ghost and bishos.sfx",
+    "size": "119256"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "gladiz mon amour.sfx",
+    "size": "69908"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "guta nene.sfx",
+    "size": "180128"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "hard me.sfx",
+    "size": "226080"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "hotel.sfx",
+    "size": "62052"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "house mendrugo.sfx",
+    "size": "129712"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "jules abort.sfx",
+    "size": "82036"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "karakulo ramirez.sfx",
+    "size": "56720"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "llego el final.sfx",
+    "size": "72036"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "los surcos de mi coco.sfx",
+    "size": "42872"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "mesate el tupe.sfx",
+    "size": "54248"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "my noise is fonito.sfx",
+    "size": "164760"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "nervium.sfx",
+    "size": "131076"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "no la puedo subir.sfx",
+    "size": "50596"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "no paraba de beber-1.sfx",
+    "size": "76236"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "no paraba de beber-2.sfx",
+    "size": "98724"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "on the sleep.sfx",
+    "size": "109212"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "our trastonik.sfx",
+    "size": "141100"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "out of disco.sfx",
+    "size": "58812"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "perversus.sfx",
+    "size": "70124"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "pitracus.sfx",
+    "size": "50028"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "please not eat.sfx",
+    "size": "196968"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "pop up the pen.sfx",
+    "size": "113080"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "porcus of roma.sfx",
+    "size": "49248"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "por odin que festin.sfx",
+    "size": "48488"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "presenteichon.sfx",
+    "size": "191856"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "push our shit.sfx",
+    "size": "71868"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "q-rioso.sfx",
+    "size": "72760"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "rockxanga.sfx",
+    "size": "92968"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "sant seg song.sfx",
+    "size": "188872"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "se murio.sfx",
+    "size": "117392"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "sobac friends.sfx",
+    "size": "91712"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "solo una puercona.sfx",
+    "size": "77888"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "steve make a feeling.sfx",
+    "size": "194892"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "symphonya.sfx",
+    "size": "286964"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "take a chute.sfx",
+    "size": "68244"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "the kirk death.sfx",
+    "size": "135668"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "the mad shadow.sfx",
+    "size": "68812"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "the toto is full.sfx",
+    "size": "90160"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "twenty spaces-1.sfx",
+    "size": "136656"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "twenty spaces-2.sfx",
+    "size": "237724"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "twenty spaces-3.sfx",
+    "size": "324220"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "typografy.sfx",
+    "size": "91196"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "va a llover.sfx",
+    "size": "175996"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "waiting for the gual.sfx",
+    "size": "124200"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Fredius Darde",
+    "song": "y estaba sola.sfx",
+    "size": "77980"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "battleisle-end.sfx",
+    "size": "39300"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "battleisle-hq.sfx",
+    "size": "44820"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "battleisle-tot.sfx",
+    "size": "56412"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "greatcourts2-1.sfx",
+    "size": "101440"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "greatcourts2-2.sfx",
+    "size": "58732"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "greatcourts2-3.sfx",
+    "size": "49752"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "historyline-extro.sfx",
+    "size": "50368"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "historyline-hlintro2.sfx",
+    "size": "53120"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "historyline-hlintro3.sfx",
+    "size": "51072"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "historyline-hlintro4.sfx",
+    "size": "57216"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "historyline-mnuhi.sfx",
+    "size": "36260"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "historyline-ofra.sfx",
+    "size": "33532"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "historyline-oger.sfx",
+    "size": "42272"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "historyline-ongame1.sfx",
+    "size": "30584"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "historyline-ongame2.sfx",
+    "size": "28292"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "historyline-ongame3.sfx",
+    "size": "31608"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "historyline-sieg.sfx",
+    "size": "35960"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "historyline-staff.sfx",
+    "size": "120736"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "historyline-zwtxt1.sfx",
+    "size": "34800"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "historyline-zwtxt2.sfx",
+    "size": "34800"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "pro tennis tour 2.sfx",
+    "size": "101440"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "pro tennis tour.sfx",
+    "size": "114528"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "pro tennis tour-tune.sfx",
+    "size": "45656"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "twinworld 0-title.sfx",
+    "size": "69120"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "twinworld 1-caves.sfx",
+    "size": "35892"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "twinworld 2-forest.sfx",
+    "size": "26676"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "twinworld 3-castle.sfx",
+    "size": "36776"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "twinworld 4-swamp.sfx",
+    "size": "36376"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "twinworld 5-temple.sfx",
+    "size": "32900"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Haiko Ruttmann",
+    "song": "twinworld 6-end.sfx",
+    "size": "55872"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Helmut Melcher",
+    "song": "champ (applause).sfx",
+    "size": "16204"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Helmut Melcher",
+    "song": "champ (intro).sfx",
+    "size": "183664"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Helmut Melcher",
+    "song": "champ (presentation).sfx",
+    "size": "72928"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "cruise for a corpse - bar.sfx",
+    "size": "40000"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "cruise for a corpse - cabine fabiani & desire.sfx",
+    "size": "35904"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "cruise for a corpse - cabine raoul & julio.sfx",
+    "size": "37952"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "cruise for a corpse - cabine rebecca & niclos.sfx",
+    "size": "40000"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "cruise for a corpse - cabine suzanne & daphne.sfx",
+    "size": "47500"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "cruise for a corpse - cabine tom & rose.sfx",
+    "size": "36928"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "cruise for a corpse - corp05.sfx",
+    "size": "49372"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "cruise for a corpse - coursive.sfx",
+    "size": "40734"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "cruise for a corpse - fumoir.sfx",
+    "size": "33566"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "cruise for a corpse - intro.sfx",
+    "size": "44748"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "cruise for a corpse - lingerie.sfx",
+    "size": "40000"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "cruise for a corpse - salle a manger.sfx",
+    "size": "37260"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "future wars - time travellers - aliens.sfx",
+    "size": "51640"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "future wars - time travellers - dugger (title).sfx",
+    "size": "48676"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "future wars - time travellers - escalator.sfx",
+    "size": "38536"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "future wars - time travellers - future wars.sfx",
+    "size": "73364"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "future wars - time travellers - mediaval.sfx",
+    "size": "27016"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "future wars - time travellers - moines (monks).sfx",
+    "size": "20272"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "future wars - time travellers - suite 21.sfx",
+    "size": "63564"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "future wars - time travellers - suite 22.sfx",
+    "size": "43604"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "future wars - time travellers - suite 23 (end).sfx",
+    "size": "90676"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "future wars - time travellers - superfuture.sfx",
+    "size": "43036"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "operation stealth - bond10.sfx",
+    "size": "42984"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "operation stealth - bond11.sfx",
+    "size": "39050"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "operation stealth - bond14.sfx",
+    "size": "43146"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "operation stealth - bond16.sfx",
+    "size": "40074"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "operation stealth - bond1.sfx",
+    "size": "53772"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "operation stealth - bond20.sfx",
+    "size": "39050"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "operation stealth - bond22.sfx",
+    "size": "37634"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "operation stealth - bond23.sfx",
+    "size": "46666"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "operation stealth - bond24.sfx",
+    "size": "52810"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "operation stealth - bond31.sfx",
+    "size": "51366"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "operation stealth - bond32.sfx",
+    "size": "46490"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "operation stealth - bond4.sfx",
+    "size": "61392"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean Baudlot",
+    "song": "operation stealth - intro.sfx",
+    "size": "4862"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean-Francois Freitas",
+    "song": "another world (intro).sfx",
+    "size": "86714"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean-Francois Freitas",
+    "song": "another world (outro).sfx",
+    "size": "36312"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Jean-Pierre Jandrain",
+    "song": "coloris ingame.sfx",
+    "size": "60840"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "J. Roudet",
+    "song": "pinball magic loader.sfx",
+    "size": "9856"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "J. Roudet",
+    "song": "pinball magic title.sfx",
+    "size": "125656"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "aademo1.sfx",
+    "size": "41708"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "aademo2.sfx",
+    "size": "81492"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "alcatrash.sfx",
+    "size": "161948"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "atmosphere.sfx",
+    "size": "151942"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "daylight.sfx",
+    "size": "101688"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "faster than light.sfx",
+    "size": "119848"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "follow the sign.sfx",
+    "size": "104784"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "freedom91.sfx",
+    "size": "64784"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "freeflight.sfx",
+    "size": "131400"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "iamtimfollin.sfx",
+    "size": "177192"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "illusion.sfx",
+    "size": "75456"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "immensedepth.sfx",
+    "size": "78512"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "intensity.sfx",
+    "size": "104652"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "jupiter.sfx",
+    "size": "192248"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "l.f.o.sfx",
+    "size": "237768"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "loading music 2.sfx",
+    "size": "26888"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "loading music.sfx",
+    "size": "31920"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "madmirage.sfx",
+    "size": "111156"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "momentsinspace.sfx",
+    "size": "85510"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "nexocis.sfx",
+    "size": "85736"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "odetokarsten.sfx",
+    "size": "64852"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "opwolfloader.sfx",
+    "size": "86620"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "oriental mix.sfx",
+    "size": "65664"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "perhaps.sfx",
+    "size": "76772"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "psa.sfx",
+    "size": "29216"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "rise.sfx",
+    "size": "170956"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "soundsii.sfx",
+    "size": "116602"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "spectrum.sfx",
+    "size": "37852"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "st-demo.sfx",
+    "size": "27824"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "stratosphere 2.sfx",
+    "size": "212144"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "stratosphere.sfx",
+    "size": "197244"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "the first memory.sfx",
+    "size": "89592"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "the mourning.sfx",
+    "size": "192064"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "timetravelling.sfx",
+    "size": "91684"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "trickydisco.sfx",
+    "size": "106424"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "voyager.sfx",
+    "size": "147772"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "workout.sfx",
+    "size": "135412"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "xouthiscore.sfx",
+    "size": "49676"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Kerni",
+    "song": "youramiga.sfx",
+    "size": "181184"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Lucasvision",
+    "song": "miami vice.sfx",
+    "size": "115984"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Mat",
+    "song": "cube o matic.sfx",
+    "size": "88180"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "McMullan and Low",
+    "song": "venus11.sfx",
+    "size": "9504"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "McMullan and Low",
+    "song": "venus12.sfx",
+    "size": "20512"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "McMullan and Low",
+    "song": "venus13.sfx",
+    "size": "29940"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "McMullan and Low",
+    "song": "venus14.sfx",
+    "size": "14912"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "McMullan and Low",
+    "song": "venus3.sfx",
+    "size": "56528"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "McMullan and Low",
+    "song": "venus4.sfx",
+    "size": "35552"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "McMullan and Low",
+    "song": "venus5.sfx",
+    "size": "12332"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "McMullan and Low",
+    "song": "venus6.sfx",
+    "size": "17828"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "McMullan and Low",
+    "song": "venus7.sfx",
+    "size": "22676"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "McMullan and Low",
+    "song": "venus8.sfx",
+    "size": "8568"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "McMullan and Low",
+    "song": "venus9.sfx",
+    "size": "16016"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "McMullan and Low",
+    "song": "venus-end.sfx",
+    "size": "73448"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "McMullan and Low",
+    "song": "venus-intro.sfx",
+    "size": "89640"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "McMullan and Low",
+    "song": "venus-title.sfx",
+    "size": "66824"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Metal Death",
+    "song": "leprosy-kickemall.sfx",
+    "size": "32520"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Paul Summers",
+    "song": "matrix marauders intro.sfx",
+    "size": "198008"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Philip Jespersen",
+    "song": "supaplex.sfx",
+    "size": "54220"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Roman Werner",
+    "song": "clown-o-mania.sfx",
+    "size": "82760"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Roman Werner",
+    "song": "eliminator title.sfx",
+    "size": "149604"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Roman Werner",
+    "song": "rolling ronny 1.sfx",
+    "size": "20344"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Roman Werner",
+    "song": "rolling ronny 2.sfx",
+    "size": "36328"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Roman Werner",
+    "song": "rolling ronny intro.sfx",
+    "size": "28188"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Ronald Saake",
+    "song": "tie break menu.sfx",
+    "size": "79804"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Ronald Saake",
+    "song": "tie break title.sfx",
+    "size": "81652"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Skyrider",
+    "song": "easylife.sfx",
+    "size": "20008"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Skyrider",
+    "song": "funkout.sfx",
+    "size": "43612"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Skyrider",
+    "song": "rendezvous4.sfx",
+    "size": "56272"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Skyrider",
+    "song": "skyriding.sfx",
+    "size": "50180"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Stephane Picq",
+    "song": "kult.sfx",
+    "size": "137796"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Tony Francis",
+    "song": "dominator.sfx",
+    "size": "178076"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "acid housemix.sfx",
+    "size": "184356"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "acoustica maurice.sfx",
+    "size": "61048"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "amjam-live.sfx",
+    "size": "129260"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "brian's.sfx",
+    "size": "43996"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "cambodia.sfx",
+    "size": "80756"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "chicago90.sfx",
+    "size": "60152"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "daylightsonate.sfx",
+    "size": "19832"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "dreamscapes.sfx",
+    "size": "153428"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "dugger.sfx",
+    "size": "63328"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "e-k-g.sfx",
+    "size": "68716"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "escape siro.sfx",
+    "size": "81324"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "fairlight.sfx",
+    "size": "55168"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "first intro.sfx",
+    "size": "78636"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "football maneger.sfx",
+    "size": "96436"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "forever.sfx",
+    "size": "103284"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "funk.sfx",
+    "size": "86732"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "hardstix.sfx",
+    "size": "34008"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "haunted.sfx",
+    "size": "69688"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "highway-patrol.sfx",
+    "size": "66380"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "hlmenu1.sfx",
+    "size": "54252"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "hsn.sfx",
+    "size": "55292"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "kill the nazi, mikkel.sfx",
+    "size": "35136"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "laas.sfx",
+    "size": "105328"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "magnetic2.sfx",
+    "size": "72464"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "matt song.sfx",
+    "size": "111024"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "melodious.sfx",
+    "size": "37184"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "phono-jack.sfx",
+    "size": "126384"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "pipes.sfx",
+    "size": "170156"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "poul's opus 1.sfx",
+    "size": "35136"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "psycho-psam.sfx",
+    "size": "134248"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "rende vouz.sfx",
+    "size": "47984"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "sfx-xor-snd.sfx",
+    "size": "99240"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "silent.sfx",
+    "size": "40272"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "silicon-sea.sfx",
+    "size": "131484"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "sunday morning.sfx",
+    "size": "53872"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "sweety.sfx",
+    "size": "66280"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "temptation.sfx",
+    "size": "80068"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "thrust.sfx",
+    "size": "70168"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "- unknown",
+    "song": "yo-baby-yo.sfx",
+    "size": "136140"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Zenith",
+    "song": "astro flight 741.sfx",
+    "size": "111776"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Zenith",
+    "song": "blue sunrise.sfx",
+    "size": "242912"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Zenith",
+    "song": "hold on.sfx",
+    "size": "258560"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Zenith",
+    "song": "it's my life.sfx",
+    "size": "200300"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Zenith",
+    "song": "pardie.sfx",
+    "size": "199924"
+  },
+  {
+    "tracker": "SoundFX",
+    "composer": "Zenith",
+    "song": "synthetix selector.sfx",
+    "size": "126944"
+  }
+]

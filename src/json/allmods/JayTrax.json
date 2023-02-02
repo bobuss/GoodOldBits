@@ -1,35 +1,164 @@
-{
-  "- unknown": [
-    "090301.jxs",
-    "bumpnburn(8) - walk-o-death.jxs",
-    "difzee.jxs",
-    "disturbed.jxs",
-    "doodmars - death.jxs",
-    "dreamer.jxs",
-    "filtastic - strange.jxs",
-    "hakke.jxs",
-    "hakman.jxs",
-    "hunkefunk - hitsenfritsen.jxs",
-    "jaytrax demo.jxs",
-    "jbells.jxs",
-    "kingtut - dance of the pyramids.jxs",
-    "maximus1 - skatefun.jxs",
-    "maximus2 - ice rap.jxs",
-    "maximus3 - the race.jxs",
-    "popcorn.jxs",
-    "stfmaan6.jxs",
-    "tech-no-go.jxs",
-    "waterballet.jxs",
-    "wodaz.jxs"
-  ],
-  "Philip Wood": [
-    "castle stone.jxs",
-    "jaggy enigma.jxs",
-    "protector.jxs",
-    "teen-e-bebopper.jxs",
-    "the old west spirit.jxs"
-  ],
-  "Stefan Alfrink": [
-    "it hides in thunder.jxs"
-  ]
-}
+[
+  {
+    "tracker": "JayTrax",
+    "composer": "Philip Wood",
+    "song": "castle stone.jxs",
+    "size": "1197250"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "Philip Wood",
+    "song": "jaggy enigma.jxs",
+    "size": "1619002"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "Philip Wood",
+    "song": "protector.jxs",
+    "size": "781217"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "Philip Wood",
+    "song": "teen-e-bebopper.jxs",
+    "size": "1988805"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "Philip Wood",
+    "song": "the old west spirit.jxs",
+    "size": "2766385"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "Stefan Alfrink",
+    "song": "it hides in thunder.jxs",
+    "size": "581763"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "- unknown",
+    "song": "090301.jxs",
+    "size": "286968"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "- unknown",
+    "song": "bumpnburn(8) - walk-o-death.jxs",
+    "size": "959219"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "- unknown",
+    "song": "difzee.jxs",
+    "size": "445110"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "- unknown",
+    "song": "disturbed.jxs",
+    "size": "210865"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "- unknown",
+    "song": "doodmars - death.jxs",
+    "size": "88581"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "- unknown",
+    "song": "dreamer.jxs",
+    "size": "98901"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "- unknown",
+    "song": "filtastic - strange.jxs",
+    "size": "158542"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "- unknown",
+    "song": "hakke.jxs",
+    "size": "141197"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "- unknown",
+    "song": "hakman.jxs",
+    "size": "207244"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "- unknown",
+    "song": "hunkefunk - hitsenfritsen.jxs",
+    "size": "161023"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "- unknown",
+    "song": "jaytrax demo.jxs",
+    "size": "141197"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "- unknown",
+    "song": "jbells.jxs",
+    "size": "103378"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "- unknown",
+    "song": "kingtut - dance of the pyramids.jxs",
+    "size": "216613"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "- unknown",
+    "song": "maximus1 - skatefun.jxs",
+    "size": "149062"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "- unknown",
+    "song": "maximus2 - ice rap.jxs",
+    "size": "172794"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "- unknown",
+    "song": "maximus3 - the race.jxs",
+    "size": "294537"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "- unknown",
+    "song": "popcorn.jxs",
+    "size": "55382"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "- unknown",
+    "song": "stfmaan6.jxs",
+    "size": "960294"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "- unknown",
+    "song": "tech-no-go.jxs",
+    "size": "397187"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "- unknown",
+    "song": "waterballet.jxs",
+    "size": "85468"
+  },
+  {
+    "tracker": "JayTrax",
+    "composer": "- unknown",
+    "song": "wodaz.jxs",
+    "size": "295400"
+  }
+]

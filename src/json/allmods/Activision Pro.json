@@ -1,37 +1,176 @@
-{
-  "- unknown": [
-    "gettysburg.avp",
-    "love music.avp"
-  ],
-  "Martin Walker": [
-    "9 lives.avp",
-    "atomic robokid.avp",
-    "av8b harrier assault.avp",
-    "british.avp",
-    "defender 2.avp",
-    "devious designs intro.avp",
-    "devious designs jingles.avp",
-    "devious designs title and ingame.avp",
-    "d-generation.avp",
-    "dragon breed.avp",
-    "final blow.avp",
-    "frenetic ingame.avp",
-    "frenetic intro.avp",
-    "german.avp",
-    "hunter.avp",
-    "indiana jones 4.avp",
-    "kingmaker.avp",
-    "legends of valour.avp",
-    "overlord.avp",
-    "reach for the skies-british.avp",
-    "reach for the skies-german.avp",
-    "r-type ii.avp",
-    "spindizzy worlds.avp",
-    "thunderhawk 1.avp",
-    "thunderhawk 2.avp",
-    "thunderhawk 3.avp"
-  ],
-  "Sean Gugler": [
-    "d-generation-sfx.avp"
-  ]
-}
+[
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "9 lives.avp",
+    "size": "33766"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "atomic robokid.avp",
+    "size": "76268"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "av8b harrier assault.avp",
+    "size": "36567"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "british.avp",
+    "size": "71263"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "defender 2.avp",
+    "size": "40845"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "devious designs intro.avp",
+    "size": "83595"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "devious designs jingles.avp",
+    "size": "89601"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "devious designs title and ingame.avp",
+    "size": "58905"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "d-generation.avp",
+    "size": "120255"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "dragon breed.avp",
+    "size": "65418"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "final blow.avp",
+    "size": "55902"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "frenetic ingame.avp",
+    "size": "70959"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "frenetic intro.avp",
+    "size": "59157"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "german.avp",
+    "size": "77875"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "hunter.avp",
+    "size": "43695"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "indiana jones 4.avp",
+    "size": "54962"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "kingmaker.avp",
+    "size": "65002"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "legends of valour.avp",
+    "size": "56857"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "overlord.avp",
+    "size": "71391"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "reach for the skies-british.avp",
+    "size": "71263"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "reach for the skies-german.avp",
+    "size": "77875"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "r-type ii.avp",
+    "size": "60538"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "spindizzy worlds.avp",
+    "size": "37808"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "thunderhawk 1.avp",
+    "size": "62936"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "thunderhawk 2.avp",
+    "size": "41350"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Martin Walker",
+    "song": "thunderhawk 3.avp",
+    "size": "64194"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "Sean Gugler",
+    "song": "d-generation-sfx.avp",
+    "size": "107217"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "- unknown",
+    "song": "gettysburg.avp",
+    "size": "50942"
+  },
+  {
+    "tracker": "Activision Pro",
+    "composer": "- unknown",
+    "song": "love music.avp",
+    "size": "56857"
+  }
+]

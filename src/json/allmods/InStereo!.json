@@ -1,7 +1,20 @@
-{
-  "- unknown": [
-    "cherry moon.is",
-    "digital man.is",
-    "fantasi8.is"
-  ]
-}
+[
+  {
+    "tracker": "InStereo!",
+    "composer": "- unknown",
+    "song": "cherry moon.is",
+    "size": "8232"
+  },
+  {
+    "tracker": "InStereo!",
+    "composer": "- unknown",
+    "song": "digital man.is",
+    "size": "52960"
+  },
+  {
+    "tracker": "InStereo!",
+    "composer": "- unknown",
+    "song": "fantasi8.is",
+    "size": "45656"
+  }
+]

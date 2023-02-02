@@ -1,49 +1,212 @@
-{
-  "- unknown": [
-    "astarrsonix.mk2",
-    "atron.mk2",
-    "baller2.mk2",
-    "baller3.mk2",
-    "crushandburn.mk2",
-    "hadesnebula.mk2",
-    "hotel.mk2",
-    "jtg.mk2",
-    "katakisend.mk2",
-    "katakistitle.mk2",
-    "movement oldskool.mk2",
-    "permain.mk2",
-    "subway.mk2",
-    "vision.mk2"
-  ],
-  "Andreas Starr": [
-    "my way to the stars.mk2"
-  ],
-  "FX": [
-    "defcon1-0.666intro.mk2",
-    "defcon1-contact.mk2",
-    "defcon1-partydemo.mk2",
-    "defcon1-powercutdemo.mk2",
-    "defcon1-promotiondemo.mk2",
-    "defcon1-vectorpart.mk2"
-  ],
-  "Mark II": [
-    "mattgraymix.mk2",
-    "quadlite-mark ii is blue.mk2",
-    "quadlite-wabb.mk2",
-    "red sector megademo 3 loader.mk2",
-    "sargon.mk2"
-  ],
-  "Tronic": [
-    "credits&greetings.mk2",
-    "deepspace.mk2",
-    "lines.mk2",
-    "pixeldots.mk2",
-    "psychotic.mk2",
-    "pumpupthejet.mk2",
-    "sliced.mk2",
-    "theend.mk2"
-  ],
-  "Ultimax": [
-    "ultimax.mk2"
-  ]
-}
+[
+  {
+    "tracker": "Mark II",
+    "composer": "Andreas Starr",
+    "song": "my way to the stars.mk2",
+    "size": "180944"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "FX",
+    "song": "defcon1-0.666intro.mk2",
+    "size": "29930"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "FX",
+    "song": "defcon1-contact.mk2",
+    "size": "23282"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "FX",
+    "song": "defcon1-partydemo.mk2",
+    "size": "43822"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "FX",
+    "song": "defcon1-powercutdemo.mk2",
+    "size": "53830"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "FX",
+    "song": "defcon1-promotiondemo.mk2",
+    "size": "66446"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "FX",
+    "song": "defcon1-vectorpart.mk2",
+    "size": "134444"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "Mark II",
+    "song": "mattgraymix.mk2",
+    "size": "72112"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "Mark II",
+    "song": "quadlite-mark ii is blue.mk2",
+    "size": "85566"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "Mark II",
+    "song": "quadlite-wabb.mk2",
+    "size": "20122"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "Mark II",
+    "song": "red sector megademo 3 loader.mk2",
+    "size": "84642"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "Mark II",
+    "song": "sargon.mk2",
+    "size": "18536"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "Tronic",
+    "song": "credits&greetings.mk2",
+    "size": "29662"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "Tronic",
+    "song": "deepspace.mk2",
+    "size": "91420"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "Tronic",
+    "song": "lines.mk2",
+    "size": "57604"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "Tronic",
+    "song": "pixeldots.mk2",
+    "size": "152824"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "Tronic",
+    "song": "psychotic.mk2",
+    "size": "94524"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "Tronic",
+    "song": "pumpupthejet.mk2",
+    "size": "151268"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "Tronic",
+    "song": "sliced.mk2",
+    "size": "51452"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "Tronic",
+    "song": "theend.mk2",
+    "size": "93808"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "Ultimax",
+    "song": "ultimax.mk2",
+    "size": "188734"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "- unknown",
+    "song": "astarrsonix.mk2",
+    "size": "181028"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "- unknown",
+    "song": "atron.mk2",
+    "size": "56692"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "- unknown",
+    "song": "baller2.mk2",
+    "size": "42880"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "- unknown",
+    "song": "baller3.mk2",
+    "size": "48646"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "- unknown",
+    "song": "crushandburn.mk2",
+    "size": "105610"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "- unknown",
+    "song": "hadesnebula.mk2",
+    "size": "125788"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "- unknown",
+    "song": "hotel.mk2",
+    "size": "35594"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "- unknown",
+    "song": "jtg.mk2",
+    "size": "30582"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "- unknown",
+    "song": "katakisend.mk2",
+    "size": "27742"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "- unknown",
+    "song": "katakistitle.mk2",
+    "size": "69616"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "- unknown",
+    "song": "movement oldskool.mk2",
+    "size": "13174"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "- unknown",
+    "song": "permain.mk2",
+    "size": "84454"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "- unknown",
+    "song": "subway.mk2",
+    "size": "6100"
+  },
+  {
+    "tracker": "Mark II",
+    "composer": "- unknown",
+    "song": "vision.mk2",
+    "size": "29930"
+  }
+]

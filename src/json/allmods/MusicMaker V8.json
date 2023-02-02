@@ -1,79 +1,416 @@
-{
-  "- unknown": [
-    "axelf.mm8",
-    "crockett8.mm8",
-    "devils.mm8",
-    "diehard.mm8",
-    "party.mm8",
-    "testdrive.mm8",
-    "tribal dance.mm8",
-    "wasteland.mm8",
-    "xmen.mm8"
-  ],
-  "Erik Thos": [
-    "deep.mm8",
-    "easystyleofmsx.mm8",
-    "house2.mm8",
-    "illogical.mm8",
-    "m16!.mm8",
-    "mysterymix.mm8",
-    "nomoreacidplease.mm8",
-    "phantastix.mm8",
-    "sessions.mm8",
-    "tribute11.mm8",
-    "way of msx.mm8"
-  ],
-  "Supermatse": [
-    "bnrgermeister.mm8",
-    "break.mm8",
-    "classic.mm8",
-    "dance.mm8",
-    "deepslide.mm8",
-    "derb.mm8",
-    "dragon!.mm8",
-    "dreama.mm8",
-    "houseii.mm8",
-    "house.mm8",
-    "illogica.mm8",
-    "lastsome.mm8",
-    "m16!.mm8",
-    "noi.mm8",
-    "roetzmegoem.mm8",
-    "sessorig.mm8",
-    "sessrmx.mm8",
-    "stars.mm8",
-    "trancelation v2.mm8"
-  ],
-  "Thomas Winischhofer": [
-    "alf.mm8",
-    "allthatshewants.mm8",
-    "beginner.mm8",
-    "blackrain.mm8",
-    "crystalhammer2017.mm8",
-    "dance-x.mm8",
-    "demotune.mm8",
-    "dreamguitar.mm8",
-    "everybreathutake 2018.mm8",
-    "fastngood.mm8",
-    "firework dance.mm8",
-    "firework pop.mm8",
-    "frogsong.mm8",
-    "happysound.mm8",
-    "hecticbanjo.mm8",
-    "hiphurra.mm8",
-    "mysterious.mm8",
-    "newsong 2017.mm8",
-    "newsong.mm8",
-    "newtw.mm8",
-    "pianosession2017.mm8",
-    "rock-a-pipe.mm8",
-    "rumors.mm8",
-    "sagittarius.mm8",
-    "shortpianodemo.mm8",
-    "silence.mm8",
-    "thegame.mm8",
-    "themood.mm8",
-    "tonight.mm8",
-    "whatislove 2017.mm8"
-  ]
-}
+[
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Erik Thos",
+    "song": "deep.mm8",
+    "size": "145552"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Erik Thos",
+    "song": "easystyleofmsx.mm8",
+    "size": "95224"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Erik Thos",
+    "song": "house2.mm8",
+    "size": "85296"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Erik Thos",
+    "song": "illogical.mm8",
+    "size": "81272"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Erik Thos",
+    "song": "m16!.mm8",
+    "size": "107636"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Erik Thos",
+    "song": "mysterymix.mm8",
+    "size": "137820"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Erik Thos",
+    "song": "nomoreacidplease.mm8",
+    "size": "53104"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Erik Thos",
+    "song": "phantastix.mm8",
+    "size": "180924"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Erik Thos",
+    "song": "sessions.mm8",
+    "size": "103080"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Erik Thos",
+    "song": "tribute11.mm8",
+    "size": "172804"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Erik Thos",
+    "song": "way of msx.mm8",
+    "size": "78664"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Supermatse",
+    "song": "bnrgermeister.mm8",
+    "size": "167784"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Supermatse",
+    "song": "break.mm8",
+    "size": "278952"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Supermatse",
+    "song": "classic.mm8",
+    "size": "336768"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Supermatse",
+    "song": "dance.mm8",
+    "size": "267512"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Supermatse",
+    "song": "deepslide.mm8",
+    "size": "192128"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Supermatse",
+    "song": "derb.mm8",
+    "size": "216964"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Supermatse",
+    "song": "dragon!.mm8",
+    "size": "174524"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Supermatse",
+    "song": "dreama.mm8",
+    "size": "306676"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Supermatse",
+    "song": "houseii.mm8",
+    "size": "111644"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Supermatse",
+    "song": "house.mm8",
+    "size": "108320"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Supermatse",
+    "song": "illogica.mm8",
+    "size": "106396"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Supermatse",
+    "song": "lastsome.mm8",
+    "size": "422324"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Supermatse",
+    "song": "m16!.mm8",
+    "size": "140860"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Supermatse",
+    "song": "noi.mm8",
+    "size": "266668"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Supermatse",
+    "song": "roetzmegoem.mm8",
+    "size": "127552"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Supermatse",
+    "song": "sessorig.mm8",
+    "size": "135448"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Supermatse",
+    "song": "sessrmx.mm8",
+    "size": "195768"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Supermatse",
+    "song": "stars.mm8",
+    "size": "131216"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Supermatse",
+    "song": "trancelation v2.mm8",
+    "size": "80148"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "alf.mm8",
+    "size": "62392"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "allthatshewants.mm8",
+    "size": "161288"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "beginner.mm8",
+    "size": "34024"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "blackrain.mm8",
+    "size": "86936"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "crystalhammer2017.mm8",
+    "size": "94608"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "dance-x.mm8",
+    "size": "150132"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "demotune.mm8",
+    "size": "67872"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "dreamguitar.mm8",
+    "size": "90048"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "everybreathutake 2018.mm8",
+    "size": "168952"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "fastngood.mm8",
+    "size": "91020"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "firework dance.mm8",
+    "size": "144828"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "firework pop.mm8",
+    "size": "106868"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "frogsong.mm8",
+    "size": "72796"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "happysound.mm8",
+    "size": "37636"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "hecticbanjo.mm8",
+    "size": "76600"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "hiphurra.mm8",
+    "size": "53932"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "mysterious.mm8",
+    "size": "115756"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "newsong 2017.mm8",
+    "size": "71860"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "newsong.mm8",
+    "size": "43100"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "newtw.mm8",
+    "size": "38428"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "pianosession2017.mm8",
+    "size": "66340"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "rock-a-pipe.mm8",
+    "size": "58476"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "rumors.mm8",
+    "size": "63768"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "sagittarius.mm8",
+    "size": "75252"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "shortpianodemo.mm8",
+    "size": "34420"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "silence.mm8",
+    "size": "90256"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "thegame.mm8",
+    "size": "49684"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "themood.mm8",
+    "size": "58812"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "tonight.mm8",
+    "size": "84684"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "Thomas Winischhofer",
+    "song": "whatislove 2017.mm8",
+    "size": "297040"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "- unknown",
+    "song": "axelf.mm8",
+    "size": "69468"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "- unknown",
+    "song": "crockett8.mm8",
+    "size": "99536"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "- unknown",
+    "song": "devils.mm8",
+    "size": "56436"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "- unknown",
+    "song": "diehard.mm8",
+    "size": "139340"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "- unknown",
+    "song": "party.mm8",
+    "size": "57280"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "- unknown",
+    "song": "testdrive.mm8",
+    "size": "41384"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "- unknown",
+    "song": "tribal dance.mm8",
+    "size": "279732"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "- unknown",
+    "song": "wasteland.mm8",
+    "size": "97760"
+  },
+  {
+    "tracker": "MusicMaker V8",
+    "composer": "- unknown",
+    "song": "xmen.mm8",
+    "size": "39840"
+  }
+]

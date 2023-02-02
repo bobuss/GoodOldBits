@@ -1,30 +1,122 @@
-{
-  "Cagliostro": [
-    "acid.ast",
-    "dimtest2.ast",
-    "flangdru.ast",
-    "flangdru (ast 0002).ast",
-    "fmawedc.ast",
-    "fmawedc (ast 0002).ast",
-    "gmidi.ast",
-    "gmidi (ast 0002).ast",
-    "goa.ast",
-    "historic.ast",
-    "historic (ast 0002).ast",
-    "thanks.ast",
-    "thansong.ast"
-  ],
-  "Contrast": [
-    "excalibur.ast",
-    "rhapsody in e - maximum velocty mix.ast",
-    "the spirit of rave.ast"
-  ],
-  "Feilei": [
-    "sid chip c64.ast",
-    "sound demo for ast.ast",
-    "tiny opl3 demo.ast"
-  ],
-  "JamRam": [
-    "lemmings on ecstacee.ast"
-  ]
-}
+[
+  {
+    "tracker": "All Sound Tracker",
+    "composer": "Cagliostro",
+    "song": "acid.ast",
+    "size": "232715"
+  },
+  {
+    "tracker": "All Sound Tracker",
+    "composer": "Cagliostro",
+    "song": "dimtest2.ast",
+    "size": "72555"
+  },
+  {
+    "tracker": "All Sound Tracker",
+    "composer": "Cagliostro",
+    "song": "flangdru.ast",
+    "size": "7035"
+  },
+  {
+    "tracker": "All Sound Tracker",
+    "composer": "Cagliostro",
+    "song": "flangdru (ast 0002).ast",
+    "size": "6133"
+  },
+  {
+    "tracker": "All Sound Tracker",
+    "composer": "Cagliostro",
+    "song": "fmawedc.ast",
+    "size": "6187"
+  },
+  {
+    "tracker": "All Sound Tracker",
+    "composer": "Cagliostro",
+    "song": "fmawedc (ast 0002).ast",
+    "size": "6976"
+  },
+  {
+    "tracker": "All Sound Tracker",
+    "composer": "Cagliostro",
+    "song": "gmidi.ast",
+    "size": "3873"
+  },
+  {
+    "tracker": "All Sound Tracker",
+    "composer": "Cagliostro",
+    "song": "gmidi (ast 0002).ast",
+    "size": "4582"
+  },
+  {
+    "tracker": "All Sound Tracker",
+    "composer": "Cagliostro",
+    "song": "goa.ast",
+    "size": "154102"
+  },
+  {
+    "tracker": "All Sound Tracker",
+    "composer": "Cagliostro",
+    "song": "historic.ast",
+    "size": "9034"
+  },
+  {
+    "tracker": "All Sound Tracker",
+    "composer": "Cagliostro",
+    "song": "historic (ast 0002).ast",
+    "size": "9743"
+  },
+  {
+    "tracker": "All Sound Tracker",
+    "composer": "Cagliostro",
+    "song": "thanks.ast",
+    "size": "4901"
+  },
+  {
+    "tracker": "All Sound Tracker",
+    "composer": "Cagliostro",
+    "song": "thansong.ast",
+    "size": "15584"
+  },
+  {
+    "tracker": "All Sound Tracker",
+    "composer": "Contrast",
+    "song": "excalibur.ast",
+    "size": "178813"
+  },
+  {
+    "tracker": "All Sound Tracker",
+    "composer": "Contrast",
+    "song": "rhapsody in e - maximum velocty mix.ast",
+    "size": "232549"
+  },
+  {
+    "tracker": "All Sound Tracker",
+    "composer": "Contrast",
+    "song": "the spirit of rave.ast",
+    "size": "212556"
+  },
+  {
+    "tracker": "All Sound Tracker",
+    "composer": "Feilei",
+    "song": "sid chip c64.ast",
+    "size": "21509"
+  },
+  {
+    "tracker": "All Sound Tracker",
+    "composer": "Feilei",
+    "song": "sound demo for ast.ast",
+    "size": "347788"
+  },
+  {
+    "tracker": "All Sound Tracker",
+    "composer": "Feilei",
+    "song": "tiny opl3 demo.ast",
+    "size": "15907"
+  },
+  {
+    "tracker": "All Sound Tracker",
+    "composer": "JamRam",
+    "song": "lemmings on ecstacee.ast",
+    "size": "1124265"
+  }
+]

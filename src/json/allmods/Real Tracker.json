@@ -1,9 +1,20 @@
-{
-  "DStruk": [
-    "odyssey.rtm"
-  ],
-  "Dr. Bully": [
-    "alfaomeg.rtm",
-    "brainstorm.rtm"
-  ]
-}
+[
+  {
+    "tracker": "Real Tracker",
+    "composer": "Dr. Bully",
+    "song": "alfaomeg.rtm",
+    "size": "3964594"
+  },
+  {
+    "tracker": "Real Tracker",
+    "composer": "Dr. Bully",
+    "song": "brainstorm.rtm",
+    "size": "3246118"
+  },
+  {
+    "tracker": "Real Tracker",
+    "composer": "DStruk",
+    "song": "odyssey.rtm",
+    "size": "109759"
+  }
+]

@@ -72,12 +72,10 @@ export default {
             sbVisible: false,
             vVisible: false,
             volume: 0.5,
-            modland_enabled_formats: ['Fasttracker 2'],
-            local_enabled_formats: ['sndh', 'ahx'],
+            modland_enabled_formats: ['SNDH'],
+            local_enabled_formats: ['ahx', 'sc68'],
             composerSongs: {},
-            flatSongs: [],
-
-
+            flatSongs: []
         }
     },
     watch: {
@@ -94,15 +92,17 @@ export default {
     },
     computed: {
 
-        facetedComposers() {
+        searches() {
+            return this.search.toLowerCase().split(' ');
+        },
 
-            const searches = this.search.toLowerCase().split(' ');
-
+        filteredSongs() {
             const filteredSongs = []
+
             this.flatSongs.forEach(song => {
                 let res = true
 
-                searches.forEach(search => {
+                this.searches.forEach(search => {
                     if (song.toLowerCase().indexOf(search) != -1) {
                         res = res && true
                     } else {
@@ -113,22 +113,24 @@ export default {
                 if (res) {
                     filteredSongs.push(song)
                 }
-
             })
+            return filteredSongs
+        },
+
+        facetedComposers() {
             // count the number of matching songs and group by author
             const groupByComposer = {}
 
-            filteredSongs.forEach(song => {
+            this.filteredSongs.forEach(song => {
                 const category = song.split('/').slice(0, 2).join('/')
                 groupByComposer[category] = groupByComposer[category] ?? 0;
                 groupByComposer[category]++
             })
 
             return groupByComposer
-
         },
 
-        filteredSongs() {
+        filteredComposerSongs() {
             const searches = this.search.toLowerCase().split(' ');
 
             return this.flatComposerSongs.filter(song => {
@@ -211,9 +213,15 @@ export default {
             await this.buildSongListFromFile('modland', this.modland_enabled_formats)
         }
 
-        this.local_enabled_formats.forEach(async format => {
+        for (const format of this.local_enabled_formats) {
             await this.buildSongListFromFile(format, [format])
-        });
+        };
+
+        // sort the list by author
+        this.flatSongs.sort(function(a, b) {
+            return a.split('/')[1] < b.split('/')[1] ? -1 : 1
+        })
+
 
         // Set Hooks
         const self = this
@@ -472,7 +480,8 @@ export default {
                 if (oldMusicPath == this.musicPath && oldPlayerTrack != this.playerTrack) {
                     this.player.setTrack(this.playerTrack)
                 } else {
-                    await this.player.load(this.musicPath, this.playerTrack - 1)
+                    // That's where we acutally load the music
+                    await this.player.load(this.musicPath, {'track': this.playerTrack})
                 }
 
                 if (this.player) this.player.play()
@@ -566,7 +575,7 @@ export default {
             <header class="header">
                 <div class="search">
                     <input name="search" type="text" required placeholder="Search" v-model.lazy="search" />
-                    <i class="material-icons clear-icon" @click.prevent="clearSearch()">clear</i>
+                    <i class="material-icons clear-icon" @click.lazy="clearSearch()">clear</i>
                 </div>
 
                 <div class="user">
@@ -577,7 +586,8 @@ export default {
 
             </header>
             <main class="content">
-                <div class="content__left">
+
+                <div class="content__middle">
                     <!-- COMPOSER LIST -->
                     <section class="navigation" id="scrollArea">
 
@@ -597,7 +607,7 @@ export default {
                     <!-- END COMPOSER LIST -->
                 </div>
 
-                <div class="content__middle">
+                <div class="content__right">
 
                     <!-- SONG LIST -->
                     <div class="artist" ref="artist">
@@ -622,13 +632,13 @@ export default {
                                                     <div class="tracks__heading__number">#</div>
                                                     <div class="tracks__heading__title">Song</div>
                                                 </div>
-                                                <a v-for="(s, index) in filteredSongs" href="#" :key="s" class="track"
-                                                    :class="{ track__selected: s == selectedSong }"
+                                                <a v-for="(s, index) in filteredComposerSongs" href="#" :key="s" class="track"
+                                                    :class="{ track__selected: s == selectedSong && selectedComposer == playerComposer}"
                                                     @click.prevent="onSelectSong(s)"
                                                     @dblclick.prevent="play(selectedComposer + '/' + s, playerTrack, true)"
                                                     @mouseover="hover = s" @mouseleave="hover = null">
 
-                                                    <div v-if="s != selectedSong" class="track__number">
+                                                    <div v-if="s != selectedSong || selectedComposer != playerComposer" class="track__number">
                                                         <span v-if="hover == s">
 
                                                             <a v-if="playing && (s == playerSong)"
@@ -658,7 +668,7 @@ export default {
                                                         </a>
 
                                                     </div>
-                                                    <div :class="{ playing: s == playerSong }" class="track__title">{{
+                                                    <div :class="{ playing: s == playerSong && selectedComposer == playerComposer }" class="track__title">{{
                                                         displaySong(s)
                                                     }}</div>
 
@@ -682,6 +692,7 @@ export default {
                         </div>
                     </div>
                     <!-- END SONG LIST -->
+
 
                     <!-- QUEUE -->
                     <div class="queue" :class="{ 'active': sbActive, 'visible': sbVisible }">

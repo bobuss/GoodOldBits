@@ -1,163 +1,656 @@
-{
-  "505": [
-    "newocta.mod",
-    "resist.mod"
-  ],
-  "- unknown": [
-    "k3.mod",
-    "w a y g2.mod"
-  ],
-  "Adamsky": [
-    "game over.mod"
-  ],
-  "Bagarn": [
-    "superdupertechno.mod"
-  ],
-  "Baggio": [
-    "cheesepierock.mod"
-  ],
-  "Basehead": [
-    "crusader - no remorse - credits.mod",
-    "crusader - no remorse - military.mod",
-    "crusader - no remorse - misc1.mod",
-    "crusader - no remorse - misc2.mod",
-    "crusader - no remorse - misc4.mod",
-    "crusader - no remorse - misc5.mod",
-    "crusader - no remorse - prison.mod",
-    "crusader - no remorse - science.mod",
-    "crusader - no remorse - space v2.0 - extended slight.mod"
-  ],
-  "Connor": [
-    "another new morning.mod"
-  ],
-  "Cube": [
-    "bemehoth steelmill.mod",
-    "jade.mod"
-  ],
-  "D0mm": [
-    "borderland.mod"
-  ],
-  "Energizer": [
-    "descent to ploing.mod",
-    "heavy space.mod"
-  ],
-  "Front 6": [
-    "analyse your soul.mod",
-    "dammed illusion.mod",
-    "fast lightning.mod",
-    "nothing!.mod",
-    "rave impression.mod",
-    "silent dream tape.mod"
-  ],
-  "GT": [
-    "break the beat 2.mod",
-    "sibirian sun.mod"
-  ],
-  "Gregfeel": [
-    "alex fol.mod",
-    "archives.mod",
-    "dmuchawc.mod",
-    "dreamofy.mod",
-    "imisssee.mod",
-    "tachwila.mod"
-  ],
-  "Lot": [
-    "qft goes techno 5.mod"
-  ],
-  "MC Laser": [
-    "be a dj.mod",
-    "chipped ambiance.mod",
-    "cloudworlds of yaga.mod",
-    "das tannhaeuser tor.mod",
-    "elegy.mod",
-    "fading twilight.mod",
-    "men at war (main).mod",
-    "my therapy.mod",
-    "noprom!sesnodemands.mod",
-    "six sievert theme.mod",
-    "sonnensturz.mod",
-    "space pirate! (7ch).mod",
-    "throw the base.mod",
-    "twilite sleep.mod"
-  ],
-  "MSG": [
-    "oh no!not another.mod"
-  ],
-  "Moonshine": [
-    "bending.mod",
-    "castle.mod",
-    "new age.mod"
-  ],
-  "Mr. Future": [
-    "fake.mod",
-    "idna.mod",
-    "skydiver.mod"
-  ],
-  "Necros": [
-    "crusader - no remorse - credits music.mod",
-    "crusader - no remorse - dimension 2012 (remix v2.0).mod",
-    "crusader - no remorse - end game.mod",
-    "crusader - no remorse - rebel base 2.mod",
-    "crusader - no remorse - rebel base.mod",
-    "crusader - no remorse - science station modul.mod"
-  ],
-  "Pegase": [
-    "axel trance-rmx '94.mod",
-    "please register 2.mod",
-    "please register.mod",
-    "primal fight.mod"
-  ],
-  "Perkele": [
-    "panic on dancefloor.mod"
-  ],
-  "Ripguy": [
-    "second part.mod"
-  ],
-  "Scy": [
-    "8er-mod (long).mod",
-    "8er-mod.mod",
-    "ajako.mod",
-    "bass it in.mod",
-    "checkered subgliep.mod",
-    "chewinggun.mod",
-    "cosmic stranger.mod",
-    "disconight.mod",
-    "join my dream.mod",
-    "krumm.mod",
-    "noise.mod",
-    "non-linear antibits.mod",
-    "obnoxious intromusx.mod",
-    "quest for.mod",
-    "rheuma im kopf.mod",
-    "running.mod",
-    "schrumm.mod",
-    "spheres.mod",
-    "starlight.mod",
-    "wintermute.mod",
-    "x-dream.mod"
-  ],
-  "Stax": [
-    "ambient8.mod",
-    "confusion in my b.mod",
-    "fast rave.mod",
-    "follow me to hell.mod",
-    "insignia.mod",
-    "phase1.mod",
-    "return to schnurks.mod",
-    "takeoff8.mod",
-    "trip to bassmembran.mod",
-    "wind of suprex.mod"
-  ],
-  "The Viking": [
-    "bluesy.mod",
-    "fairytal.mod",
-    "homecome.mod",
-    "ic.mod",
-    "kindosad.mod",
-    "modest.mod",
-    "spacechip.mod"
-  ],
-  "Tommy (DE)": [
-    "a-gain remix.mod"
-  ]
-}
+[
+  {
+    "tracker": "Octalyser",
+    "composer": "505",
+    "song": "newocta.mod",
+    "size": "285068"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "505",
+    "song": "resist.mod",
+    "size": "497782"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Adamsky",
+    "song": "game over.mod",
+    "size": "317150"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Bagarn",
+    "song": "superdupertechno.mod",
+    "size": "173468"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Baggio",
+    "song": "cheesepierock.mod",
+    "size": "161856"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Basehead",
+    "song": "crusader - no remorse - credits.mod",
+    "size": "81312"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Basehead",
+    "song": "crusader - no remorse - military.mod",
+    "size": "197578"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Basehead",
+    "song": "crusader - no remorse - misc1.mod",
+    "size": "217800"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Basehead",
+    "song": "crusader - no remorse - misc2.mod",
+    "size": "285406"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Basehead",
+    "song": "crusader - no remorse - misc4.mod",
+    "size": "141012"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Basehead",
+    "song": "crusader - no remorse - misc5.mod",
+    "size": "333976"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Basehead",
+    "song": "crusader - no remorse - prison.mod",
+    "size": "346098"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Basehead",
+    "song": "crusader - no remorse - science.mod",
+    "size": "280864"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Basehead",
+    "song": "crusader - no remorse - space v2.0 - extended slight.mod",
+    "size": "301264"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Connor",
+    "song": "another new morning.mod",
+    "size": "195128"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Cube",
+    "song": "bemehoth steelmill.mod",
+    "size": "550274"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Cube",
+    "song": "jade.mod",
+    "size": "719978"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "D0mm",
+    "song": "borderland.mod",
+    "size": "357864"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Energizer",
+    "song": "descent to ploing.mod",
+    "size": "409532"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Energizer",
+    "song": "heavy space.mod",
+    "size": "386264"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Front 6",
+    "song": "analyse your soul.mod",
+    "size": "214968"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Front 6",
+    "song": "dammed illusion.mod",
+    "size": "332712"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Front 6",
+    "song": "fast lightning.mod",
+    "size": "163396"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Front 6",
+    "song": "nothing!.mod",
+    "size": "359486"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Front 6",
+    "song": "rave impression.mod",
+    "size": "205884"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Front 6",
+    "song": "silent dream tape.mod",
+    "size": "221524"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Gregfeel",
+    "song": "alex fol.mod",
+    "size": "292696"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Gregfeel",
+    "song": "archives.mod",
+    "size": "330838"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Gregfeel",
+    "song": "dmuchawc.mod",
+    "size": "336842"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Gregfeel",
+    "song": "dreamofy.mod",
+    "size": "167098"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Gregfeel",
+    "song": "imisssee.mod",
+    "size": "254314"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Gregfeel",
+    "song": "tachwila.mod",
+    "size": "330678"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "GT",
+    "song": "break the beat 2.mod",
+    "size": "231768"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "GT",
+    "song": "sibirian sun.mod",
+    "size": "276820"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Lot",
+    "song": "qft goes techno 5.mod",
+    "size": "385162"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "MC Laser",
+    "song": "be a dj.mod",
+    "size": "267502"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "MC Laser",
+    "song": "chipped ambiance.mod",
+    "size": "143134"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "MC Laser",
+    "song": "cloudworlds of yaga.mod",
+    "size": "192300"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "MC Laser",
+    "song": "das tannhaeuser tor.mod",
+    "size": "646466"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "MC Laser",
+    "song": "elegy.mod",
+    "size": "417650"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "MC Laser",
+    "song": "fading twilight.mod",
+    "size": "736452"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "MC Laser",
+    "song": "men at war (main).mod",
+    "size": "429478"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "MC Laser",
+    "song": "my therapy.mod",
+    "size": "218298"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "MC Laser",
+    "song": "noprom!sesnodemands.mod",
+    "size": "761168"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "MC Laser",
+    "song": "six sievert theme.mod",
+    "size": "57138"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "MC Laser",
+    "song": "sonnensturz.mod",
+    "size": "763882"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "MC Laser",
+    "song": "space pirate! (7ch).mod",
+    "size": "51414"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "MC Laser",
+    "song": "throw the base.mod",
+    "size": "176830"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "MC Laser",
+    "song": "twilite sleep.mod",
+    "size": "362978"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Moonshine",
+    "song": "bending.mod",
+    "size": "158912"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Moonshine",
+    "song": "castle.mod",
+    "size": "475120"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Moonshine",
+    "song": "new age.mod",
+    "size": "123758"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Mr. Future",
+    "song": "fake.mod",
+    "size": "518512"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Mr. Future",
+    "song": "idna.mod",
+    "size": "299446"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Mr. Future",
+    "song": "skydiver.mod",
+    "size": "300152"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "MSG",
+    "song": "oh no!not another.mod",
+    "size": "143658"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Necros",
+    "song": "crusader - no remorse - credits music.mod",
+    "size": "333752"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Necros",
+    "song": "crusader - no remorse - dimension 2012 (remix v2.0).mod",
+    "size": "367192"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Necros",
+    "song": "crusader - no remorse - end game.mod",
+    "size": "246160"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Necros",
+    "song": "crusader - no remorse - rebel base 2.mod",
+    "size": "236828"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Necros",
+    "song": "crusader - no remorse - rebel base.mod",
+    "size": "225790"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Necros",
+    "song": "crusader - no remorse - science station modul.mod",
+    "size": "170512"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Pegase",
+    "song": "axel trance-rmx '94.mod",
+    "size": "360930"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Pegase",
+    "song": "please register 2.mod",
+    "size": "319944"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Pegase",
+    "song": "please register.mod",
+    "size": "86562"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Pegase",
+    "song": "primal fight.mod",
+    "size": "233382"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Perkele",
+    "song": "panic on dancefloor.mod",
+    "size": "177124"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Ripguy",
+    "song": "second part.mod",
+    "size": "283680"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Scy",
+    "song": "8er-mod (long).mod",
+    "size": "280848"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Scy",
+    "song": "8er-mod.mod",
+    "size": "226308"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Scy",
+    "song": "ajako.mod",
+    "size": "129410"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Scy",
+    "song": "bass it in.mod",
+    "size": "123632"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Scy",
+    "song": "checkered subgliep.mod",
+    "size": "235774"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Scy",
+    "song": "chewinggun.mod",
+    "size": "217280"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Scy",
+    "song": "cosmic stranger.mod",
+    "size": "387052"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Scy",
+    "song": "disconight.mod",
+    "size": "252150"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Scy",
+    "song": "join my dream.mod",
+    "size": "472030"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Scy",
+    "song": "krumm.mod",
+    "size": "221596"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Scy",
+    "song": "noise.mod",
+    "size": "222278"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Scy",
+    "song": "non-linear antibits.mod",
+    "size": "392044"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Scy",
+    "song": "obnoxious intromusx.mod",
+    "size": "146198"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Scy",
+    "song": "quest for.mod",
+    "size": "189582"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Scy",
+    "song": "rheuma im kopf.mod",
+    "size": "81314"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Scy",
+    "song": "running.mod",
+    "size": "112538"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Scy",
+    "song": "schrumm.mod",
+    "size": "144382"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Scy",
+    "song": "spheres.mod",
+    "size": "146446"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Scy",
+    "song": "starlight.mod",
+    "size": "138254"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Scy",
+    "song": "wintermute.mod",
+    "size": "197300"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Scy",
+    "song": "x-dream.mod",
+    "size": "324428"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Stax",
+    "song": "ambient8.mod",
+    "size": "414008"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Stax",
+    "song": "confusion in my b.mod",
+    "size": "277626"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Stax",
+    "song": "fast rave.mod",
+    "size": "305126"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Stax",
+    "song": "follow me to hell.mod",
+    "size": "315890"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Stax",
+    "song": "insignia.mod",
+    "size": "497070"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Stax",
+    "song": "phase1.mod",
+    "size": "642484"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Stax",
+    "song": "return to schnurks.mod",
+    "size": "155200"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Stax",
+    "song": "takeoff8.mod",
+    "size": "405284"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Stax",
+    "song": "trip to bassmembran.mod",
+    "size": "418732"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Stax",
+    "song": "wind of suprex.mod",
+    "size": "295456"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "The Viking",
+    "song": "bluesy.mod",
+    "size": "16948"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "The Viking",
+    "song": "fairytal.mod",
+    "size": "64866"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "The Viking",
+    "song": "homecome.mod",
+    "size": "64866"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "The Viking",
+    "song": "ic.mod",
+    "size": "97316"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "The Viking",
+    "song": "kindosad.mod",
+    "size": "68148"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "The Viking",
+    "song": "modest.mod",
+    "size": "89772"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "The Viking",
+    "song": "spacechip.mod",
+    "size": "38272"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "Tommy (DE)",
+    "song": "a-gain remix.mod",
+    "size": "233744"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "- unknown",
+    "song": "k3.mod",
+    "size": "216892"
+  },
+  {
+    "tracker": "Octalyser",
+    "composer": "- unknown",
+    "song": "w a y g2.mod",
+    "size": "136312"
+  }
+]

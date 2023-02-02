@@ -1,31 +1,68 @@
-{
-  "- unknown": [
-    "synth corn.emod"
-  ],
-  "Blonde Lion": [
-    "whittakerrhapsody.emod"
-  ],
-  "DJ Snag": [
-    "bing-shortshortver.emod",
-    "okx+helikopter.emod"
-  ],
-  "Jail": [
-    "ambient mellow.emod",
-    "spastik.emod"
-  ],
-  "Molotov": [
-    "universal jam.emod"
-  ],
-  "Next": [
-    "mankind.emod"
-  ],
-  "Omen": [
-    "poison.emod"
-  ],
-  "Tex": [
-    "slashintro.emod"
-  ],
-  "Traven": [
-    "jesus main.emod"
-  ]
-}
+[
+  {
+    "tracker": "Quadra Composer",
+    "composer": "Blonde Lion",
+    "song": "whittakerrhapsody.emod",
+    "size": "537920"
+  },
+  {
+    "tracker": "Quadra Composer",
+    "composer": "DJ Snag",
+    "song": "bing-shortshortver.emod",
+    "size": "295396"
+  },
+  {
+    "tracker": "Quadra Composer",
+    "composer": "DJ Snag",
+    "song": "okx+helikopter.emod",
+    "size": "311942"
+  },
+  {
+    "tracker": "Quadra Composer",
+    "composer": "Jail",
+    "song": "ambient mellow.emod",
+    "size": "901564"
+  },
+  {
+    "tracker": "Quadra Composer",
+    "composer": "Jail",
+    "song": "spastik.emod",
+    "size": "196608"
+  },
+  {
+    "tracker": "Quadra Composer",
+    "composer": "Molotov",
+    "song": "universal jam.emod",
+    "size": "524246"
+  },
+  {
+    "tracker": "Quadra Composer",
+    "composer": "Next",
+    "song": "mankind.emod",
+    "size": "243798"
+  },
+  {
+    "tracker": "Quadra Composer",
+    "composer": "Omen",
+    "song": "poison.emod",
+    "size": "1735776"
+  },
+  {
+    "tracker": "Quadra Composer",
+    "composer": "Tex",
+    "song": "slashintro.emod",
+    "size": "110860"
+  },
+  {
+    "tracker": "Quadra Composer",
+    "composer": "Traven",
+    "song": "jesus main.emod",
+    "size": "1074358"
+  },
+  {
+    "tracker": "Quadra Composer",
+    "composer": "- unknown",
+    "song": "synth corn.emod",
+    "size": "39490"
+  }
+]

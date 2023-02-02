@@ -1,8 +1,26 @@
-{
-  "Stan": [
-    "sample1.buz",
-    "sample2.buz",
-    "sample.buz",
-    "terrai (unfinished terrain).buz"
-  ]
-}
+[
+  {
+    "tracker": "Buzzic",
+    "composer": "Stan",
+    "song": "sample1.buz",
+    "size": "44712"
+  },
+  {
+    "tracker": "Buzzic",
+    "composer": "Stan",
+    "song": "sample2.buz",
+    "size": "44712"
+  },
+  {
+    "tracker": "Buzzic",
+    "composer": "Stan",
+    "song": "sample.buz",
+    "size": "45224"
+  },
+  {
+    "tracker": "Buzzic",
+    "composer": "Stan",
+    "song": "terrai (unfinished terrain).buz",
+    "size": "44712"
+  }
+]

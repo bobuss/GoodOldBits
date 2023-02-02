@@ -1,10 +1,26 @@
-{
-  "Mick Chilton": [
-    "p-47thefreedomfighter.snk"
-  ],
-  "Paul Summers": [
-    "everton fc - jingles.snk",
-    "fightingsoccer.snk",
-    "postman pat.snk"
-  ]
-}
+[
+  {
+    "tracker": "Paul Summers",
+    "composer": "Mick Chilton",
+    "song": "p-47thefreedomfighter.snk",
+    "size": "102400"
+  },
+  {
+    "tracker": "Paul Summers",
+    "composer": "Paul Summers",
+    "song": "everton fc - jingles.snk",
+    "size": "87472"
+  },
+  {
+    "tracker": "Paul Summers",
+    "composer": "Paul Summers",
+    "song": "fightingsoccer.snk",
+    "size": "78358"
+  },
+  {
+    "tracker": "Paul Summers",
+    "composer": "Paul Summers",
+    "song": "postman pat.snk",
+    "size": "91260"
+  }
+]

@@ -1,566 +1,2390 @@
-{
-  "- unknown": [
-    "air supply.cus",
-    "awesome.cus",
-    "bastards intro.cus",
-    "batman returns.cus",
-    "battleships.cus",
-    "battlestorm.cus",
-    "bdcol-boot.cus",
-    "bdcol.cus",
-    "blackmonks-ptc.cus",
-    "brataccas.cus",
-    "chained read.cus",
-    "chinese.cus",
-    "crackdown.cus",
-    "crazycars2.cus",
-    "crazycars.cus",
-    "creatures live.cus",
-    "crystal jetsons.cus",
-    "crystal locomotion.cus",
-    "crystaltune.cus",
-    "dancing man.cus",
-    "dark century.cus",
-    "defjam bbsintro.cus",
-    "defjam.cus",
-    "defjam intro.cus",
-    "delta defjam.cus",
-    "destination v.cus",
-    "destroyer.cus",
-    "dicktracy.cus",
-    "doomsday.cus",
-    "drums.cus",
-    "ear 0.cus",
-    "electricity.cus",
-    "elf-intro.cus",
-    "eliminator.cus",
-    "endless piracy.cus",
-    "england championship.cus",
-    "exotic.cus",
-    "f1gp.cus",
-    "fairlight.cus",
-    "fire&forget2.cus",
-    "fire&forget.cus",
-    "firstsamurai.cus",
-    "flyingshark.cus",
-    "formula one grandprix.cus",
-    "frenetic.cus",
-    "frenetic title.cus",
-    "fullmetalplanete.cus",
-    "funnyfunk.cus",
-    "fuzzball-ingame.cus",
-    "galacticconqueror.cus",
-    "genghiskhan.cus",
-    "genozide.cus",
-    "giants.cus",
-    "gluecksrad.cus",
-    "gotcha.cus",
-    "grandprixcircuit 1.cus",
-    "grandprixcircuit 2.cus",
-    "grandprixcircuit 3.cus",
-    "grand prix master.cus",
-    "guldkornekspressen-game.cus",
-    "guldkornekspressen-intro.cus",
-    "hackmag7music.cus",
-    "hammerfist+.cus",
-    "hammerfist.cus",
-    "hamplot.cus",
-    "handsome.cus",
-    "haraldhardtand.cus",
-    "hawkeye.cus",
-    "hell awaits theme.cus",
-    "helterskelter.cus",
-    "hillsfar.cus",
-    "horrorzombiesfromcrypt.cus",
-    "hqc 1986.cus",
-    "hqc 1987.cus",
-    "hqc intro.cus",
-    "hudsonhawk.cus",
-    "idiosyncrasy.cus",
-    "ill-flower.cus",
-    "impossiblemission2.cus",
-    "insects title.cus",
-    "intact.cus",
-    "intro.cus",
-    "jetset.cus",
-    "journey.cus",
-    "karatekid2.cus",
-    "kickup.cus",
-    "knightforce.cus",
-    "lets dance.cus",
-    "letterplayer1.cus",
-    "letterplayer2.cus",
-    "lightforce.cus",
-    "line of fire music.cus",
-    "m-1 tank platoon.cus",
-    "m-1 tank platoon ingame.cus",
-    "markii.cus",
-    "maydaysquad.cus",
-    "metallion music.cus",
-    "midnightresistance.cus",
-    "nebulus.cus",
-    "nemesis.cus",
-    "neverwhere intro.cus",
-    "neverwhere loader.cus",
-    "new age-music.cus",
-    "nigelmansellsgrandprix.cus",
-    "nobunaga's ambition.cus",
-    "obitus-intro.cus",
-    "offshorewarrior.cus",
-    "olio.cus",
-    "onslaught mon.cus",
-    "overlord.cus",
-    "phantasieiii.cus",
-    "pipemania.cus",
-    "pirates!.cus",
-    "protector.cus",
-    "qix.cus",
-    "quartz.cus",
-    "questforgalaxia 1.cus",
-    "questforgalaxia 2.cus",
-    "questron2.cus",
-    "rainbowarts slideshow.cus",
-    "rainbow warriors.cus",
-    "red storm rising.cus",
-    "roadwareuropa.cus",
-    "roadwars.cus",
-    "rody&mastico.cus",
-    "romanceofthe3kingdoms2.cus",
-    "saddamhussein.cus",
-    "sad song.cus",
-    "saint dragon.cus",
-    "sanxion.cus",
-    "scup intro.cus",
-    "sdi.cus",
-    "seasons intro.cus",
-    "severe beat.cus",
-    "severe beat ii.cus",
-    "shades2.cus",
-    "shades.cus",
-    "shorty 1.cus",
-    "shorty 2.cus",
-    "shorty 3.cus",
-    "shorty 4.cus",
-    "shorty 5.cus",
-    "shufflepuck.cus",
-    "simulcra.cus",
-    "skate or die.cus",
-    "skizzo demo 2 end.cus",
-    "skyblaster.cus",
-    "skychase.cus",
-    "soldieroflight.cus",
-    "sound machine.cus",
-    "spaceace demo.cus",
-    "spaceace short demo.cus",
-    "spanishnoon.cus",
-    "speedboatassassin.cus",
-    "sphericule.cus",
-    "stargoose.cus",
-    "stevedavissnooker.cus",
-    "stormlord.cus",
-    "strider.cus",
-    "stryx.cus",
-    "superhangon loader.cus",
-    "superhangon main.cus",
-    "superhuey.cus",
-    "super tetris.cus",
-    "switchblade.cus",
-    "swords of twilight.cus",
-    "tears of sorrow.cus",
-    "temple of apshai trilogy.cus",
-    "the champs.cus",
-    "the human race.cus",
-    "the immortal.cus",
-    "thejunglecommand demo.cus",
-    "the way of little dragon.cus",
-    "thunder blade-jingles.cus",
-    "thunder blade-title.cus",
-    "titan.cus",
-    "tristar.cus",
-    "tristar demo 3.cus",
-    "tristar-stars.cus",
-    "tune.cus",
-    "two faces.cus",
-    "typhoonthompson.cus",
-    "unknowndoslib.cus",
-    "unreal menu and game.cus",
-    "unreal title.cus",
-    "u.n. squadron.cus",
-    "vaxine.cus",
-    "viruskiller v2.0 pro.cus",
-    "vortex42 demo.cus",
-    "warhead intro.cus",
-    "wcf intro.cus",
-    "wingsofdeath-levels1-7.cus",
-    "winnie the pooh.cus",
-    "wizardwarz.cus",
-    "worldgames barrel jumping.cus",
-    "worldgames bull riding.cus",
-    "worldgames caber toss.cus",
-    "worldgames cliff diving.cus",
-    "worldgames log rolling.cus",
-    "worldgames main.cus",
-    "worldgames slalom skiing.cus",
-    "worldgames sumo wrestling.cus",
-    "worldgames title.cus",
-    "worldgames weight lifting.cus",
-    "zanygolf.cus",
-    "zitrax.cus",
-    "zynaps.cus"
-  ],
-  "Andre Bescond": [
-    "g.nius intro.cus",
-    "outzone.cus",
-    "vroom.cus"
-  ],
-  "Ashley Hogg": [
-    "cj in the usa.cus"
-  ],
-  "Barry Leitch": [
-    "lotus2 dux.cus"
-  ],
-  "Ben Daglish": [
-    "action fighter.cus",
-    "pac-mania.cus",
-    "terramex.cus"
-  ],
-  "Bill Williams": [
-    "king of chicago.cus",
-    "knights of the crystallion.cus",
-    "mind walker.cus",
-    "sinbad.cus",
-    "the pioneer plague.cus"
-  ],
-  "Brad Dahl": [
-    "ninja mission.cus"
-  ],
-  "Captain": [
-    "lapsuus.cus"
-  ],
-  "Chris Huelsbeck": [
-    "starball (ingame).cus",
-    "starball (title).cus"
-  ],
-  "Chris Scudds": [
-    "chasehq2.cus",
-    "ciscoheat.cus",
-    "hydra.cus"
-  ],
-  "Christian Webber": [
-    "starbyte intro.cus"
-  ],
-  "Christophe Fevre": [
-    "wildstreets title.cus"
-  ],
-  "Clay Hellman": [
-    "megasquad.cus"
-  ],
-  "Dave Kelly": [
-    "returnofthejedi.cus",
-    "vindicators.cus"
-  ],
-  "Dave Lowe": [
-    "afterburner intro.cus",
-    "bangkok knights intro.cus",
-    "carrier command.cus",
-    "darius-intro.cus",
-    "starglider-intro.cus"
-  ],
-  "Dave Warhol": [
-    "bards tale 2.cus",
-    "bards tale.cus",
-    "fa-18 interceptor.cus",
-    "indianajones3.cus",
-    "neuromancer.cus",
-    "returntoatlantis.cus",
-    "skyfox2.cus",
-    "swordsoftwilight.cus"
-  ],
-  "David Joiner": [
-    "faery tale adventure.cus"
-  ],
-  "Dirk Bialluch": [
-    "timelock ingame.cus",
-    "timelock intro.cus",
-    "timelock title.cus"
-  ],
-  "Fabian Rosenschein": [
-    "pinkpanther.cus"
-  ],
-  "Felix Schmidt": [
-    "gateway ypsilon.cus"
-  ],
-  "Fred Gray": [
-    "black lamp.cus",
-    "eco.cus",
-    "star goose.cus",
-    "victory road.cus"
-  ],
-  "Geoff Phillips": [
-    "spy vs spy - artic antics.cus",
-    "spy vs spy.cus",
-    "spy vs spy - island caper.cus"
-  ],
-  "George Alistair Sanger": [
-    "loom.cus"
-  ],
-  "Gilles Soulet": [
-    "albedo.cus"
-  ],
-  "Hal Canon": [
-    "gauntlet ii.cus"
-  ],
-  "Hans-Hermann Franck": [
-    "limes&napoleon.cus"
-  ],
-  "Helmut Melcher": [
-    "crack.cus"
-  ],
-  "Holger Gehrmann": [
-    "hollywoodpoker-ingame.cus",
-    "hollywoodpoker-title.cus"
-  ],
-  "Holger Graefe": [
-    "coop-Jorg Meenen/drol.cus"
-  ],
-  "Jason Page": [
-    "paradroid90.cus",
-    "realms game.cus",
-    "realms intro.cus"
-  ],
-  "Jeff Rouke": [
-    "crystaldragon chargen.cus",
-    "crystaldragon title.cus"
-  ],
-  "Jeroen Tel": [
-    "agony (ingame 1).cus",
-    "agony (ingame 2).cus",
-    "agony (ingame 3).cus",
-    "agony (ingame 4).cus",
-    "iron lord.cus",
-    "supremacy-game complete.cus",
-    "supremacy-game over.cus",
-    "supremacy-ingame.cus",
-    "supremacy-intro.cus"
-  ],
-  "Jim Cuomo": [
-    "astate.cus",
-    "defender of the crown.cus",
-    "s.d.i.cus"
-  ],
-  "Jim Rankenberg": [
-    "tom and jerry.cus"
-  ],
-  "John Molloy": [
-    "corruption.cus",
-    "fish!.cus",
-    "jinxter.cus",
-    "the pawn.cus"
-  ],
-  "Jonathan Dunn": [
-    "batman the movie-lvl 1.cus",
-    "batman the movie-lvl 2 4.cus",
-    "batman the movie-lvl 3.cus",
-    "batman the movie-lvl 5.cus",
-    "batman the movie-title.cus",
-    "battle command.cus",
-    "navyseals-ingame.cus",
-    "navyseals-title.cus",
-    "robocop2 cheatmode.cus",
-    "robocop2 highscore.cus",
-    "robocop2 missioncomplete.cus",
-    "robocop2 puzzle.cus",
-    "robocop2 shootingrange.cus",
-    "robocop2 soundfx.cus",
-    "robocop2 title.cus"
-  ],
-  "Julian Lefay": [
-    "sword of sodan.cus"
-  ],
-  "K. Christensen": [
-    "rotor bio.cus",
-    "rotor kar.cus",
-    "rotor music.cus",
-    "rotor nap.cus",
-    "rotor sim.cus",
-    "rotor sty.cus"
-  ],
-  "Karsten Obarski": [
-    "dyter07.cus"
-  ],
-  "Kazunaka Yamane": [
-    "doubledragon.cus"
-  ],
-  "Kou Shibusawa": [
-    "banditkingsofancientchina.cus"
-  ],
-  "Lug00ber": [
-    "darkhelmets.cus"
-  ],
-  "Mark II": [
-    "steel-puls-intro.cus"
-  ],
-  "Martin Walker": [
-    "coop-Simon Butler/9lives intro.cus"
-  ],
-  "Michael Winterberg": [
-    "bonecruncher.cus"
-  ],
-  "Mike Marchant": [
-    "pseudo oops.cus"
-  ],
-  "Mr. Avalange": [
-    "an unbidden eye.cus"
-  ],
-  "Nick Vincent": [
-    "motorbike madness.cus",
-    "vectorball.cus"
-  ],
-  "Nick Wilson": [
-    "imperium.cus"
-  ],
-  "Nirto Fischer": [
-    "starray.cus"
-  ],
-  "Nuno": [
-    "devils colors.cus"
-  ],
-  "Olivier Becker": [
-    "cosmicbouncer-hiscore.cus",
-    "cosmicbouncer-ingame.cus",
-    "cosmicbouncer-title.cus"
-  ],
-  "Paul Shields": [
-    "tetraquest.cus"
-  ],
-  "Peter Johnson": [
-    "arkanoid2.cus",
-    "daleythompson's.cus",
-    "robocop.cus",
-    "wizball.cus"
-  ],
-  "Philippe Eidel": [
-    "extase.cus"
-  ],
-  "Playton": [
-    "qbic.cus"
-  ],
-  "Rainman": [
-    "raf megademo loader.cus"
-  ],
-  "Randy Linden": [
-    "coop-David Foster/dragon's lair demo.cus"
-  ],
-  "Razmo": [
-    "henryinpanic.cus"
-  ],
-  "Richard Joseph": [
-    "cadaver.cus",
-    "jamespond2.cus",
-    "jamespond2-ingame1.cus",
-    "jamespond2-ingame2.cus",
-    "jamespond2-ingame3.cus",
-    "jamespond2-ingame4.cus",
-    "jamespond2-title.cus"
-  ],
-  "Rob Hubbard": [
-    "budokan.cus",
-    "indianapolis 500.cus",
-    "populous.cus",
-    "ski or die.cus"
-  ],
-  "Robert Mann": [
-    "joe&mac-cavemanninja.cus"
-  ],
-  "Ron Klaren": [
-    "criticals promotion.cus"
-  ],
-  "Ronald Pieket Weeserik": [
-    "ninja warriors.cus",
-    "rodland.cus"
-  ],
-  "Russ Turner": [
-    "keef the thief.cus"
-  ],
-  "Simon Berry": [
-    "backlash.cus"
-  ],
-  "Simon Phipps": [
-    "rick dangerous+.cus",
-    "rick dangerous.cus"
-  ],
-  "Simon Rogers": [
-    "speedball2.cus"
-  ],
-  "Stavros Fasoulas": [
-    "galactic xmas edition.cus"
-  ],
-  "Stefan Jeworowski": [
-    "sarakon.cus",
-    "spherical.cus"
-  ],
-  "Stephan Wenzler": [
-    "gravity-force.cus"
-  ],
-  "Stephane Picq": [
-    "purple saturn day.cus"
-  ],
-  "Steve Barrett": [
-    "advanced ski sim.cus",
-    "coop-Uncle Tom/double dragon 2.cus"
-  ],
-  "Steve Morgan": [
-    "club&country.cus"
-  ],
-  "Steve Turner": [
-    "rainbow island.cus"
-  ],
-  "Steve Wetherill": [
-    "projectyle.cus"
-  ],
-  "Stuart Taylor": [
-    "jocky wilsons darts chall.cus"
-  ],
-  "Thomas Hermann": [
-    "blue angel 69.cus"
-  ],
-  "Tim Follin": [
-    "bionic commando.cus",
-    "gauntlet iii 0.cus",
-    "gauntlet iii 1.cus",
-    "gauntlet iii 2.cus",
-    "gauntlet iii 3.cus",
-    "gauntlet iii 4.cus",
-    "gauntlet iii 5.cus",
-    "led storm.cus"
-  ],
-  "Tim Wright": [
-    "lemmings.cus"
-  ],
-  "Tony Selinger": [
-    "golden path.cus"
-  ],
-  "Tony Williams": [
-    "chuckyegg1.cus",
-    "pang.cus"
-  ],
-  "Wally Beben": [
-    "aaargh!.cus",
-    "colossus chess x.cus",
-    "elite.cus",
-    "timemach.11.cus",
-    "timemach.22.cus",
-    "winterchallenge biathlon.cus",
-    "winterchallenge bobsled.cus",
-    "winterchallenge downhill.cus",
-    "winterchallenge opening.cus",
-    "winterchallenge skijump.cus",
-    "winterchallenge slalom.cus",
-    "winterolympiad biathlon.cus",
-    "winterolympiad bobsled.cus",
-    "winterolympiad downhill.cus",
-    "winterolympiad opening.cus",
-    "winterolympiad skijump.cus",
-    "winterolympiad slalom.cus"
-  ]
-}
+[
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Andre Bescond",
+    "song": "g.nius intro.cus",
+    "size": "194168"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Andre Bescond",
+    "song": "outzone.cus",
+    "size": "196320"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Andre Bescond",
+    "song": "vroom.cus",
+    "size": "245320"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Ashley Hogg",
+    "song": "cj in the usa.cus",
+    "size": "162112"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Barry Leitch",
+    "song": "lotus2 dux.cus",
+    "size": "1548"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Ben Daglish",
+    "song": "action fighter.cus",
+    "size": "77808"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Ben Daglish",
+    "song": "pac-mania.cus",
+    "size": "105380"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Ben Daglish",
+    "song": "terramex.cus",
+    "size": "8852"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Bill Williams",
+    "song": "king of chicago.cus",
+    "size": "55040"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Bill Williams",
+    "song": "knights of the crystallion.cus",
+    "size": "69192"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Bill Williams",
+    "song": "mind walker.cus",
+    "size": "4124"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Bill Williams",
+    "song": "sinbad.cus",
+    "size": "66144"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Bill Williams",
+    "song": "the pioneer plague.cus",
+    "size": "45008"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Brad Dahl",
+    "song": "ninja mission.cus",
+    "size": "23744"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Captain",
+    "song": "lapsuus.cus",
+    "size": "3161688"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Chris Huelsbeck",
+    "song": "starball (ingame).cus",
+    "size": "106356"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Chris Huelsbeck",
+    "song": "starball (title).cus",
+    "size": "64508"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Chris Scudds",
+    "song": "chasehq2.cus",
+    "size": "63568"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Chris Scudds",
+    "song": "ciscoheat.cus",
+    "size": "47564"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Chris Scudds",
+    "song": "hydra.cus",
+    "size": "61336"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Christian Webber",
+    "song": "starbyte intro.cus",
+    "size": "15928"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Christophe Fevre",
+    "song": "wildstreets title.cus",
+    "size": "269916"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Clay Hellman",
+    "song": "megasquad.cus",
+    "size": "34032"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Dave Kelly",
+    "song": "returnofthejedi.cus",
+    "size": "8680"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Dave Kelly",
+    "song": "vindicators.cus",
+    "size": "120244"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Dave Lowe",
+    "song": "afterburner intro.cus",
+    "size": "437636"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Dave Lowe",
+    "song": "bangkok knights intro.cus",
+    "size": "401164"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Dave Lowe",
+    "song": "carrier command.cus",
+    "size": "415624"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Dave Lowe",
+    "song": "darius-intro.cus",
+    "size": "121572"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Dave Lowe",
+    "song": "starglider-intro.cus",
+    "size": "180528"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Dave Warhol",
+    "song": "bards tale 2.cus",
+    "size": "77004"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Dave Warhol",
+    "song": "bards tale.cus",
+    "size": "76944"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Dave Warhol",
+    "song": "fa-18 interceptor.cus",
+    "size": "205480"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Dave Warhol",
+    "song": "indianajones3.cus",
+    "size": "58752"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Dave Warhol",
+    "song": "neuromancer.cus",
+    "size": "12928"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Dave Warhol",
+    "song": "returntoatlantis.cus",
+    "size": "92384"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Dave Warhol",
+    "song": "skyfox2.cus",
+    "size": "22272"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Dave Warhol",
+    "song": "swordsoftwilight.cus",
+    "size": "55952"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "David Joiner",
+    "song": "faery tale adventure.cus",
+    "size": "11516"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Dirk Bialluch",
+    "song": "timelock ingame.cus",
+    "size": "323160"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Dirk Bialluch",
+    "song": "timelock intro.cus",
+    "size": "49296"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Dirk Bialluch",
+    "song": "timelock title.cus",
+    "size": "331576"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Fabian Rosenschein",
+    "song": "pinkpanther.cus",
+    "size": "51804"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Felix Schmidt",
+    "song": "gateway ypsilon.cus",
+    "size": "17180"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Fred Gray",
+    "song": "black lamp.cus",
+    "size": "5048"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Fred Gray",
+    "song": "eco.cus",
+    "size": "6892"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Fred Gray",
+    "song": "star goose.cus",
+    "size": "12124"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Fred Gray",
+    "song": "victory road.cus",
+    "size": "8648"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Geoff Phillips",
+    "song": "spy vs spy - artic antics.cus",
+    "size": "7116"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Geoff Phillips",
+    "song": "spy vs spy.cus",
+    "size": "5116"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Geoff Phillips",
+    "song": "spy vs spy - island caper.cus",
+    "size": "7172"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "George Alistair Sanger",
+    "song": "loom.cus",
+    "size": "94024"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Gilles Soulet",
+    "song": "albedo.cus",
+    "size": "70872"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Hal Canon",
+    "song": "gauntlet ii.cus",
+    "size": "123924"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Hans-Hermann Franck",
+    "song": "limes&napoleon.cus",
+    "size": "220060"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Helmut Melcher",
+    "song": "crack.cus",
+    "size": "115308"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Holger Gehrmann",
+    "song": "hollywoodpoker-ingame.cus",
+    "size": "87320"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Holger Gehrmann",
+    "song": "hollywoodpoker-title.cus",
+    "size": "101500"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Holger Graefe",
+    "song": "coop-Jorg Meenen/drol.cus",
+    "size": "12064"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jason Page",
+    "song": "paradroid90.cus",
+    "size": "22052"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jason Page",
+    "song": "realms game.cus",
+    "size": "30640"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jason Page",
+    "song": "realms intro.cus",
+    "size": "129160"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jeff Rouke",
+    "song": "crystaldragon chargen.cus",
+    "size": "96248"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jeff Rouke",
+    "song": "crystaldragon title.cus",
+    "size": "193324"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jeroen Tel",
+    "song": "agony (ingame 1).cus",
+    "size": "58528"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jeroen Tel",
+    "song": "agony (ingame 2).cus",
+    "size": "49224"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jeroen Tel",
+    "song": "agony (ingame 3).cus",
+    "size": "53540"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jeroen Tel",
+    "song": "agony (ingame 4).cus",
+    "size": "50720"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jeroen Tel",
+    "song": "iron lord.cus",
+    "size": "19000"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jeroen Tel",
+    "song": "supremacy-game complete.cus",
+    "size": "79856"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jeroen Tel",
+    "song": "supremacy-game over.cus",
+    "size": "79984"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jeroen Tel",
+    "song": "supremacy-ingame.cus",
+    "size": "64992"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jeroen Tel",
+    "song": "supremacy-intro.cus",
+    "size": "60416"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jim Cuomo",
+    "song": "astate.cus",
+    "size": "27740"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jim Cuomo",
+    "song": "defender of the crown.cus",
+    "size": "21484"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jim Cuomo",
+    "song": "s.d.i.cus",
+    "size": "9800"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jim Rankenberg",
+    "song": "tom and jerry.cus",
+    "size": "94408"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "John Molloy",
+    "song": "corruption.cus",
+    "size": "181472"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "John Molloy",
+    "song": "fish!.cus",
+    "size": "127260"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "John Molloy",
+    "song": "jinxter.cus",
+    "size": "75656"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "John Molloy",
+    "song": "the pawn.cus",
+    "size": "87312"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jonathan Dunn",
+    "song": "batman the movie-lvl 1.cus",
+    "size": "70236"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jonathan Dunn",
+    "song": "batman the movie-lvl 2 4.cus",
+    "size": "80360"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jonathan Dunn",
+    "song": "batman the movie-lvl 3.cus",
+    "size": "36600"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jonathan Dunn",
+    "song": "batman the movie-lvl 5.cus",
+    "size": "59084"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jonathan Dunn",
+    "song": "batman the movie-title.cus",
+    "size": "98024"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jonathan Dunn",
+    "song": "battle command.cus",
+    "size": "95616"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jonathan Dunn",
+    "song": "navyseals-ingame.cus",
+    "size": "66636"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jonathan Dunn",
+    "song": "navyseals-title.cus",
+    "size": "90248"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jonathan Dunn",
+    "song": "robocop2 cheatmode.cus",
+    "size": "24920"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jonathan Dunn",
+    "song": "robocop2 highscore.cus",
+    "size": "36700"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jonathan Dunn",
+    "song": "robocop2 missioncomplete.cus",
+    "size": "84200"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jonathan Dunn",
+    "song": "robocop2 puzzle.cus",
+    "size": "46484"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jonathan Dunn",
+    "song": "robocop2 shootingrange.cus",
+    "size": "52428"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jonathan Dunn",
+    "song": "robocop2 soundfx.cus",
+    "size": "63708"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Jonathan Dunn",
+    "song": "robocop2 title.cus",
+    "size": "152676"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Julian Lefay",
+    "song": "sword of sodan.cus",
+    "size": "178304"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Karsten Obarski",
+    "song": "dyter07.cus",
+    "size": "166084"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Kazunaka Yamane",
+    "song": "doubledragon.cus",
+    "size": "263272"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "K. Christensen",
+    "song": "rotor bio.cus",
+    "size": "58316"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "K. Christensen",
+    "song": "rotor kar.cus",
+    "size": "60068"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "K. Christensen",
+    "song": "rotor music.cus",
+    "size": "228200"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "K. Christensen",
+    "song": "rotor nap.cus",
+    "size": "52816"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "K. Christensen",
+    "song": "rotor sim.cus",
+    "size": "64860"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "K. Christensen",
+    "song": "rotor sty.cus",
+    "size": "60960"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Kou Shibusawa",
+    "song": "banditkingsofancientchina.cus",
+    "size": "279672"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Lug00ber",
+    "song": "darkhelmets.cus",
+    "size": "2935520"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Mark II",
+    "song": "steel-puls-intro.cus",
+    "size": "47012"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Martin Walker",
+    "song": "coop-Simon Butler/9lives intro.cus",
+    "size": "271324"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Michael Winterberg",
+    "song": "bonecruncher.cus",
+    "size": "69832"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Mike Marchant",
+    "song": "pseudo oops.cus",
+    "size": "7756"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Mr. Avalange",
+    "song": "an unbidden eye.cus",
+    "size": "173576"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Nick Vincent",
+    "song": "motorbike madness.cus",
+    "size": "58060"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Nick Vincent",
+    "song": "vectorball.cus",
+    "size": "59884"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Nick Wilson",
+    "song": "imperium.cus",
+    "size": "79288"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Nirto Fischer",
+    "song": "starray.cus",
+    "size": "331536"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Nuno",
+    "song": "devils colors.cus",
+    "size": "242172"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Olivier Becker",
+    "song": "cosmicbouncer-hiscore.cus",
+    "size": "110952"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Olivier Becker",
+    "song": "cosmicbouncer-ingame.cus",
+    "size": "83172"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Olivier Becker",
+    "song": "cosmicbouncer-title.cus",
+    "size": "136632"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Paul Shields",
+    "song": "tetraquest.cus",
+    "size": "14648"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Peter Johnson",
+    "song": "arkanoid2.cus",
+    "size": "20632"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Peter Johnson",
+    "song": "daleythompson's.cus",
+    "size": "45848"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Peter Johnson",
+    "song": "robocop.cus",
+    "size": "62568"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Peter Johnson",
+    "song": "wizball.cus",
+    "size": "29844"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Philippe Eidel",
+    "song": "extase.cus",
+    "size": "146356"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Playton",
+    "song": "qbic.cus",
+    "size": "55208"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Rainman",
+    "song": "raf megademo loader.cus",
+    "size": "8664"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Randy Linden",
+    "song": "coop-David Foster/dragon's lair demo.cus",
+    "size": "206004"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Razmo",
+    "song": "henryinpanic.cus",
+    "size": "147920"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Richard Joseph",
+    "song": "cadaver.cus",
+    "size": "271024"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Richard Joseph",
+    "song": "jamespond2.cus",
+    "size": "122856"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Richard Joseph",
+    "song": "jamespond2-ingame1.cus",
+    "size": "47240"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Richard Joseph",
+    "song": "jamespond2-ingame2.cus",
+    "size": "47240"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Richard Joseph",
+    "song": "jamespond2-ingame3.cus",
+    "size": "47240"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Richard Joseph",
+    "song": "jamespond2-ingame4.cus",
+    "size": "47240"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Richard Joseph",
+    "song": "jamespond2-title.cus",
+    "size": "46108"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Robert Mann",
+    "song": "joe&mac-cavemanninja.cus",
+    "size": "206016"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Rob Hubbard",
+    "song": "budokan.cus",
+    "size": "101508"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Rob Hubbard",
+    "song": "indianapolis 500.cus",
+    "size": "36868"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Rob Hubbard",
+    "song": "populous.cus",
+    "size": "119068"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Rob Hubbard",
+    "song": "ski or die.cus",
+    "size": "180372"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Ronald Pieket Weeserik",
+    "song": "ninja warriors.cus",
+    "size": "156300"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Ronald Pieket Weeserik",
+    "song": "rodland.cus",
+    "size": "64248"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Ron Klaren",
+    "song": "criticals promotion.cus",
+    "size": "45252"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Russ Turner",
+    "song": "keef the thief.cus",
+    "size": "89420"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Simon Berry",
+    "song": "backlash.cus",
+    "size": "4892"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Simon Phipps",
+    "song": "rick dangerous+.cus",
+    "size": "103816"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Simon Phipps",
+    "song": "rick dangerous.cus",
+    "size": "31964"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Simon Rogers",
+    "song": "speedball2.cus",
+    "size": "192244"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Stavros Fasoulas",
+    "song": "galactic xmas edition.cus",
+    "size": "110752"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Stefan Jeworowski",
+    "song": "sarakon.cus",
+    "size": "20852"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Stefan Jeworowski",
+    "song": "spherical.cus",
+    "size": "40348"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Stephane Picq",
+    "song": "purple saturn day.cus",
+    "size": "138312"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Stephan Wenzler",
+    "song": "gravity-force.cus",
+    "size": "65008"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Steve Barrett",
+    "song": "advanced ski sim.cus",
+    "size": "72516"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Steve Barrett",
+    "song": "coop-Uncle Tom/double dragon 2.cus",
+    "size": "4608"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Steve Morgan",
+    "song": "club&country.cus",
+    "size": "139964"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Steve Turner",
+    "song": "rainbow island.cus",
+    "size": "11596"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Steve Wetherill",
+    "song": "projectyle.cus",
+    "size": "170976"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Stuart Taylor",
+    "song": "jocky wilsons darts chall.cus",
+    "size": "49876"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Thomas Hermann",
+    "song": "blue angel 69.cus",
+    "size": "68700"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Tim Follin",
+    "song": "bionic commando.cus",
+    "size": "61048"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Tim Follin",
+    "song": "gauntlet iii 0.cus",
+    "size": "89180"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Tim Follin",
+    "song": "gauntlet iii 1.cus",
+    "size": "33900"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Tim Follin",
+    "song": "gauntlet iii 2.cus",
+    "size": "65780"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Tim Follin",
+    "song": "gauntlet iii 3.cus",
+    "size": "66988"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Tim Follin",
+    "song": "gauntlet iii 4.cus",
+    "size": "66060"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Tim Follin",
+    "song": "gauntlet iii 5.cus",
+    "size": "69532"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Tim Follin",
+    "song": "led storm.cus",
+    "size": "89292"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Tim Wright",
+    "song": "lemmings.cus",
+    "size": "630628"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Tony Selinger",
+    "song": "golden path.cus",
+    "size": "48288"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Tony Williams",
+    "song": "chuckyegg1.cus",
+    "size": "12380"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Tony Williams",
+    "song": "pang.cus",
+    "size": "54408"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "air supply.cus",
+    "size": "205948"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "awesome.cus",
+    "size": "8404"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "bastards intro.cus",
+    "size": "24896"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "batman returns.cus",
+    "size": "88500"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "battleships.cus",
+    "size": "3540"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "battlestorm.cus",
+    "size": "85600"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "bdcol-boot.cus",
+    "size": "36052"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "bdcol.cus",
+    "size": "20544"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "blackmonks-ptc.cus",
+    "size": "98048"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "brataccas.cus",
+    "size": "8028"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "chained read.cus",
+    "size": "99440"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "chinese.cus",
+    "size": "125856"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "crackdown.cus",
+    "size": "55080"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "crazycars2.cus",
+    "size": "87580"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "crazycars.cus",
+    "size": "129808"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "creatures live.cus",
+    "size": "152108"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "crystal jetsons.cus",
+    "size": "14704"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "crystal locomotion.cus",
+    "size": "14104"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "crystaltune.cus",
+    "size": "4508"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "dancing man.cus",
+    "size": "91252"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "dark century.cus",
+    "size": "65712"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "defjam bbsintro.cus",
+    "size": "30300"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "defjam.cus",
+    "size": "17916"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "defjam intro.cus",
+    "size": "32048"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "delta defjam.cus",
+    "size": "2100"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "destination v.cus",
+    "size": "29040"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "destroyer.cus",
+    "size": "15588"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "dicktracy.cus",
+    "size": "55212"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "doomsday.cus",
+    "size": "104608"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "drums.cus",
+    "size": "22600"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "ear 0.cus",
+    "size": "22432"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "electricity.cus",
+    "size": "9044"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "elf-intro.cus",
+    "size": "108444"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "eliminator.cus",
+    "size": "19764"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "endless piracy.cus",
+    "size": "31688"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "england championship.cus",
+    "size": "58168"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "exotic.cus",
+    "size": "9736"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "f1gp.cus",
+    "size": "85052"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "fairlight.cus",
+    "size": "976"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "fire&forget2.cus",
+    "size": "65908"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "fire&forget.cus",
+    "size": "117904"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "firstsamurai.cus",
+    "size": "36360"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "flyingshark.cus",
+    "size": "26060"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "formula one grandprix.cus",
+    "size": "85740"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "frenetic.cus",
+    "size": "71480"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "frenetic title.cus",
+    "size": "59704"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "fullmetalplanete.cus",
+    "size": "223912"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "funnyfunk.cus",
+    "size": "81424"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "fuzzball-ingame.cus",
+    "size": "35364"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "galacticconqueror.cus",
+    "size": "66352"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "genghiskhan.cus",
+    "size": "286744"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "genozide.cus",
+    "size": "44000"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "giants.cus",
+    "size": "5728"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "gluecksrad.cus",
+    "size": "58184"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "gotcha.cus",
+    "size": "15840"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "grandprixcircuit 1.cus",
+    "size": "32336"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "grandprixcircuit 2.cus",
+    "size": "27548"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "grandprixcircuit 3.cus",
+    "size": "27224"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "grand prix master.cus",
+    "size": "164800"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "guldkornekspressen-game.cus",
+    "size": "39184"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "guldkornekspressen-intro.cus",
+    "size": "25640"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "hackmag7music.cus",
+    "size": "1316"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "hammerfist+.cus",
+    "size": "80704"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "hammerfist.cus",
+    "size": "80540"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "hamplot.cus",
+    "size": "20812"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "handsome.cus",
+    "size": "123576"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "haraldhardtand.cus",
+    "size": "183044"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "hawkeye.cus",
+    "size": "52212"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "hell awaits theme.cus",
+    "size": "27644"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "helterskelter.cus",
+    "size": "34504"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "hillsfar.cus",
+    "size": "8948"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "horrorzombiesfromcrypt.cus",
+    "size": "45660"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "hqc 1986.cus",
+    "size": "2004"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "hqc 1987.cus",
+    "size": "2924"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "hqc intro.cus",
+    "size": "28540"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "hudsonhawk.cus",
+    "size": "72420"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "idiosyncrasy.cus",
+    "size": "13912"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "ill-flower.cus",
+    "size": "634264"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "impossiblemission2.cus",
+    "size": "12148"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "insects title.cus",
+    "size": "58964"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "intact.cus",
+    "size": "419412"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "intro.cus",
+    "size": "93424"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "jetset.cus",
+    "size": "5756"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "journey.cus",
+    "size": "9080"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "karatekid2.cus",
+    "size": "4732"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "kickup.cus",
+    "size": "3436"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "knightforce.cus",
+    "size": "107572"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "lets dance.cus",
+    "size": "91964"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "letterplayer1.cus",
+    "size": "3056"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "letterplayer2.cus",
+    "size": "3312"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "lightforce.cus",
+    "size": "32336"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "line of fire music.cus",
+    "size": "60976"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "m-1 tank platoon.cus",
+    "size": "18484"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "m-1 tank platoon ingame.cus",
+    "size": "29484"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "markii.cus",
+    "size": "24892"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "maydaysquad.cus",
+    "size": "76196"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "metallion music.cus",
+    "size": "30736"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "midnightresistance.cus",
+    "size": "63228"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "nebulus.cus",
+    "size": "66392"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "nemesis.cus",
+    "size": "11236"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "neverwhere intro.cus",
+    "size": "6476"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "neverwhere loader.cus",
+    "size": "8416"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "new age-music.cus",
+    "size": "11048"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "nigelmansellsgrandprix.cus",
+    "size": "23744"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "nobunaga's ambition.cus",
+    "size": "144656"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "obitus-intro.cus",
+    "size": "140212"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "offshorewarrior.cus",
+    "size": "369656"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "olio.cus",
+    "size": "11480"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "onslaught mon.cus",
+    "size": "72540"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "overlord.cus",
+    "size": "59004"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "phantasieiii.cus",
+    "size": "7892"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "pipemania.cus",
+    "size": "36656"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "pirates!.cus",
+    "size": "189704"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "protector.cus",
+    "size": "37196"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "qix.cus",
+    "size": "52920"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "quartz.cus",
+    "size": "79628"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "questforgalaxia 1.cus",
+    "size": "17728"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "questforgalaxia 2.cus",
+    "size": "36844"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "questron2.cus",
+    "size": "7476"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "rainbowarts slideshow.cus",
+    "size": "65212"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "rainbow warriors.cus",
+    "size": "67480"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "red storm rising.cus",
+    "size": "106396"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "roadwareuropa.cus",
+    "size": "7828"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "roadwars.cus",
+    "size": "40372"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "rody&mastico.cus",
+    "size": "140068"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "romanceofthe3kingdoms2.cus",
+    "size": "268168"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "saddamhussein.cus",
+    "size": "70956"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "sad song.cus",
+    "size": "159584"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "saint dragon.cus",
+    "size": "45276"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "sanxion.cus",
+    "size": "92448"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "scup intro.cus",
+    "size": "29596"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "sdi.cus",
+    "size": "9776"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "seasons intro.cus",
+    "size": "7108"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "severe beat.cus",
+    "size": "108316"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "severe beat ii.cus",
+    "size": "106912"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "shades2.cus",
+    "size": "9684"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "shades.cus",
+    "size": "6320"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "shorty 1.cus",
+    "size": "2468"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "shorty 2.cus",
+    "size": "2240"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "shorty 3.cus",
+    "size": "2784"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "shorty 4.cus",
+    "size": "2328"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "shorty 5.cus",
+    "size": "2740"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "shufflepuck.cus",
+    "size": "134584"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "simulcra.cus",
+    "size": "42656"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "skate or die.cus",
+    "size": "272120"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "skizzo demo 2 end.cus",
+    "size": "162616"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "skyblaster.cus",
+    "size": "329960"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "skychase.cus",
+    "size": "20396"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "soldieroflight.cus",
+    "size": "48136"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "sound machine.cus",
+    "size": "128952"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "spaceace demo.cus",
+    "size": "165116"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "spaceace short demo.cus",
+    "size": "148736"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "spanishnoon.cus",
+    "size": "82404"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "speedboatassassin.cus",
+    "size": "143152"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "sphericule.cus",
+    "size": "67308"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "stargoose.cus",
+    "size": "8672"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "stevedavissnooker.cus",
+    "size": "256904"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "stormlord.cus",
+    "size": "147800"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "strider.cus",
+    "size": "89664"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "stryx.cus",
+    "size": "219724"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "superhangon loader.cus",
+    "size": "53976"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "superhangon main.cus",
+    "size": "49468"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "superhuey.cus",
+    "size": "191948"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "super tetris.cus",
+    "size": "121668"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "switchblade.cus",
+    "size": "34024"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "swords of twilight.cus",
+    "size": "57676"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "tears of sorrow.cus",
+    "size": "83560"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "temple of apshai trilogy.cus",
+    "size": "7860"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "the champs.cus",
+    "size": "66500"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "the human race.cus",
+    "size": "19216"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "the immortal.cus",
+    "size": "109780"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "thejunglecommand demo.cus",
+    "size": "77300"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "the way of little dragon.cus",
+    "size": "95368"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "thunder blade-jingles.cus",
+    "size": "74160"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "thunder blade-title.cus",
+    "size": "255240"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "titan.cus",
+    "size": "186768"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "tristar.cus",
+    "size": "81424"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "tristar demo 3.cus",
+    "size": "79540"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "tristar-stars.cus",
+    "size": "122196"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "tune.cus",
+    "size": "19608"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "two faces.cus",
+    "size": "164280"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "typhoonthompson.cus",
+    "size": "10764"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "unknowndoslib.cus",
+    "size": "3468"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "unreal menu and game.cus",
+    "size": "115228"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "unreal title.cus",
+    "size": "216308"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "u.n. squadron.cus",
+    "size": "68776"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "vaxine.cus",
+    "size": "110516"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "viruskiller v2.0 pro.cus",
+    "size": "38776"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "vortex42 demo.cus",
+    "size": "51560"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "warhead intro.cus",
+    "size": "283164"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "wcf intro.cus",
+    "size": "89236"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "wingsofdeath-levels1-7.cus",
+    "size": "131912"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "winnie the pooh.cus",
+    "size": "2856"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "wizardwarz.cus",
+    "size": "3872"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "worldgames barrel jumping.cus",
+    "size": "5384"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "worldgames bull riding.cus",
+    "size": "5456"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "worldgames caber toss.cus",
+    "size": "5380"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "worldgames cliff diving.cus",
+    "size": "5760"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "worldgames log rolling.cus",
+    "size": "5004"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "worldgames main.cus",
+    "size": "8748"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "worldgames slalom skiing.cus",
+    "size": "5140"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "worldgames sumo wrestling.cus",
+    "size": "5008"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "worldgames title.cus",
+    "size": "5172"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "worldgames weight lifting.cus",
+    "size": "5560"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "zanygolf.cus",
+    "size": "92644"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "zitrax.cus",
+    "size": "40600"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "- unknown",
+    "song": "zynaps.cus",
+    "size": "87896"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Wally Beben",
+    "song": "aaargh!.cus",
+    "size": "51448"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Wally Beben",
+    "song": "colossus chess x.cus",
+    "size": "16296"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Wally Beben",
+    "song": "elite.cus",
+    "size": "67192"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Wally Beben",
+    "song": "timemach.11.cus",
+    "size": "48052"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Wally Beben",
+    "song": "timemach.22.cus",
+    "size": "62720"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Wally Beben",
+    "song": "winterchallenge biathlon.cus",
+    "size": "14640"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Wally Beben",
+    "song": "winterchallenge bobsled.cus",
+    "size": "14540"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Wally Beben",
+    "song": "winterchallenge downhill.cus",
+    "size": "14692"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Wally Beben",
+    "song": "winterchallenge opening.cus",
+    "size": "15552"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Wally Beben",
+    "song": "winterchallenge skijump.cus",
+    "size": "15020"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Wally Beben",
+    "song": "winterchallenge slalom.cus",
+    "size": "14640"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Wally Beben",
+    "song": "winterolympiad biathlon.cus",
+    "size": "4096"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Wally Beben",
+    "song": "winterolympiad bobsled.cus",
+    "size": "4160"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Wally Beben",
+    "song": "winterolympiad downhill.cus",
+    "size": "3996"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Wally Beben",
+    "song": "winterolympiad opening.cus",
+    "size": "4836"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Wally Beben",
+    "song": "winterolympiad skijump.cus",
+    "size": "5020"
+  },
+  {
+    "tracker": "Delitracker Custom",
+    "composer": "Wally Beben",
+    "song": "winterolympiad slalom.cus",
+    "size": "4332"
+  }
+]

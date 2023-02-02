@@ -1,14 +1,62 @@
-{
-  "Sean Connolly": [
-    "a sporting chance.ems",
-    "galaxy man.ems",
-    "perception.ems",
-    "perception test(amiga).ems",
-    "robocop3.ems",
-    "softsynthtest.ems",
-    "stormlord.ems",
-    "stormlord-synth.ems",
-    "synthtest.ems",
-    "tropical islands.ems"
-  ]
-}
+[
+  {
+    "tracker": "Electronic Music System v6",
+    "composer": "Sean Connolly",
+    "song": "a sporting chance.ems",
+    "size": "220292"
+  },
+  {
+    "tracker": "Electronic Music System v6",
+    "composer": "Sean Connolly",
+    "song": "galaxy man.ems",
+    "size": "4982"
+  },
+  {
+    "tracker": "Electronic Music System v6",
+    "composer": "Sean Connolly",
+    "song": "perception.ems",
+    "size": "4094"
+  },
+  {
+    "tracker": "Electronic Music System v6",
+    "composer": "Sean Connolly",
+    "song": "perception test(amiga).ems",
+    "size": "146442"
+  },
+  {
+    "tracker": "Electronic Music System v6",
+    "composer": "Sean Connolly",
+    "song": "robocop3.ems",
+    "size": "7200"
+  },
+  {
+    "tracker": "Electronic Music System v6",
+    "composer": "Sean Connolly",
+    "song": "softsynthtest.ems",
+    "size": "2474"
+  },
+  {
+    "tracker": "Electronic Music System v6",
+    "composer": "Sean Connolly",
+    "song": "stormlord.ems",
+    "size": "198876"
+  },
+  {
+    "tracker": "Electronic Music System v6",
+    "composer": "Sean Connolly",
+    "song": "stormlord-synth.ems",
+    "size": "7336"
+  },
+  {
+    "tracker": "Electronic Music System v6",
+    "composer": "Sean Connolly",
+    "song": "synthtest.ems",
+    "size": "41680"
+  },
+  {
+    "tracker": "Electronic Music System v6",
+    "composer": "Sean Connolly",
+    "song": "tropical islands.ems",
+    "size": "90490"
+  }
+]

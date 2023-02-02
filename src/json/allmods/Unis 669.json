@@ -1,8 +1,14 @@
-{
-  "Jase": [
-    "4jsno.669"
-  ],
-  "JsNO": [
-    "remix-1.2.669"
-  ]
-}
+[
+  {
+    "tracker": "Unis 669",
+    "composer": "Jase",
+    "song": "4jsno.669",
+    "size": "185494"
+  },
+  {
+    "tracker": "Unis 669",
+    "composer": "JsNO",
+    "song": "remix-1.2.669",
+    "size": "128077"
+  }
+]

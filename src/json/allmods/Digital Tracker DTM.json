@@ -1,176 +1,686 @@
-{
-  "505": [
-    "coop-Goldy/i think.dtm",
-    "survive.dtm"
-  ],
-  "Adamsky": [
-    "1 2 3.dtm",
-    "call me.dtm",
-    "game over.dtm",
-    "imagine.dtm",
-    "moonlight shadow.dtm",
-    "nic.dtm",
-    "nigdy wiecej.dtm",
-    "no exit.dtm",
-    "real dreams.dtm",
-    "show me.dtm"
-  ],
-  "Bitmaps": [
-    "five changes.dtm",
-    "no happy end !!!!!!.dtm"
-  ],
-  "Bloody Herman": [
-    "sad song.dtm"
-  ],
-  "Bummtschak": [
-    "maintenant ma vie s'vers.dtm"
-  ],
-  "Cedyn": [
-    "black domina.dtm",
-    "ready to be free.dtm",
-    "world of chips #2.dtm",
-    "world of chips.dtm"
-  ],
-  "Chaos": [
-    "by blubber-tech.dtm",
-    "q.s.z.b.dtm"
-  ],
-  "Cool Coyote": [
-    "maf x cool coyote.dtm"
-  ],
-  "D-Force": [
-    "big assssssssssssss.dtm",
-    "blast your brain out.dtm",
-    "c4 explosive.dtm",
-    "explorer.dtm",
-    "houssing.dtm",
-    "litex.dtm",
-    "looking f t stars.dtm",
-    "megashift.dtm",
-    "no way !.dtm",
-    "phans.dtm",
-    "project x.dtm",
-    "tjip.dtm",
-    "tox.dtm",
-    "zanek.dtm"
-  ],
-  "Djamm": [
-    "- music concept -.dtm"
-  ],
-  "Duffy": [
-    "stop me now.dtm"
-  ],
-  "FXL": [
-    "ain't got no name.dtm",
-    "error.dtm",
-    "i'm back (in scene).dtm",
-    "just for the taste.dtm",
-    "winter walkabout.dtm"
-  ],
-  "Gozer": [
-    "meltech2.dtm"
-  ],
-  "Jason Brotherton": [
-    "the ballad of noman.dtm"
-  ],
-  "Joe Cool": [
-    "die milch ist boese!.dtm",
-    "ska!.dtm",
-    "studie ohne namen.dtm",
-    "wonderful world.dtm"
-  ],
-  "Juri": [
-    "acd.dtm",
-    "hardcore.dtm",
-    "housecore.dtm",
-    "jungle.dtm",
-    "lehmann.dtm",
-    "love.mod.dtm",
-    "panic.dtm",
-    "piano 3.dtm",
-    "test.dtm",
-    "thought in base 2.dtm",
-    "unknown title 1.dtm",
-    "unknown title 2.dtm",
-    "unknown title 3.dtm",
-    "unknown title 4.dtm"
-  ],
-  "Lot": [
-    "1999.dtm",
-    "5th-2.dtm",
-    "5th.dtm",
-    "9th.dtm",
-    "baer.dtm",
-    "bass.dtm",
-    "blessed be thy life.dtm",
-    "future catastrophes a.dtm",
-    "future catastrophes c.dtm",
-    "future catastrophes d.dtm",
-    "future catastrophes e.dtm",
-    "future catastrophes f.dtm",
-    "glory of the kings.dtm",
-    "leadotertoo.dtm",
-    "my princess died.dtm",
-    "schlumpfeisblau.dtm",
-    "teelback.dtm",
-    "the 5th proposal.dtm"
-  ],
-  "MC Jee": [
-    "back to the reality.dtm",
-    "delirium.dtm",
-    "digital 030 here !!.dtm",
-    "harrier (space).dtm",
-    "hotmod.dtm",
-    "nicolas nicemod.dtm",
-    "revolution to come.dtm",
-    "simple.dtm"
-  ],
-  "Marcer": [
-    "rambo - lamer.dtm",
-    "remeber 80's.dtm"
-  ],
-  "Mercure": [
-    "desertica.dtm"
-  ],
-  "Mifsud": [
-    "juillet - aout 1997.dtm"
-  ],
-  "Moldenhr": [
-    "the work ii.dtm"
-  ],
-  "Radium": [
-    "interactive funk.dtm"
-  ],
-  "Scy": [
-    "x-dream.dtm"
-  ],
-  "Sgt. Slayer": [
-    "a l'aube du m.d.s 2.dtm",
-    "atrocity.dtm"
-  ],
-  "Split": [
-    "the silent story.dtm"
-  ],
-  "Stax": [
-    "sonic subspace.dtm"
-  ],
-  "Tyan": [
-    "fruchtix 1997.dtm"
-  ],
-  "Xtream": [
-    "city hunter.dtm",
-    "dreamland.dtm",
-    "feeling on.dtm",
-    "gameover.dtm",
-    "intro.dtm",
-    "noel.dtm",
-    "real 2 real.dtm",
-    "rick.dtm",
-    "tetris.dtm",
-    "warp.dtm"
-  ],
-  "Zarmi": [
-    "unknown title 1.dtm",
-    "unknown title 2.dtm"
-  ]
-}
+[
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "505",
+    "song": "coop-Goldy/i think.dtm",
+    "size": "180505"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "505",
+    "song": "survive.dtm",
+    "size": "410672"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Adamsky",
+    "song": "1 2 3.dtm",
+    "size": "151888"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Adamsky",
+    "song": "call me.dtm",
+    "size": "116343"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Adamsky",
+    "song": "game over.dtm",
+    "size": "308652"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Adamsky",
+    "song": "imagine.dtm",
+    "size": "76125"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Adamsky",
+    "song": "moonlight shadow.dtm",
+    "size": "132036"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Adamsky",
+    "song": "nic.dtm",
+    "size": "171542"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Adamsky",
+    "song": "nigdy wiecej.dtm",
+    "size": "138606"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Adamsky",
+    "song": "no exit.dtm",
+    "size": "377129"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Adamsky",
+    "song": "real dreams.dtm",
+    "size": "128065"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Adamsky",
+    "song": "show me.dtm",
+    "size": "175900"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Bitmaps",
+    "song": "five changes.dtm",
+    "size": "893675"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Bitmaps",
+    "song": "no happy end !!!!!!.dtm",
+    "size": "841691"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Bloody Herman",
+    "song": "sad song.dtm",
+    "size": "149156"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Bummtschak",
+    "song": "maintenant ma vie s'vers.dtm",
+    "size": "2295371"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Cedyn",
+    "song": "black domina.dtm",
+    "size": "448090"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Cedyn",
+    "song": "ready to be free.dtm",
+    "size": "1010970"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Cedyn",
+    "song": "world of chips #2.dtm",
+    "size": "18527"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Cedyn",
+    "song": "world of chips.dtm",
+    "size": "18185"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Chaos",
+    "song": "by blubber-tech.dtm",
+    "size": "223298"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Chaos",
+    "song": "q.s.z.b.dtm",
+    "size": "199330"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Cool Coyote",
+    "song": "maf x cool coyote.dtm",
+    "size": "284620"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "D-Force",
+    "song": "big assssssssssssss.dtm",
+    "size": "444503"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "D-Force",
+    "song": "blast your brain out.dtm",
+    "size": "512084"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "D-Force",
+    "song": "c4 explosive.dtm",
+    "size": "736179"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "D-Force",
+    "song": "explorer.dtm",
+    "size": "151898"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "D-Force",
+    "song": "houssing.dtm",
+    "size": "362457"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "D-Force",
+    "song": "litex.dtm",
+    "size": "351899"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "D-Force",
+    "song": "looking f t stars.dtm",
+    "size": "259542"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "D-Force",
+    "song": "megashift.dtm",
+    "size": "747653"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "D-Force",
+    "song": "no way !.dtm",
+    "size": "201801"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "D-Force",
+    "song": "phans.dtm",
+    "size": "430207"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "D-Force",
+    "song": "project x.dtm",
+    "size": "203998"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "D-Force",
+    "song": "tjip.dtm",
+    "size": "190180"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "D-Force",
+    "song": "tox.dtm",
+    "size": "279667"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "D-Force",
+    "song": "zanek.dtm",
+    "size": "355931"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Djamm",
+    "song": "- music concept -.dtm",
+    "size": "287242"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Duffy",
+    "song": "stop me now.dtm",
+    "size": "853018"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "FXL",
+    "song": "ain't got no name.dtm",
+    "size": "2229876"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "FXL",
+    "song": "error.dtm",
+    "size": "2487786"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "FXL",
+    "song": "i'm back (in scene).dtm",
+    "size": "2183940"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "FXL",
+    "song": "just for the taste.dtm",
+    "size": "1232662"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "FXL",
+    "song": "winter walkabout.dtm",
+    "size": "2255240"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Gozer",
+    "song": "meltech2.dtm",
+    "size": "225964"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Jason Brotherton",
+    "song": "the ballad of noman.dtm",
+    "size": "396984"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Joe Cool",
+    "song": "die milch ist boese!.dtm",
+    "size": "1136766"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Joe Cool",
+    "song": "ska!.dtm",
+    "size": "1414867"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Joe Cool",
+    "song": "studie ohne namen.dtm",
+    "size": "713287"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Joe Cool",
+    "song": "wonderful world.dtm",
+    "size": "1437297"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Juri",
+    "song": "acd.dtm",
+    "size": "386779"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Juri",
+    "song": "hardcore.dtm",
+    "size": "281038"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Juri",
+    "song": "housecore.dtm",
+    "size": "318568"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Juri",
+    "song": "jungle.dtm",
+    "size": "526806"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Juri",
+    "song": "lehmann.dtm",
+    "size": "173457"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Juri",
+    "song": "love.mod.dtm",
+    "size": "780636"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Juri",
+    "song": "panic.dtm",
+    "size": "208442"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Juri",
+    "song": "piano 3.dtm",
+    "size": "194543"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Juri",
+    "song": "test.dtm",
+    "size": "52410"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Juri",
+    "song": "thought in base 2.dtm",
+    "size": "667991"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Juri",
+    "song": "unknown title 1.dtm",
+    "size": "478021"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Juri",
+    "song": "unknown title 2.dtm",
+    "size": "213414"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Juri",
+    "song": "unknown title 3.dtm",
+    "size": "198779"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Juri",
+    "song": "unknown title 4.dtm",
+    "size": "142897"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Lot",
+    "song": "1999.dtm",
+    "size": "413172"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Lot",
+    "song": "5th-2.dtm",
+    "size": "1218747"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Lot",
+    "song": "5th.dtm",
+    "size": "1165063"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Lot",
+    "song": "9th.dtm",
+    "size": "1661655"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Lot",
+    "song": "baer.dtm",
+    "size": "772744"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Lot",
+    "song": "bass.dtm",
+    "size": "1368824"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Lot",
+    "song": "blessed be thy life.dtm",
+    "size": "2029876"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Lot",
+    "song": "future catastrophes a.dtm",
+    "size": "474886"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Lot",
+    "song": "future catastrophes c.dtm",
+    "size": "1940556"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Lot",
+    "song": "future catastrophes d.dtm",
+    "size": "1140774"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Lot",
+    "song": "future catastrophes e.dtm",
+    "size": "1321062"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Lot",
+    "song": "future catastrophes f.dtm",
+    "size": "580922"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Lot",
+    "song": "glory of the kings.dtm",
+    "size": "1215016"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Lot",
+    "song": "leadotertoo.dtm",
+    "size": "1163968"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Lot",
+    "song": "my princess died.dtm",
+    "size": "359632"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Lot",
+    "song": "schlumpfeisblau.dtm",
+    "size": "1254931"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Lot",
+    "song": "teelback.dtm",
+    "size": "1458473"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Lot",
+    "song": "the 5th proposal.dtm",
+    "size": "1535062"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Marcer",
+    "song": "rambo - lamer.dtm",
+    "size": "67116"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Marcer",
+    "song": "remeber 80's.dtm",
+    "size": "389578"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "MC Jee",
+    "song": "back to the reality.dtm",
+    "size": "193612"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "MC Jee",
+    "song": "delirium.dtm",
+    "size": "200430"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "MC Jee",
+    "song": "digital 030 here !!.dtm",
+    "size": "1063956"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "MC Jee",
+    "song": "harrier (space).dtm",
+    "size": "74158"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "MC Jee",
+    "song": "hotmod.dtm",
+    "size": "107390"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "MC Jee",
+    "song": "nicolas nicemod.dtm",
+    "size": "61472"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "MC Jee",
+    "song": "revolution to come.dtm",
+    "size": "358468"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "MC Jee",
+    "song": "simple.dtm",
+    "size": "223262"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Mercure",
+    "song": "desertica.dtm",
+    "size": "485333"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Mifsud",
+    "song": "juillet - aout 1997.dtm",
+    "size": "133218"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Moldenhr",
+    "song": "the work ii.dtm",
+    "size": "138961"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Radium",
+    "song": "interactive funk.dtm",
+    "size": "268944"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Scy",
+    "song": "x-dream.dtm",
+    "size": "327864"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Sgt. Slayer",
+    "song": "a l'aube du m.d.s 2.dtm",
+    "size": "219490"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Sgt. Slayer",
+    "song": "atrocity.dtm",
+    "size": "554194"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Split",
+    "song": "the silent story.dtm",
+    "size": "361965"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Stax",
+    "song": "sonic subspace.dtm",
+    "size": "774155"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Tyan",
+    "song": "fruchtix 1997.dtm",
+    "size": "525436"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Xtream",
+    "song": "city hunter.dtm",
+    "size": "260952"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Xtream",
+    "song": "dreamland.dtm",
+    "size": "103462"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Xtream",
+    "song": "feeling on.dtm",
+    "size": "354763"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Xtream",
+    "song": "gameover.dtm",
+    "size": "330171"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Xtream",
+    "song": "intro.dtm",
+    "size": "128490"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Xtream",
+    "song": "noel.dtm",
+    "size": "279926"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Xtream",
+    "song": "real 2 real.dtm",
+    "size": "340363"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Xtream",
+    "song": "rick.dtm",
+    "size": "72016"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Xtream",
+    "song": "tetris.dtm",
+    "size": "14569"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Xtream",
+    "song": "warp.dtm",
+    "size": "284689"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Zarmi",
+    "song": "unknown title 1.dtm",
+    "size": "325437"
+  },
+  {
+    "tracker": "Digital Tracker DTM",
+    "composer": "Zarmi",
+    "song": "unknown title 2.dtm",
+    "size": "135439"
+  }
+]

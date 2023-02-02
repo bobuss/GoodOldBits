@@ -1,18 +1,86 @@
-{
-  "Jochen Hippel": [
-    "airballtest.sog",
-    "astaroth.sog",
-    "atomino ongame.sog",
-    "chambers of shaolin remix.sog",
-    "comic bakery.sog",
-    "cuddlymusic.sog",
-    "demo music10.sog",
-    "demo music9.sog",
-    "endmus j.sog",
-    "fifth gear.sog",
-    "jambala ongame.sog",
-    "lsx mai2.sog",
-    "starballs.sog",
-    "storm6.sog"
-  ]
-}
+[
+  {
+    "tracker": "Hippel ST",
+    "composer": "Jochen Hippel",
+    "song": "airballtest.sog",
+    "size": "1908"
+  },
+  {
+    "tracker": "Hippel ST",
+    "composer": "Jochen Hippel",
+    "song": "astaroth.sog",
+    "size": "12960"
+  },
+  {
+    "tracker": "Hippel ST",
+    "composer": "Jochen Hippel",
+    "song": "atomino ongame.sog",
+    "size": "11536"
+  },
+  {
+    "tracker": "Hippel ST",
+    "composer": "Jochen Hippel",
+    "song": "chambers of shaolin remix.sog",
+    "size": "11958"
+  },
+  {
+    "tracker": "Hippel ST",
+    "composer": "Jochen Hippel",
+    "song": "comic bakery.sog",
+    "size": "5176"
+  },
+  {
+    "tracker": "Hippel ST",
+    "composer": "Jochen Hippel",
+    "song": "cuddlymusic.sog",
+    "size": "7468"
+  },
+  {
+    "tracker": "Hippel ST",
+    "composer": "Jochen Hippel",
+    "song": "demo music10.sog",
+    "size": "4832"
+  },
+  {
+    "tracker": "Hippel ST",
+    "composer": "Jochen Hippel",
+    "song": "demo music9.sog",
+    "size": "5856"
+  },
+  {
+    "tracker": "Hippel ST",
+    "composer": "Jochen Hippel",
+    "song": "endmus j.sog",
+    "size": "4782"
+  },
+  {
+    "tracker": "Hippel ST",
+    "composer": "Jochen Hippel",
+    "song": "fifth gear.sog",
+    "size": "11026"
+  },
+  {
+    "tracker": "Hippel ST",
+    "composer": "Jochen Hippel",
+    "song": "jambala ongame.sog",
+    "size": "21176"
+  },
+  {
+    "tracker": "Hippel ST",
+    "composer": "Jochen Hippel",
+    "song": "lsx mai2.sog",
+    "size": "11226"
+  },
+  {
+    "tracker": "Hippel ST",
+    "composer": "Jochen Hippel",
+    "song": "starballs.sog",
+    "size": "5292"
+  },
+  {
+    "tracker": "Hippel ST",
+    "composer": "Jochen Hippel",
+    "song": "storm6.sog",
+    "size": "23372"
+  }
+]

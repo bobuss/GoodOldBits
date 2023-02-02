@@ -1,171 +1,524 @@
-{
-  "- unknown": [
-    "passage.ult",
-    "shakinna.ult",
-    "sparkles.ult"
-  ],
-  "Beavis": [
-    "coop-DiPo/seasons.ult"
-  ],
-  "Bill Norris": [
-    "abrasion.ult",
-    "cyberspak.ult",
-    "the sifter.ult"
-  ],
-  "Brad D. Oldham": [
-    "back in business.ult"
-  ],
-  "Carl": [
-    "beautiful sadness.ult"
-  ],
-  "Cyber": [
-    "metal reality.ult"
-  ],
-  "Cyboman": [
-    "cyboccultation.ult",
-    "cybomania.ult"
-  ],
-  "Designer": [
-    "solar-dance.ult"
-  ],
-  "Elektro": [
-    "the world beyond.ult"
-  ],
-  "Epsilon (FI)": [
-    "sea of emotions.ult"
-  ],
-  "Esper": [
-    "famine.ult",
-    "further.ult",
-    "nevermore.ult",
-    "new dawn.ult",
-    "orpheus.ult",
-    "sistertwilight.ult"
-  ],
-  "Gery": [
-    "crying stonface.ult"
-  ],
-  "Hacket Tobitts": [
-    "buzzare.ult"
-  ],
-  "Handleless": [
-    ") falling and flying (.ult",
-    "prince of cumberland.ult"
-  ],
-  "JIS": [
-    "they're all against you.ult"
-  ],
-  "JN": [
-    "testing 213.ult"
-  ],
-  "Jesper Petersen": [
-    "the blessing.ult",
-    "tubular bells ii (sentinel).ult"
-  ],
-  "Jinx": [
-    "spherical glide.ult"
-  ],
-  "Kalm": [
-    "random comtabulations kalm.ult"
-  ],
-  "Killer Fish": [
-    "a plethora of twinkies abound!.ult",
-    "attack of the analog sequencer.ult",
-    "canyon flyin' blues.ult",
-    "captain nemo's last stand.ult",
-    "no time!.ult",
-    "the earth's last defender theme.ult",
-    "the lair of the orange machine.ult"
-  ],
-  "Krystall": [
-    "4th dimension.ult",
-    "antarctic winds.ult",
-    "a trip to the forest.ult",
-    "dance of the nations.ult",
-    "every moments.ult",
-    "kool aid.ult",
-    "sunshine (extended version).ult",
-    "sweet rhapsody.ult"
-  ],
-  "LaLa": [
-    "consolidation.ult",
-    "crimewave.ult",
-    "illusions of love.ult",
-    "moments of friendship.ult",
-    "snowflake hymn (parts 1,2 & 3).ult",
-    "the vastness of space.ult"
-  ],
-  "Lionheart": [
-    "also remix.ult",
-    "coop-Rigor Mortis/i know, my friend.ult",
-    "intelligent music.ult",
-    "tears.ult"
-  ],
-  "MC Commander": [
-    "the power of love.ult"
-  ],
-  "Marton Graf": [
-    "napsugar 19.ult"
-  ],
-  "Mental Floss": [
-    "dance of the electric willows.ult",
-    "deep inside - flossed remix.ult",
-    "friction.ult",
-    "i can't stop - ecstasy remix.ult",
-    "orinocco rave - ultra-xtc mix.ult"
-  ],
-  "Mhoram": [
-    "insurgent youth.ult",
-    "intergalactic overdrive.ult",
-    "the final hour.ult"
-  ],
-  "Mikka Salonen": [
-    "sweet,sweet pain.ult"
-  ],
-  "Odysseus": [
-    "coop-Beat/trance mission.ult",
-    "rave-town.ult"
-  ],
-  "Parallax": [
-    "inherent.ult"
-  ],
-  "Rigor Mortis": [
-    "coop-Tomb/running away (instrumental).ult"
-  ],
-  "Robodude": [
-    "tek2.ult"
-  ],
-  "Sami Moilanen": [
-    "nupteen code.ult"
-  ],
-  "Sir Pranz-a-lot": [
-    "sir pranz-a-lot.ult"
-  ],
-  "Stupid": [
-    "dark force.ult"
-  ],
-  "Super Luminal": [
-    "love ya.ult",
-    "rack of lam.ult",
-    "the lowest octave.ult",
-    "whaddya say.ult"
-  ],
-  "Syxx": [
-    "dcult.ult",
-    "earthquake.ult"
-  ],
-  "TDB": [
-    "morphing.ult",
-    "warspace by dtb for -ylysy- 693.ult"
-  ],
-  "THM": [
-    "sbos installed.ult"
-  ],
-  "Trevor Luedee": [
-    "natas's heavy metal maddness.ult"
-  ],
-  "Umgah": [
-    "fight hunting!.ult",
-    "love starts with an l.ult"
-  ]
-}
+[
+  {
+    "tracker": "Ultratracker",
+    "composer": "Beavis",
+    "song": "coop-DiPo/seasons.ult",
+    "size": "879855"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Bill Norris",
+    "song": "abrasion.ult",
+    "size": "687817"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Bill Norris",
+    "song": "cyberspak.ult",
+    "size": "632496"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Bill Norris",
+    "song": "the sifter.ult",
+    "size": "837174"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Brad D. Oldham",
+    "song": "back in business.ult",
+    "size": "240037"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Carl",
+    "song": "beautiful sadness.ult",
+    "size": "808339"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Cyber",
+    "song": "metal reality.ult",
+    "size": "383472"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Cyboman",
+    "song": "cyboccultation.ult",
+    "size": "330962"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Cyboman",
+    "song": "cybomania.ult",
+    "size": "460568"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Designer",
+    "song": "solar-dance.ult",
+    "size": "430813"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Elektro",
+    "song": "the world beyond.ult",
+    "size": "429649"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Epsilon (FI)",
+    "song": "sea of emotions.ult",
+    "size": "154142"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Esper",
+    "song": "famine.ult",
+    "size": "404687"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Esper",
+    "song": "further.ult",
+    "size": "210746"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Esper",
+    "song": "nevermore.ult",
+    "size": "233645"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Esper",
+    "song": "new dawn.ult",
+    "size": "390657"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Esper",
+    "song": "orpheus.ult",
+    "size": "239505"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Esper",
+    "song": "sistertwilight.ult",
+    "size": "211104"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Gery",
+    "song": "crying stonface.ult",
+    "size": "974236"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Hacket Tobitts",
+    "song": "buzzare.ult",
+    "size": "74216"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Handleless",
+    "song": ") falling and flying (.ult",
+    "size": "297221"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Handleless",
+    "song": "prince of cumberland.ult",
+    "size": "281598"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Jesper Petersen",
+    "song": "the blessing.ult",
+    "size": "434011"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Jesper Petersen",
+    "song": "tubular bells ii (sentinel).ult",
+    "size": "390914"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Jinx",
+    "song": "spherical glide.ult",
+    "size": "202364"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "JIS",
+    "song": "they're all against you.ult",
+    "size": "260464"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "JN",
+    "song": "testing 213.ult",
+    "size": "154417"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Kalm",
+    "song": "random comtabulations kalm.ult",
+    "size": "112057"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Killer Fish",
+    "song": "a plethora of twinkies abound!.ult",
+    "size": "46384"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Killer Fish",
+    "song": "attack of the analog sequencer.ult",
+    "size": "81941"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Killer Fish",
+    "song": "canyon flyin' blues.ult",
+    "size": "70936"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Killer Fish",
+    "song": "captain nemo's last stand.ult",
+    "size": "195012"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Killer Fish",
+    "song": "no time!.ult",
+    "size": "44180"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Killer Fish",
+    "song": "the earth's last defender theme.ult",
+    "size": "209966"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Killer Fish",
+    "song": "the lair of the orange machine.ult",
+    "size": "100237"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Krystall",
+    "song": "4th dimension.ult",
+    "size": "138497"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Krystall",
+    "song": "antarctic winds.ult",
+    "size": "44453"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Krystall",
+    "song": "a trip to the forest.ult",
+    "size": "76977"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Krystall",
+    "song": "dance of the nations.ult",
+    "size": "55759"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Krystall",
+    "song": "every moments.ult",
+    "size": "120316"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Krystall",
+    "song": "kool aid.ult",
+    "size": "115278"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Krystall",
+    "song": "sunshine (extended version).ult",
+    "size": "64510"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Krystall",
+    "song": "sweet rhapsody.ult",
+    "size": "133284"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "LaLa",
+    "song": "consolidation.ult",
+    "size": "105623"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "LaLa",
+    "song": "crimewave.ult",
+    "size": "190555"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "LaLa",
+    "song": "illusions of love.ult",
+    "size": "448360"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "LaLa",
+    "song": "moments of friendship.ult",
+    "size": "226639"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "LaLa",
+    "song": "snowflake hymn (parts 1,2 & 3).ult",
+    "size": "594019"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "LaLa",
+    "song": "the vastness of space.ult",
+    "size": "383436"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Lionheart",
+    "song": "also remix.ult",
+    "size": "247391"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Lionheart",
+    "song": "coop-Rigor Mortis/i know, my friend.ult",
+    "size": "83511"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Lionheart",
+    "song": "intelligent music.ult",
+    "size": "209365"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Lionheart",
+    "song": "tears.ult",
+    "size": "261418"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Marton Graf",
+    "song": "napsugar 19.ult",
+    "size": "143337"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "MC Commander",
+    "song": "the power of love.ult",
+    "size": "873660"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Mental Floss",
+    "song": "dance of the electric willows.ult",
+    "size": "262650"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Mental Floss",
+    "song": "deep inside - flossed remix.ult",
+    "size": "436118"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Mental Floss",
+    "song": "friction.ult",
+    "size": "150454"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Mental Floss",
+    "song": "i can't stop - ecstasy remix.ult",
+    "size": "332289"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Mental Floss",
+    "song": "orinocco rave - ultra-xtc mix.ult",
+    "size": "292245"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Mhoram",
+    "song": "insurgent youth.ult",
+    "size": "398836"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Mhoram",
+    "song": "intergalactic overdrive.ult",
+    "size": "147263"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Mhoram",
+    "song": "the final hour.ult",
+    "size": "387860"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Mikka Salonen",
+    "song": "sweet,sweet pain.ult",
+    "size": "490127"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Odysseus",
+    "song": "coop-Beat/trance mission.ult",
+    "size": "229464"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Odysseus",
+    "song": "rave-town.ult",
+    "size": "344712"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Parallax",
+    "song": "inherent.ult",
+    "size": "352380"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Rigor Mortis",
+    "song": "coop-Tomb/running away (instrumental).ult",
+    "size": "156182"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Robodude",
+    "song": "tek2.ult",
+    "size": "349529"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Sami Moilanen",
+    "song": "nupteen code.ult",
+    "size": "120639"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Sir Pranz-a-lot",
+    "song": "sir pranz-a-lot.ult",
+    "size": "261172"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Stupid",
+    "song": "dark force.ult",
+    "size": "297375"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Super Luminal",
+    "song": "love ya.ult",
+    "size": "135578"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Super Luminal",
+    "song": "rack of lam.ult",
+    "size": "104606"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Super Luminal",
+    "song": "the lowest octave.ult",
+    "size": "135854"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Super Luminal",
+    "song": "whaddya say.ult",
+    "size": "56192"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Syxx",
+    "song": "dcult.ult",
+    "size": "536506"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Syxx",
+    "song": "earthquake.ult",
+    "size": "725106"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "TDB",
+    "song": "morphing.ult",
+    "size": "345702"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "TDB",
+    "song": "warspace by dtb for -ylysy- 693.ult",
+    "size": "233253"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "THM",
+    "song": "sbos installed.ult",
+    "size": "136045"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Trevor Luedee",
+    "song": "natas's heavy metal maddness.ult",
+    "size": "53248"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Umgah",
+    "song": "fight hunting!.ult",
+    "size": "331245"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "Umgah",
+    "song": "love starts with an l.ult",
+    "size": "950776"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "- unknown",
+    "song": "passage.ult",
+    "size": "415394"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "- unknown",
+    "song": "shakinna.ult",
+    "size": "806580"
+  },
+  {
+    "tracker": "Ultratracker",
+    "composer": "- unknown",
+    "song": "sparkles.ult",
+    "size": "626714"
+  }
+]

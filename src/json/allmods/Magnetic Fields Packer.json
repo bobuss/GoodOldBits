@@ -1,8 +1,26 @@
-{
-  "Jeff Rourke": [
-    "mfp.crystaldragon ingame",
-    "mfp.crystaldragon title",
-    "smp.crystaldragon ingame",
-    "smp.crystaldragon title"
-  ]
-}
+[
+  {
+    "tracker": "Magnetic Fields Packer",
+    "composer": "Jeff Rourke",
+    "song": "mfp.crystaldragon ingame",
+    "size": "2678"
+  },
+  {
+    "tracker": "Magnetic Fields Packer",
+    "composer": "Jeff Rourke",
+    "song": "mfp.crystaldragon title",
+    "size": "6210"
+  },
+  {
+    "tracker": "Magnetic Fields Packer",
+    "composer": "Jeff Rourke",
+    "song": "smp.crystaldragon ingame",
+    "size": "87510"
+  },
+  {
+    "tracker": "Magnetic Fields Packer",
+    "composer": "Jeff Rourke",
+    "song": "smp.crystaldragon title",
+    "size": "181064"
+  }
+]

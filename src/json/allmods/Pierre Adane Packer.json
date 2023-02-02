@@ -1,28 +1,146 @@
-{
-  "Pierre-Eric Loriaux": [
-    "Ivanhoe/ivanhoe - bonus.pap",
-    "Ivanhoe/ivanhoe - hiscore.pap",
-    "Ivanhoe/ivanhoe - level1 (forest).pap",
-    "Ivanhoe/ivanhoe - level2 (ship).pap",
-    "Ivanhoe/ivanhoe - level3 (horse).pap",
-    "Ivanhoe/ivanhoe - level4 (city).pap",
-    "Ivanhoe/ivanhoe - level5 (castle).pap",
-    "Ivanhoe/smp.set",
-    "Pang/pang - ingame 01.pap",
-    "Pang/pang - ingame 02.pap",
-    "Pang/pang - ingame 03.pap",
-    "Pang/pang - ingame 04.pap",
-    "Pang/pang - ingame 05.pap",
-    "Pang/pang - ingame 06.pap",
-    "Pang/pang - ingame 07.pap",
-    "Pang/pang - ingame 08.pap",
-    "Pang/pang - ingame 09.pap",
-    "Pang/pang - ingame 10.pap",
-    "Pang/pang - ingame 11.pap",
-    "Pang/pang - ingame 12.pap",
-    "Pang/pang - ingame 13.pap",
-    "Pang/pang - ingame 14.pap",
-    "Pang/pang - ingame 15.pap",
-    "Pang/smp.set"
-  ]
-}
+[
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Ivanhoe/ivanhoe - bonus.pap",
+    "size": "1998"
+  },
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Ivanhoe/ivanhoe - hiscore.pap",
+    "size": "2014"
+  },
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Ivanhoe/ivanhoe - level1 (forest).pap",
+    "size": "1714"
+  },
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Ivanhoe/ivanhoe - level2 (ship).pap",
+    "size": "2378"
+  },
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Ivanhoe/ivanhoe - level3 (horse).pap",
+    "size": "2224"
+  },
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Ivanhoe/ivanhoe - level4 (city).pap",
+    "size": "2300"
+  },
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Ivanhoe/ivanhoe - level5 (castle).pap",
+    "size": "1474"
+  },
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Ivanhoe/smp.set",
+    "size": "20600"
+  },
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Pang/pang - ingame 01.pap",
+    "size": "3410"
+  },
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Pang/pang - ingame 02.pap",
+    "size": "1488"
+  },
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Pang/pang - ingame 03.pap",
+    "size": "962"
+  },
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Pang/pang - ingame 04.pap",
+    "size": "2152"
+  },
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Pang/pang - ingame 05.pap",
+    "size": "3484"
+  },
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Pang/pang - ingame 06.pap",
+    "size": "2932"
+  },
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Pang/pang - ingame 07.pap",
+    "size": "3722"
+  },
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Pang/pang - ingame 08.pap",
+    "size": "2452"
+  },
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Pang/pang - ingame 09.pap",
+    "size": "2604"
+  },
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Pang/pang - ingame 10.pap",
+    "size": "2384"
+  },
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Pang/pang - ingame 11.pap",
+    "size": "2848"
+  },
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Pang/pang - ingame 12.pap",
+    "size": "748"
+  },
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Pang/pang - ingame 13.pap",
+    "size": "2866"
+  },
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Pang/pang - ingame 14.pap",
+    "size": "298"
+  },
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Pang/pang - ingame 15.pap",
+    "size": "950"
+  },
+  {
+    "tracker": "Pierre Adane Packer",
+    "composer": "Pierre-Eric Loriaux",
+    "song": "Pang/smp.set",
+    "size": "20600"
+  }
+]

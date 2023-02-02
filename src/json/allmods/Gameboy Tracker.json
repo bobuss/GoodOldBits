@@ -1,49 +1,152 @@
-{
-  "- unknown": [
-    "super groovy boy color.mgb"
-  ],
-  "Andrew Lemon": [
-    "bob.mgb",
-    "ceramic.mgb",
-    "station0.mgb"
-  ],
-  "Heatbeat": [
-    "f-fortress.mgb",
-    "f-ice-plain.mgb",
-    "f-jungle.mgb",
-    "f-title.mgb",
-    "n-bosses.mgb",
-    "n-select.mgb",
-    "n-title.mgb",
-    "techtoys.mgb"
-  ],
-  "Ilmarque": [
-    "il saint.mgb"
-  ],
-  "KeyG": [
-    "find anything.mgb"
-  ],
-  "Nula": [
-    "chipmunks.mgb",
-    "dirty beatz.mgb"
-  ],
-  "Purple Motion": [
-    "jungle level.mgb",
-    "lava level.mgb",
-    "mud level.mgb",
-    "planetfuzz.mgb",
-    "space level.mgb"
-  ],
-  "Radix": [
-    "barefoot girl.mgb"
-  ],
-  "Rez": [
-    "paragon5 successfully cracked.mgb"
-  ],
-  "Slash": [
-    "dracula's rubix cube.mgb"
-  ],
-  "Teel": [
-    "i've got worms.mgb"
-  ]
-}
+[
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "Andrew Lemon",
+    "song": "bob.mgb",
+    "size": "29897"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "Andrew Lemon",
+    "song": "ceramic.mgb",
+    "size": "106732"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "Andrew Lemon",
+    "song": "station0.mgb",
+    "size": "22052"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "Heatbeat",
+    "song": "f-fortress.mgb",
+    "size": "50056"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "Heatbeat",
+    "song": "f-ice-plain.mgb",
+    "size": "42935"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "Heatbeat",
+    "song": "f-jungle.mgb",
+    "size": "55022"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "Heatbeat",
+    "song": "f-title.mgb",
+    "size": "65949"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "Heatbeat",
+    "song": "n-bosses.mgb",
+    "size": "39771"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "Heatbeat",
+    "song": "n-select.mgb",
+    "size": "36460"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "Heatbeat",
+    "song": "n-title.mgb",
+    "size": "61356"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "Heatbeat",
+    "song": "techtoys.mgb",
+    "size": "56075"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "Ilmarque",
+    "song": "il saint.mgb",
+    "size": "94732"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "KeyG",
+    "song": "find anything.mgb",
+    "size": "19050"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "Nula",
+    "song": "chipmunks.mgb",
+    "size": "9475"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "Nula",
+    "song": "dirty beatz.mgb",
+    "size": "24948"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "Purple Motion",
+    "song": "jungle level.mgb",
+    "size": "50944"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "Purple Motion",
+    "song": "lava level.mgb",
+    "size": "69821"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "Purple Motion",
+    "song": "mud level.mgb",
+    "size": "90253"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "Purple Motion",
+    "song": "planetfuzz.mgb",
+    "size": "86168"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "Purple Motion",
+    "song": "space level.mgb",
+    "size": "94170"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "Radix",
+    "song": "barefoot girl.mgb",
+    "size": "10225"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "Rez",
+    "song": "paragon5 successfully cracked.mgb",
+    "size": "12303"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "Slash",
+    "song": "dracula's rubix cube.mgb",
+    "size": "27323"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "Teel",
+    "song": "i've got worms.mgb",
+    "size": "37916"
+  },
+  {
+    "tracker": "Gameboy Tracker",
+    "composer": "- unknown",
+    "song": "super groovy boy color.mgb",
+    "size": "58378"
+  }
+]

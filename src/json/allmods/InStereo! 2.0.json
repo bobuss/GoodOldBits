@@ -1,10 +1,38 @@
-{
-  "- unknown": [
-    "classic concert.is20",
-    "firefox ii.is20",
-    "space blipper.is20",
-    "spaceflight.is20",
-    "stereo feeling.is20",
-    "waveguild.is20"
-  ]
-}
+[
+  {
+    "tracker": "InStereo! 2.0",
+    "composer": "- unknown",
+    "song": "classic concert.is20",
+    "size": "3514"
+  },
+  {
+    "tracker": "InStereo! 2.0",
+    "composer": "- unknown",
+    "song": "firefox ii.is20",
+    "size": "155580"
+  },
+  {
+    "tracker": "InStereo! 2.0",
+    "composer": "- unknown",
+    "song": "space blipper.is20",
+    "size": "44528"
+  },
+  {
+    "tracker": "InStereo! 2.0",
+    "composer": "- unknown",
+    "song": "spaceflight.is20",
+    "size": "12090"
+  },
+  {
+    "tracker": "InStereo! 2.0",
+    "composer": "- unknown",
+    "song": "stereo feeling.is20",
+    "size": "11172"
+  },
+  {
+    "tracker": "InStereo! 2.0",
+    "composer": "- unknown",
+    "song": "waveguild.is20",
+    "size": "30668"
+  }
+]

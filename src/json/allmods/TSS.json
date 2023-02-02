@@ -1,18 +1,86 @@
-{
-  "- unknown": [
-    "antarctic st1.tss",
-    "antarctic st5.tss",
-    "darius gaiden fake.tss",
-    "galg main.tsd",
-    "galg start.tss",
-    "galg title.tsd",
-    "gra2 kutyusen.tss",
-    "gradius2 st3.tss",
-    "gradius boss.tss",
-    "gradius st1.tss",
-    "gradius title.tss",
-    "meikyu start.tss",
-    "salamander boss.tss",
-    "ys feena.tss"
-  ]
-}
+[
+  {
+    "tracker": "TSS",
+    "composer": "- unknown",
+    "song": "antarctic st1.tss",
+    "size": "1587"
+  },
+  {
+    "tracker": "TSS",
+    "composer": "- unknown",
+    "song": "antarctic st5.tss",
+    "size": "708"
+  },
+  {
+    "tracker": "TSS",
+    "composer": "- unknown",
+    "song": "darius gaiden fake.tss",
+    "size": "3073"
+  },
+  {
+    "tracker": "TSS",
+    "composer": "- unknown",
+    "song": "galg main.tsd",
+    "size": "630"
+  },
+  {
+    "tracker": "TSS",
+    "composer": "- unknown",
+    "song": "galg start.tss",
+    "size": "216"
+  },
+  {
+    "tracker": "TSS",
+    "composer": "- unknown",
+    "song": "galg title.tsd",
+    "size": "1267"
+  },
+  {
+    "tracker": "TSS",
+    "composer": "- unknown",
+    "song": "gra2 kutyusen.tss",
+    "size": "2444"
+  },
+  {
+    "tracker": "TSS",
+    "composer": "- unknown",
+    "song": "gradius2 st3.tss",
+    "size": "1409"
+  },
+  {
+    "tracker": "TSS",
+    "composer": "- unknown",
+    "song": "gradius boss.tss",
+    "size": "449"
+  },
+  {
+    "tracker": "TSS",
+    "composer": "- unknown",
+    "song": "gradius st1.tss",
+    "size": "1326"
+  },
+  {
+    "tracker": "TSS",
+    "composer": "- unknown",
+    "song": "gradius title.tss",
+    "size": "807"
+  },
+  {
+    "tracker": "TSS",
+    "composer": "- unknown",
+    "song": "meikyu start.tss",
+    "size": "319"
+  },
+  {
+    "tracker": "TSS",
+    "composer": "- unknown",
+    "song": "salamander boss.tss",
+    "size": "2511"
+  },
+  {
+    "tracker": "TSS",
+    "composer": "- unknown",
+    "song": "ys feena.tss",
+    "size": "1703"
+  }
+]

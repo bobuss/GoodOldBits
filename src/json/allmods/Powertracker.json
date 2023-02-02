@@ -1,6 +1,14 @@
-{
-  "Merge": [
-    "graphics are none.pt",
-    "inspiration is gone.pt"
-  ]
-}
+[
+  {
+    "tracker": "Powertracker",
+    "composer": "Merge",
+    "song": "graphics are none.pt",
+    "size": "3810"
+  },
+  {
+    "tracker": "Powertracker",
+    "composer": "Merge",
+    "song": "inspiration is gone.pt",
+    "size": "4582"
+  }
+]

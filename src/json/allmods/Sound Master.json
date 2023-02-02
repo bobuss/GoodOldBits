@@ -1,22 +1,98 @@
-{
-  "- unknown": [
-    "delta-rob hubbard.sm",
-    "rackney'sisland 1.sm",
-    "rackney'sisland 2.sm",
-    "rackney'sisland 3.sm",
-    "rackney'sisland 4.sm",
-    "rackney'sisland 5.sm",
-    "rackney'sisland 6.sm",
-    "rackney'sisland 7.sm",
-    "rackney'sisland 8.sm"
-  ],
-  "Jeroen Soede": [
-    "doofus 2.sm",
-    "futureshock-game complete.sm",
-    "futureshock-game over.sm",
-    "futureshock-ingame 1.sm",
-    "futureshock-ingame 2.sm",
-    "futureshock-ingame 3.sm",
-    "futureshock-title.sm"
-  ]
-}
+[
+  {
+    "tracker": "Sound Master",
+    "composer": "Jeroen Soede",
+    "song": "doofus 2.sm",
+    "size": "21102"
+  },
+  {
+    "tracker": "Sound Master",
+    "composer": "Jeroen Soede",
+    "song": "futureshock-game complete.sm",
+    "size": "76788"
+  },
+  {
+    "tracker": "Sound Master",
+    "composer": "Jeroen Soede",
+    "song": "futureshock-game over.sm",
+    "size": "81610"
+  },
+  {
+    "tracker": "Sound Master",
+    "composer": "Jeroen Soede",
+    "song": "futureshock-ingame 1.sm",
+    "size": "90564"
+  },
+  {
+    "tracker": "Sound Master",
+    "composer": "Jeroen Soede",
+    "song": "futureshock-ingame 2.sm",
+    "size": "90548"
+  },
+  {
+    "tracker": "Sound Master",
+    "composer": "Jeroen Soede",
+    "song": "futureshock-ingame 3.sm",
+    "size": "83746"
+  },
+  {
+    "tracker": "Sound Master",
+    "composer": "Jeroen Soede",
+    "song": "futureshock-title.sm",
+    "size": "89684"
+  },
+  {
+    "tracker": "Sound Master",
+    "composer": "- unknown",
+    "song": "delta-rob hubbard.sm",
+    "size": "56520"
+  },
+  {
+    "tracker": "Sound Master",
+    "composer": "- unknown",
+    "song": "rackney'sisland 1.sm",
+    "size": "58492"
+  },
+  {
+    "tracker": "Sound Master",
+    "composer": "- unknown",
+    "song": "rackney'sisland 2.sm",
+    "size": "58236"
+  },
+  {
+    "tracker": "Sound Master",
+    "composer": "- unknown",
+    "song": "rackney'sisland 3.sm",
+    "size": "36792"
+  },
+  {
+    "tracker": "Sound Master",
+    "composer": "- unknown",
+    "song": "rackney'sisland 4.sm",
+    "size": "36702"
+  },
+  {
+    "tracker": "Sound Master",
+    "composer": "- unknown",
+    "song": "rackney'sisland 5.sm",
+    "size": "36218"
+  },
+  {
+    "tracker": "Sound Master",
+    "composer": "- unknown",
+    "song": "rackney'sisland 6.sm",
+    "size": "36618"
+  },
+  {
+    "tracker": "Sound Master",
+    "composer": "- unknown",
+    "song": "rackney'sisland 7.sm",
+    "size": "35708"
+  },
+  {
+    "tracker": "Sound Master",
+    "composer": "- unknown",
+    "song": "rackney'sisland 8.sm",
+    "size": "36598"
+  }
+]

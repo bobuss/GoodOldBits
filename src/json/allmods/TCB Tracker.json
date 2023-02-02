@@ -1,28 +1,146 @@
-{
-  "- unknown": [
-    "cannonfodder.tcb",
-    "chaos engine.tcb",
-    "gods.tcb",
-    "lajbans.tcb",
-    "magic pockets.tcb",
-    "m-demo3 1.tcb",
-    "m-demo3 2.tcb",
-    "m-demo3 3.tcb",
-    "m-demo3 4.tcb",
-    "m-demo4 1.tcb",
-    "m-demo4 2.tcb",
-    "m-demo4 3.tcb",
-    "m-demo4 4.tcb",
-    "m-demo4 5.tcb",
-    "m-demo4 6.tcb",
-    "m-demo4 7.tcb",
-    "megalomania.tcb",
-    "mig29.tcb",
-    "powermonger.tcb",
-    "replicants intro.tcb",
-    "sensible soccer.tcb",
-    "stormball.tcb",
-    "tcbtracker demo.tcb",
-    "team suzuki.tcb"
-  ]
-}
+[
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "cannonfodder.tcb",
+    "size": "246519"
+  },
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "chaos engine.tcb",
+    "size": "147835"
+  },
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "gods.tcb",
+    "size": "265663"
+  },
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "lajbans.tcb",
+    "size": "209930"
+  },
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "magic pockets.tcb",
+    "size": "187693"
+  },
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "m-demo3 1.tcb",
+    "size": "61114"
+  },
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "m-demo3 2.tcb",
+    "size": "134334"
+  },
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "m-demo3 3.tcb",
+    "size": "130000"
+  },
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "m-demo3 4.tcb",
+    "size": "185307"
+  },
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "m-demo4 1.tcb",
+    "size": "158628"
+  },
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "m-demo4 2.tcb",
+    "size": "206693"
+  },
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "m-demo4 3.tcb",
+    "size": "223510"
+  },
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "m-demo4 4.tcb",
+    "size": "152582"
+  },
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "m-demo4 5.tcb",
+    "size": "233978"
+  },
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "m-demo4 6.tcb",
+    "size": "230454"
+  },
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "m-demo4 7.tcb",
+    "size": "167943"
+  },
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "megalomania.tcb",
+    "size": "218733"
+  },
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "mig29.tcb",
+    "size": "107571"
+  },
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "powermonger.tcb",
+    "size": "86099"
+  },
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "replicants intro.tcb",
+    "size": "113798"
+  },
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "sensible soccer.tcb",
+    "size": "169577"
+  },
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "stormball.tcb",
+    "size": "99388"
+  },
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "tcbtracker demo.tcb",
+    "size": "108193"
+  },
+  {
+    "tracker": "TCB Tracker",
+    "composer": "- unknown",
+    "song": "team suzuki.tcb",
+    "size": "108897"
+  }
+]

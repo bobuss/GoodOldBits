@@ -1,66 +1,374 @@
-{
-  "Scott Johnston": [
-    "sjs.awesome",
-    "sjs.beasti",
-    "sjs.beastii",
-    "sjs.cancan",
-    "sjs.doggie",
-    "sjs.jb",
-    "sjs.kw",
-    "sjs.lemming1",
-    "sjs.lemming2",
-    "sjs.lemming3",
-    "sjs.lemmings intro",
-    "sjs.menace",
-    "sjs.mountain",
-    "sjs.rudi",
-    "sjs.tenlemmings",
-    "sjs.tim1",
-    "sjs.tim10",
-    "sjs.tim2",
-    "sjs.tim3",
-    "sjs.tim4",
-    "sjs.tim5",
-    "sjs.tim6",
-    "sjs.tim7",
-    "sjs.tim8",
-    "sjs.tim9",
-    "sjs.tune1",
-    "sjs.tune2",
-    "sjs.tune3",
-    "sjs.tune4",
-    "sjs.tune5",
-    "sjs.tune6",
-    "smp.awesome",
-    "smp.beasti",
-    "smp.beastii",
-    "smp.cancan",
-    "smp.doggie",
-    "smp.jb",
-    "smp.kw",
-    "smp.lemming1",
-    "smp.lemming2",
-    "smp.lemming3",
-    "smp.lemmings intro",
-    "smp.menace",
-    "smp.mountain",
-    "smp.rudi",
-    "smp.tenlemmings",
-    "smp.tim1",
-    "smp.tim10",
-    "smp.tim2",
-    "smp.tim3",
-    "smp.tim4",
-    "smp.tim5",
-    "smp.tim6",
-    "smp.tim7",
-    "smp.tim8",
-    "smp.tim9",
-    "smp.tune1",
-    "smp.tune2",
-    "smp.tune3",
-    "smp.tune4",
-    "smp.tune5",
-    "smp.tune6"
-  ]
-}
+[
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.awesome",
+    "size": "5991"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.beasti",
+    "size": "4311"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.beastii",
+    "size": "8931"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.cancan",
+    "size": "5607"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.doggie",
+    "size": "4707"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.jb",
+    "size": "9243"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.kw",
+    "size": "5439"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.lemming1",
+    "size": "6195"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.lemming2",
+    "size": "11559"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.lemming3",
+    "size": "7611"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.lemmings intro",
+    "size": "4851"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.menace",
+    "size": "11691"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.mountain",
+    "size": "5691"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.rudi",
+    "size": "4827"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.tenlemmings",
+    "size": "4119"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.tim1",
+    "size": "10779"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.tim10",
+    "size": "7719"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.tim2",
+    "size": "5415"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.tim3",
+    "size": "6567"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.tim4",
+    "size": "9255"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.tim5",
+    "size": "8487"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.tim6",
+    "size": "6951"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.tim7",
+    "size": "6183"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.tim8",
+    "size": "6183"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.tim9",
+    "size": "4335"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.tune1",
+    "size": "5271"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.tune2",
+    "size": "5415"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.tune3",
+    "size": "5211"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.tune4",
+    "size": "6015"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.tune5",
+    "size": "5283"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "sjs.tune6",
+    "size": "3663"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.awesome",
+    "size": "30474"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.beasti",
+    "size": "33286"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.beastii",
+    "size": "25498"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.cancan",
+    "size": "25576"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.doggie",
+    "size": "27328"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.jb",
+    "size": "27736"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.kw",
+    "size": "32436"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.lemming1",
+    "size": "34514"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.lemming2",
+    "size": "35342"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.lemming3",
+    "size": "35238"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.lemmings intro",
+    "size": "105478"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.menace",
+    "size": "32658"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.mountain",
+    "size": "24382"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.rudi",
+    "size": "22140"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.tenlemmings",
+    "size": "20774"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.tim1",
+    "size": "33438"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.tim10",
+    "size": "30120"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.tim2",
+    "size": "28202"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.tim3",
+    "size": "25422"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.tim4",
+    "size": "25434"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.tim5",
+    "size": "35894"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.tim6",
+    "size": "17044"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.tim7",
+    "size": "27694"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.tim8",
+    "size": "28222"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.tim9",
+    "size": "32192"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.tune1",
+    "size": "23436"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.tune2",
+    "size": "18636"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.tune3",
+    "size": "29072"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.tune4",
+    "size": "27104"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.tune5",
+    "size": "31214"
+  },
+  {
+    "tracker": "SoundPlayer",
+    "composer": "Scott Johnston",
+    "song": "smp.tune6",
+    "size": "27792"
+  }
+]

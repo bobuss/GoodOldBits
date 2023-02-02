@@ -1,10 +1,38 @@
-{
-  "Jochen Hippel": [
-    "amberstar-extro.hip7",
-    "amberstar-intro.hip7",
-    "australian pioneers intro.hip7",
-    "ghostbattle gameover.hip7",
-    "lethalxcess-end.hip7",
-    "lethalxcess-intro.hip7"
-  ]
-}
+[
+  {
+    "tracker": "Hippel 7V",
+    "composer": "Jochen Hippel",
+    "song": "amberstar-extro.hip7",
+    "size": "106572"
+  },
+  {
+    "tracker": "Hippel 7V",
+    "composer": "Jochen Hippel",
+    "song": "amberstar-intro.hip7",
+    "size": "176036"
+  },
+  {
+    "tracker": "Hippel 7V",
+    "composer": "Jochen Hippel",
+    "song": "australian pioneers intro.hip7",
+    "size": "153310"
+  },
+  {
+    "tracker": "Hippel 7V",
+    "composer": "Jochen Hippel",
+    "song": "ghostbattle gameover.hip7",
+    "size": "45394"
+  },
+  {
+    "tracker": "Hippel 7V",
+    "composer": "Jochen Hippel",
+    "song": "lethalxcess-end.hip7",
+    "size": "75294"
+  },
+  {
+    "tracker": "Hippel 7V",
+    "composer": "Jochen Hippel",
+    "song": "lethalxcess-intro.hip7",
+    "size": "122680"
+  }
+]

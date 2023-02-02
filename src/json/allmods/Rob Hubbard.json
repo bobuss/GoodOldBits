@@ -1,20 +1,86 @@
-{
-  "- unknown": [
-    "sanxion-demo.rh",
-    "sanxion.rh",
-    "skateordie.rh"
-  ],
-  "Rob Hubbard": [
-    "budokan.rh",
-    "centurion battle.rh",
-    "centurion cleopatra.rh",
-    "centurion games fanfares.rh",
-    "centurion intro.rh",
-    "centurion naval battle.rh",
-    "flymus.rh",
-    "fxlarge.rh",
-    "fxsmall.rh",
-    "gmusic.rh",
-    "populous title.rh"
-  ]
-}
+[
+  {
+    "tracker": "Rob Hubbard",
+    "composer": "Rob Hubbard",
+    "song": "budokan.rh",
+    "size": "100826"
+  },
+  {
+    "tracker": "Rob Hubbard",
+    "composer": "Rob Hubbard",
+    "song": "centurion battle.rh",
+    "size": "24590"
+  },
+  {
+    "tracker": "Rob Hubbard",
+    "composer": "Rob Hubbard",
+    "song": "centurion cleopatra.rh",
+    "size": "46942"
+  },
+  {
+    "tracker": "Rob Hubbard",
+    "composer": "Rob Hubbard",
+    "song": "centurion games fanfares.rh",
+    "size": "51768"
+  },
+  {
+    "tracker": "Rob Hubbard",
+    "composer": "Rob Hubbard",
+    "song": "centurion intro.rh",
+    "size": "114536"
+  },
+  {
+    "tracker": "Rob Hubbard",
+    "composer": "Rob Hubbard",
+    "song": "centurion naval battle.rh",
+    "size": "29992"
+  },
+  {
+    "tracker": "Rob Hubbard",
+    "composer": "Rob Hubbard",
+    "song": "flymus.rh",
+    "size": "27024"
+  },
+  {
+    "tracker": "Rob Hubbard",
+    "composer": "Rob Hubbard",
+    "song": "fxlarge.rh",
+    "size": "70396"
+  },
+  {
+    "tracker": "Rob Hubbard",
+    "composer": "Rob Hubbard",
+    "song": "fxsmall.rh",
+    "size": "31016"
+  },
+  {
+    "tracker": "Rob Hubbard",
+    "composer": "Rob Hubbard",
+    "song": "gmusic.rh",
+    "size": "96506"
+  },
+  {
+    "tracker": "Rob Hubbard",
+    "composer": "Rob Hubbard",
+    "song": "populous title.rh",
+    "size": "118822"
+  },
+  {
+    "tracker": "Rob Hubbard",
+    "composer": "- unknown",
+    "song": "sanxion-demo.rh",
+    "size": "90782"
+  },
+  {
+    "tracker": "Rob Hubbard",
+    "composer": "- unknown",
+    "song": "sanxion.rh",
+    "size": "92176"
+  },
+  {
+    "tracker": "Rob Hubbard",
+    "composer": "- unknown",
+    "song": "skateordie.rh",
+    "size": "271846"
+  }
+]

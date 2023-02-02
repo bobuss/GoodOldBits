@@ -1,1080 +1,4742 @@
-{
-  "- unknown": [
-    "brittain bash.mtm",
-    "dandrif.mtm",
-    "elegiacal enigma.mtm",
-    "in god we trance.mtm",
-    "manchester roc.mtm",
-    "manchesters sag.mtm",
-    "manchester toms.mtm",
-    "masonry.mtm",
-    "mystery story v0.9.mtm",
-    "no execuses.mtm",
-    "pushit.mtm",
-    "ren & stimpy song.mtm",
-    "thetest.mtm",
-    "timewarp.mtm",
-    "tribute to enigma.mtm",
-    "windseed.mtm",
-    "yell of the wind.mtm",
-    "zrg-body.mtm"
-  ],
-  "4U4": [
-    "spin.mtm"
-  ],
-  "AIF": [
-    "anonymous in 4ce.mtm"
-  ],
-  "AXK": [
-    "metal storm.mtm"
-  ],
-  "Alternate Prism": [
-    "color of rave.mtm",
-    "diamond eyes.mtm",
-    "dreamer dream.mtm",
-    "east wind stream.mtm",
-    "eternal friend.mtm",
-    "fantasia red.mtm",
-    "free spirit.mtm",
-    "into the vortex.mtm",
-    "judgement day.mtm",
-    "rave to xtremes.mtm"
-  ],
-  "Anarky": [
-    "hard trax - nohouse remix.mtm"
-  ],
-  "Andrew Clear": [
-    "leslie.mtm",
-    "peaceful state of bliss.mtm",
-    "the stand.mtm"
-  ],
-  "Ankst": [
-    "blue dress.mtm",
-    "when the children cry.mtm"
-  ],
-  "Asle": [
-    "reborn from a brain.mtm"
-  ],
-  "Astek": [
-    "hacksaw.mtm"
-  ],
-  "Beatwrecked": [
-    "refused again.mtm",
-    "refusing...wildfires.mtm"
-  ],
-  "Benny": [
-    "alert on the moon!.mtm",
-    "apocalyptic war 1.mtm",
-    "feel the realm.mtm",
-    "galaxy express 999.mtm",
-    "guetto blast.mtm",
-    "hysteria.mtm",
-    "medley for blur-3.mtm",
-    "mix01.mtm",
-    "rha eat!.mtm",
-    "this beat is hot.mtm"
-  ],
-  "Blaze Runner": [
-    "sounds of war.mtm"
-  ],
-  "Bluebeard": [
-    "bagota the min mod.mtm",
-    "helpless hope.mtm",
-    "nothing left.mtm",
-    "satiety.mtm"
-  ],
-  "Blurry": [
-    "a.w.o.l.mtm"
-  ],
-  "Breeze": [
-    "dark sphere.mtm",
-    "deep marble.mtm",
-    "funktsip.mtm",
-    "lauteiden varjossa 2.mtm",
-    "magnificat.mtm",
-    "pseudo-baroquedream.mtm",
-    "something's amiss.mtm",
-    "spruce hill.mtm"
-  ],
-  "CC Catch": [
-    "chaotic dance.mtm",
-    "dreamy nights.mtm",
-    "epidemic introtune.mtm",
-    "modern society.mtm",
-    "neurologic.mtm",
-    "sacred grounds.mtm",
-    "spiritual dance.mtm",
-    "story of faith.mtm",
-    "the great escape.mtm",
-    "time bomb!.mtm"
-  ],
-  "CR": [
-    "classic.mtm"
-  ],
-  "Cavekix": [
-    "the cavekix special.mtm"
-  ],
-  "Cerebus": [
-    "winter.mtm"
-  ],
-  "Chris Rizzo": [
-    "come as you are.mtm"
-  ],
-  "Clement Poon": [
-    "out of touch 95.mtm",
-    "power syndicate.mtm"
-  ],
-  "Commodore Phil": [
-    "sidewire.mtm"
-  ],
-  "Cosmic": [
-    "frogelvis.mtm"
-  ],
-  "Cube": [
-    "journey.mtm"
-  ],
-  "Cuhl": [
-    "christmas jambori.mtm"
-  ],
-  "DJ Skyjump": [
-    "extermination.mtm",
-    "new age dream.mtm",
-    "new project remix'94.mtm",
-    "sleep with me rmx'94.mtm"
-  ],
-  "Dark Helmet": [
-    "kozmik.mtm",
-    "mtm.mtm"
-  ],
-  "Davey Flop-It": [
-    "erased.mtm"
-  ],
-  "Deepwave": [
-    "dream into trance !.mtm"
-  ],
-  "Digital Effects": [
-    "act of convienience.mtm"
-  ],
-  "Doktor Meltdown": [
-    "brave new world.mtm",
-    "helter shmelter.mtm",
-    "mamu bara corroboree.mtm"
-  ],
-  "Domino": [
-    "darkness holds me.mtm",
-    "night of despair.mtm"
-  ],
-  "Doomsday": [
-    "dark quazar.mtm",
-    "genetic incident.mtm",
-    "into the void.mtm",
-    "litany.mtm",
-    "lucky day.mtm",
-    "slave world.mtm",
-    "space vacuum.mtm"
-  ],
-  "El Blanco": [
-    "adokai' trutoi.mtm",
-    "ambience.mtm",
-    "dogorashi agran.mtm",
-    "electric solitude.mtm",
-    "magnum.mtm",
-    "milodius.mtm",
-    "net-runner.mtm",
-    "plink (remix1).mtm",
-    "praxis overload.mtm",
-    "psalm.mtm",
-    "techme ii.mtm",
-    "technome song.mtm",
-    "the new world.mtm",
-    "time.mtm"
-  ],
-  "Fairlight": [
-    "flying in saturn's rings.mtm"
-  ],
-  "Falcon (CA)": [
-    "distant light.mtm",
-    "fusion.mtm"
-  ],
-  "Farmer": [
-    "bass face.mtm",
-    "if you don't dance.mtm",
-    "it's always hard.mtm",
-    "just plain epic.mtm",
-    "mysterious feeling.mtm",
-    "power.mtm",
-    "techno rock.mtm",
-    "tension.mtm",
-    "tragically techno.mtm",
-    "winter techno.mtm"
-  ],
-  "Fatts Mann": [
-    "canon and ken.mtm",
-    "soniks.mtm"
-  ],
-  "Forensic Medicine": [
-    "and justice for all.mtm",
-    "disarm.mtm",
-    "heart shaped box.mtm"
-  ],
-  "Fortunato": [
-    "after midnight - city of lights mix.mtm",
-    "after midnight - club darkness edit.mtm",
-    "after midnight.mtm",
-    "after midnight - rev 2.mtm",
-    "frequency.mtm",
-    "the midnight breed.mtm",
-    "twelve 'oh one.mtm"
-  ],
-  "Fractal Knight": [
-    "trapped in reality.mtm"
-  ],
-  "Gaston": [
-    "mdma & thc (gan).mtm",
-    "outro.mtm",
-    "sterne rmx '95 (gan).mtm"
-  ],
-  "Gus": [
-    "euphoric pleasures.mtm",
-    "treasure island.mtm",
-    "trip0matic.mtm"
-  ],
-  "Hadji": [
-    "acid drop.mtm"
-  ],
-  "Hawkdagger": [
-    "the fall.mtm"
-  ],
-  "Hayato Tanaka": [
-    "go west v1.02.mtm"
-  ],
-  "Hellspawn": [
-    "introsong 1.mtm",
-    "mell.mtm",
-    "underdark2.mtm"
-  ],
-  "Hypertech": [
-    "mello tekno 1994.mtm",
-    "solar rays.mtm"
-  ],
-  "Infra": [
-    "friends'll be friend.mtm"
-  ],
-  "Inspekdah Deck": [
-    "cougarstory-ii.mtm",
-    "el trago klf remix +.mtm",
-    "flintedstones klfmix.mtm",
-    "funk that - klf mix.mtm",
-    "houzparti i.mtm",
-    "klf is alive!.mtm",
-    "klf zymbal.mtm",
-    "liquid rave.mtm",
-    "oldskool.mtm",
-    "the expressway.mtm",
-    "tribal quest.mtm",
-    "words.mtm",
-    "xtravaganza.mtm"
-  ],
-  "Iq": [
-    "my way to area 51.mtm",
-    "suction regulator 2.mtm"
-  ],
-  "Iron": [
-    "kilk.mtm"
-  ],
-  "Island of Reil": [
-    "cadencia.mtm",
-    "dac '95.mtm"
-  ],
-  "Iza Man": [
-    "my life.mtm"
-  ],
-  "JC Stereo": [
-    "alfred j kwak remix.mtm",
-    "axel foley.mtm",
-    "coop-DJ Hilgy/hardcore vibes.mtm",
-    "coop-DJ Hilgy/ode to felix.mtm",
-    "i'll be there.mtm",
-    "i want to be a hippy.mtm",
-    "koffietijd-ravemix!.mtm",
-    "nothing like the.mtm",
-    "rave jopie part ii.mtm",
-    "world on fire.mtm"
-  ],
-  "Jace Cavacini": [
-    "glider in the sky.mtm"
-  ],
-  "Jay": [
-    "tech-jazz ii remix.mtm"
-  ],
-  "JayJay": [
-    "missing you!.mtm",
-    "shari lynn.mtm",
-    "wings of love.mtm"
-  ],
-  "Jazz (DK)": [
-    "party vibrations.mtm"
-  ],
-  "Justin Coope": [
-    "digital mayhem.mtm"
-  ],
-  "Lankhmar": [
-    "minuet.mtm",
-    "prelude in a major.mtm"
-  ],
-  "Leviathan": [
-    "14.mtm",
-    "final resolution.mtm",
-    "repentance.mtm",
-    "rising tide.mtm"
-  ],
-  "Lo'Canos": [
-    "epic fallacy.mtm",
-    "just one fix.mtm",
-    "sweet sobriety.mtm"
-  ],
-  "Lord Draxxon": [
-    "thru and through.mtm",
-    "unpleasant justice.mtm"
-  ],
-  "Lurch": [
-    "bombing rwanda (remix).mtm",
-    "damn funky groove.mtm",
-    "extacy beat.mtm",
-    "jingle bells (santas smell mix).mtm",
-    "jungle fever-kfmf.mtm",
-    "the freakmaker.mtm"
-  ],
-  "MR2": [
-    "lost in my fantasy.mtm"
-  ],
-  "Maelcum": [
-    "+10.mtm",
-    "30 below and rising.mtm",
-    "4 corruption mag.mtm",
-    "a christmas carol.mtm",
-    "acid grinch.mtm",
-    "acid, man!.mtm",
-    "agj.mtm",
-    "alpha bleep (extended version).mtm",
-    "alpha bleep.mtm",
-    "amplificator.mtm",
-    "aphex.mtm",
-    "are we here (remix).mtm",
-    "as i go.mtm",
-    "astronut.mtm",
-    "autocide.mtm",
-    "a workout for beats.mtm",
-    "bang a can.mtm",
-    "blah.mtm",
-    "blah poing.mtm",
-    "blah t12.mtm",
-    "bombing rwanda.mtm",
-    "breakfast in iran.mtm",
-    "burn.mtm",
-    "calling heaven remix.mtm",
-    "cars kill people.mtm",
-    "celestial ceason.mtm",
-    "cellar dweller.mtm",
-    "chill out.mtm",
-    "chrome insanity.mtm",
-    "clouds & goldenrod.mtm",
-    "come to me, ecstacy.mtm",
-    "computermadness.mtm",
-    "comrade aristide.mtm",
-    "coop-IQ/fascination.mtm",
-    "coop-IQ/hitchhikingreticulan.mtm",
-    "coop-Krystall/achaeta.mtm",
-    "coop-Phoenix/georgia.mtm",
-    "coop-The Hacker/second coming.mtm",
-    "cosmos.mtm",
-    "cosmotic.mtm",
-    "crazy.mtm",
-    "death from above.mtm",
-    "decembrr.mtm",
-    "deepdown.mtm",
-    "demolition.mtm",
-    "detune.mtm",
-    "down and dubby.mtm",
-    "draw yer guns-ii.mtm",
-    "dub gen.mtm",
-    "egg 2 menu tune.mtm",
-    "equalise.mtm",
-    "evaporation.mtm",
-    "fart.mtm",
-    "fashionable traffic.mtm",
-    "flashback.mtm",
-    "funk saboteur.mtm",
-    "gabbamonsta.mtm",
-    "galaxy remote.mtm",
-    "gas planet.mtm",
-    "genesys.mtm",
-    "gloria trip.mtm",
-    "gods remix.mtm",
-    "grin and bare it.mtm",
-    "happy as a planet.mtm",
-    "here it is.mtm",
-    "highvoltage remix.mtm",
-    "home cookin.mtm",
-    "hoover song.mtm",
-    "horde.01.mtm",
-    "horde battle theme.mtm",
-    "housey mix.mtm",
-    "housey.mtm",
-    "hyped.mtm",
-    "ibanchi jukebox.mtm",
-    "i haven't been held.mtm",
-    "ill electro.mtm",
-    "inates.mtm",
-    "ind.mtm",
-    "into my universe.mtm",
-    "itch i can't scratch.mtm",
-    "jesus in iran.mtm",
-    "journey to the center.mtm",
-    "jungle.mtm",
-    "jungle prelude.mtm",
-    "junglism.mtm",
-    "know the number.mtm",
-    "lclad.mtm",
-    "little green men.mtm",
-    "lodge of 3 globes.mtm",
-    "loend.mtm",
-    "loend (starship 96).mtm",
-    "madness [certified whacko mix].mtm",
-    "madness.mtm",
-    "mantra (star mix).mtm",
-    "martian sands.mtm",
-    "masstarvation.mtm",
-    "microprocess.mtm",
-    "mix conspiracy.mtm",
-    "modern society remix.mtm",
-    "murderous intentions.mtm",
-    "murmur.mtm",
-    "music for a transient planet.mtm",
-    "nation of noise.mtm",
-    "nimbus(analogcloud2).mtm",
-    "no stars - wnprod.mtm",
-    "oldies.mtm",
-    "one big oven.mtm",
-    "one track mind.mtm",
-    "on.mtm",
-    "path of the righteous.mtm",
-    "photoq.mtm",
-    "photoq (slow mo mix).mtm",
-    "pickle ball remix.mtm",
-    "play loud.mtm",
-    "pm dead.mtm",
-    "p. m. is d. - amrot.mtm",
-    "possession.mtm",
-    "psy orgy (7-11 mix).mtm",
-    "pukey muzik.mtm",
-    "quoth.mtm",
-    "reality cubed.mtm",
-    "rebirth of rave.mtm",
-    "re-in (ventolin).mtm",
-    "resonance 4.mtm",
-    "ressurection of klf.mtm",
-    "rollerskate.mtm",
-    "satellite of god.mtm",
-    "self esteem.mtm",
-    "shadow chaser.mtm",
-    "shadow chaser remix.mtm",
-    "sha gompa.mtm",
-    "shearing the pin.mtm",
-    "slow circle.mtm",
-    "slow circle (remix).mtm",
-    "smoking, white, protestant.mtm",
-    "somewhere out there.mtm",
-    "song without voice.mtm",
-    "sonic mindkiller.mtm",
-    "soulless-soulfoodmix.mtm",
-    "space butter.mtm",
-    "spacetrack(kosmosis).mtm",
-    "subsonic.mtm",
-    "suburban dub.mtm",
-    "suction regulator.mtm",
-    "supertron (flight mix).mtm",
-    "system check-head check.mtm",
-    "tea.mtm",
-    "terminal state.mtm",
-    "that noise.mtm",
-    "the coverup.mtm",
-    "the essence 2.mtm",
-    "the essence.mtm",
-    "the fahita speaks.mtm",
-    "the force.mtm",
-    "thelion & the lamb.mtm",
-    "the magic guitar.mtm",
-    "the organization.mtm",
-    "the wild side (fuzzep).mtm",
-    "the wings of faith.mtm",
-    "they're out there.mtm",
-    "tosev 3.mtm",
-    "trib.mtm",
-    "underground remix.mtm",
-    "violently happy.mtm",
-    "violent plaything.mtm",
-    "wacky fighting.mtm",
-    "wagon station.mtm",
-    "whack.mtm",
-    "what is love-ravemix.mtm",
-    "when you made the mountain - dubexcursionmx.mtm",
-    "why me.mtm"
-  ],
-  "Merrick Brown": [
-    "innerdub.mtm"
-  ],
-  "Michael McCormac": [
-    "end.mtm",
-    "pardon.mtm",
-    "trans.mtm"
-  ],
-  "Mick The Punisher": [
-    "excess reremix.mtm",
-    "watch jazz.mtm"
-  ],
-  "Mikki": [
-    "hippopotamuses cry.mtm"
-  ],
-  "Mindchild": [
-    "intro.mtm"
-  ],
-  "Mosaic": [
-    "electric mosaic.mtm",
-    "ibanchi warrior.mtm",
-    "sonic mindkiller.mtm"
-  ],
-  "Mustard Man": [
-    "aggresive.mtm",
-    "angelevil.mtm",
-    "beg for mercy.mtm",
-    "can't stop! (a mix).mtm",
-    "can you move to this.mtm",
-    "countdown to groove.mtm",
-    "distorted terror!.mtm",
-    "grind.mtm",
-    "hallucinating.mtm",
-    "how does it feel.mtm",
-    "industry corporate.mtm",
-    "march of the mad ravers.mtm",
-    "no one can hear you.mtm",
-    "sirens.mtm",
-    "tragedy.mtm"
-  ],
-  "Mute": [
-    "inca dream.mtm"
-  ],
-  "Mysteryman": [
-    "darkride.mtm",
-    "seawave.mtm"
-  ],
-  "Mystic Image": [
-    "repeating solos.mtm"
-  ],
-  "Nakita": [
-    "everchanging dream.mtm"
-  ],
-  "Nemesis": [
-    "breakdown.mtm",
-    "don't look back.mtm",
-    "indian summer.mtm",
-    "lightning...etc.mtm",
-    "nightmare.mtm",
-    "no compromise.mtm",
-    "overdrive.mtm",
-    "running the gauntlet.mtm",
-    "so cruel.mtm",
-    "symphony of light.mtm",
-    "war & peace.mtm",
-    "you rang.mtm"
-  ],
-  "Nightmare Boy": [
-    "orgasm.mtm"
-  ],
-  "Nomaniac": [
-    "connection.mtm",
-    "cosmico trancebam.mtm",
-    "crystallic.mtm",
-    "for everyone 95 remx.mtm",
-    "friday.mtm",
-    "like a bird remix.mtm",
-    "ode 2 fabian remix 1.mtm",
-    "ode 2 fabian remix 2t.mtm",
-    "romantic beach.mtm",
-    "soulful.mtm",
-    "sunday.mtm",
-    "tales of a hidden.mtm",
-    "the first reality.mtm",
-    "the mysterious guest.mtm",
-    "whenever i see.mtm"
-  ],
-  "Nosferatu": [
-    "classical feelings.mtm",
-    "tropical sunset.mtm"
-  ],
-  "Nukeface": [
-    "mine it.mtm",
-    "wake me.mtm"
-  ],
-  "O'Realitea": [
-    "nitethrills.mtm"
-  ],
-  "Ogre": [
-    "solace.mtm"
-  ],
-  "Orfeus": [
-    "selenium.mtm"
-  ],
-  "Ovation": [
-    "ov-ation.mtm",
-    "twist and shoot.mtm"
-  ],
-  "Overhear": [
-    "relaxer-------3.mtm"
-  ],
-  "P. Engelen": [
-    "gabber.mtm",
-    "trancedome xperience.mtm"
-  ],
-  "PH": [
-    "alectrotechno!.mtm",
-    "pyct pdex.mtm"
-  ],
-  "Pariah": [
-    "hybrid hype!.mtm"
-  ],
-  "Particle Man": [
-    "midnight blue.mtm"
-  ],
-  "Pest": [
-    "abyss of despair.mtm"
-  ],
-  "Phoenix": [
-    "427.mtm",
-    "9000 points of light.mtm",
-    "acceleration (howdy doody club mix).mtm",
-    "acceleration.mtm",
-    "aggroculture pnxklf.mtm",
-    "argonaut '94.mtm",
-    "arizona.mtm",
-    "av experimental #14.mtm",
-    "braindead.mtm",
-    "circus midget.mtm",
-    "circus.mtm",
-    "curse in reverse.mtm",
-    "d0wnt0wn.mtm",
-    "diseased.mtm",
-    "enough.is.not.enough.mtm",
-    "entropy (chaotic fluid mix).mtm",
-    "entropy.mtm",
-    "entropy (paranoid mix).mtm",
-    "error - corruption mix.mtm",
-    "ich bin scheiss.mtm",
-    "intrepid.mtm",
-    "i see.mtm",
-    "lead-acid folic mix.mtm",
-    "lead-acid.mtm",
-    "microscopic ]i[.mtm",
-    "mj is in heaven now.mtm",
-    "nervous breakdown (3 1-2 inch edit).mtm",
-    "nervous breakdown (extended mix).mtm",
-    "nervous breakdown-m.mtm",
-    "nervous breakdown.mtm",
-    "neurocide.mtm",
-    "no joke.mtm",
-    "placid darkness.mtm",
-    "saints of armageddon.mtm",
-    "supernova.mtm",
-    "the marauder.mtm",
-    "the red horizon.mtm",
-    "the wild side.mtm",
-    "verse in recurse.mtm",
-    "violent sunshine.mtm"
-  ],
-  "Pozor": [
-    "destruction (part 2).mtm"
-  ],
-  "Prism": [
-    "remote control.mtm"
-  ],
-  "Psibelius": [
-    "casd v2.mtm",
-    "dream star.mtm",
-    "memoirs.mtm",
-    "serenade - shakertheme.mtm",
-    "starlight.2.mtm",
-    "storming heaven [v2].mtm",
-    "summer nights [v2].mtm",
-    "the remembrance [v2].mtm"
-  ],
-  "Psychotron": [
-    "easy going.mtm",
-    "virtual core.mtm"
-  ],
-  "Quarex": [
-    "bells of aparteid ][.mtm",
-    "chickenfuneralmarch.mtm",
-    "coop-Ranger Rick/carnival acid haus.mtm",
-    "coop-The Hacker/northern lights qth.mtm",
-    "cybertoaster.mtm",
-    "deflection.mtm",
-    "endless epoch.mtm",
-    "fight ii.mtm",
-    "fisherman's libido.mtm",
-    "fitago yehaso rego.mtm",
-    "flight of the peanut.mtm",
-    "frozen life.mtm",
-    "glasscastle-runicmix.mtm",
-    "grip yer lip.mtm",
-    "inseparable.mtm",
-    "journey to the gate.mtm",
-    "laura kurtenbach.mtm",
-    "lost.mtm",
-    "master of christmas.mtm",
-    "meet mr. pog-face.mtm",
-    "native american techno.mtm",
-    "oh good lord.mtm",
-    "outer limits.mtm",
-    "phonecalltodjibouti.mtm",
-    "pickle ball.mtm",
-    "power-carnage 1.mtm",
-    "recall candlewhipmix.mtm",
-    "reptillian.mtm",
-    "seven against peeves.mtm",
-    "silent ill.mtm",
-    "slave to the curse.mtm",
-    "sleek.mtm",
-    "slumbering.mtm",
-    "swamp orgy.mtm",
-    "the blue lagoon.mtm",
-    "the hieracosphinx.mtm",
-    "twelve track mind.mtm",
-    "vorg the doom-beast.mtm",
-    "warriors of the wind.mtm"
-  ],
-  "Rafael Lucero": [
-    "revival.mtm"
-  ],
-  "Ranger Rick": [
-    "alpha gate.mtm",
-    "caree.mtm",
-    "control.mtm",
-    "coop-Ankst/transgression.mtm",
-    "coop-Ellipse/the circus.mtm",
-    "dream baby.mtm",
-    "jazz.mtm",
-    "joy.mtm",
-    "latin disco.mtm",
-    "master plan.mtm",
-    "metal 2.mtm",
-    "mirror.mtm",
-    "rankor.mtm",
-    "return.mtm",
-    "soma.mtm",
-    "sweeper.mtm",
-    "the mourning after.mtm",
-    "vsm - acid mix.mtm"
-  ],
-  "Rush": [
-    "joseph mega-mix.mtm"
-  ],
-  "Ryan Cramer": [
-    "geometric shadows.mtm",
-    "the beginning of the end.mtm",
-    "the power of wind.mtm"
-  ],
-  "S. Rok": [
-    "new beginning!.mtm"
-  ],
-  "Scirocco": [
-    "naive.mtm"
-  ],
-  "Scoff": [
-    "gotham city.mtm"
-  ],
-  "Scout": [
-    "prometheus' excuse.mtm"
-  ],
-  "Shock Wave": [
-    "auxiliary power.mtm",
-    "hallucination.mtm"
-  ],
-  "Silent Mode": [
-    "16try.mtm",
-    "angel.mtm",
-    "blade runner.mtm",
-    "can't get you out of.mtm",
-    "cctt.mtm",
-    "chip22.mtm",
-    "claudia.mtm",
-    "doop.mtm",
-    "dream of love.mtm",
-    "dreem.mtm",
-    "dreem v2.mtm",
-    "fiction.mtm",
-    "flight 182.mtm",
-    "flintstones (2nd version).mtm",
-    "flintstones.mtm",
-    "folks.mtm",
-    "for you.mtm",
-    "fs2.mtm",
-    "fullmoon.mtm",
-    "future dimension - end of eden.mtm",
-    "future dimension - eternity (looped).mtm",
-    "future dimension - eternity.mtm",
-    "future dimension - future dimension (end version).mtm",
-    "future dimension - future dimension.mtm",
-    "future dimension - int (level 1).mtm",
-    "future dimension - jimi's world.mtm",
-    "future dimension - lost in space.mtm",
-    "future dimension - lz1 (level 4).mtm",
-    "future dimension - mt (level 2).mtm",
-    "geee.mtm",
-    "gypsy.mtm",
-    "happy2.mtm",
-    "happy.mtm",
-    "hope.mtm",
-    "i like it!.mtm",
-    "innocence.mtm",
-    "jimcd2.mtm",
-    "keep on movin'.mtm",
-    "klass.mtm",
-    "last minute.mtm",
-    "l'esperanza.mtm",
-    "lost in space (fast mix).mtm",
-    "make it.mtm",
-    "massive.mtm",
-    "mastermind.mtm",
-    "missing you.mtm",
-    "moutm.mtm",
-    "nervous breakdown.mtm",
-    "nightball.mtm",
-    "no good.mtm",
-    "no good (start the dance).mtm",
-    "ouverture.mtm",
-    "pendemo.mtm",
-    "pump it up.mtm",
-    "rere.mtm",
-    "sea.mtm",
-    "silent voices.mtm",
-    "stand up.mtm",
-    "subreal.mtm",
-    "suck remix.mtm",
-    "sweet lips.mtm",
-    "synphobia.mtm",
-    "talkin' loud.mtm",
-    "tcct.mtm",
-    "thecc.mtm",
-    "torture 2.mtm",
-    "torture 3.mtm",
-    "trance.mtm",
-    "trpi.mtm",
-    "veiled face.mtm",
-    "yess.mtm"
-  ],
-  "Slaughter": [
-    "kantri.mtm",
-    "karakara!.mtm",
-    "satanen.mtm"
-  ],
-  "Snowman": [
-    "death & destruction.mtm",
-    "for michelle.mtm"
-  ],
-  "Solution": [
-    "weird vocals.mtm"
-  ],
-  "Sonic Enigma": [
-    "the goth's playground.mtm"
-  ],
-  "Soulciety": [
-    "bleu ciel.mtm",
-    "magnanimity.mtm",
-    "nobility of soul.mtm"
-  ],
-  "Soundwave (US)": [
-    "bayshore.mtm",
-    "black hole.mtm",
-    "compucircuit.mtm",
-    "e-56172.mtm",
-    "inferno -sw- [astek].mtm",
-    "into a world unknown.mtm",
-    "love at first.mtm",
-    "mini voyage.mtm",
-    "port delta x.mtm",
-    "power up.mtm",
-    "the ocean frontier.mtm",
-    "time drift 2.0.mtm",
-    "time drift.mtm"
-  ],
-  "Spinal Fluid": [
-    "extraterrestrial.mtm"
-  ],
-  "Splattered Mind": [
-    "waiting for more.mtm"
-  ],
-  "Spud": [
-    "rainfall downtown.mtm",
-    "sequence.mtm"
-  ],
-  "Stalker (other)": [
-    "cloak.mtm",
-    "synapsis - yet.mtm"
-  ],
-  "Starscream": [
-    "digital harmonics.mtm"
-  ],
-  "Stranger": [
-    "digital butterfly.mtm",
-    "double a (acid ache).mtm",
-    "gonna loose ma mind.mtm",
-    "mysterious galaxy.mtm"
-  ],
-  "Sybaris": [
-    "absolve the ambience.mtm",
-    "celestial vision.mtm",
-    "dreamscapes.mtm",
-    "indiepunk 2.mtm",
-    "indie-punk.mtm",
-    "mischief.mtm",
-    "odyssey.mtm"
-  ],
-  "Synthfreak": [
-    "no one.mtm"
-  ],
-  "Terriblie": [
-    "joy, tickle, love.mtm",
-    "mass of bass.mtm",
-    "now that was hell.mtm"
-  ],
-  "The Black Hand": [
-    "distractions.mtm"
-  ],
-  "The Hacker": [
-    "1 mig down.mtm",
-    "alarm.mtm",
-    "alpha quadrant.mtm",
-    "bassfromouterspace.mtm",
-    "binary relic.mtm",
-    "blind.mtm",
-    "bothsidesofthem00n.mtm",
-    "caustic.mtm",
-    "chaotic flux.mtm",
-    "cliche.mtm",
-    "creepy.mtm",
-    "distant sphere.mtm",
-    "disturbance.mtm",
-    "found (part 1).mtm",
-    "fragment.mtm",
-    "fresh kill #62.mtm",
-    "grand theft sample.mtm",
-    "icecap.mtm",
-    "ifionlyhadabrain3rmx.mtm",
-    "iterate.mtm",
-    "laundered.mtm",
-    "march of the digits.mtm",
-    "microcosm2000 ics.mtm",
-    "middle.mtm",
-    "mindmeld.mtm",
-    "minimal.mtm",
-    "number crunch.mtm",
-    "opposition.mtm",
-    "p0lar b0nd.mtm",
-    "percussive pastorale.mtm",
-    "planetecho.mtm",
-    "progress.mtm",
-    "quiver-=braindead ii.mtm",
-    "quothmelodicjam.mtm",
-    "riddim.mtm",
-    "scanning a multitude.mtm",
-    "seven sixteen.mtm",
-    "silentkiller.mtm",
-    "slow descent.mtm",
-    "stack overflow error.mtm",
-    "strange turn.mtm",
-    "stressed monotony.mtm",
-    "technoderivative don.mtm",
-    "the 2nd wipeout.mtm",
-    "the edge of within.mtm",
-    "themindcore.mtm",
-    "tothecity.mtm",
-    "tranceatlanticflightl.mtm",
-    "tranceducer.mtm",
-    "vision of now.mtm",
-    "war.mtm",
-    "winding down.mtm"
-  ],
-  "The Prodigy": [
-    "effervescence.mtm"
-  ],
-  "The Rew": [
-    "an android dreams.mtm",
-    "kobalt.mtm",
-    "mindwinds.mtm",
-    "omnicron principle.mtm",
-    "party time!.mtm",
-    "party time.mtm",
-    "the mask of emotions.mtm"
-  ],
-  "The Watchman": [
-    "rot.mtm"
-  ],
-  "Thorax": [
-    "endless space.mtm"
-  ],
-  "Thrasher": [
-    "carpe.mtm",
-    "creamsicle.mtm"
-  ],
-  "Tom Fleming": [
-    "rainland.mtm"
-  ],
-  "Tran": [
-    "rain.mtm",
-    "sunspots.mtm",
-    "tidal wave.mtm"
-  ],
-  "Trap": [
-    "sexual disaster!.mtm"
-  ],
-  "Trixter": [
-    "chromatiks intro.mtm"
-  ],
-  "Vanir": [
-    "etherial.mtm",
-    "ministry-a-burst.mtm"
-  ],
-  "Vertigo": [
-    "mustard.mtm"
-  ],
-  "Vlad Dracl": [
-    "funkin' goovin!.mtm"
-  ],
-  "War Pig": [
-    "mst3k mountain hop.mtm"
-  ],
-  "Warp (CA)": [
-    "born in the night.mtm",
-    "electrik james.mtm",
-    "in motion.mtm",
-    "moving in the night.mtm",
-    "new bass.mtm",
-    "night adventure.mtm",
-    "pangai.mtm",
-    "through the life.mtm"
-  ],
-  "Wyvern": [
-    "march of the paladin.mtm"
-  ],
-  "Xiola Blue": [
-    "esatu.mtm"
-  ],
-  "ZackmanO": [
-    "coop-Scarecrow/for whom the bell tolls.mtm",
-    "death of the warrior.mtm",
-    "speed metal.mtm",
-    "suck.mtm",
-    "thunda.mtm",
-    "thunder kiss.mtm"
-  ]
-}
+[
+  {
+    "tracker": "Multitracker",
+    "composer": "4U4",
+    "song": "spin.mtm",
+    "size": "300462"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "AIF",
+    "song": "anonymous in 4ce.mtm",
+    "size": "162637"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Alternate Prism",
+    "song": "color of rave.mtm",
+    "size": "409143"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Alternate Prism",
+    "song": "diamond eyes.mtm",
+    "size": "251415"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Alternate Prism",
+    "song": "dreamer dream.mtm",
+    "size": "182425"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Alternate Prism",
+    "song": "east wind stream.mtm",
+    "size": "111995"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Alternate Prism",
+    "song": "eternal friend.mtm",
+    "size": "137293"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Alternate Prism",
+    "song": "fantasia red.mtm",
+    "size": "204865"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Alternate Prism",
+    "song": "free spirit.mtm",
+    "size": "341966"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Alternate Prism",
+    "song": "into the vortex.mtm",
+    "size": "282460"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Alternate Prism",
+    "song": "judgement day.mtm",
+    "size": "436565"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Alternate Prism",
+    "song": "rave to xtremes.mtm",
+    "size": "397163"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Anarky",
+    "song": "hard trax - nohouse remix.mtm",
+    "size": "397834"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Andrew Clear",
+    "song": "leslie.mtm",
+    "size": "124229"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Andrew Clear",
+    "song": "peaceful state of bliss.mtm",
+    "size": "38289"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Andrew Clear",
+    "song": "the stand.mtm",
+    "size": "133461"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ankst",
+    "song": "blue dress.mtm",
+    "size": "103381"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ankst",
+    "song": "when the children cry.mtm",
+    "size": "148651"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Asle",
+    "song": "reborn from a brain.mtm",
+    "size": "111755"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Astek",
+    "song": "hacksaw.mtm",
+    "size": "185368"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "AXK",
+    "song": "metal storm.mtm",
+    "size": "255050"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Beatwrecked",
+    "song": "refused again.mtm",
+    "size": "261999"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Beatwrecked",
+    "song": "refusing...wildfires.mtm",
+    "size": "286595"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Benny",
+    "song": "alert on the moon!.mtm",
+    "size": "96638"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Benny",
+    "song": "apocalyptic war 1.mtm",
+    "size": "71097"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Benny",
+    "song": "feel the realm.mtm",
+    "size": "83561"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Benny",
+    "song": "galaxy express 999.mtm",
+    "size": "65579"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Benny",
+    "song": "guetto blast.mtm",
+    "size": "106315"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Benny",
+    "song": "hysteria.mtm",
+    "size": "161241"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Benny",
+    "song": "medley for blur-3.mtm",
+    "size": "112760"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Benny",
+    "song": "mix01.mtm",
+    "size": "223061"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Benny",
+    "song": "rha eat!.mtm",
+    "size": "175579"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Benny",
+    "song": "this beat is hot.mtm",
+    "size": "287485"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Blaze Runner",
+    "song": "sounds of war.mtm",
+    "size": "148108"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Bluebeard",
+    "song": "bagota the min mod.mtm",
+    "size": "182255"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Bluebeard",
+    "song": "helpless hope.mtm",
+    "size": "123943"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Bluebeard",
+    "song": "nothing left.mtm",
+    "size": "247734"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Bluebeard",
+    "song": "satiety.mtm",
+    "size": "168408"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Blurry",
+    "song": "a.w.o.l.mtm",
+    "size": "178997"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Breeze",
+    "song": "dark sphere.mtm",
+    "size": "88962"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Breeze",
+    "song": "deep marble.mtm",
+    "size": "183459"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Breeze",
+    "song": "funktsip.mtm",
+    "size": "19630"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Breeze",
+    "song": "lauteiden varjossa 2.mtm",
+    "size": "13214"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Breeze",
+    "song": "magnificat.mtm",
+    "size": "220973"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Breeze",
+    "song": "pseudo-baroquedream.mtm",
+    "size": "148337"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Breeze",
+    "song": "something's amiss.mtm",
+    "size": "10277"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Breeze",
+    "song": "spruce hill.mtm",
+    "size": "305213"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Cavekix",
+    "song": "the cavekix special.mtm",
+    "size": "95823"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "CC Catch",
+    "song": "chaotic dance.mtm",
+    "size": "197523"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "CC Catch",
+    "song": "dreamy nights.mtm",
+    "size": "217301"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "CC Catch",
+    "song": "epidemic introtune.mtm",
+    "size": "213669"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "CC Catch",
+    "song": "modern society.mtm",
+    "size": "351478"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "CC Catch",
+    "song": "neurologic.mtm",
+    "size": "295451"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "CC Catch",
+    "song": "sacred grounds.mtm",
+    "size": "187128"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "CC Catch",
+    "song": "spiritual dance.mtm",
+    "size": "203318"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "CC Catch",
+    "song": "story of faith.mtm",
+    "size": "220583"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "CC Catch",
+    "song": "the great escape.mtm",
+    "size": "259781"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "CC Catch",
+    "song": "time bomb!.mtm",
+    "size": "382867"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Cerebus",
+    "song": "winter.mtm",
+    "size": "406804"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Chris Rizzo",
+    "song": "come as you are.mtm",
+    "size": "167958"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Clement Poon",
+    "song": "out of touch 95.mtm",
+    "size": "216590"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Clement Poon",
+    "song": "power syndicate.mtm",
+    "size": "249527"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Commodore Phil",
+    "song": "sidewire.mtm",
+    "size": "127991"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Cosmic",
+    "song": "frogelvis.mtm",
+    "size": "191171"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "CR",
+    "song": "classic.mtm",
+    "size": "168733"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Cube",
+    "song": "journey.mtm",
+    "size": "310054"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Cuhl",
+    "song": "christmas jambori.mtm",
+    "size": "218032"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Dark Helmet",
+    "song": "kozmik.mtm",
+    "size": "151132"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Dark Helmet",
+    "song": "mtm.mtm",
+    "size": "66241"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Davey Flop-It",
+    "song": "erased.mtm",
+    "size": "180332"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Deepwave",
+    "song": "dream into trance !.mtm",
+    "size": "330603"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Digital Effects",
+    "song": "act of convienience.mtm",
+    "size": "246287"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "DJ Skyjump",
+    "song": "extermination.mtm",
+    "size": "450239"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "DJ Skyjump",
+    "song": "new age dream.mtm",
+    "size": "220861"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "DJ Skyjump",
+    "song": "new project remix'94.mtm",
+    "size": "294543"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "DJ Skyjump",
+    "song": "sleep with me rmx'94.mtm",
+    "size": "267121"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Doktor Meltdown",
+    "song": "brave new world.mtm",
+    "size": "372091"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Doktor Meltdown",
+    "song": "helter shmelter.mtm",
+    "size": "402903"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Doktor Meltdown",
+    "song": "mamu bara corroboree.mtm",
+    "size": "318484"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Domino",
+    "song": "darkness holds me.mtm",
+    "size": "136438"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Domino",
+    "song": "night of despair.mtm",
+    "size": "161721"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Doomsday",
+    "song": "dark quazar.mtm",
+    "size": "211161"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Doomsday",
+    "song": "genetic incident.mtm",
+    "size": "284803"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Doomsday",
+    "song": "into the void.mtm",
+    "size": "188225"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Doomsday",
+    "song": "litany.mtm",
+    "size": "292309"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Doomsday",
+    "song": "lucky day.mtm",
+    "size": "100433"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Doomsday",
+    "song": "slave world.mtm",
+    "size": "244363"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Doomsday",
+    "song": "space vacuum.mtm",
+    "size": "315467"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "El Blanco",
+    "song": "adokai' trutoi.mtm",
+    "size": "288729"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "El Blanco",
+    "song": "ambience.mtm",
+    "size": "171509"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "El Blanco",
+    "song": "dogorashi agran.mtm",
+    "size": "310013"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "El Blanco",
+    "song": "electric solitude.mtm",
+    "size": "244505"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "El Blanco",
+    "song": "magnum.mtm",
+    "size": "228205"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "El Blanco",
+    "song": "milodius.mtm",
+    "size": "184082"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "El Blanco",
+    "song": "net-runner.mtm",
+    "size": "327014"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "El Blanco",
+    "song": "plink (remix1).mtm",
+    "size": "310305"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "El Blanco",
+    "song": "praxis overload.mtm",
+    "size": "161541"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "El Blanco",
+    "song": "psalm.mtm",
+    "size": "253555"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "El Blanco",
+    "song": "techme ii.mtm",
+    "size": "308426"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "El Blanco",
+    "song": "technome song.mtm",
+    "size": "152358"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "El Blanco",
+    "song": "the new world.mtm",
+    "size": "296207"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "El Blanco",
+    "song": "time.mtm",
+    "size": "406433"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Fairlight",
+    "song": "flying in saturn's rings.mtm",
+    "size": "254938"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Falcon (CA)",
+    "song": "distant light.mtm",
+    "size": "194354"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Falcon (CA)",
+    "song": "fusion.mtm",
+    "size": "237713"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Farmer",
+    "song": "bass face.mtm",
+    "size": "120330"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Farmer",
+    "song": "if you don't dance.mtm",
+    "size": "150467"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Farmer",
+    "song": "it's always hard.mtm",
+    "size": "171556"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Farmer",
+    "song": "just plain epic.mtm",
+    "size": "151557"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Farmer",
+    "song": "mysterious feeling.mtm",
+    "size": "145099"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Farmer",
+    "song": "power.mtm",
+    "size": "75237"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Farmer",
+    "song": "techno rock.mtm",
+    "size": "126821"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Farmer",
+    "song": "tension.mtm",
+    "size": "124869"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Farmer",
+    "song": "tragically techno.mtm",
+    "size": "110444"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Farmer",
+    "song": "winter techno.mtm",
+    "size": "183850"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Fatts Mann",
+    "song": "canon and ken.mtm",
+    "size": "249109"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Fatts Mann",
+    "song": "soniks.mtm",
+    "size": "269545"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Forensic Medicine",
+    "song": "and justice for all.mtm",
+    "size": "237125"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Forensic Medicine",
+    "song": "disarm.mtm",
+    "size": "146181"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Forensic Medicine",
+    "song": "heart shaped box.mtm",
+    "size": "188132"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Fortunato",
+    "song": "after midnight - city of lights mix.mtm",
+    "size": "588609"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Fortunato",
+    "song": "after midnight - club darkness edit.mtm",
+    "size": "562118"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Fortunato",
+    "song": "after midnight.mtm",
+    "size": "379555"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Fortunato",
+    "song": "after midnight - rev 2.mtm",
+    "size": "433602"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Fortunato",
+    "song": "frequency.mtm",
+    "size": "674733"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Fortunato",
+    "song": "the midnight breed.mtm",
+    "size": "809462"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Fortunato",
+    "song": "twelve 'oh one.mtm",
+    "size": "197335"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Fractal Knight",
+    "song": "trapped in reality.mtm",
+    "size": "108935"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Gaston",
+    "song": "mdma & thc (gan).mtm",
+    "size": "291075"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Gaston",
+    "song": "outro.mtm",
+    "size": "125189"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Gaston",
+    "song": "sterne rmx '95 (gan).mtm",
+    "size": "246103"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Gus",
+    "song": "euphoric pleasures.mtm",
+    "size": "208533"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Gus",
+    "song": "treasure island.mtm",
+    "size": "207629"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Gus",
+    "song": "trip0matic.mtm",
+    "size": "119306"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Hadji",
+    "song": "acid drop.mtm",
+    "size": "172988"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Hawkdagger",
+    "song": "the fall.mtm",
+    "size": "184495"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Hayato Tanaka",
+    "song": "go west v1.02.mtm",
+    "size": "911500"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Hellspawn",
+    "song": "introsong 1.mtm",
+    "size": "74981"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Hellspawn",
+    "song": "mell.mtm",
+    "size": "48635"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Hellspawn",
+    "song": "underdark2.mtm",
+    "size": "166791"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Hypertech",
+    "song": "mello tekno 1994.mtm",
+    "size": "310841"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Hypertech",
+    "song": "solar rays.mtm",
+    "size": "66235"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Infra",
+    "song": "friends'll be friend.mtm",
+    "size": "657889"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Inspekdah Deck",
+    "song": "cougarstory-ii.mtm",
+    "size": "977276"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Inspekdah Deck",
+    "song": "el trago klf remix +.mtm",
+    "size": "704896"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Inspekdah Deck",
+    "song": "flintedstones klfmix.mtm",
+    "size": "835892"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Inspekdah Deck",
+    "song": "funk that - klf mix.mtm",
+    "size": "670786"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Inspekdah Deck",
+    "song": "houzparti i.mtm",
+    "size": "491322"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Inspekdah Deck",
+    "song": "klf is alive!.mtm",
+    "size": "618080"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Inspekdah Deck",
+    "song": "klf zymbal.mtm",
+    "size": "762494"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Inspekdah Deck",
+    "song": "liquid rave.mtm",
+    "size": "689387"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Inspekdah Deck",
+    "song": "oldskool.mtm",
+    "size": "765004"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Inspekdah Deck",
+    "song": "the expressway.mtm",
+    "size": "349638"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Inspekdah Deck",
+    "song": "tribal quest.mtm",
+    "size": "859847"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Inspekdah Deck",
+    "song": "words.mtm",
+    "size": "679135"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Inspekdah Deck",
+    "song": "xtravaganza.mtm",
+    "size": "774212"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Iq",
+    "song": "my way to area 51.mtm",
+    "size": "741604"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Iq",
+    "song": "suction regulator 2.mtm",
+    "size": "517403"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Iron",
+    "song": "kilk.mtm",
+    "size": "28823"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Island of Reil",
+    "song": "cadencia.mtm",
+    "size": "96463"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Island of Reil",
+    "song": "dac '95.mtm",
+    "size": "225385"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Iza Man",
+    "song": "my life.mtm",
+    "size": "448307"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Jace Cavacini",
+    "song": "glider in the sky.mtm",
+    "size": "219632"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "JayJay",
+    "song": "missing you!.mtm",
+    "size": "486485"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "JayJay",
+    "song": "shari lynn.mtm",
+    "size": "266999"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "JayJay",
+    "song": "wings of love.mtm",
+    "size": "245337"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Jay",
+    "song": "tech-jazz ii remix.mtm",
+    "size": "123764"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Jazz (DK)",
+    "song": "party vibrations.mtm",
+    "size": "254445"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "JC Stereo",
+    "song": "alfred j kwak remix.mtm",
+    "size": "338211"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "JC Stereo",
+    "song": "axel foley.mtm",
+    "size": "259130"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "JC Stereo",
+    "song": "coop-DJ Hilgy/hardcore vibes.mtm",
+    "size": "277914"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "JC Stereo",
+    "song": "coop-DJ Hilgy/ode to felix.mtm",
+    "size": "382794"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "JC Stereo",
+    "song": "i'll be there.mtm",
+    "size": "202538"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "JC Stereo",
+    "song": "i want to be a hippy.mtm",
+    "size": "300331"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "JC Stereo",
+    "song": "koffietijd-ravemix!.mtm",
+    "size": "204929"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "JC Stereo",
+    "song": "nothing like the.mtm",
+    "size": "269693"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "JC Stereo",
+    "song": "rave jopie part ii.mtm",
+    "size": "203159"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "JC Stereo",
+    "song": "world on fire.mtm",
+    "size": "306368"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Justin Coope",
+    "song": "digital mayhem.mtm",
+    "size": "222494"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Lankhmar",
+    "song": "minuet.mtm",
+    "size": "63696"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Lankhmar",
+    "song": "prelude in a major.mtm",
+    "size": "148817"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Leviathan",
+    "song": "14.mtm",
+    "size": "347199"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Leviathan",
+    "song": "final resolution.mtm",
+    "size": "215217"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Leviathan",
+    "song": "repentance.mtm",
+    "size": "90035"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Leviathan",
+    "song": "rising tide.mtm",
+    "size": "263453"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Lo'Canos",
+    "song": "epic fallacy.mtm",
+    "size": "172405"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Lo'Canos",
+    "song": "just one fix.mtm",
+    "size": "366351"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Lo'Canos",
+    "song": "sweet sobriety.mtm",
+    "size": "148108"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Lord Draxxon",
+    "song": "thru and through.mtm",
+    "size": "207005"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Lord Draxxon",
+    "song": "unpleasant justice.mtm",
+    "size": "238515"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Lurch",
+    "song": "bombing rwanda (remix).mtm",
+    "size": "1006388"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Lurch",
+    "song": "damn funky groove.mtm",
+    "size": "404052"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Lurch",
+    "song": "extacy beat.mtm",
+    "size": "245770"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Lurch",
+    "song": "jingle bells (santas smell mix).mtm",
+    "size": "832130"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Lurch",
+    "song": "jungle fever-kfmf.mtm",
+    "size": "810553"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Lurch",
+    "song": "the freakmaker.mtm",
+    "size": "422757"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "+10.mtm",
+    "size": "151645"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "30 below and rising.mtm",
+    "size": "215303"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "4 corruption mag.mtm",
+    "size": "102559"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "a christmas carol.mtm",
+    "size": "311431"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "acid grinch.mtm",
+    "size": "423263"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "acid, man!.mtm",
+    "size": "404345"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "agj.mtm",
+    "size": "350595"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "alpha bleep (extended version).mtm",
+    "size": "638935"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "alpha bleep.mtm",
+    "size": "243247"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "amplificator.mtm",
+    "size": "54990"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "aphex.mtm",
+    "size": "85684"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "are we here (remix).mtm",
+    "size": "697474"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "as i go.mtm",
+    "size": "110445"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "astronut.mtm",
+    "size": "415405"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "autocide.mtm",
+    "size": "517470"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "a workout for beats.mtm",
+    "size": "145776"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "bang a can.mtm",
+    "size": "201891"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "blah.mtm",
+    "size": "56467"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "blah poing.mtm",
+    "size": "91926"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "blah t12.mtm",
+    "size": "160703"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "bombing rwanda.mtm",
+    "size": "918352"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "breakfast in iran.mtm",
+    "size": "55066"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "burn.mtm",
+    "size": "213104"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "calling heaven remix.mtm",
+    "size": "404794"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "cars kill people.mtm",
+    "size": "330606"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "celestial ceason.mtm",
+    "size": "232648"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "cellar dweller.mtm",
+    "size": "197687"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "chill out.mtm",
+    "size": "86179"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "chrome insanity.mtm",
+    "size": "72325"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "clouds & goldenrod.mtm",
+    "size": "317025"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "come to me, ecstacy.mtm",
+    "size": "459196"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "computermadness.mtm",
+    "size": "16731"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "comrade aristide.mtm",
+    "size": "153788"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "coop-IQ/fascination.mtm",
+    "size": "559188"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "coop-IQ/hitchhikingreticulan.mtm",
+    "size": "822744"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "coop-Krystall/achaeta.mtm",
+    "size": "291617"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "coop-Phoenix/georgia.mtm",
+    "size": "220378"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "coop-The Hacker/second coming.mtm",
+    "size": "411921"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "cosmos.mtm",
+    "size": "425602"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "cosmotic.mtm",
+    "size": "41883"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "crazy.mtm",
+    "size": "48183"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "death from above.mtm",
+    "size": "237568"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "decembrr.mtm",
+    "size": "249389"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "deepdown.mtm",
+    "size": "425724"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "demolition.mtm",
+    "size": "209413"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "detune.mtm",
+    "size": "242728"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "down and dubby.mtm",
+    "size": "347796"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "draw yer guns-ii.mtm",
+    "size": "199710"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "dub gen.mtm",
+    "size": "42431"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "egg 2 menu tune.mtm",
+    "size": "42372"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "equalise.mtm",
+    "size": "329121"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "evaporation.mtm",
+    "size": "153422"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "fart.mtm",
+    "size": "90328"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "fashionable traffic.mtm",
+    "size": "618770"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "flashback.mtm",
+    "size": "155187"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "funk saboteur.mtm",
+    "size": "206220"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "gabbamonsta.mtm",
+    "size": "21653"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "galaxy remote.mtm",
+    "size": "129691"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "gas planet.mtm",
+    "size": "188879"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "genesys.mtm",
+    "size": "59354"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "gloria trip.mtm",
+    "size": "186978"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "gods remix.mtm",
+    "size": "319053"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "grin and bare it.mtm",
+    "size": "203768"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "happy as a planet.mtm",
+    "size": "172254"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "here it is.mtm",
+    "size": "333170"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "highvoltage remix.mtm",
+    "size": "355884"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "home cookin.mtm",
+    "size": "583734"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "hoover song.mtm",
+    "size": "33927"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "horde.01.mtm",
+    "size": "69105"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "horde battle theme.mtm",
+    "size": "46057"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "housey mix.mtm",
+    "size": "372412"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "housey.mtm",
+    "size": "156196"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "hyped.mtm",
+    "size": "327382"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "ibanchi jukebox.mtm",
+    "size": "342814"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "i haven't been held.mtm",
+    "size": "104451"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "ill electro.mtm",
+    "size": "187945"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "inates.mtm",
+    "size": "867192"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "ind.mtm",
+    "size": "82978"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "into my universe.mtm",
+    "size": "167415"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "itch i can't scratch.mtm",
+    "size": "327381"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "jesus in iran.mtm",
+    "size": "785439"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "journey to the center.mtm",
+    "size": "964293"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "jungle.mtm",
+    "size": "643012"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "jungle prelude.mtm",
+    "size": "567365"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "junglism.mtm",
+    "size": "399254"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "know the number.mtm",
+    "size": "151310"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "lclad.mtm",
+    "size": "123385"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "little green men.mtm",
+    "size": "433778"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "lodge of 3 globes.mtm",
+    "size": "577281"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "loend.mtm",
+    "size": "469442"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "loend (starship 96).mtm",
+    "size": "477349"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "madness [certified whacko mix].mtm",
+    "size": "385760"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "madness.mtm",
+    "size": "139713"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "mantra (star mix).mtm",
+    "size": "906050"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "martian sands.mtm",
+    "size": "301436"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "masstarvation.mtm",
+    "size": "249234"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "microprocess.mtm",
+    "size": "31319"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "mix conspiracy.mtm",
+    "size": "365359"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "modern society remix.mtm",
+    "size": "386828"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "murderous intentions.mtm",
+    "size": "494100"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "murmur.mtm",
+    "size": "181356"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "music for a transient planet.mtm",
+    "size": "424132"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "nation of noise.mtm",
+    "size": "339103"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "nimbus(analogcloud2).mtm",
+    "size": "172862"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "no stars - wnprod.mtm",
+    "size": "591585"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "oldies.mtm",
+    "size": "197526"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "one big oven.mtm",
+    "size": "644374"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "one track mind.mtm",
+    "size": "187113"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "on.mtm",
+    "size": "535568"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "path of the righteous.mtm",
+    "size": "618213"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "photoq.mtm",
+    "size": "182769"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "photoq (slow mo mix).mtm",
+    "size": "213056"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "pickle ball remix.mtm",
+    "size": "315842"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "play loud.mtm",
+    "size": "325308"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "pm dead.mtm",
+    "size": "68972"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "p. m. is d. - amrot.mtm",
+    "size": "317558"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "possession.mtm",
+    "size": "243794"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "psy orgy (7-11 mix).mtm",
+    "size": "430345"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "pukey muzik.mtm",
+    "size": "54189"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "quoth.mtm",
+    "size": "350823"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "reality cubed.mtm",
+    "size": "292672"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "rebirth of rave.mtm",
+    "size": "297420"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "re-in (ventolin).mtm",
+    "size": "414836"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "resonance 4.mtm",
+    "size": "200900"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "ressurection of klf.mtm",
+    "size": "756201"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "rollerskate.mtm",
+    "size": "252543"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "satellite of god.mtm",
+    "size": "400456"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "self esteem.mtm",
+    "size": "506524"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "shadow chaser.mtm",
+    "size": "621011"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "shadow chaser remix.mtm",
+    "size": "657897"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "sha gompa.mtm",
+    "size": "337797"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "shearing the pin.mtm",
+    "size": "734467"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "slow circle.mtm",
+    "size": "236170"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "slow circle (remix).mtm",
+    "size": "381756"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "smoking, white, protestant.mtm",
+    "size": "265465"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "somewhere out there.mtm",
+    "size": "639843"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "song without voice.mtm",
+    "size": "67067"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "sonic mindkiller.mtm",
+    "size": "318038"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "soulless-soulfoodmix.mtm",
+    "size": "322862"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "space butter.mtm",
+    "size": "225656"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "spacetrack(kosmosis).mtm",
+    "size": "154832"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "subsonic.mtm",
+    "size": "145446"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "suburban dub.mtm",
+    "size": "751891"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "suction regulator.mtm",
+    "size": "375229"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "supertron (flight mix).mtm",
+    "size": "452980"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "system check-head check.mtm",
+    "size": "248829"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "tea.mtm",
+    "size": "88507"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "terminal state.mtm",
+    "size": "103553"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "that noise.mtm",
+    "size": "530696"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "the coverup.mtm",
+    "size": "223953"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "the essence 2.mtm",
+    "size": "755944"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "the essence.mtm",
+    "size": "736560"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "the fahita speaks.mtm",
+    "size": "327571"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "the force.mtm",
+    "size": "364298"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "thelion & the lamb.mtm",
+    "size": "437543"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "the magic guitar.mtm",
+    "size": "158843"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "the organization.mtm",
+    "size": "339849"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "the wild side (fuzzep).mtm",
+    "size": "280769"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "the wings of faith.mtm",
+    "size": "704952"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "they're out there.mtm",
+    "size": "156345"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "tosev 3.mtm",
+    "size": "339499"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "trib.mtm",
+    "size": "63466"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "underground remix.mtm",
+    "size": "155517"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "violently happy.mtm",
+    "size": "661851"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "violent plaything.mtm",
+    "size": "535880"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "wacky fighting.mtm",
+    "size": "37345"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "wagon station.mtm",
+    "size": "332268"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "whack.mtm",
+    "size": "57267"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "what is love-ravemix.mtm",
+    "size": "403420"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "when you made the mountain - dubexcursionmx.mtm",
+    "size": "569401"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Maelcum",
+    "song": "why me.mtm",
+    "size": "234121"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Merrick Brown",
+    "song": "innerdub.mtm",
+    "size": "201945"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Michael McCormac",
+    "song": "end.mtm",
+    "size": "110344"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Michael McCormac",
+    "song": "pardon.mtm",
+    "size": "99229"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Michael McCormac",
+    "song": "trans.mtm",
+    "size": "131694"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mick The Punisher",
+    "song": "excess reremix.mtm",
+    "size": "391898"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mick The Punisher",
+    "song": "watch jazz.mtm",
+    "size": "53763"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mikki",
+    "song": "hippopotamuses cry.mtm",
+    "size": "469777"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mindchild",
+    "song": "intro.mtm",
+    "size": "300959"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mosaic",
+    "song": "electric mosaic.mtm",
+    "size": "375225"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mosaic",
+    "song": "ibanchi warrior.mtm",
+    "size": "527413"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mosaic",
+    "song": "sonic mindkiller.mtm",
+    "size": "416743"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "MR2",
+    "song": "lost in my fantasy.mtm",
+    "size": "263625"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mustard Man",
+    "song": "aggresive.mtm",
+    "size": "193610"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mustard Man",
+    "song": "angelevil.mtm",
+    "size": "225437"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mustard Man",
+    "song": "beg for mercy.mtm",
+    "size": "449289"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mustard Man",
+    "song": "can't stop! (a mix).mtm",
+    "size": "265667"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mustard Man",
+    "song": "can you move to this.mtm",
+    "size": "482041"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mustard Man",
+    "song": "countdown to groove.mtm",
+    "size": "484915"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mustard Man",
+    "song": "distorted terror!.mtm",
+    "size": "385025"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mustard Man",
+    "song": "grind.mtm",
+    "size": "371819"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mustard Man",
+    "song": "hallucinating.mtm",
+    "size": "303085"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mustard Man",
+    "song": "how does it feel.mtm",
+    "size": "451244"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mustard Man",
+    "song": "industry corporate.mtm",
+    "size": "328056"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mustard Man",
+    "song": "march of the mad ravers.mtm",
+    "size": "164127"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mustard Man",
+    "song": "no one can hear you.mtm",
+    "size": "776951"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mustard Man",
+    "song": "sirens.mtm",
+    "size": "951948"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mustard Man",
+    "song": "tragedy.mtm",
+    "size": "602628"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mute",
+    "song": "inca dream.mtm",
+    "size": "100659"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mysteryman",
+    "song": "darkride.mtm",
+    "size": "168753"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mysteryman",
+    "song": "seawave.mtm",
+    "size": "151278"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Mystic Image",
+    "song": "repeating solos.mtm",
+    "size": "110143"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nakita",
+    "song": "everchanging dream.mtm",
+    "size": "254241"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nemesis",
+    "song": "breakdown.mtm",
+    "size": "146361"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nemesis",
+    "song": "don't look back.mtm",
+    "size": "240613"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nemesis",
+    "song": "indian summer.mtm",
+    "size": "110531"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nemesis",
+    "song": "lightning...etc.mtm",
+    "size": "339039"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nemesis",
+    "song": "nightmare.mtm",
+    "size": "139859"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nemesis",
+    "song": "no compromise.mtm",
+    "size": "224162"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nemesis",
+    "song": "overdrive.mtm",
+    "size": "221257"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nemesis",
+    "song": "running the gauntlet.mtm",
+    "size": "306555"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nemesis",
+    "song": "so cruel.mtm",
+    "size": "231502"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nemesis",
+    "song": "symphony of light.mtm",
+    "size": "212403"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nemesis",
+    "song": "war & peace.mtm",
+    "size": "223281"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nemesis",
+    "song": "you rang.mtm",
+    "size": "33212"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nightmare Boy",
+    "song": "orgasm.mtm",
+    "size": "405973"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nomaniac",
+    "song": "connection.mtm",
+    "size": "151855"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nomaniac",
+    "song": "cosmico trancebam.mtm",
+    "size": "179877"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nomaniac",
+    "song": "crystallic.mtm",
+    "size": "173681"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nomaniac",
+    "song": "for everyone 95 remx.mtm",
+    "size": "145775"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nomaniac",
+    "song": "friday.mtm",
+    "size": "166903"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nomaniac",
+    "song": "like a bird remix.mtm",
+    "size": "262204"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nomaniac",
+    "song": "ode 2 fabian remix 1.mtm",
+    "size": "333427"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nomaniac",
+    "song": "ode 2 fabian remix 2t.mtm",
+    "size": "346783"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nomaniac",
+    "song": "romantic beach.mtm",
+    "size": "306042"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nomaniac",
+    "song": "soulful.mtm",
+    "size": "308601"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nomaniac",
+    "song": "sunday.mtm",
+    "size": "128655"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nomaniac",
+    "song": "tales of a hidden.mtm",
+    "size": "198341"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nomaniac",
+    "song": "the first reality.mtm",
+    "size": "294332"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nomaniac",
+    "song": "the mysterious guest.mtm",
+    "size": "158445"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nomaniac",
+    "song": "whenever i see.mtm",
+    "size": "247347"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nosferatu",
+    "song": "classical feelings.mtm",
+    "size": "206926"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nosferatu",
+    "song": "tropical sunset.mtm",
+    "size": "376173"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nukeface",
+    "song": "mine it.mtm",
+    "size": "229961"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Nukeface",
+    "song": "wake me.mtm",
+    "size": "65067"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ogre",
+    "song": "solace.mtm",
+    "size": "117455"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "O'Realitea",
+    "song": "nitethrills.mtm",
+    "size": "156083"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Orfeus",
+    "song": "selenium.mtm",
+    "size": "275887"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ovation",
+    "song": "ov-ation.mtm",
+    "size": "131783"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ovation",
+    "song": "twist and shoot.mtm",
+    "size": "86081"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Overhear",
+    "song": "relaxer-------3.mtm",
+    "size": "149971"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Pariah",
+    "song": "hybrid hype!.mtm",
+    "size": "407382"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Particle Man",
+    "song": "midnight blue.mtm",
+    "size": "75476"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "P. Engelen",
+    "song": "gabber.mtm",
+    "size": "344683"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "P. Engelen",
+    "song": "trancedome xperience.mtm",
+    "size": "389136"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Pest",
+    "song": "abyss of despair.mtm",
+    "size": "338149"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "PH",
+    "song": "alectrotechno!.mtm",
+    "size": "85829"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "427.mtm",
+    "size": "183289"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "9000 points of light.mtm",
+    "size": "9000"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "acceleration (howdy doody club mix).mtm",
+    "size": "143909"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "acceleration.mtm",
+    "size": "111405"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "aggroculture pnxklf.mtm",
+    "size": "183401"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "argonaut '94.mtm",
+    "size": "70785"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "arizona.mtm",
+    "size": "173175"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "av experimental #14.mtm",
+    "size": "106874"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "braindead.mtm",
+    "size": "82558"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "circus midget.mtm",
+    "size": "196147"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "circus.mtm",
+    "size": "182953"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "curse in reverse.mtm",
+    "size": "196104"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "d0wnt0wn.mtm",
+    "size": "164596"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "diseased.mtm",
+    "size": "194004"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "enough.is.not.enough.mtm",
+    "size": "155873"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "entropy (chaotic fluid mix).mtm",
+    "size": "184056"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "entropy.mtm",
+    "size": "188563"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "entropy (paranoid mix).mtm",
+    "size": "136571"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "error - corruption mix.mtm",
+    "size": "375401"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "ich bin scheiss.mtm",
+    "size": "37969"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "intrepid.mtm",
+    "size": "136723"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "i see.mtm",
+    "size": "9425"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "lead-acid folic mix.mtm",
+    "size": "177346"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "lead-acid.mtm",
+    "size": "149214"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "microscopic ]i[.mtm",
+    "size": "9973"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "mj is in heaven now.mtm",
+    "size": "263805"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "nervous breakdown (3 1-2 inch edit).mtm",
+    "size": "100705"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "nervous breakdown (extended mix).mtm",
+    "size": "125537"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "nervous breakdown-m.mtm",
+    "size": "126667"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "nervous breakdown.mtm",
+    "size": "99937"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "neurocide.mtm",
+    "size": "290517"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "no joke.mtm",
+    "size": "530927"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "placid darkness.mtm",
+    "size": "291968"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "saints of armageddon.mtm",
+    "size": "250515"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "supernova.mtm",
+    "size": "327610"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "the marauder.mtm",
+    "size": "205987"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "the red horizon.mtm",
+    "size": "303000"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "the wild side.mtm",
+    "size": "217887"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "verse in recurse.mtm",
+    "size": "291225"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Phoenix",
+    "song": "violent sunshine.mtm",
+    "size": "108052"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "PH",
+    "song": "pyct pdex.mtm",
+    "size": "241815"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Pozor",
+    "song": "destruction (part 2).mtm",
+    "size": "353948"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Prism",
+    "song": "remote control.mtm",
+    "size": "232615"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Psibelius",
+    "song": "casd v2.mtm",
+    "size": "168245"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Psibelius",
+    "song": "dream star.mtm",
+    "size": "337192"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Psibelius",
+    "song": "memoirs.mtm",
+    "size": "382307"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Psibelius",
+    "song": "serenade - shakertheme.mtm",
+    "size": "270720"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Psibelius",
+    "song": "starlight.2.mtm",
+    "size": "423319"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Psibelius",
+    "song": "storming heaven [v2].mtm",
+    "size": "371583"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Psibelius",
+    "song": "summer nights [v2].mtm",
+    "size": "339673"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Psibelius",
+    "song": "the remembrance [v2].mtm",
+    "size": "371850"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Psychotron",
+    "song": "easy going.mtm",
+    "size": "113853"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Psychotron",
+    "song": "virtual core.mtm",
+    "size": "109351"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "bells of aparteid ][.mtm",
+    "size": "168418"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "chickenfuneralmarch.mtm",
+    "size": "68879"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "coop-Ranger Rick/carnival acid haus.mtm",
+    "size": "239612"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "coop-The Hacker/northern lights qth.mtm",
+    "size": "170994"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "cybertoaster.mtm",
+    "size": "51904"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "deflection.mtm",
+    "size": "253058"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "endless epoch.mtm",
+    "size": "223623"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "fight ii.mtm",
+    "size": "186747"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "fisherman's libido.mtm",
+    "size": "376846"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "fitago yehaso rego.mtm",
+    "size": "90943"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "flight of the peanut.mtm",
+    "size": "123647"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "frozen life.mtm",
+    "size": "99193"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "glasscastle-runicmix.mtm",
+    "size": "256511"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "grip yer lip.mtm",
+    "size": "36609"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "inseparable.mtm",
+    "size": "82239"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "journey to the gate.mtm",
+    "size": "135552"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "laura kurtenbach.mtm",
+    "size": "82841"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "lost.mtm",
+    "size": "104339"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "master of christmas.mtm",
+    "size": "247285"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "meet mr. pog-face.mtm",
+    "size": "244354"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "native american techno.mtm",
+    "size": "181383"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "oh good lord.mtm",
+    "size": "198113"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "outer limits.mtm",
+    "size": "278772"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "phonecalltodjibouti.mtm",
+    "size": "385096"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "pickle ball.mtm",
+    "size": "265248"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "power-carnage 1.mtm",
+    "size": "55735"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "recall candlewhipmix.mtm",
+    "size": "145110"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "reptillian.mtm",
+    "size": "408711"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "seven against peeves.mtm",
+    "size": "226149"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "silent ill.mtm",
+    "size": "35937"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "slave to the curse.mtm",
+    "size": "210735"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "sleek.mtm",
+    "size": "137916"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "slumbering.mtm",
+    "size": "87019"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "swamp orgy.mtm",
+    "size": "205947"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "the blue lagoon.mtm",
+    "size": "242150"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "the hieracosphinx.mtm",
+    "size": "275692"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "twelve track mind.mtm",
+    "size": "198249"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "vorg the doom-beast.mtm",
+    "size": "352027"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Quarex",
+    "song": "warriors of the wind.mtm",
+    "size": "306522"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Rafael Lucero",
+    "song": "revival.mtm",
+    "size": "371501"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ranger Rick",
+    "song": "alpha gate.mtm",
+    "size": "97607"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ranger Rick",
+    "song": "caree.mtm",
+    "size": "90333"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ranger Rick",
+    "song": "control.mtm",
+    "size": "148036"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ranger Rick",
+    "song": "coop-Ankst/transgression.mtm",
+    "size": "177258"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ranger Rick",
+    "song": "coop-Ellipse/the circus.mtm",
+    "size": "165485"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ranger Rick",
+    "song": "dream baby.mtm",
+    "size": "220875"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ranger Rick",
+    "song": "jazz.mtm",
+    "size": "89733"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ranger Rick",
+    "song": "joy.mtm",
+    "size": "98406"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ranger Rick",
+    "song": "latin disco.mtm",
+    "size": "85543"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ranger Rick",
+    "song": "master plan.mtm",
+    "size": "92703"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ranger Rick",
+    "song": "metal 2.mtm",
+    "size": "159587"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ranger Rick",
+    "song": "mirror.mtm",
+    "size": "127628"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ranger Rick",
+    "song": "rankor.mtm",
+    "size": "68328"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ranger Rick",
+    "song": "return.mtm",
+    "size": "192125"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ranger Rick",
+    "song": "soma.mtm",
+    "size": "214949"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ranger Rick",
+    "song": "sweeper.mtm",
+    "size": "127975"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ranger Rick",
+    "song": "the mourning after.mtm",
+    "size": "180109"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ranger Rick",
+    "song": "vsm - acid mix.mtm",
+    "size": "110919"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Rush",
+    "song": "joseph mega-mix.mtm",
+    "size": "448009"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ryan Cramer",
+    "song": "geometric shadows.mtm",
+    "size": "326663"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ryan Cramer",
+    "song": "the beginning of the end.mtm",
+    "size": "324979"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Ryan Cramer",
+    "song": "the power of wind.mtm",
+    "size": "272955"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Scirocco",
+    "song": "naive.mtm",
+    "size": "316941"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Scoff",
+    "song": "gotham city.mtm",
+    "size": "403520"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Scout",
+    "song": "prometheus' excuse.mtm",
+    "size": "226939"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Shock Wave",
+    "song": "auxiliary power.mtm",
+    "size": "339523"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Shock Wave",
+    "song": "hallucination.mtm",
+    "size": "114527"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "16try.mtm",
+    "size": "262620"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "angel.mtm",
+    "size": "264919"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "blade runner.mtm",
+    "size": "410477"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "can't get you out of.mtm",
+    "size": "192013"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "cctt.mtm",
+    "size": "707145"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "chip22.mtm",
+    "size": "20275"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "claudia.mtm",
+    "size": "387586"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "doop.mtm",
+    "size": "262526"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "dream of love.mtm",
+    "size": "259359"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "dreem.mtm",
+    "size": "308482"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "dreem v2.mtm",
+    "size": "345213"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "fiction.mtm",
+    "size": "334854"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "flight 182.mtm",
+    "size": "858980"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "flintstones (2nd version).mtm",
+    "size": "417472"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "flintstones.mtm",
+    "size": "593649"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "folks.mtm",
+    "size": "320102"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "for you.mtm",
+    "size": "702754"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "fs2.mtm",
+    "size": "419049"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "fullmoon.mtm",
+    "size": "515233"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "future dimension - end of eden.mtm",
+    "size": "272913"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "future dimension - eternity (looped).mtm",
+    "size": "266593"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "future dimension - eternity.mtm",
+    "size": "197213"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "future dimension - future dimension (end version).mtm",
+    "size": "284829"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "future dimension - future dimension.mtm",
+    "size": "252232"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "future dimension - int (level 1).mtm",
+    "size": "230333"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "future dimension - jimi's world.mtm",
+    "size": "208240"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "future dimension - lost in space.mtm",
+    "size": "258073"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "future dimension - lz1 (level 4).mtm",
+    "size": "127049"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "future dimension - mt (level 2).mtm",
+    "size": "265400"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "geee.mtm",
+    "size": "269096"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "gypsy.mtm",
+    "size": "90867"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "happy2.mtm",
+    "size": "28623"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "happy.mtm",
+    "size": "83561"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "hope.mtm",
+    "size": "354442"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "i like it!.mtm",
+    "size": "279448"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "innocence.mtm",
+    "size": "264458"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "jimcd2.mtm",
+    "size": "861014"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "keep on movin'.mtm",
+    "size": "463835"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "klass.mtm",
+    "size": "285724"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "last minute.mtm",
+    "size": "776316"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "l'esperanza.mtm",
+    "size": "315140"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "lost in space (fast mix).mtm",
+    "size": "769695"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "make it.mtm",
+    "size": "277029"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "massive.mtm",
+    "size": "237078"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "mastermind.mtm",
+    "size": "335396"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "missing you.mtm",
+    "size": "214579"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "moutm.mtm",
+    "size": "662129"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "nervous breakdown.mtm",
+    "size": "305945"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "nightball.mtm",
+    "size": "252002"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "no good.mtm",
+    "size": "170727"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "no good (start the dance).mtm",
+    "size": "479893"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "ouverture.mtm",
+    "size": "163545"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "pendemo.mtm",
+    "size": "306782"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "pump it up.mtm",
+    "size": "291420"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "rere.mtm",
+    "size": "151995"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "sea.mtm",
+    "size": "253704"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "silent voices.mtm",
+    "size": "269296"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "stand up.mtm",
+    "size": "397022"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "subreal.mtm",
+    "size": "367325"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "suck remix.mtm",
+    "size": "419289"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "sweet lips.mtm",
+    "size": "165479"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "synphobia.mtm",
+    "size": "381674"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "talkin' loud.mtm",
+    "size": "203633"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "tcct.mtm",
+    "size": "726628"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "thecc.mtm",
+    "size": "878510"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "torture 2.mtm",
+    "size": "369623"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "torture 3.mtm",
+    "size": "406111"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "trance.mtm",
+    "size": "274741"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "trpi.mtm",
+    "size": "229818"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "veiled face.mtm",
+    "size": "239794"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Silent Mode",
+    "song": "yess.mtm",
+    "size": "391341"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Slaughter",
+    "song": "kantri.mtm",
+    "size": "52887"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Slaughter",
+    "song": "karakara!.mtm",
+    "size": "101489"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Slaughter",
+    "song": "satanen.mtm",
+    "size": "127627"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Snowman",
+    "song": "death & destruction.mtm",
+    "size": "168345"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Snowman",
+    "song": "for michelle.mtm",
+    "size": "220721"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Solution",
+    "song": "weird vocals.mtm",
+    "size": "208438"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Sonic Enigma",
+    "song": "the goth's playground.mtm",
+    "size": "73728"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Soulciety",
+    "song": "bleu ciel.mtm",
+    "size": "405081"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Soulciety",
+    "song": "magnanimity.mtm",
+    "size": "287121"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Soulciety",
+    "song": "nobility of soul.mtm",
+    "size": "351721"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Soundwave (US)",
+    "song": "bayshore.mtm",
+    "size": "303542"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Soundwave (US)",
+    "song": "black hole.mtm",
+    "size": "623369"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Soundwave (US)",
+    "song": "compucircuit.mtm",
+    "size": "276494"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Soundwave (US)",
+    "song": "e-56172.mtm",
+    "size": "510543"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Soundwave (US)",
+    "song": "inferno -sw- [astek].mtm",
+    "size": "874480"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Soundwave (US)",
+    "song": "into a world unknown.mtm",
+    "size": "259891"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Soundwave (US)",
+    "song": "love at first.mtm",
+    "size": "408337"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Soundwave (US)",
+    "song": "mini voyage.mtm",
+    "size": "88529"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Soundwave (US)",
+    "song": "port delta x.mtm",
+    "size": "284608"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Soundwave (US)",
+    "song": "power up.mtm",
+    "size": "305859"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Soundwave (US)",
+    "song": "the ocean frontier.mtm",
+    "size": "482075"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Soundwave (US)",
+    "song": "time drift 2.0.mtm",
+    "size": "397341"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Soundwave (US)",
+    "song": "time drift.mtm",
+    "size": "284799"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Spinal Fluid",
+    "song": "extraterrestrial.mtm",
+    "size": "222525"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Splattered Mind",
+    "song": "waiting for more.mtm",
+    "size": "307840"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Spud",
+    "song": "rainfall downtown.mtm",
+    "size": "144508"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Spud",
+    "song": "sequence.mtm",
+    "size": "212753"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "S. Rok",
+    "song": "new beginning!.mtm",
+    "size": "177166"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Stalker (other)",
+    "song": "cloak.mtm",
+    "size": "215007"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Stalker (other)",
+    "song": "synapsis - yet.mtm",
+    "size": "59509"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Starscream",
+    "song": "digital harmonics.mtm",
+    "size": "77100"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Stranger",
+    "song": "digital butterfly.mtm",
+    "size": "353825"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Stranger",
+    "song": "double a (acid ache).mtm",
+    "size": "175257"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Stranger",
+    "song": "gonna loose ma mind.mtm",
+    "size": "143914"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Stranger",
+    "song": "mysterious galaxy.mtm",
+    "size": "115723"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Sybaris",
+    "song": "absolve the ambience.mtm",
+    "size": "401866"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Sybaris",
+    "song": "celestial vision.mtm",
+    "size": "527328"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Sybaris",
+    "song": "dreamscapes.mtm",
+    "size": "313268"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Sybaris",
+    "song": "indiepunk 2.mtm",
+    "size": "512958"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Sybaris",
+    "song": "indie-punk.mtm",
+    "size": "389831"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Sybaris",
+    "song": "mischief.mtm",
+    "size": "449766"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Sybaris",
+    "song": "odyssey.mtm",
+    "size": "181090"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Synthfreak",
+    "song": "no one.mtm",
+    "size": "571886"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Terriblie",
+    "song": "joy, tickle, love.mtm",
+    "size": "364125"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Terriblie",
+    "song": "mass of bass.mtm",
+    "size": "329665"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Terriblie",
+    "song": "now that was hell.mtm",
+    "size": "377692"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Black Hand",
+    "song": "distractions.mtm",
+    "size": "307521"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "1 mig down.mtm",
+    "size": "240711"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "alarm.mtm",
+    "size": "29219"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "alpha quadrant.mtm",
+    "size": "139286"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "bassfromouterspace.mtm",
+    "size": "189894"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "binary relic.mtm",
+    "size": "80635"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "blind.mtm",
+    "size": "317780"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "bothsidesofthem00n.mtm",
+    "size": "438981"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "caustic.mtm",
+    "size": "58563"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "chaotic flux.mtm",
+    "size": "211531"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "cliche.mtm",
+    "size": "74097"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "creepy.mtm",
+    "size": "163011"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "distant sphere.mtm",
+    "size": "323641"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "disturbance.mtm",
+    "size": "199882"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "found (part 1).mtm",
+    "size": "388233"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "fragment.mtm",
+    "size": "47873"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "fresh kill #62.mtm",
+    "size": "243469"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "grand theft sample.mtm",
+    "size": "375174"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "icecap.mtm",
+    "size": "88280"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "ifionlyhadabrain3rmx.mtm",
+    "size": "297805"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "iterate.mtm",
+    "size": "172878"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "laundered.mtm",
+    "size": "562748"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "march of the digits.mtm",
+    "size": "215537"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "microcosm2000 ics.mtm",
+    "size": "294064"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "middle.mtm",
+    "size": "198265"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "mindmeld.mtm",
+    "size": "229278"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "minimal.mtm",
+    "size": "95433"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "number crunch.mtm",
+    "size": "47905"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "opposition.mtm",
+    "size": "120684"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "p0lar b0nd.mtm",
+    "size": "80285"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "percussive pastorale.mtm",
+    "size": "158133"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "planetecho.mtm",
+    "size": "224373"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "progress.mtm",
+    "size": "52637"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "quiver-=braindead ii.mtm",
+    "size": "105731"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "quothmelodicjam.mtm",
+    "size": "235931"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "riddim.mtm",
+    "size": "213996"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "scanning a multitude.mtm",
+    "size": "327495"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "seven sixteen.mtm",
+    "size": "168107"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "silentkiller.mtm",
+    "size": "298142"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "slow descent.mtm",
+    "size": "54695"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "stack overflow error.mtm",
+    "size": "170058"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "strange turn.mtm",
+    "size": "139280"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "stressed monotony.mtm",
+    "size": "124641"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "technoderivative don.mtm",
+    "size": "366539"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "the 2nd wipeout.mtm",
+    "size": "290706"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "the edge of within.mtm",
+    "size": "367561"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "themindcore.mtm",
+    "size": "194685"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "tothecity.mtm",
+    "size": "415975"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "tranceatlanticflightl.mtm",
+    "size": "178716"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "tranceducer.mtm",
+    "size": "203100"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "vision of now.mtm",
+    "size": "189393"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "war.mtm",
+    "size": "151295"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Hacker",
+    "song": "winding down.mtm",
+    "size": "199556"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Prodigy",
+    "song": "effervescence.mtm",
+    "size": "179480"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Rew",
+    "song": "an android dreams.mtm",
+    "size": "233427"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Rew",
+    "song": "kobalt.mtm",
+    "size": "2077"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Rew",
+    "song": "mindwinds.mtm",
+    "size": "399999"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Rew",
+    "song": "omnicron principle.mtm",
+    "size": "350892"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Rew",
+    "song": "party time!.mtm",
+    "size": "220474"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Rew",
+    "song": "party time.mtm",
+    "size": "210061"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Rew",
+    "song": "the mask of emotions.mtm",
+    "size": "555314"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "The Watchman",
+    "song": "rot.mtm",
+    "size": "271331"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Thorax",
+    "song": "endless space.mtm",
+    "size": "163643"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Thrasher",
+    "song": "carpe.mtm",
+    "size": "120296"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Thrasher",
+    "song": "creamsicle.mtm",
+    "size": "193983"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Tom Fleming",
+    "song": "rainland.mtm",
+    "size": "222455"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Tran",
+    "song": "rain.mtm",
+    "size": "86507"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Tran",
+    "song": "sunspots.mtm",
+    "size": "261565"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Tran",
+    "song": "tidal wave.mtm",
+    "size": "155715"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Trap",
+    "song": "sexual disaster!.mtm",
+    "size": "514756"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Trixter",
+    "song": "chromatiks intro.mtm",
+    "size": "128469"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "- unknown",
+    "song": "brittain bash.mtm",
+    "size": "299706"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "- unknown",
+    "song": "dandrif.mtm",
+    "size": "449126"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "- unknown",
+    "song": "elegiacal enigma.mtm",
+    "size": "201695"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "- unknown",
+    "song": "in god we trance.mtm",
+    "size": "1013687"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "- unknown",
+    "song": "manchester roc.mtm",
+    "size": "21234"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "- unknown",
+    "song": "manchesters sag.mtm",
+    "size": "13394"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "- unknown",
+    "song": "manchester toms.mtm",
+    "size": "19938"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "- unknown",
+    "song": "masonry.mtm",
+    "size": "133122"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "- unknown",
+    "song": "mystery story v0.9.mtm",
+    "size": "217795"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "- unknown",
+    "song": "no execuses.mtm",
+    "size": "164171"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "- unknown",
+    "song": "pushit.mtm",
+    "size": "66993"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "- unknown",
+    "song": "ren & stimpy song.mtm",
+    "size": "327677"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "- unknown",
+    "song": "thetest.mtm",
+    "size": "46411"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "- unknown",
+    "song": "timewarp.mtm",
+    "size": "81829"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "- unknown",
+    "song": "tribute to enigma.mtm",
+    "size": "211340"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "- unknown",
+    "song": "windseed.mtm",
+    "size": "264565"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "- unknown",
+    "song": "yell of the wind.mtm",
+    "size": "576176"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "- unknown",
+    "song": "zrg-body.mtm",
+    "size": "351069"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Vanir",
+    "song": "etherial.mtm",
+    "size": "101775"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Vanir",
+    "song": "ministry-a-burst.mtm",
+    "size": "42486"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Vertigo",
+    "song": "mustard.mtm",
+    "size": "192017"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Vlad Dracl",
+    "song": "funkin' goovin!.mtm",
+    "size": "382656"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Warp (CA)",
+    "song": "born in the night.mtm",
+    "size": "128558"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Warp (CA)",
+    "song": "electrik james.mtm",
+    "size": "228968"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Warp (CA)",
+    "song": "in motion.mtm",
+    "size": "223968"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Warp (CA)",
+    "song": "moving in the night.mtm",
+    "size": "157761"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Warp (CA)",
+    "song": "new bass.mtm",
+    "size": "223461"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Warp (CA)",
+    "song": "night adventure.mtm",
+    "size": "371476"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Warp (CA)",
+    "song": "pangai.mtm",
+    "size": "118856"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Warp (CA)",
+    "song": "through the life.mtm",
+    "size": "131102"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "War Pig",
+    "song": "mst3k mountain hop.mtm",
+    "size": "356725"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Wyvern",
+    "song": "march of the paladin.mtm",
+    "size": "236573"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "Xiola Blue",
+    "song": "esatu.mtm",
+    "size": "226095"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "ZackmanO",
+    "song": "coop-Scarecrow/for whom the bell tolls.mtm",
+    "size": "250854"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "ZackmanO",
+    "song": "death of the warrior.mtm",
+    "size": "97637"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "ZackmanO",
+    "song": "speed metal.mtm",
+    "size": "42922"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "ZackmanO",
+    "song": "suck.mtm",
+    "size": "134949"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "ZackmanO",
+    "song": "thunda.mtm",
+    "size": "77793"
+  },
+  {
+    "tracker": "Multitracker",
+    "composer": "ZackmanO",
+    "song": "thunder kiss.mtm",
+    "size": "96844"
+  }
+]

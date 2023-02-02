@@ -1,8 +1,26 @@
-{
-  "Thomas Hermann": [
-    "smp.blueangel69",
-    "smp.nightdawn",
-    "thm.blueangel69",
-    "thm.nightdawn"
-  ]
-}
+[
+  {
+    "tracker": "Thomas Hermann",
+    "composer": "Thomas Hermann",
+    "song": "smp.blueangel69",
+    "size": "47752"
+  },
+  {
+    "tracker": "Thomas Hermann",
+    "composer": "Thomas Hermann",
+    "song": "smp.nightdawn",
+    "size": "54068"
+  },
+  {
+    "tracker": "Thomas Hermann",
+    "composer": "Thomas Hermann",
+    "song": "thm.blueangel69",
+    "size": "11792"
+  },
+  {
+    "tracker": "Thomas Hermann",
+    "composer": "Thomas Hermann",
+    "song": "thm.nightdawn",
+    "size": "12176"
+  }
+]

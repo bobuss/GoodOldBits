@@ -1,34 +1,146 @@
-{
-  "Hydra": [
-    "last betrayal remix.omf",
-    "laxity remix.omf"
-  ],
-  "Tirana": [
-    "battle squadron.omf",
-    "biologii.omf",
-    "civilizationoid-c21.omf",
-    "do not worry.omf",
-    "extreme close-up.omf",
-    "frozen fields.omf",
-    "gr-field.omf",
-    "humbug-tra.omf",
-    "jangle intro.omf",
-    "lottovoitto.omf",
-    "s0ld my s0ul.omf",
-    "saddness-s my madness.omf",
-    "shiva furnace.omf",
-    "silent synths.omf",
-    "sonaric waves.omf",
-    "sukkarokki.omf",
-    "sweat dreams.omf",
-    "uubi duubi.omf"
-  ],
-  "Tonza": [
-    "p0rk kana.omf",
-    "shadows love.omf",
-    "tal.omf"
-  ],
-  "Viba": [
-    "zolo.omf"
-  ]
-}
+[
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Hydra",
+    "song": "last betrayal remix.omf",
+    "size": "14227"
+  },
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Hydra",
+    "song": "laxity remix.omf",
+    "size": "21100"
+  },
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Tirana",
+    "song": "battle squadron.omf",
+    "size": "10681"
+  },
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Tirana",
+    "song": "biologii.omf",
+    "size": "230400"
+  },
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Tirana",
+    "song": "civilizationoid-c21.omf",
+    "size": "171457"
+  },
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Tirana",
+    "song": "do not worry.omf",
+    "size": "34322"
+  },
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Tirana",
+    "song": "extreme close-up.omf",
+    "size": "125902"
+  },
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Tirana",
+    "song": "frozen fields.omf",
+    "size": "158338"
+  },
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Tirana",
+    "song": "gr-field.omf",
+    "size": "13163"
+  },
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Tirana",
+    "song": "humbug-tra.omf",
+    "size": "133211"
+  },
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Tirana",
+    "song": "jangle intro.omf",
+    "size": "129832"
+  },
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Tirana",
+    "song": "lottovoitto.omf",
+    "size": "200336"
+  },
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Tirana",
+    "song": "s0ld my s0ul.omf",
+    "size": "135694"
+  },
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Tirana",
+    "song": "saddness-s my madness.omf",
+    "size": "16242"
+  },
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Tirana",
+    "song": "shiva furnace.omf",
+    "size": "186879"
+  },
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Tirana",
+    "song": "silent synths.omf",
+    "size": "237123"
+  },
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Tirana",
+    "song": "sonaric waves.omf",
+    "size": "188264"
+  },
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Tirana",
+    "song": "sukkarokki.omf",
+    "size": "153031"
+  },
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Tirana",
+    "song": "sweat dreams.omf",
+    "size": "151720"
+  },
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Tirana",
+    "song": "uubi duubi.omf",
+    "size": "156551"
+  },
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Tonza",
+    "song": "p0rk kana.omf",
+    "size": "175645"
+  },
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Tonza",
+    "song": "shadows love.omf",
+    "size": "154209"
+  },
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Tonza",
+    "song": "tal.omf",
+    "size": "10222"
+  },
+  {
+    "tracker": "Onyx Music File",
+    "composer": "Viba",
+    "song": "zolo.omf",
+    "size": "195268"
+  }
+]

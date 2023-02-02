@@ -1,11 +1,20 @@
-{
-  "- unknown": [
-    "target em.ams"
-  ],
-  "MPS": [
-    "pure minds.ams"
-  ],
-  "Maruku": [
-    "reality cave-in!.ams"
-  ]
-}
+[
+  {
+    "tracker": "Extreme Tracker",
+    "composer": "Maruku",
+    "song": "reality cave-in!.ams",
+    "size": "342006"
+  },
+  {
+    "tracker": "Extreme Tracker",
+    "composer": "MPS",
+    "song": "pure minds.ams",
+    "size": "74935"
+  },
+  {
+    "tracker": "Extreme Tracker",
+    "composer": "- unknown",
+    "song": "target em.ams",
+    "size": "192730"
+  }
+]

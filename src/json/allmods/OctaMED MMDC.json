@@ -1,20 +1,86 @@
-{
-  "Ratt": [
-    "captain planet and the planeteers - 1.mmdc",
-    "captain planet and the planeteers - 2.mmdc",
-    "captain planet and the planeteers - 3.mmdc",
-    "captain planet and the planeteers - 4.mmdc",
-    "captain planet and the planeteers - 5.mmdc",
-    "captain planet and the planeteers - 6.mmdc",
-    "captain planet and the planeteers - title.mmdc"
-  ],
-  "Richard Joseph": [
-    "knightmare - death.mmdc",
-    "knightmare - ingame 1.mmdc",
-    "knightmare - ingame 2.mmdc",
-    "knightmare - ingame 3.mmdc",
-    "knightmare - ingame 4.mmdc",
-    "knightmare - title.mmdc",
-    "knightmare - victory.mmdc"
-  ]
-}
+[
+  {
+    "tracker": "OctaMED MMDC",
+    "composer": "Ratt",
+    "song": "captain planet and the planeteers - 1.mmdc",
+    "size": "59888"
+  },
+  {
+    "tracker": "OctaMED MMDC",
+    "composer": "Ratt",
+    "song": "captain planet and the planeteers - 2.mmdc",
+    "size": "47880"
+  },
+  {
+    "tracker": "OctaMED MMDC",
+    "composer": "Ratt",
+    "song": "captain planet and the planeteers - 3.mmdc",
+    "size": "41464"
+  },
+  {
+    "tracker": "OctaMED MMDC",
+    "composer": "Ratt",
+    "song": "captain planet and the planeteers - 4.mmdc",
+    "size": "49794"
+  },
+  {
+    "tracker": "OctaMED MMDC",
+    "composer": "Ratt",
+    "song": "captain planet and the planeteers - 5.mmdc",
+    "size": "53052"
+  },
+  {
+    "tracker": "OctaMED MMDC",
+    "composer": "Ratt",
+    "song": "captain planet and the planeteers - 6.mmdc",
+    "size": "62574"
+  },
+  {
+    "tracker": "OctaMED MMDC",
+    "composer": "Ratt",
+    "song": "captain planet and the planeteers - title.mmdc",
+    "size": "48088"
+  },
+  {
+    "tracker": "OctaMED MMDC",
+    "composer": "Richard Joseph",
+    "song": "knightmare - death.mmdc",
+    "size": "28970"
+  },
+  {
+    "tracker": "OctaMED MMDC",
+    "composer": "Richard Joseph",
+    "song": "knightmare - ingame 1.mmdc",
+    "size": "17572"
+  },
+  {
+    "tracker": "OctaMED MMDC",
+    "composer": "Richard Joseph",
+    "song": "knightmare - ingame 2.mmdc",
+    "size": "19140"
+  },
+  {
+    "tracker": "OctaMED MMDC",
+    "composer": "Richard Joseph",
+    "song": "knightmare - ingame 3.mmdc",
+    "size": "24716"
+  },
+  {
+    "tracker": "OctaMED MMDC",
+    "composer": "Richard Joseph",
+    "song": "knightmare - ingame 4.mmdc",
+    "size": "18178"
+  },
+  {
+    "tracker": "OctaMED MMDC",
+    "composer": "Richard Joseph",
+    "song": "knightmare - title.mmdc",
+    "size": "97468"
+  },
+  {
+    "tracker": "OctaMED MMDC",
+    "composer": "Richard Joseph",
+    "song": "knightmare - victory.mmdc",
+    "size": "27240"
+  }
+]

@@ -1,13 +1,44 @@
-{
-  "- unknown": [
-    "softhunter2.fnk"
-  ],
-  "JsNO": [
-    "battleship.fnk",
-    "cgm snow.fnk",
-    "christmas disco70.fnk",
-    "encountered.fnk",
-    "infinitum.fnk",
-    "real 2 superreal.fnk"
-  ]
-}
+[
+  {
+    "tracker": "Funktracker",
+    "composer": "JsNO",
+    "song": "battleship.fnk",
+    "size": "91023"
+  },
+  {
+    "tracker": "Funktracker",
+    "composer": "JsNO",
+    "song": "cgm snow.fnk",
+    "size": "93286"
+  },
+  {
+    "tracker": "Funktracker",
+    "composer": "JsNO",
+    "song": "christmas disco70.fnk",
+    "size": "198768"
+  },
+  {
+    "tracker": "Funktracker",
+    "composer": "JsNO",
+    "song": "encountered.fnk",
+    "size": "109672"
+  },
+  {
+    "tracker": "Funktracker",
+    "composer": "JsNO",
+    "song": "infinitum.fnk",
+    "size": "175065"
+  },
+  {
+    "tracker": "Funktracker",
+    "composer": "JsNO",
+    "song": "real 2 superreal.fnk",
+    "size": "172518"
+  },
+  {
+    "tracker": "Funktracker",
+    "composer": "- unknown",
+    "song": "softhunter2.fnk",
+    "size": "77737"
+  }
+]

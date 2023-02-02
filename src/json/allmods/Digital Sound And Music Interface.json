@@ -1,131 +1,632 @@
-{
-  "Anthony Putson": [
-    "pinball world - apollo.amf",
-    "pinball world - atlantic.amf",
-    "pinball world - bigben.amf",
-    "pinball world - canada.amf",
-    "pinball world - carjourney.amf",
-    "pinball world - desert.amf",
-    "pinball world - egypt.amf",
-    "pinball world - end.amf",
-    "pinball world - fareast.amf",
-    "pinball world - gameover.amf",
-    "pinball world - highscore.amf",
-    "pinball world - intro.amf",
-    "pinball world - lasvegas.amf",
-    "pinball world - lochness.amf",
-    "pinball world - lostball.amf",
-    "pinball world - newyork2.amf",
-    "pinball world - pacific.amf",
-    "pinball world - polar.amf",
-    "pinball world - spare cut.amf",
-    "pinball world - timeout.amf",
-    "pinball world - trainjourney.amf",
-    "pinball world - wagontrain.amf"
-  ],
-  "CC Catch": [
-    "voices everywhere.amf"
-  ],
-  "Fairnight": [
-    "age of stars.amf",
-    "a night on the ocean.amf",
-    "antiproton.amf",
-    "highway motion.amf",
-    "late at night.amf",
-    "metromania partie 1.amf",
-    "metro mania partie 3.amf",
-    "under a deep sky.amf"
-  ],
-  "George Villiers": [
-    "civil war - clear the tracks.amf",
-    "civil war - in dixies land.amf",
-    "civil war - johnny comes marching home.amf",
-    "civil war - just before the battle mother.amf",
-    "civil war - lincoln and liberty too.amf",
-    "civil war - maryland my maryland.amf",
-    "civil war - richmond is a hard road to travel.amf",
-    "civil war - roll alabama roll.amf",
-    "civil war - tenting on the old camp ground.amf",
-    "civil war - the battle cry of freedom (2nd version).amf",
-    "civil war - the battle cry of freedom.amf",
-    "civil war - the battle hymn of the republic.amf",
-    "civil war - the bonnie blue flag (2nd version).amf",
-    "civil war - the bonnie blue flag.amf",
-    "civil war - the cumberland crew.amf",
-    "civil war - the yellow rose of texas.amf",
-    "civil war - tramp tramp tramp.amf"
-  ],
-  "Maelcum": [
-    "found religion.amf",
-    "i am the fiercest.amf",
-    "sunday remix.amf",
-    "the tribal zone.amf",
-    "the way its gonna b.amf"
-  ],
-  "Nemesis": [
-    "indian summer.amf"
-  ],
-  "Nightshade": [
-    "aladdin - aladd.pc.amf",
-    "aladdin - wnw-v1.1.amf"
-  ],
-  "Sinbad": [
-    "beat it up.amf"
-  ],
-  "Soundwave": [
-    "bad talent - the deathdrome version (edit).amf",
-    "core for a dancer - a cancellor on coffebreak (at 170-mix).amf",
-    "core for a dancer (original).amf",
-    "illusion.amf",
-    "melting mind - trance.amf",
-    "playing piano.amf",
-    "stream - faster and louder.amf"
-  ],
-  "Toal Nkor": [
-    "around the fire.amf",
-    "astral voyage.amf",
-    "corinne dreams.amf",
-    "corinne dreams ii.amf",
-    "corinnology-original.amf",
-    "cosmos st.amf",
-    "count the aurochs !!!.amf",
-    "dematerialisations.amf",
-    "dimension.amf",
-    "dreamtime serenade.amf",
-    "escape from dulce base.amf",
-    "far over the seas.amf",
-    "gateway purgatory.amf",
-    "hans em schnaugaloch-original.amf",
-    "holloman contact - 30-4-64.amf",
-    "in corinne's eyes 2.amf",
-    "in corinne's eyes 3.amf",
-    "in corinne's eyes.amf",
-    "logarithmic digressions-original.amf",
-    "paradise islands.amf",
-    "peace and code-original.amf",
-    "rave yard.amf",
-    "roswell incident - 1947.amf",
-    "sub oceanic shuttle.amf",
-    "sundgau dawn.amf",
-    "tales of a psychokiller.amf",
-    "the shortgrey invasion.amf",
-    "transplanetary cruise.amf",
-    "voyage to katmandu.amf",
-    "wallace dance.amf",
-    "wonders of the oceans-original.amf",
-    "zac's experiences.amf"
-  ],
-  "Venom": [
-    "canon in d remix.amf",
-    "dont you want my lovin.amf",
-    "loosin my skill.amf",
-    "mami el negro.amf",
-    "pass me by.amf",
-    "revelution.amf",
-    "round house.amf",
-    "time warp.amf"
-  ],
-  "Yolk": [
-    "coop-Legend/eye.amf"
-  ]
-}
+[
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Anthony Putson",
+    "song": "pinball world - apollo.amf",
+    "size": "144888"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Anthony Putson",
+    "song": "pinball world - atlantic.amf",
+    "size": "187075"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Anthony Putson",
+    "song": "pinball world - bigben.amf",
+    "size": "170998"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Anthony Putson",
+    "song": "pinball world - canada.amf",
+    "size": "98134"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Anthony Putson",
+    "song": "pinball world - carjourney.amf",
+    "size": "50861"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Anthony Putson",
+    "song": "pinball world - desert.amf",
+    "size": "54394"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Anthony Putson",
+    "song": "pinball world - egypt.amf",
+    "size": "143752"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Anthony Putson",
+    "song": "pinball world - end.amf",
+    "size": "127238"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Anthony Putson",
+    "song": "pinball world - fareast.amf",
+    "size": "141031"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Anthony Putson",
+    "song": "pinball world - gameover.amf",
+    "size": "45696"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Anthony Putson",
+    "song": "pinball world - highscore.amf",
+    "size": "152712"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Anthony Putson",
+    "song": "pinball world - intro.amf",
+    "size": "281153"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Anthony Putson",
+    "song": "pinball world - lasvegas.amf",
+    "size": "100746"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Anthony Putson",
+    "song": "pinball world - lochness.amf",
+    "size": "84170"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Anthony Putson",
+    "song": "pinball world - lostball.amf",
+    "size": "46533"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Anthony Putson",
+    "song": "pinball world - newyork2.amf",
+    "size": "242190"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Anthony Putson",
+    "song": "pinball world - pacific.amf",
+    "size": "55868"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Anthony Putson",
+    "song": "pinball world - polar.amf",
+    "size": "205354"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Anthony Putson",
+    "song": "pinball world - spare cut.amf",
+    "size": "117696"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Anthony Putson",
+    "song": "pinball world - timeout.amf",
+    "size": "95813"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Anthony Putson",
+    "song": "pinball world - trainjourney.amf",
+    "size": "122295"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Anthony Putson",
+    "song": "pinball world - wagontrain.amf",
+    "size": "119290"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "CC Catch",
+    "song": "voices everywhere.amf",
+    "size": "168830"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Fairnight",
+    "song": "age of stars.amf",
+    "size": "373058"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Fairnight",
+    "song": "a night on the ocean.amf",
+    "size": "289354"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Fairnight",
+    "song": "antiproton.amf",
+    "size": "149763"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Fairnight",
+    "song": "highway motion.amf",
+    "size": "271674"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Fairnight",
+    "song": "late at night.amf",
+    "size": "198368"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Fairnight",
+    "song": "metromania partie 1.amf",
+    "size": "420127"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Fairnight",
+    "song": "metro mania partie 3.amf",
+    "size": "193860"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Fairnight",
+    "song": "under a deep sky.amf",
+    "size": "335799"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "George Villiers",
+    "song": "civil war - clear the tracks.amf",
+    "size": "140755"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "George Villiers",
+    "song": "civil war - in dixies land.amf",
+    "size": "172011"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "George Villiers",
+    "song": "civil war - johnny comes marching home.amf",
+    "size": "80441"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "George Villiers",
+    "song": "civil war - just before the battle mother.amf",
+    "size": "114286"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "George Villiers",
+    "song": "civil war - lincoln and liberty too.amf",
+    "size": "100197"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "George Villiers",
+    "song": "civil war - maryland my maryland.amf",
+    "size": "46682"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "George Villiers",
+    "song": "civil war - richmond is a hard road to travel.amf",
+    "size": "140395"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "George Villiers",
+    "song": "civil war - roll alabama roll.amf",
+    "size": "62443"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "George Villiers",
+    "song": "civil war - tenting on the old camp ground.amf",
+    "size": "146835"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "George Villiers",
+    "song": "civil war - the battle cry of freedom (2nd version).amf",
+    "size": "117164"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "George Villiers",
+    "song": "civil war - the battle cry of freedom.amf",
+    "size": "124196"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "George Villiers",
+    "song": "civil war - the battle hymn of the republic.amf",
+    "size": "172047"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "George Villiers",
+    "song": "civil war - the bonnie blue flag (2nd version).amf",
+    "size": "134684"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "George Villiers",
+    "song": "civil war - the bonnie blue flag.amf",
+    "size": "34941"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "George Villiers",
+    "song": "civil war - the cumberland crew.amf",
+    "size": "103237"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "George Villiers",
+    "song": "civil war - the yellow rose of texas.amf",
+    "size": "222181"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "George Villiers",
+    "song": "civil war - tramp tramp tramp.amf",
+    "size": "146695"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Maelcum",
+    "song": "found religion.amf",
+    "size": "189987"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Maelcum",
+    "song": "i am the fiercest.amf",
+    "size": "77297"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Maelcum",
+    "song": "sunday remix.amf",
+    "size": "107604"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Maelcum",
+    "song": "the tribal zone.amf",
+    "size": "133135"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Maelcum",
+    "song": "the way its gonna b.amf",
+    "size": "81401"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Nemesis",
+    "song": "indian summer.amf",
+    "size": "107923"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Nightshade",
+    "song": "aladdin - aladd.pc.amf",
+    "size": "218380"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Nightshade",
+    "song": "aladdin - wnw-v1.1.amf",
+    "size": "292684"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Sinbad",
+    "song": "beat it up.amf",
+    "size": "54230"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Soundwave",
+    "song": "bad talent - the deathdrome version (edit).amf",
+    "size": "333302"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Soundwave",
+    "song": "core for a dancer - a cancellor on coffebreak (at 170-mix).amf",
+    "size": "319467"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Soundwave",
+    "song": "core for a dancer (original).amf",
+    "size": "179356"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Soundwave",
+    "song": "illusion.amf",
+    "size": "273726"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Soundwave",
+    "song": "melting mind - trance.amf",
+    "size": "263843"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Soundwave",
+    "song": "playing piano.amf",
+    "size": "361448"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Soundwave",
+    "song": "stream - faster and louder.amf",
+    "size": "165600"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "around the fire.amf",
+    "size": "219727"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "astral voyage.amf",
+    "size": "125325"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "corinne dreams.amf",
+    "size": "206245"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "corinne dreams ii.amf",
+    "size": "262080"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "corinnology-original.amf",
+    "size": "329643"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "cosmos st.amf",
+    "size": "138520"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "count the aurochs !!!.amf",
+    "size": "126612"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "dematerialisations.amf",
+    "size": "93053"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "dimension.amf",
+    "size": "170075"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "dreamtime serenade.amf",
+    "size": "193925"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "escape from dulce base.amf",
+    "size": "269344"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "far over the seas.amf",
+    "size": "131775"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "gateway purgatory.amf",
+    "size": "181545"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "hans em schnaugaloch-original.amf",
+    "size": "301149"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "holloman contact - 30-4-64.amf",
+    "size": "89893"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "in corinne's eyes 2.amf",
+    "size": "211871"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "in corinne's eyes 3.amf",
+    "size": "207833"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "in corinne's eyes.amf",
+    "size": "150761"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "logarithmic digressions-original.amf",
+    "size": "244045"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "paradise islands.amf",
+    "size": "354344"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "peace and code-original.amf",
+    "size": "494750"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "rave yard.amf",
+    "size": "73813"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "roswell incident - 1947.amf",
+    "size": "144018"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "sub oceanic shuttle.amf",
+    "size": "285187"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "sundgau dawn.amf",
+    "size": "375458"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "tales of a psychokiller.amf",
+    "size": "57280"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "the shortgrey invasion.amf",
+    "size": "152744"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "transplanetary cruise.amf",
+    "size": "128907"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "voyage to katmandu.amf",
+    "size": "193911"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "wallace dance.amf",
+    "size": "529097"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "wonders of the oceans-original.amf",
+    "size": "263543"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Toal Nkor",
+    "song": "zac's experiences.amf",
+    "size": "206939"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Venom",
+    "song": "canon in d remix.amf",
+    "size": "183292"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Venom",
+    "song": "dont you want my lovin.amf",
+    "size": "375441"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Venom",
+    "song": "loosin my skill.amf",
+    "size": "346469"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Venom",
+    "song": "mami el negro.amf",
+    "size": "469170"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Venom",
+    "song": "pass me by.amf",
+    "size": "460683"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Venom",
+    "song": "revelution.amf",
+    "size": "220089"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Venom",
+    "song": "round house.amf",
+    "size": "254297"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Venom",
+    "song": "time warp.amf",
+    "size": "404552"
+  },
+  {
+    "tracker": "Digital Sound And Music Interface",
+    "composer": "Yolk",
+    "song": "coop-Legend/eye.amf",
+    "size": "677491"
+  }
+]

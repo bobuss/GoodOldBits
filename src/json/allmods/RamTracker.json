@@ -1,13 +1,56 @@
-{
-  "Toxic Volume": [
-    "coop-Graffity/inblue digital.trk",
-    "memphisto.trk",
-    "nato demo zakk.trk",
-    "nylonride.trk",
-    "piano shuffle.trk",
-    "polysynth dreams.trk",
-    "st. jarna.trk",
-    "szaftoshus.trk",
-    "the secret of the drawing cpu's.trk"
-  ]
-}
+[
+  {
+    "tracker": "RamTracker",
+    "composer": "Toxic Volume",
+    "song": "coop-Graffity/inblue digital.trk",
+    "size": "14677"
+  },
+  {
+    "tracker": "RamTracker",
+    "composer": "Toxic Volume",
+    "song": "memphisto.trk",
+    "size": "23519"
+  },
+  {
+    "tracker": "RamTracker",
+    "composer": "Toxic Volume",
+    "song": "nato demo zakk.trk",
+    "size": "15044"
+  },
+  {
+    "tracker": "RamTracker",
+    "composer": "Toxic Volume",
+    "song": "nylonride.trk",
+    "size": "21224"
+  },
+  {
+    "tracker": "RamTracker",
+    "composer": "Toxic Volume",
+    "song": "piano shuffle.trk",
+    "size": "16891"
+  },
+  {
+    "tracker": "RamTracker",
+    "composer": "Toxic Volume",
+    "song": "polysynth dreams.trk",
+    "size": "28643"
+  },
+  {
+    "tracker": "RamTracker",
+    "composer": "Toxic Volume",
+    "song": "st. jarna.trk",
+    "size": "23969"
+  },
+  {
+    "tracker": "RamTracker",
+    "composer": "Toxic Volume",
+    "song": "szaftoshus.trk",
+    "size": "22218"
+  },
+  {
+    "tracker": "RamTracker",
+    "composer": "Toxic Volume",
+    "song": "the secret of the drawing cpu's.trk",
+    "size": "13847"
+  }
+]

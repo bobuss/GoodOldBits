@@ -1,314 +1,1838 @@
-{
-  "- unknown": [
-    "Cadillacs & Dinosaurs/cadillacs & dinosaurs.qsflib",
-    "Cadillacs & Dinosaurs/cd00.miniqsf",
-    "Cadillacs & Dinosaurs/cd01.miniqsf",
-    "Cadillacs & Dinosaurs/cd02.miniqsf",
-    "Cadillacs & Dinosaurs/cd03.miniqsf",
-    "Cadillacs & Dinosaurs/cd04.miniqsf",
-    "Cadillacs & Dinosaurs/cd05.miniqsf",
-    "Cadillacs & Dinosaurs/cd06.miniqsf",
-    "Cadillacs & Dinosaurs/cd07.miniqsf",
-    "Cadillacs & Dinosaurs/cd08.miniqsf",
-    "Cadillacs & Dinosaurs/cd09.miniqsf",
-    "Cadillacs & Dinosaurs/cd0a.miniqsf",
-    "Cadillacs & Dinosaurs/cd0b.miniqsf",
-    "Cadillacs & Dinosaurs/cd0c.miniqsf",
-    "Cadillacs & Dinosaurs/cd0d.miniqsf",
-    "Cadillacs & Dinosaurs/cd0e.miniqsf",
-    "Cadillacs & Dinosaurs/cd0f.miniqsf",
-    "Cadillacs & Dinosaurs/cd10.miniqsf",
-    "Cadillacs & Dinosaurs/cd11.miniqsf",
-    "Cadillacs & Dinosaurs/cd12.miniqsf",
-    "Cadillacs & Dinosaurs/cd13.miniqsf",
-    "Cadillacs & Dinosaurs/cd14.miniqsf",
-    "Cadillacs & Dinosaurs/cd15.miniqsf",
-    "Cadillacs & Dinosaurs/cd16.miniqsf",
-    "Cadillacs & Dinosaurs/cd17.miniqsf",
-    "Cadillacs & Dinosaurs/cd18.miniqsf",
-    "Cadillacs & Dinosaurs/cd19.miniqsf",
-    "Cadillacs & Dinosaurs/cd1a.miniqsf",
-    "Cadillacs & Dinosaurs/cd1b.miniqsf",
-    "Cadillacs & Dinosaurs/cd1c.miniqsf",
-    "Cadillacs & Dinosaurs/cd1d.miniqsf",
-    "Cadillacs & Dinosaurs/cd1e.miniqsf",
-    "Cadillacs & Dinosaurs/cd1f.miniqsf",
-    "Cadillacs & Dinosaurs/cd20.miniqsf",
-    "Cadillacs & Dinosaurs/cd21.miniqsf",
-    "Cadillacs & Dinosaurs/cd22.miniqsf",
-    "Cadillacs & Dinosaurs/cd23.miniqsf",
-    "Cadillacs & Dinosaurs/cd24.miniqsf",
-    "Cadillacs & Dinosaurs/cd25.miniqsf",
-    "Cadillacs & Dinosaurs/cd26.miniqsf",
-    "Saturday Night Slam Masters/saturday night slam masters.qsflib",
-    "Saturday Night Slam Masters/slam20.miniqsf",
-    "Saturday Night Slam Masters/slam21.miniqsf",
-    "Saturday Night Slam Masters/slam22.miniqsf",
-    "Saturday Night Slam Masters/slam23.miniqsf",
-    "Saturday Night Slam Masters/slam24.miniqsf",
-    "Saturday Night Slam Masters/slam25.miniqsf",
-    "Saturday Night Slam Masters/slam26.miniqsf",
-    "Saturday Night Slam Masters/slam27.miniqsf",
-    "Saturday Night Slam Masters/slam28.miniqsf",
-    "Saturday Night Slam Masters/slam29.miniqsf",
-    "Saturday Night Slam Masters/slam2a.miniqsf",
-    "Saturday Night Slam Masters/slam2b.miniqsf",
-    "Saturday Night Slam Masters/slam2c.miniqsf",
-    "Saturday Night Slam Masters/slam2d.miniqsf",
-    "Saturday Night Slam Masters/slam2e.miniqsf",
-    "Saturday Night Slam Masters/slam2f.miniqsf",
-    "Saturday Night Slam Masters/slam30.miniqsf",
-    "Saturday Night Slam Masters/slam31.miniqsf",
-    "Saturday Night Slam Masters/slam32.miniqsf",
-    "Saturday Night Slam Masters/slam33.miniqsf",
-    "Saturday Night Slam Masters/slam34.miniqsf",
-    "Saturday Night Slam Masters/slam35.miniqsf",
-    "Saturday Night Slam Masters/slam36.miniqsf",
-    "Saturday Night Slam Masters/slam37.miniqsf",
-    "Saturday Night Slam Masters/slam38.miniqsf",
-    "Saturday Night Slam Masters/slam39.miniqsf",
-    "Saturday Night Slam Masters/slam3a.miniqsf",
-    "Saturday Night Slam Masters/slam3b.miniqsf",
-    "Saturday Night Slam Masters/slam3c.miniqsf",
-    "Saturday Night Slam Masters/slam3d.miniqsf",
-    "Saturday Night Slam Masters/slam3e.miniqsf",
-    "Saturday Night Slam Masters/slam3f.miniqsf",
-    "Street Fighter Alpha 2/sfa201.miniqsf",
-    "Street Fighter Alpha 2/sfa202.miniqsf",
-    "Street Fighter Alpha 2/sfa203.miniqsf",
-    "Street Fighter Alpha 2/sfa204.miniqsf",
-    "Street Fighter Alpha 2/sfa205.miniqsf",
-    "Street Fighter Alpha 2/sfa206.miniqsf",
-    "Street Fighter Alpha 2/sfa207.miniqsf",
-    "Street Fighter Alpha 2/sfa208.miniqsf",
-    "Street Fighter Alpha 2/sfa209.miniqsf",
-    "Street Fighter Alpha 2/sfa20a.miniqsf",
-    "Street Fighter Alpha 2/sfa20b.miniqsf",
-    "Street Fighter Alpha 2/sfa20c.miniqsf",
-    "Street Fighter Alpha 2/sfa20d.miniqsf",
-    "Street Fighter Alpha 2/sfa20e.miniqsf",
-    "Street Fighter Alpha 2/sfa20f.miniqsf",
-    "Street Fighter Alpha 2/sfa210.miniqsf",
-    "Street Fighter Alpha 2/sfa211.miniqsf",
-    "Street Fighter Alpha 2/sfa212.miniqsf",
-    "Street Fighter Alpha 2/sfa213.miniqsf",
-    "Street Fighter Alpha 2/sfa214.miniqsf",
-    "Street Fighter Alpha 2/sfa215.miniqsf",
-    "Street Fighter Alpha 2/sfa216.miniqsf",
-    "Street Fighter Alpha 2/sfa217.miniqsf",
-    "Street Fighter Alpha 2/sfa218.miniqsf",
-    "Street Fighter Alpha 2/sfa219.miniqsf",
-    "Street Fighter Alpha 2/sfa21a.miniqsf",
-    "Street Fighter Alpha 2/sfa21b.miniqsf",
-    "Street Fighter Alpha 2/sfa21c.miniqsf",
-    "Street Fighter Alpha 2/sfa21d.miniqsf",
-    "Street Fighter Alpha 2/sfa21e.miniqsf",
-    "Street Fighter Alpha 2/sfa21f.miniqsf",
-    "Street Fighter Alpha 2/sfa220.miniqsf",
-    "Street Fighter Alpha 2/sfa221.miniqsf",
-    "Street Fighter Alpha 2/sfa222.miniqsf",
-    "Street Fighter Alpha 2/sfa223.miniqsf",
-    "Street Fighter Alpha 2/sfa224.miniqsf",
-    "Street Fighter Alpha 2/sfa225.miniqsf",
-    "Street Fighter Alpha 2/sfa226.miniqsf",
-    "Street Fighter Alpha 2/sfa227.miniqsf",
-    "Street Fighter Alpha 2/sfa228.miniqsf",
-    "Street Fighter Alpha 2/sfa229.miniqsf",
-    "Street Fighter Alpha 2/sfa22a.miniqsf",
-    "Street Fighter Alpha 2/sfa22b.miniqsf",
-    "Street Fighter Alpha 2/sfa22c.miniqsf",
-    "Street Fighter Alpha 2/sfa22d.miniqsf",
-    "Street Fighter Alpha 2/sfa22e.miniqsf",
-    "Street Fighter Alpha 2/sfa22f.miniqsf",
-    "Street Fighter Alpha 2/sfa230.miniqsf",
-    "Street Fighter Alpha 2/sfa231.miniqsf",
-    "Street Fighter Alpha 2/sfa232.miniqsf",
-    "Street Fighter Alpha 2/sfa233.miniqsf",
-    "Street Fighter Alpha 2/sfa234.miniqsf",
-    "Street Fighter Alpha 2/sfa235.miniqsf",
-    "Street Fighter Alpha 2/sfa236.miniqsf",
-    "Street Fighter Alpha 2/sfa237.miniqsf",
-    "Street Fighter Alpha 2/sfa238.miniqsf",
-    "Street Fighter Alpha 2/sfa239.miniqsf",
-    "Street Fighter Alpha 2/sfa23a.miniqsf",
-    "Street Fighter Alpha 2/sfa23e.miniqsf",
-    "Street Fighter Alpha 2/street fighter alpha 2.qsflib",
-    "The Punisher/punish00.miniqsf",
-    "The Punisher/punish01.miniqsf",
-    "The Punisher/punish02.miniqsf",
-    "The Punisher/punish03.miniqsf",
-    "The Punisher/punish04.miniqsf",
-    "The Punisher/punish05.miniqsf",
-    "The Punisher/punish06.miniqsf",
-    "The Punisher/punish07.miniqsf",
-    "The Punisher/punish08.miniqsf",
-    "The Punisher/punish09.miniqsf",
-    "The Punisher/punish0a.miniqsf",
-    "The Punisher/punish0b.miniqsf",
-    "The Punisher/punish0c.miniqsf",
-    "The Punisher/punish0d.miniqsf",
-    "The Punisher/punish0e.miniqsf",
-    "The Punisher/punish0f.miniqsf",
-    "The Punisher/punish10.miniqsf",
-    "The Punisher/punish11.miniqsf",
-    "The Punisher/punish12.miniqsf",
-    "The Punisher/punish13.miniqsf",
-    "The Punisher/punish15.miniqsf",
-    "The Punisher/punish17.miniqsf",
-    "The Punisher/punish18.miniqsf",
-    "The Punisher/punish19.miniqsf",
-    "The Punisher/punish1a.miniqsf",
-    "The Punisher/punish1b.miniqsf",
-    "The Punisher/the punisher.qsflib",
-    "Warriors Of Fate/warriors of fate.qsflib",
-    "Warriors Of Fate/wof60.miniqsf",
-    "Warriors Of Fate/wof61.miniqsf",
-    "Warriors Of Fate/wof62.miniqsf",
-    "Warriors Of Fate/wof63.miniqsf",
-    "Warriors Of Fate/wof64.miniqsf",
-    "Warriors Of Fate/wof65.miniqsf",
-    "Warriors Of Fate/wof66.miniqsf",
-    "Warriors Of Fate/wof67.miniqsf",
-    "Warriors Of Fate/wof68.miniqsf",
-    "Warriors Of Fate/wof69.miniqsf",
-    "Warriors Of Fate/wof6a.miniqsf",
-    "Warriors Of Fate/wof6b.miniqsf",
-    "Warriors Of Fate/wof6c.miniqsf",
-    "Warriors Of Fate/wof6d.miniqsf",
-    "Warriors Of Fate/wof6e.miniqsf",
-    "Warriors Of Fate/wof6f.miniqsf",
-    "Warriors Of Fate/wof70.miniqsf",
-    "Warriors Of Fate/wof71.miniqsf",
-    "Warriors Of Fate/wof72.miniqsf",
-    "Warriors Of Fate/wof73.miniqsf",
-    "Warriors Of Fate/wof74.miniqsf",
-    "Warriors Of Fate/wof75.miniqsf",
-    "Warriors Of Fate/wof76.miniqsf",
-    "Warriors Of Fate/wof77.miniqsf",
-    "Warriors Of Fate/wof78.miniqsf",
-    "Warriors Of Fate/wof79.miniqsf",
-    "Warriors Of Fate/wof7a.miniqsf",
-    "Warriors Of Fate/wof7b.miniqsf",
-    "Warriors Of Fate/wof7c.miniqsf",
-    "Warriors Of Fate/wof7d.miniqsf",
-    "Warriors Of Fate/wof7e.miniqsf",
-    "Warriors Of Fate/wof7f.miniqsf",
-    "Warriors Of Fate/wof80.miniqsf",
-    "Warriors Of Fate/wof81.miniqsf",
-    "Warriors Of Fate/wof82.miniqsf",
-    "Warriors Of Fate/wof83.miniqsf",
-    "Warriors Of Fate/wof84.miniqsf",
-    "Warriors Of Fate/wof85.miniqsf",
-    "Warriors Of Fate/wof86.miniqsf",
-    "Warriors Of Fate/wof87.miniqsf"
-  ],
-  "Hideki OK": [
-    "Megaman 1 - The Power Battle/01 - title.miniqsf",
-    "Megaman 1 - The Power Battle/02 - player select.miniqsf",
-    "Megaman 1 - The Power Battle/03 - stage select (mega man 1 - 2).miniqsf",
-    "Megaman 1 - The Power Battle/04 - vs - stage start.miniqsf",
-    "Megaman 1 - The Power Battle/05 - napalm man.miniqsf",
-    "Megaman 1 - The Power Battle/06 - crash man.miniqsf",
-    "Megaman 1 - The Power Battle/07 - guts man.miniqsf",
-    "Megaman 1 - The Power Battle/08 - stage select (mega man 3 - 6).miniqsf",
-    "Megaman 1 - The Power Battle/09 - gyro man.miniqsf",
-    "Megaman 1 - The Power Battle/10 - gemini man.miniqsf",
-    "Megaman 1 - The Power Battle/11 - shadow man.miniqsf",
-    "Megaman 1 - The Power Battle/12 - stage clear.miniqsf",
-    "Megaman 1 - The Power Battle/13 - get weapon.miniqsf",
-    "Megaman 1 - The Power Battle/14 - stage select (mega man 7).miniqsf",
-    "Megaman 1 - The Power Battle/15 - turbo man.miniqsf",
-    "Megaman 1 - The Power Battle/16 - cloud man.miniqsf",
-    "Megaman 1 - The Power Battle/17 - slash man.miniqsf",
-    "Megaman 1 - The Power Battle/18 - freeze man.miniqsf",
-    "Megaman 1 - The Power Battle/19 - junk man.miniqsf",
-    "Megaman 1 - The Power Battle/20 - shade man.miniqsf",
-    "Megaman 1 - The Power Battle/21 - shade man (from 'ghouls n' ghosts').miniqsf",
-    "Megaman 1 - The Power Battle/22 - vs - wily.miniqsf",
-    "Megaman 1 - The Power Battle/23 - wily stage boss.miniqsf",
-    "Megaman 1 - The Power Battle/24 - wily machine.miniqsf",
-    "Megaman 1 - The Power Battle/25 - wily capsule.miniqsf",
-    "Megaman 1 - The Power Battle/26 - continue.miniqsf",
-    "Megaman 1 - The Power Battle/27 - game over.miniqsf",
-    "Megaman 1 - The Power Battle/28 - mega man ending 1.miniqsf",
-    "Megaman 1 - The Power Battle/29 - mega man ending 2.miniqsf",
-    "Megaman 1 - The Power Battle/30 - protoman ending.miniqsf",
-    "Megaman 1 - The Power Battle/31 - bass ending.miniqsf",
-    "Megaman 1 - The Power Battle/mega man - the power battle.qsflib",
-    "Megaman 1 - The Power Battle/qsound 1.miniqsf",
-    "Megaman 1 - The Power Battle/qsound 2.miniqsf",
-    "Megaman 2 - The Power Fighters/01 - opening.miniqsf",
-    "Megaman 2 - The Power Fighters/02 - player select.miniqsf",
-    "Megaman 2 - The Power Fighters/03 - course select.miniqsf",
-    "Megaman 2 - The Power Fighters/04 - vs - stage start.miniqsf",
-    "Megaman 2 - The Power Fighters/05 - plant man.miniqsf",
-    "Megaman 2 - The Power Fighters/06 - bubble man.miniqsf",
-    "Megaman 2 - The Power Fighters/07 - heat man.miniqsf",
-    "Megaman 2 - The Power Fighters/08 - centaur man.miniqsf",
-    "Megaman 2 - The Power Fighters/09 - gyro man.miniqsf",
-    "Megaman 2 - The Power Fighters/10 - shadow man.miniqsf",
-    "Megaman 2 - The Power Fighters/11 - stage clear.miniqsf",
-    "Megaman 2 - The Power Fighters/12 - get weapon.miniqsf",
-    "Megaman 2 - The Power Fighters/13 - cut man.miniqsf",
-    "Megaman 2 - The Power Fighters/14 - dive man.miniqsf",
-    "Megaman 2 - The Power Fighters/15 - stone man.miniqsf",
-    "Megaman 2 - The Power Fighters/16 - rescue roll.miniqsf",
-    "Megaman 2 - The Power Fighters/17 - elec man (from nes mega man).miniqsf",
-    "Megaman 2 - The Power Fighters/18 - elec man.miniqsf",
-    "Megaman 2 - The Power Fighters/19 - shade man.miniqsf",
-    "Megaman 2 - The Power Fighters/20 - slash man.miniqsf",
-    "Megaman 2 - The Power Fighters/21 - ranking.miniqsf",
-    "Megaman 2 - The Power Fighters/22 - napalm man.miniqsf",
-    "Megaman 2 - The Power Fighters/23 - gemini man.miniqsf",
-    "Megaman 2 - The Power Fighters/24 - guts man.miniqsf",
-    "Megaman 2 - The Power Fighters/25 - get neo-parts.miniqsf",
-    "Megaman 2 - The Power Fighters/26 - air man.miniqsf",
-    "Megaman 2 - The Power Fighters/27 - quick man.miniqsf",
-    "Megaman 2 - The Power Fighters/28 - pharaoh man.miniqsf",
-    "Megaman 2 - The Power Fighters/29 - vs - wily.miniqsf",
-    "Megaman 2 - The Power Fighters/30 - mad grinder.miniqsf",
-    "Megaman 2 - The Power Fighters/31 - yellow devil.miniqsf",
-    "Megaman 2 - The Power Fighters/32 - mecha dragon.miniqsf",
-    "Megaman 2 - The Power Fighters/33 - wily machine.miniqsf",
-    "Megaman 2 - The Power Fighters/34 - wily capsule.miniqsf",
-    "Megaman 2 - The Power Fighters/35 - continue.miniqsf",
-    "Megaman 2 - The Power Fighters/36 - game over.miniqsf",
-    "Megaman 2 - The Power Fighters/37 - escape.miniqsf",
-    "Megaman 2 - The Power Fighters/38 - mega man ending 1.miniqsf",
-    "Megaman 2 - The Power Fighters/39 - mega man ending 2.miniqsf",
-    "Megaman 2 - The Power Fighters/40 - proto man ending.miniqsf",
-    "Megaman 2 - The Power Fighters/41 - bass ending 1.miniqsf",
-    "Megaman 2 - The Power Fighters/42 - bass ending 2.miniqsf",
-    "Megaman 2 - The Power Fighters/43 - duo ending 1.miniqsf",
-    "Megaman 2 - The Power Fighters/44 - duo ending 2.miniqsf",
-    "Megaman 2 - The Power Fighters/mega man 2 - the power fighters.qsflib",
-    "Megaman 2 - The Power Fighters/qsound.miniqsf"
-  ],
-  "Syun Nishigaki": [
-    "19xx - War Against Destiny/00 qsound logo.miniqsf",
-    "19xx - War Against Destiny/01 opening.miniqsf",
-    "19xx - War Against Destiny/02 player select.miniqsf",
-    "19xx - War Against Destiny/03 map display.miniqsf",
-    "19xx - War Against Destiny/04 a bit of blue sky between the clouds (mission 1).miniqsf",
-    "19xx - War Against Destiny/05 ayako special (target 1).miniqsf",
-    "19xx - War Against Destiny/06 the red naval port (mission 2).miniqsf",
-    "19xx - War Against Destiny/07 raimei (target 2).miniqsf",
-    "19xx - War Against Destiny/08a dance of green gnome (mission 3).miniqsf",
-    "19xx - War Against Destiny/08b dance of green gnome (mission 3).miniqsf",
-    "19xx - War Against Destiny/09 karbert armor (target 3).miniqsf",
-    "19xx - War Against Destiny/10 silver ice sheet (mission 4).miniqsf",
-    "19xx - War Against Destiny/11 grantz (target 4).miniqsf",
-    "19xx - War Against Destiny/12a city light in the black strait (mission 5).miniqsf",
-    "19xx - War Against Destiny/12b city light in the black strait (mission 5).miniqsf",
-    "19xx - War Against Destiny/13 sancho pedro (target 5).miniqsf",
-    "19xx - War Against Destiny/14 glayish tornado (mission 6).miniqsf",
-    "19xx - War Against Destiny/15 outerlimits (target 6).miniqsf",
-    "19xx - War Against Destiny/16 the last ditch fight (mission 7).miniqsf",
-    "19xx - War Against Destiny/17 black noise (target 7).miniqsf",
-    "19xx - War Against Destiny/18 mission clear.miniqsf",
-    "19xx - War Against Destiny/19 ending.miniqsf",
-    "19xx - War Against Destiny/19xx.qsflib",
-    "19xx - War Against Destiny/20 game over.miniqsf",
-    "19xx - War Against Destiny/21 score ranking.miniqsf"
-  ]
-}
+[
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/01 - title.miniqsf",
+    "size": "326"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/02 - player select.miniqsf",
+    "size": "336"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/03 - stage select (mega man 1 - 2).miniqsf",
+    "size": "352"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/04 - vs - stage start.miniqsf",
+    "size": "338"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/05 - napalm man.miniqsf",
+    "size": "333"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/06 - crash man.miniqsf",
+    "size": "332"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/07 - guts man.miniqsf",
+    "size": "331"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/08 - stage select (mega man 3 - 6).miniqsf",
+    "size": "352"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/09 - gyro man.miniqsf",
+    "size": "331"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/10 - gemini man.miniqsf",
+    "size": "333"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/11 - shadow man.miniqsf",
+    "size": "333"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/12 - stage clear.miniqsf",
+    "size": "333"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/13 - get weapon.miniqsf",
+    "size": "333"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/14 - stage select (mega man 7).miniqsf",
+    "size": "336"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/15 - turbo man.miniqsf",
+    "size": "332"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/16 - cloud man.miniqsf",
+    "size": "332"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/17 - slash man.miniqsf",
+    "size": "332"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/18 - freeze man.miniqsf",
+    "size": "335"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/19 - junk man.miniqsf",
+    "size": "331"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/20 - shade man.miniqsf",
+    "size": "335"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/21 - shade man (from 'ghouls n' ghosts').miniqsf",
+    "size": "358"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/22 - vs - wily.miniqsf",
+    "size": "331"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/23 - wily stage boss.miniqsf",
+    "size": "338"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/24 - wily machine.miniqsf",
+    "size": "335"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/25 - wily capsule.miniqsf",
+    "size": "335"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/26 - continue.miniqsf",
+    "size": "333"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/27 - game over.miniqsf",
+    "size": "331"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/28 - mega man ending 1.miniqsf",
+    "size": "340"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/29 - mega man ending 2.miniqsf",
+    "size": "340"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/30 - protoman ending.miniqsf",
+    "size": "338"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/31 - bass ending.miniqsf",
+    "size": "334"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/mega man - the power battle.qsflib",
+    "size": "2976408"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/qsound 1.miniqsf",
+    "size": "330"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 1 - The Power Battle/qsound 2.miniqsf",
+    "size": "330"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/01 - opening.miniqsf",
+    "size": "396"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/02 - player select.miniqsf",
+    "size": "404"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/03 - course select.miniqsf",
+    "size": "404"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/04 - vs - stage start.miniqsf",
+    "size": "406"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/05 - plant man.miniqsf",
+    "size": "400"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/06 - bubble man.miniqsf",
+    "size": "404"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/07 - heat man.miniqsf",
+    "size": "399"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/08 - centaur man.miniqsf",
+    "size": "402"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/09 - gyro man.miniqsf",
+    "size": "399"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/10 - shadow man.miniqsf",
+    "size": "401"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/11 - stage clear.miniqsf",
+    "size": "401"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/12 - get weapon.miniqsf",
+    "size": "401"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/13 - cut man.miniqsf",
+    "size": "398"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/14 - dive man.miniqsf",
+    "size": "399"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/15 - stone man.miniqsf",
+    "size": "400"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/16 - rescue roll.miniqsf",
+    "size": "402"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/17 - elec man (from nes mega man).miniqsf",
+    "size": "419"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/18 - elec man.miniqsf",
+    "size": "399"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/19 - shade man.miniqsf",
+    "size": "400"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/20 - slash man.miniqsf",
+    "size": "400"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/21 - ranking.miniqsf",
+    "size": "398"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/22 - napalm man.miniqsf",
+    "size": "401"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/23 - gemini man.miniqsf",
+    "size": "401"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/24 - guts man.miniqsf",
+    "size": "399"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/25 - get neo-parts.miniqsf",
+    "size": "404"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/26 - air man.miniqsf",
+    "size": "398"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/27 - quick man.miniqsf",
+    "size": "400"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/28 - pharaoh man.miniqsf",
+    "size": "402"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/29 - vs - wily.miniqsf",
+    "size": "399"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/30 - mad grinder.miniqsf",
+    "size": "402"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/31 - yellow devil.miniqsf",
+    "size": "403"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/32 - mecha dragon.miniqsf",
+    "size": "403"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/33 - wily machine.miniqsf",
+    "size": "403"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/34 - wily capsule.miniqsf",
+    "size": "403"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/35 - continue.miniqsf",
+    "size": "399"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/36 - game over.miniqsf",
+    "size": "399"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/37 - escape.miniqsf",
+    "size": "397"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/38 - mega man ending 1.miniqsf",
+    "size": "408"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/39 - mega man ending 2.miniqsf",
+    "size": "408"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/40 - proto man ending.miniqsf",
+    "size": "407"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/41 - bass ending 1.miniqsf",
+    "size": "404"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/42 - bass ending 2.miniqsf",
+    "size": "404"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/43 - duo ending 1.miniqsf",
+    "size": "403"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/44 - duo ending 2.miniqsf",
+    "size": "403"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/mega man 2 - the power fighters.qsflib",
+    "size": "3210184"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Hideki OK",
+    "song": "Megaman 2 - The Power Fighters/qsound.miniqsf",
+    "size": "396"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/00 qsound logo.miniqsf",
+    "size": "228"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/01 opening.miniqsf",
+    "size": "224"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/02 player select.miniqsf",
+    "size": "231"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/03 map display.miniqsf",
+    "size": "228"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/04 a bit of blue sky between the clouds (mission 1).miniqsf",
+    "size": "265"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/05 ayako special (target 1).miniqsf",
+    "size": "242"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/06 the red naval port (mission 2).miniqsf",
+    "size": "248"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/07 raimei (target 2).miniqsf",
+    "size": "235"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/08a dance of green gnome (mission 3).miniqsf",
+    "size": "259"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/08b dance of green gnome (mission 3).miniqsf",
+    "size": "259"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/09 karbert armor (target 3).miniqsf",
+    "size": "242"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/10 silver ice sheet (mission 4).miniqsf",
+    "size": "246"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/11 grantz (target 4).miniqsf",
+    "size": "235"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/12a city light in the black strait (mission 5).miniqsf",
+    "size": "269"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/12b city light in the black strait (mission 5).miniqsf",
+    "size": "269"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/13 sancho pedro (target 5).miniqsf",
+    "size": "241"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/14 glayish tornado (mission 6).miniqsf",
+    "size": "245"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/15 outerlimits (target 6).miniqsf",
+    "size": "240"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/16 the last ditch fight (mission 7).miniqsf",
+    "size": "250"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/17 black noise (target 7).miniqsf",
+    "size": "240"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/18 mission clear.miniqsf",
+    "size": "230"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/19 ending.miniqsf",
+    "size": "224"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/19xx.qsflib",
+    "size": "2873004"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/20 game over.miniqsf",
+    "size": "226"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "Syun Nishigaki",
+    "song": "19xx - War Against Destiny/21 score ranking.miniqsf",
+    "size": "231"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cadillacs & dinosaurs.qsflib",
+    "size": "1483257"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd00.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd01.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd02.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd03.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd04.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd05.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd06.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd07.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd08.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd09.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd0a.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd0b.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd0c.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd0d.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd0e.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd0f.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd10.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd11.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd12.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd13.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd14.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd15.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd16.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd17.miniqsf",
+    "size": "162"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd18.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd19.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd1a.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd1b.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd1c.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd1d.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd1e.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd1f.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd20.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd21.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd22.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd23.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd24.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd25.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Cadillacs & Dinosaurs/cd26.miniqsf",
+    "size": "163"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/saturday night slam masters.qsflib",
+    "size": "3108109"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam20.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam21.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam22.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam23.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam24.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam25.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam26.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam27.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam28.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam29.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam2a.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam2b.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam2c.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam2d.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam2e.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam2f.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam30.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam31.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam32.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam33.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam34.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam35.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam36.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam37.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam38.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam39.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam3a.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam3b.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam3c.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam3d.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam3e.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Saturday Night Slam Masters/slam3f.miniqsf",
+    "size": "188"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa201.miniqsf",
+    "size": "166"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa202.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa203.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa204.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa205.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa206.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa207.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa208.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa209.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa20a.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa20b.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa20c.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa20d.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa20e.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa20f.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa210.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa211.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa212.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa213.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa214.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa215.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa216.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa217.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa218.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa219.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa21a.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa21b.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa21c.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa21d.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa21e.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa21f.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa220.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa221.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa222.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa223.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa224.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa225.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa226.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa227.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa228.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa229.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa22a.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa22b.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa22c.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa22d.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa22e.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa22f.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa230.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa231.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa232.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa233.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa234.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa235.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa236.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa237.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa238.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa239.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa23a.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/sfa23e.miniqsf",
+    "size": "167"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Street Fighter Alpha 2/street fighter alpha 2.qsflib",
+    "size": "3281974"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish00.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish01.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish02.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish03.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish04.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish05.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish06.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish07.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish08.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish09.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish0a.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish0b.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish0c.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish0d.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish0e.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish0f.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish10.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish11.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish12.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish13.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish15.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish17.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish18.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish19.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish1a.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/punish1b.miniqsf",
+    "size": "158"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "The Punisher/the punisher.qsflib",
+    "size": "1563717"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/warriors of fate.qsflib",
+    "size": "1402288"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof60.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof61.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof62.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof63.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof64.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof65.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof66.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof67.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof68.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof69.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof6a.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof6b.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof6c.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof6d.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof6e.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof6f.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof70.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof71.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof72.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof73.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof74.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof75.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof76.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof77.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof78.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof79.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof7a.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof7b.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof7c.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof7d.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof7e.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof7f.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof80.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof81.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof82.miniqsf",
+    "size": "164"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof83.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof84.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof85.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof86.miniqsf",
+    "size": "165"
+  },
+  {
+    "tracker": "Capcom Q-Sound Format",
+    "composer": "- unknown",
+    "song": "Warriors Of Fate/wof87.miniqsf",
+    "size": "165"
+  }
+]

@@ -1,8 +1,14 @@
-{
-  "- unknown": [
-    "keepcool.dtm"
-  ],
-  "Horst Beham": [
-    "demorave.dtm"
-  ]
-}
+[
+  {
+    "tracker": "Digitrekker",
+    "composer": "Horst Beham",
+    "song": "demorave.dtm",
+    "size": "123032"
+  },
+  {
+    "tracker": "Digitrekker",
+    "composer": "- unknown",
+    "song": "keepcool.dtm",
+    "size": "77146"
+  }
+]

@@ -1,28 +1,146 @@
-{
-  "Crystal Score": [
-    "adagio for softsynths.ixs",
-    "andes.ixs",
-    "archon (vectorworld ii).ixs",
-    "caribbean.ixs",
-    "cave.ixs",
-    "christmasbells.ixs",
-    "city bells.ixs",
-    "coral reef.ixs",
-    "fly my love.. fly away!.ixs",
-    "hexagon 0.ixs",
-    "hexagon 2.ixs",
-    "inverse cinematics.ixs",
-    "iron dimension.ixs",
-    "ixalance theme.ixs",
-    "join the network!.ixs",
-    "movement of the gods.ixs",
-    "shortcut goes aruba.ixs",
-    "shortrance.ixs",
-    "the next e.ixs",
-    "the second message.ixs",
-    "the x-whales.ixs",
-    "vectorworld.ixs",
-    "vixen - heineken.ixs",
-    "world of noise.ixs"
-  ]
-}
+[
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "adagio for softsynths.ixs",
+    "size": "13316"
+  },
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "andes.ixs",
+    "size": "11001"
+  },
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "archon (vectorworld ii).ixs",
+    "size": "12501"
+  },
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "caribbean.ixs",
+    "size": "8193"
+  },
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "cave.ixs",
+    "size": "2376"
+  },
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "christmasbells.ixs",
+    "size": "9777"
+  },
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "city bells.ixs",
+    "size": "5808"
+  },
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "coral reef.ixs",
+    "size": "5542"
+  },
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "fly my love.. fly away!.ixs",
+    "size": "19053"
+  },
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "hexagon 0.ixs",
+    "size": "4125"
+  },
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "hexagon 2.ixs",
+    "size": "21388"
+  },
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "inverse cinematics.ixs",
+    "size": "13455"
+  },
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "iron dimension.ixs",
+    "size": "7519"
+  },
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "ixalance theme.ixs",
+    "size": "2547"
+  },
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "join the network!.ixs",
+    "size": "8674"
+  },
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "movement of the gods.ixs",
+    "size": "18727"
+  },
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "shortcut goes aruba.ixs",
+    "size": "13101"
+  },
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "shortrance.ixs",
+    "size": "11092"
+  },
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "the next e.ixs",
+    "size": "9924"
+  },
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "the second message.ixs",
+    "size": "15207"
+  },
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "the x-whales.ixs",
+    "size": "9262"
+  },
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "vectorworld.ixs",
+    "size": "9406"
+  },
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "vixen - heineken.ixs",
+    "size": "8961"
+  },
+  {
+    "tracker": "Ixalance",
+    "composer": "Crystal Score",
+    "song": "world of noise.ixs",
+    "size": "17184"
+  }
+]

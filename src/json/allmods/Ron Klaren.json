@@ -1,13 +1,56 @@
-{
-  "Ron Klaren": [
-    "astra 1.rk",
-    "astra 2.rk",
-    "electricity.rk",
-    "hellawaits theme.rk",
-    "idiosyncrasy.rk",
-    "journey.rk",
-    "olio.rk",
-    "short xtase.rk",
-    "synsations.rk"
-  ]
-}
+[
+  {
+    "tracker": "Ron Klaren",
+    "composer": "Ron Klaren",
+    "song": "astra 1.rk",
+    "size": "12692"
+  },
+  {
+    "tracker": "Ron Klaren",
+    "composer": "Ron Klaren",
+    "song": "astra 2.rk",
+    "size": "11368"
+  },
+  {
+    "tracker": "Ron Klaren",
+    "composer": "Ron Klaren",
+    "song": "electricity.rk",
+    "size": "8800"
+  },
+  {
+    "tracker": "Ron Klaren",
+    "composer": "Ron Klaren",
+    "song": "hellawaits theme.rk",
+    "size": "27292"
+  },
+  {
+    "tracker": "Ron Klaren",
+    "composer": "Ron Klaren",
+    "song": "idiosyncrasy.rk",
+    "size": "13628"
+  },
+  {
+    "tracker": "Ron Klaren",
+    "composer": "Ron Klaren",
+    "song": "journey.rk",
+    "size": "8724"
+  },
+  {
+    "tracker": "Ron Klaren",
+    "composer": "Ron Klaren",
+    "song": "olio.rk",
+    "size": "9324"
+  },
+  {
+    "tracker": "Ron Klaren",
+    "composer": "Ron Klaren",
+    "song": "short xtase.rk",
+    "size": "11128"
+  },
+  {
+    "tracker": "Ron Klaren",
+    "composer": "Ron Klaren",
+    "song": "synsations.rk",
+    "size": "34244"
+  }
+]

@@ -1,13 +1,32 @@
-{
-  "- unknown": [
-    "classic.mod",
-    "jump.mod",
-    "polly rock.mod"
-  ],
-  "Heatbeat": [
-    "backwoods.mod"
-  ],
-  "Reed": [
-    "dirty'64.mod"
-  ]
-}
+[
+  {
+    "tracker": "Pollytracker",
+    "composer": "Heatbeat",
+    "song": "backwoods.mod",
+    "size": "46285"
+  },
+  {
+    "tracker": "Pollytracker",
+    "composer": "Reed",
+    "song": "dirty'64.mod",
+    "size": "45952"
+  },
+  {
+    "tracker": "Pollytracker",
+    "composer": "- unknown",
+    "song": "classic.mod",
+    "size": "14730"
+  },
+  {
+    "tracker": "Pollytracker",
+    "composer": "- unknown",
+    "song": "jump.mod",
+    "size": "17633"
+  },
+  {
+    "tracker": "Pollytracker",
+    "composer": "- unknown",
+    "song": "polly rock.mod",
+    "size": "43304"
+  }
+]

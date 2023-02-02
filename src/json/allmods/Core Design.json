@@ -1,10 +1,38 @@
-{
-  "Ben Daglish": [
-    "action fighter.core",
-    "axel's magic hammer.core",
-    "dynamite dux.core",
-    "monty python's flying circus.core",
-    "rick dangerous.core",
-    "saint & greavsie.core"
-  ]
-}
+[
+  {
+    "tracker": "Core Design",
+    "composer": "Ben Daglish",
+    "song": "action fighter.core",
+    "size": "68052"
+  },
+  {
+    "tracker": "Core Design",
+    "composer": "Ben Daglish",
+    "song": "axel's magic hammer.core",
+    "size": "43032"
+  },
+  {
+    "tracker": "Core Design",
+    "composer": "Ben Daglish",
+    "song": "dynamite dux.core",
+    "size": "156532"
+  },
+  {
+    "tracker": "Core Design",
+    "composer": "Ben Daglish",
+    "song": "monty python's flying circus.core",
+    "size": "128592"
+  },
+  {
+    "tracker": "Core Design",
+    "composer": "Ben Daglish",
+    "song": "rick dangerous.core",
+    "size": "103240"
+  },
+  {
+    "tracker": "Core Design",
+    "composer": "Ben Daglish",
+    "song": "saint & greavsie.core",
+    "size": "67820"
+  }
+]

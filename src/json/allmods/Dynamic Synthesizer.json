@@ -1,14 +1,62 @@
-{
-  "Chris Huelsbeck": [
-    "dns.hollywoodpokerpro ingame",
-    "dns.hollywoodpokerpro title",
-    "dns.ptc",
-    "dns.starball ingame",
-    "dns.starball title",
-    "smp.hollywoodpokerpro ingame",
-    "smp.hollywoodpokerpro title",
-    "smp.ptc",
-    "smp.starball ingame",
-    "smp.starball title"
-  ]
-}
+[
+  {
+    "tracker": "Dynamic Synthesizer",
+    "composer": "Chris Huelsbeck",
+    "song": "dns.hollywoodpokerpro ingame",
+    "size": "17288"
+  },
+  {
+    "tracker": "Dynamic Synthesizer",
+    "composer": "Chris Huelsbeck",
+    "song": "dns.hollywoodpokerpro title",
+    "size": "10184"
+  },
+  {
+    "tracker": "Dynamic Synthesizer",
+    "composer": "Chris Huelsbeck",
+    "song": "dns.ptc",
+    "size": "14096"
+  },
+  {
+    "tracker": "Dynamic Synthesizer",
+    "composer": "Chris Huelsbeck",
+    "song": "dns.starball ingame",
+    "size": "11930"
+  },
+  {
+    "tracker": "Dynamic Synthesizer",
+    "composer": "Chris Huelsbeck",
+    "song": "dns.starball title",
+    "size": "8086"
+  },
+  {
+    "tracker": "Dynamic Synthesizer",
+    "composer": "Chris Huelsbeck",
+    "song": "smp.hollywoodpokerpro ingame",
+    "size": "67706"
+  },
+  {
+    "tracker": "Dynamic Synthesizer",
+    "composer": "Chris Huelsbeck",
+    "song": "smp.hollywoodpokerpro title",
+    "size": "89492"
+  },
+  {
+    "tracker": "Dynamic Synthesizer",
+    "composer": "Chris Huelsbeck",
+    "song": "smp.ptc",
+    "size": "69632"
+  },
+  {
+    "tracker": "Dynamic Synthesizer",
+    "composer": "Chris Huelsbeck",
+    "song": "smp.starball ingame",
+    "size": "92246"
+  },
+  {
+    "tracker": "Dynamic Synthesizer",
+    "composer": "Chris Huelsbeck",
+    "song": "smp.starball title",
+    "size": "54476"
+  }
+]

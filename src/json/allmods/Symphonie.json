@@ -1,187 +1,1040 @@
-{
-  "- unknown": [
-    "2ndoneongroove.symmod",
-    "303 emulator.symmod",
-    "3xdreams98.symmod",
-    "acoustic modeling demo.symmod",
-    "affected xmas.symmod",
-    "altered states 2.symmod",
-    "ambientemix.symmod",
-    "ballade.symmod",
-    "bed&breakfast.symmod",
-    "bee house mix.symmod",
-    "breakout.symmod",
-    "breathless.symmod",
-    "bright night.symmod",
-    "capella remix #1.symmod",
-    "capella remix #2.symmod",
-    "cataract.symmod",
-    "citynight.symmod",
-    "come to me.symmod",
-    "cosmic flight.symmod",
-    "cybersized.symmod",
-    "dam.symmod",
-    "danceoftheclouds.symmod",
-    "dancetimefinal.symmod",
-    "dancetime.symmod",
-    "darkness.symmod",
-    "deepsea.symmod",
-    "dodaboing.symmod",
-    "dreamaboutyou.symmod",
-    "dreamsdreamsdreams.symmod",
-    "dreams&magic2.symmod",
-    "dreams&magic4.symmod",
-    "dreams&magic.symmod",
-    "endlessdream.symmod",
-    "endless ways.symmod",
-    "epush.symmod",
-    "everlastingdream.symmod",
-    "exaltation.symmod",
-    "exit.symmod",
-    "fantasyland2.symmod",
-    "fantasy&relaxation.symmod",
-    "flowpow.symmod",
-    "flying.symmod",
-    "ghostsofevil.symmod",
-    "gladness.symmod",
-    "gloomoffuture.symmod",
-    "greetz.symmod",
-    "hallucinogen.symmod",
-    "harmonyofmysoul.symmod",
-    "harmony.symmod",
-    "house - do you feel it.symmod",
-    "idon'twanttodie.symmod",
-    "imageoffantasyland.symmod",
-    "impact1.symmod",
-    "impact2.symmod",
-    "intodanceworld.symmod",
-    "jenny.symmod",
-    "joyfulmorning.symmod",
-    "justdance2.symmod",
-    "justdance3.symmod",
-    "justdance.symmod",
-    "landofoblivionfinal.symmod",
-    "lasertrance.symmod",
-    "lightinthetunnel.symmod",
-    "liquid time.symmod",
-    "logical dreams.symmod",
-    "lovelydream2.symmod",
-    "lovelydream.symmod",
-    "magnetize feelings.symmod",
-    "melway.symmod",
-    "moonlight.symmod",
-    "myfirsttime.symmod",
-    "mylittleexperience.symmod",
-    "mysteria.symmod",
-    "mystiquemelody.symmod",
-    "newhope.symmod",
-    "newsiam.symmod",
-    "newtalk.symmod",
-    "niagarafalls.symmod",
-    "noname.symmod",
-    "nowayout.symmod",
-    "ntdance.symmod",
-    "oceanview.symmod",
-    "onlyyou.symmod",
-    "onmymind.symmod",
-    "party.symmod",
-    "pas1.symmod",
-    "pas2jade.symmod",
-    "pian-o-mania2.symmod",
-    "pian-o-mania.symmod",
-    "piano-plink2 98.symmod",
-    "pianoplinknew.symmod",
-    "positivefeelings.symmod",
-    "promos k.symmod",
-    "psinergy.symmod",
-    "pyroteque ii.symmod",
-    "pyroteque i.symmod",
-    "rainbow run.symmod",
-    "raindrops.symmod",
-    "ravecity.symmod",
-    "raveoverbethlehem.symmod",
-    "real fantasy.symmod",
-    "rescan ii.symmod",
-    "rescan.symmod",
-    "revenge of chapell.symmod",
-    "roller.symmod",
-    "runawaywithme.symmod",
-    "shape of.symmod",
-    "signing off.symmod",
-    "solstrings.symmod",
-    "son a thor.symmod",
-    "sourceofbeauty.symmod",
-    "space2.symmod",
-    "space ride.symmod",
-    "space.symmod",
-    "spacetheme.symmod",
-    "sphere.symmod",
-    "spicegirlssuxx.symmod",
-    "springday.symmod",
-    "sunblocker.symmod",
-    "sunshine.symmod",
-    "takemetothemoon.symmod",
-    "tangerdream ii.symmod",
-    "tangerdream part i.symmod",
-    "tender force.symmod",
-    "thirdday.symmod",
-    "trancendental.symmod",
-    "virtualharm.symmod",
-    "viva.symmod",
-    "waitingfortide.symmod",
-    "warp9.symmod",
-    "wastedbytes.symmod",
-    "wicked.symmod",
-    "wild canyon opremix.symmod",
-    "wild canyon.symmod",
-    "wormhole.symmod",
-    "wouldyouliketodance.symmod"
-  ],
-  "LiTEFORCE": [
-    "endlessdream-b.symmod",
-    "hello rmx.symmod"
-  ],
-  "Marco Ege": [
-    "boom.symmod"
-  ],
-  "MoSeZ": [
-    "ambient.symmod",
-    "antarctica.symmod",
-    "arizonahighway.symmod",
-    "closeyoureyes.symmod",
-    "corona.symmod",
-    "dreams.symmod",
-    "eclipse.symmod",
-    "fatamorgana.symmod",
-    "flowingrivers.symmod",
-    "gloomyness.symmod",
-    "heartbeat.symmod",
-    "iberia.symmod",
-    "intruders.symmod",
-    "lightyear.symmod",
-    "riveratdawninthesummer.symmod",
-    "rollercoaster.symmod",
-    "stratosphere.symmod",
-    "thelongroadhome.symmod",
-    "themoonandthesea.symmod",
-    "thewindiswhispering.symmod",
-    "transitzone.symmod",
-    "universe.symmod",
-    "wandering.symmod",
-    "wecanfly.symmod",
-    "xerography.symmod"
-  ],
-  "Patrick Meng": [
-    "jump.symmod",
-    "newtech.symmod"
-  ],
-  "Thunder": [
-    "desert planet.symmod",
-    "future dream.symmod",
-    "laser fear.symmod",
-    "sky orbit.symmod",
-    "space crusaders.symmod",
-    "the energy.symmod",
-    "thesecret.symmod"
-  ]
-}
+[
+  {
+    "tracker": "Symphonie",
+    "composer": "LiTEFORCE",
+    "song": "endlessdream-b.symmod",
+    "size": "542803"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "LiTEFORCE",
+    "song": "hello rmx.symmod",
+    "size": "2563313"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "Marco Ege",
+    "song": "boom.symmod",
+    "size": "423559"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "ambient.symmod",
+    "size": "449002"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "antarctica.symmod",
+    "size": "302635"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "arizonahighway.symmod",
+    "size": "992699"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "closeyoureyes.symmod",
+    "size": "362208"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "corona.symmod",
+    "size": "355571"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "dreams.symmod",
+    "size": "715167"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "eclipse.symmod",
+    "size": "1229491"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "fatamorgana.symmod",
+    "size": "1637159"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "flowingrivers.symmod",
+    "size": "522754"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "gloomyness.symmod",
+    "size": "1268611"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "heartbeat.symmod",
+    "size": "316196"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "iberia.symmod",
+    "size": "3390411"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "intruders.symmod",
+    "size": "1063658"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "lightyear.symmod",
+    "size": "740637"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "riveratdawninthesummer.symmod",
+    "size": "1720886"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "rollercoaster.symmod",
+    "size": "457279"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "stratosphere.symmod",
+    "size": "291607"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "thelongroadhome.symmod",
+    "size": "859982"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "themoonandthesea.symmod",
+    "size": "1678013"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "thewindiswhispering.symmod",
+    "size": "1049651"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "transitzone.symmod",
+    "size": "2252900"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "universe.symmod",
+    "size": "1483776"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "wandering.symmod",
+    "size": "1277822"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "wecanfly.symmod",
+    "size": "362608"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "MoSeZ",
+    "song": "xerography.symmod",
+    "size": "483254"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "Patrick Meng",
+    "song": "jump.symmod",
+    "size": "1146092"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "Patrick Meng",
+    "song": "newtech.symmod",
+    "size": "535834"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "Thunder",
+    "song": "desert planet.symmod",
+    "size": "1740030"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "Thunder",
+    "song": "future dream.symmod",
+    "size": "1436772"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "Thunder",
+    "song": "laser fear.symmod",
+    "size": "1512585"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "Thunder",
+    "song": "sky orbit.symmod",
+    "size": "2140829"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "Thunder",
+    "song": "space crusaders.symmod",
+    "size": "1997510"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "Thunder",
+    "song": "the energy.symmod",
+    "size": "1699851"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "Thunder",
+    "song": "thesecret.symmod",
+    "size": "2574974"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "2ndoneongroove.symmod",
+    "size": "805110"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "303 emulator.symmod",
+    "size": "503224"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "3xdreams98.symmod",
+    "size": "2450084"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "acoustic modeling demo.symmod",
+    "size": "159026"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "affected xmas.symmod",
+    "size": "410423"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "altered states 2.symmod",
+    "size": "392415"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "ambientemix.symmod",
+    "size": "1082193"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "ballade.symmod",
+    "size": "4644773"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "bed&breakfast.symmod",
+    "size": "257310"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "bee house mix.symmod",
+    "size": "1096606"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "breakout.symmod",
+    "size": "1527518"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "breathless.symmod",
+    "size": "295332"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "bright night.symmod",
+    "size": "364692"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "capella remix #1.symmod",
+    "size": "1766672"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "capella remix #2.symmod",
+    "size": "1405870"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "cataract.symmod",
+    "size": "416582"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "citynight.symmod",
+    "size": "2068091"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "come to me.symmod",
+    "size": "2758661"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "cosmic flight.symmod",
+    "size": "434527"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "cybersized.symmod",
+    "size": "637885"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "dam.symmod",
+    "size": "474041"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "danceoftheclouds.symmod",
+    "size": "555859"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "dancetimefinal.symmod",
+    "size": "759107"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "dancetime.symmod",
+    "size": "648498"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "darkness.symmod",
+    "size": "822093"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "deepsea.symmod",
+    "size": "350057"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "dodaboing.symmod",
+    "size": "955754"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "dreamaboutyou.symmod",
+    "size": "1195614"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "dreamsdreamsdreams.symmod",
+    "size": "1622260"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "dreams&magic2.symmod",
+    "size": "559452"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "dreams&magic4.symmod",
+    "size": "576569"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "dreams&magic.symmod",
+    "size": "484052"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "endlessdream.symmod",
+    "size": "65536"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "endless ways.symmod",
+    "size": "568688"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "epush.symmod",
+    "size": "1249384"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "everlastingdream.symmod",
+    "size": "675700"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "exaltation.symmod",
+    "size": "1586424"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "exit.symmod",
+    "size": "2032307"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "fantasyland2.symmod",
+    "size": "988422"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "fantasy&relaxation.symmod",
+    "size": "967051"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "flowpow.symmod",
+    "size": "461188"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "flying.symmod",
+    "size": "243817"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "ghostsofevil.symmod",
+    "size": "750438"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "gladness.symmod",
+    "size": "559452"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "gloomoffuture.symmod",
+    "size": "628520"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "greetz.symmod",
+    "size": "296896"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "hallucinogen.symmod",
+    "size": "785429"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "harmonyofmysoul.symmod",
+    "size": "3341874"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "harmony.symmod",
+    "size": "880311"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "house - do you feel it.symmod",
+    "size": "608760"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "idon'twanttodie.symmod",
+    "size": "559452"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "imageoffantasyland.symmod",
+    "size": "625037"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "impact1.symmod",
+    "size": "992090"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "impact2.symmod",
+    "size": "981952"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "intodanceworld.symmod",
+    "size": "1812400"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "jenny.symmod",
+    "size": "1158049"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "joyfulmorning.symmod",
+    "size": "841319"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "justdance2.symmod",
+    "size": "2914830"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "justdance3.symmod",
+    "size": "3383850"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "justdance.symmod",
+    "size": "3912184"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "landofoblivionfinal.symmod",
+    "size": "325514"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "lasertrance.symmod",
+    "size": "1021369"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "lightinthetunnel.symmod",
+    "size": "1949898"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "liquid time.symmod",
+    "size": "375741"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "logical dreams.symmod",
+    "size": "310772"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "lovelydream2.symmod",
+    "size": "2143762"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "lovelydream.symmod",
+    "size": "1425683"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "magnetize feelings.symmod",
+    "size": "1296338"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "melway.symmod",
+    "size": "516617"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "moonlight.symmod",
+    "size": "645067"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "myfirsttime.symmod",
+    "size": "1508840"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "mylittleexperience.symmod",
+    "size": "712948"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "mysteria.symmod",
+    "size": "1368969"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "mystiquemelody.symmod",
+    "size": "407748"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "newhope.symmod",
+    "size": "952907"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "newsiam.symmod",
+    "size": "371323"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "newtalk.symmod",
+    "size": "312825"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "niagarafalls.symmod",
+    "size": "1797647"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "noname.symmod",
+    "size": "975960"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "nowayout.symmod",
+    "size": "240095"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "ntdance.symmod",
+    "size": "338850"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "oceanview.symmod",
+    "size": "2007735"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "onlyyou.symmod",
+    "size": "3838939"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "onmymind.symmod",
+    "size": "1449969"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "party.symmod",
+    "size": "251050"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "pas1.symmod",
+    "size": "563168"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "pas2jade.symmod",
+    "size": "923973"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "pian-o-mania2.symmod",
+    "size": "953024"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "pian-o-mania.symmod",
+    "size": "559837"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "piano-plink2 98.symmod",
+    "size": "1126372"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "pianoplinknew.symmod",
+    "size": "487190"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "positivefeelings.symmod",
+    "size": "2319728"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "promos k.symmod",
+    "size": "577187"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "psinergy.symmod",
+    "size": "665377"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "pyroteque ii.symmod",
+    "size": "793836"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "pyroteque i.symmod",
+    "size": "824126"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "rainbow run.symmod",
+    "size": "381760"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "raindrops.symmod",
+    "size": "401016"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "ravecity.symmod",
+    "size": "1836718"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "raveoverbethlehem.symmod",
+    "size": "435138"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "real fantasy.symmod",
+    "size": "709606"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "rescan ii.symmod",
+    "size": "1037021"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "rescan.symmod",
+    "size": "1679919"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "revenge of chapell.symmod",
+    "size": "441933"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "roller.symmod",
+    "size": "280433"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "runawaywithme.symmod",
+    "size": "1187047"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "shape of.symmod",
+    "size": "331969"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "signing off.symmod",
+    "size": "896922"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "solstrings.symmod",
+    "size": "503110"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "son a thor.symmod",
+    "size": "475924"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "sourceofbeauty.symmod",
+    "size": "1848073"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "space2.symmod",
+    "size": "734888"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "space ride.symmod",
+    "size": "288590"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "space.symmod",
+    "size": "613958"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "spacetheme.symmod",
+    "size": "1221492"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "sphere.symmod",
+    "size": "1099414"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "spicegirlssuxx.symmod",
+    "size": "1018759"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "springday.symmod",
+    "size": "1102940"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "sunblocker.symmod",
+    "size": "1174579"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "sunshine.symmod",
+    "size": "724002"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "takemetothemoon.symmod",
+    "size": "1073074"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "tangerdream ii.symmod",
+    "size": "663016"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "tangerdream part i.symmod",
+    "size": "662584"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "tender force.symmod",
+    "size": "848950"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "thirdday.symmod",
+    "size": "317180"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "trancendental.symmod",
+    "size": "191915"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "virtualharm.symmod",
+    "size": "909201"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "viva.symmod",
+    "size": "2062746"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "waitingfortide.symmod",
+    "size": "1073264"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "warp9.symmod",
+    "size": "847732"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "wastedbytes.symmod",
+    "size": "992938"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "wicked.symmod",
+    "size": "4222915"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "wild canyon opremix.symmod",
+    "size": "364754"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "wild canyon.symmod",
+    "size": "335504"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "wormhole.symmod",
+    "size": "517672"
+  },
+  {
+    "tracker": "Symphonie",
+    "composer": "- unknown",
+    "song": "wouldyouliketodance.symmod",
+    "size": "1627440"
+  }
+]

@@ -1,10 +1,26 @@
-{
-  "- unknown": [
-    "endless piracy crack intro.mcmd",
-    "ep-trmonsterbusiness.mcmd"
-  ],
-  "Zymox": [
-    "ep-bbsintro91.mcmd",
-    "ep-crenchantedland.mcmd"
-  ]
-}
+[
+  {
+    "tracker": "MCMD",
+    "composer": "- unknown",
+    "song": "endless piracy crack intro.mcmd",
+    "size": "14001"
+  },
+  {
+    "tracker": "MCMD",
+    "composer": "- unknown",
+    "song": "ep-trmonsterbusiness.mcmd",
+    "size": "9102"
+  },
+  {
+    "tracker": "MCMD",
+    "composer": "Zymox",
+    "song": "ep-bbsintro91.mcmd",
+    "size": "73414"
+  },
+  {
+    "tracker": "MCMD",
+    "composer": "Zymox",
+    "song": "ep-crenchantedland.mcmd",
+    "size": "14348"
+  }
+]

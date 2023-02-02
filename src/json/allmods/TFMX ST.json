@@ -1,22 +1,86 @@
-{
-  "- unknown": [
-    "mdat.dynablaster st"
-  ],
-  "Chris Huelsbeck": [
-    "mdat.carl lewis challenge",
-    "mdat.gem'x",
-    "mdat.jim power end",
-    "mdat.jim power level 1",
-    "mdat.jim power level 2",
-    "mdat.jim power level 3",
-    "mdat.jim power level 4",
-    "mdat.jim power level 5",
-    "mdat.quick&silva",
-    "smpl.carl lewis challenge"
-  ],
-  "Rudolf Stember": [
-    "mdat.patrician st 1",
-    "mdat.patrician st 2",
-    "mdat.patrician st 3"
-  ]
-}
+[
+  {
+    "tracker": "TFMX ST",
+    "composer": "Chris Huelsbeck",
+    "song": "mdat.carl lewis challenge",
+    "size": "6004"
+  },
+  {
+    "tracker": "TFMX ST",
+    "composer": "Chris Huelsbeck",
+    "song": "mdat.gem'x",
+    "size": "10344"
+  },
+  {
+    "tracker": "TFMX ST",
+    "composer": "Chris Huelsbeck",
+    "song": "mdat.jim power end",
+    "size": "9632"
+  },
+  {
+    "tracker": "TFMX ST",
+    "composer": "Chris Huelsbeck",
+    "song": "mdat.jim power level 1",
+    "size": "8224"
+  },
+  {
+    "tracker": "TFMX ST",
+    "composer": "Chris Huelsbeck",
+    "song": "mdat.jim power level 2",
+    "size": "6188"
+  },
+  {
+    "tracker": "TFMX ST",
+    "composer": "Chris Huelsbeck",
+    "song": "mdat.jim power level 3",
+    "size": "5592"
+  },
+  {
+    "tracker": "TFMX ST",
+    "composer": "Chris Huelsbeck",
+    "song": "mdat.jim power level 4",
+    "size": "8092"
+  },
+  {
+    "tracker": "TFMX ST",
+    "composer": "Chris Huelsbeck",
+    "song": "mdat.jim power level 5",
+    "size": "7468"
+  },
+  {
+    "tracker": "TFMX ST",
+    "composer": "Chris Huelsbeck",
+    "song": "mdat.quick&silva",
+    "size": "11012"
+  },
+  {
+    "tracker": "TFMX ST",
+    "composer": "Chris Huelsbeck",
+    "song": "smpl.carl lewis challenge",
+    "size": "36868"
+  },
+  {
+    "tracker": "TFMX ST",
+    "composer": "Rudolf Stember",
+    "song": "mdat.patrician st 1",
+    "size": "8536"
+  },
+  {
+    "tracker": "TFMX ST",
+    "composer": "Rudolf Stember",
+    "song": "mdat.patrician st 2",
+    "size": "6616"
+  },
+  {
+    "tracker": "TFMX ST",
+    "composer": "Rudolf Stember",
+    "song": "mdat.patrician st 3",
+    "size": "14628"
+  },
+  {
+    "tracker": "TFMX ST",
+    "composer": "- unknown",
+    "song": "mdat.dynablaster st",
+    "size": "12936"
+  }
+]

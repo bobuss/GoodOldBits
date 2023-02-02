@@ -1,64 +1,230 @@
-{
-  "AceMan": [
-    "hexplosion.hvl",
-    "lanterns.hvl"
-  ],
-  "Breed": [
-    "testing123.hvl"
-  ],
-  "JazzCat": [
-    "a little cyberfunk.hvl"
-  ],
-  "Joey": [
-    "coop-Splif/pantsomime.hvl"
-  ],
-  "Lavaburn": [
-    "peanuts!.hvl"
-  ],
-  "Monk": [
-    "causal zone.hvl",
-    "galactic emeralds.hvl",
-    "mijikai tobikomi.hvl",
-    "monkmusings.hvl"
-  ],
-  "Rebb": [
-    "postmortem1.hvl"
-  ],
-  "Syphus": [
-    "afterstorm.hvl",
-    "a moon light.hvl",
-    "drop table.hvl",
-    "freeside run.hvl",
-    "meltwater (10ch).hvl",
-    "meltwater.hvl",
-    "scootertest.hvl",
-    "sweeties.hvl",
-    "top gun anthem (2nd version).hvl",
-    "top gun anthem.hvl",
-    "tough get going.hvl"
-  ],
-  "Varthall": [
-    "waiting for a message.hvl",
-    "yoake no myoujou.hvl"
-  ],
-  "Virgill": [
-    "forsaken.hvl",
-    "headcrash.hvl",
-    "switchback rmx.hvl"
-  ],
-  "Xeron": [
-    "doobrey gubbins.hvl",
-    "drainage problem.hvl",
-    "illuminated.hvl",
-    "moderate sellotaping.hvl",
-    "never gonna give you up.hvl",
-    "ring modulation test song.hvl",
-    "sliding away.hvl",
-    "sunspots.hvl",
-    "there you are.hvl",
-    "unexpected horse.hvl"
-  ],
-  "m0d": [
-    "incognito crust.hvl"
-  ]
-}
+[
+  {
+    "tracker": "HivelyTracker",
+    "composer": "AceMan",
+    "song": "hexplosion.hvl",
+    "size": "38965"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "AceMan",
+    "song": "lanterns.hvl",
+    "size": "17958"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Breed",
+    "song": "testing123.hvl",
+    "size": "2598"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "JazzCat",
+    "song": "a little cyberfunk.hvl",
+    "size": "9581"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Joey",
+    "song": "coop-Splif/pantsomime.hvl",
+    "size": "3966"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Lavaburn",
+    "song": "peanuts!.hvl",
+    "size": "5218"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "m0d",
+    "song": "incognito crust.hvl",
+    "size": "8291"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Monk",
+    "song": "causal zone.hvl",
+    "size": "8692"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Monk",
+    "song": "galactic emeralds.hvl",
+    "size": "18392"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Monk",
+    "song": "mijikai tobikomi.hvl",
+    "size": "16888"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Monk",
+    "song": "monkmusings.hvl",
+    "size": "2378"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Rebb",
+    "song": "postmortem1.hvl",
+    "size": "2576"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Syphus",
+    "song": "afterstorm.hvl",
+    "size": "8699"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Syphus",
+    "song": "a moon light.hvl",
+    "size": "15506"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Syphus",
+    "song": "drop table.hvl",
+    "size": "12778"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Syphus",
+    "song": "freeside run.hvl",
+    "size": "17198"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Syphus",
+    "song": "meltwater (10ch).hvl",
+    "size": "8207"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Syphus",
+    "song": "meltwater.hvl",
+    "size": "4502"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Syphus",
+    "song": "scootertest.hvl",
+    "size": "18272"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Syphus",
+    "song": "sweeties.hvl",
+    "size": "12052"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Syphus",
+    "song": "top gun anthem (2nd version).hvl",
+    "size": "11663"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Syphus",
+    "song": "top gun anthem.hvl",
+    "size": "10564"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Syphus",
+    "song": "tough get going.hvl",
+    "size": "10606"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Varthall",
+    "song": "waiting for a message.hvl",
+    "size": "1768"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Varthall",
+    "song": "yoake no myoujou.hvl",
+    "size": "22387"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Virgill",
+    "song": "forsaken.hvl",
+    "size": "7609"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Virgill",
+    "song": "headcrash.hvl",
+    "size": "7412"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Virgill",
+    "song": "switchback rmx.hvl",
+    "size": "18679"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Xeron",
+    "song": "doobrey gubbins.hvl",
+    "size": "5084"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Xeron",
+    "song": "drainage problem.hvl",
+    "size": "5036"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Xeron",
+    "song": "illuminated.hvl",
+    "size": "1499"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Xeron",
+    "song": "moderate sellotaping.hvl",
+    "size": "2719"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Xeron",
+    "song": "never gonna give you up.hvl",
+    "size": "5812"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Xeron",
+    "song": "ring modulation test song.hvl",
+    "size": "427"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Xeron",
+    "song": "sliding away.hvl",
+    "size": "2851"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Xeron",
+    "song": "sunspots.hvl",
+    "size": "4153"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Xeron",
+    "song": "there you are.hvl",
+    "size": "3191"
+  },
+  {
+    "tracker": "HivelyTracker",
+    "composer": "Xeron",
+    "song": "unexpected horse.hvl",
+    "size": "5327"
+  }
+]

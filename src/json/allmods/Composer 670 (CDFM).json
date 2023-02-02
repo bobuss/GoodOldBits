@@ -1,53 +1,260 @@
-{
-  "- unknown": [
-    "amnesia1.c67",
-    "demo1.c67",
-    "demo2.c67"
-  ],
-  "CC Catch": [
-    "amnesia - intro.670",
-    "amnesia - intro.c67",
-    "amnesia - pattern vectors.670",
-    "amnesia - pattern vectors.c67",
-    "amnesia - virtual reality.670",
-    "amnesia - virtual reality.c67",
-    "black glass ][ - muzik1.670",
-    "black glass ][ - muzik1.c67",
-    "daretro.c67",
-    "free1.c67",
-    "free3.c67",
-    "renaissance music pack #0 - track 1.c67",
-    "renaissance music pack #0 - track 2.c67",
-    "renaissance music pack #0 - track 3.c67",
-    "taste bbs.c67",
-    "zone0d.c67",
-    "zone0f.c67",
-    "zone10d.c67",
-    "zone10f.c67",
-    "zone1df.c67",
-    "zone2d.c67",
-    "zone2f.c67",
-    "zone3d.c67",
-    "zone3f.c67",
-    "zone4df.c67",
-    "zone5d.c67",
-    "zone5f.c67",
-    "zone6d.c67",
-    "zone6f.c67",
-    "zone7d.c67",
-    "zone7f.c67",
-    "zone8d.c67",
-    "zone8f.c67"
-  ],
-  "Daredevil": [
-    "amnesia - credits.670",
-    "amnesia - credits.c67"
-  ],
-  "Mosaic": [
-    "amnesia - shaded vectors.670",
-    "amnesia - shaded vectors.c67",
-    "black glass ][ - muzik0.670",
-    "black glass ][ - muzik0.c67",
-    "black glass ][ - muzik0 (variation).c67"
-  ]
-}
+[
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "amnesia - intro.670",
+    "size": "199977"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "amnesia - intro.c67",
+    "size": "202876"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "amnesia - pattern vectors.670",
+    "size": "216319"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "amnesia - pattern vectors.c67",
+    "size": "219217"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "amnesia - virtual reality.670",
+    "size": "263175"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "amnesia - virtual reality.c67",
+    "size": "266128"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "black glass ][ - muzik1.670",
+    "size": "18543"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "black glass ][ - muzik1.c67",
+    "size": "21516"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "daretro.c67",
+    "size": "155323"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "free1.c67",
+    "size": "176250"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "free3.c67",
+    "size": "136925"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "renaissance music pack #0 - track 1.c67",
+    "size": "136883"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "renaissance music pack #0 - track 2.c67",
+    "size": "166036"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "renaissance music pack #0 - track 3.c67",
+    "size": "136925"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "taste bbs.c67",
+    "size": "99359"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "zone0d.c67",
+    "size": "53353"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "zone0f.c67",
+    "size": "5437"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "zone10d.c67",
+    "size": "57261"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "zone10f.c67",
+    "size": "9620"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "zone1df.c67",
+    "size": "32154"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "zone2d.c67",
+    "size": "131739"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "zone2f.c67",
+    "size": "13595"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "zone3d.c67",
+    "size": "45430"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "zone3f.c67",
+    "size": "7232"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "zone4df.c67",
+    "size": "52194"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "zone5d.c67",
+    "size": "63659"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "zone5f.c67",
+    "size": "10378"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "zone6d.c67",
+    "size": "123571"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "zone6f.c67",
+    "size": "14099"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "zone7d.c67",
+    "size": "74366"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "zone7f.c67",
+    "size": "13128"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "zone8d.c67",
+    "size": "63209"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "CC Catch",
+    "song": "zone8f.c67",
+    "size": "10797"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "Daredevil",
+    "song": "amnesia - credits.670",
+    "size": "109393"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "Daredevil",
+    "song": "amnesia - credits.c67",
+    "size": "4466"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "Mosaic",
+    "song": "amnesia - shaded vectors.670",
+    "size": "106539"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "Mosaic",
+    "song": "amnesia - shaded vectors.c67",
+    "size": "109515"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "Mosaic",
+    "song": "black glass ][ - muzik0.670",
+    "size": "62305"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "Mosaic",
+    "song": "black glass ][ - muzik0.c67",
+    "size": "65340"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "Mosaic",
+    "song": "black glass ][ - muzik0 (variation).c67",
+    "size": "67052"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "- unknown",
+    "song": "amnesia1.c67",
+    "size": "111125"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "- unknown",
+    "song": "demo1.c67",
+    "size": "16855"
+  },
+  {
+    "tracker": "Composer 670 (CDFM)",
+    "composer": "- unknown",
+    "song": "demo2.c67",
+    "size": "5059"
+  }
+]

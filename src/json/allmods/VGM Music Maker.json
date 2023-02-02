@@ -1,17 +1,44 @@
-{
-  "Groovemaster303": [
-    "bonus stage funk.vge",
-    "sega power (909 fusion mix).vge"
-  ],
-  "Jredd": [
-    "coop-Groovemaster303/volt city (funked up mix).vge",
-    "legend of the silver dragon.vge"
-  ],
-  "Linde": [
-    "trinitron sunset.vge"
-  ],
-  "Shiru": [
-    "example fm psg samples.vge",
-    "example periodic noise.vge"
-  ]
-}
+[
+  {
+    "tracker": "VGM Music Maker",
+    "composer": "Groovemaster303",
+    "song": "bonus stage funk.vge",
+    "size": "340906"
+  },
+  {
+    "tracker": "VGM Music Maker",
+    "composer": "Groovemaster303",
+    "song": "sega power (909 fusion mix).vge",
+    "size": "691955"
+  },
+  {
+    "tracker": "VGM Music Maker",
+    "composer": "Jredd",
+    "song": "coop-Groovemaster303/volt city (funked up mix).vge",
+    "size": "61763"
+  },
+  {
+    "tracker": "VGM Music Maker",
+    "composer": "Jredd",
+    "song": "legend of the silver dragon.vge",
+    "size": "291417"
+  },
+  {
+    "tracker": "VGM Music Maker",
+    "composer": "Linde",
+    "song": "trinitron sunset.vge",
+    "size": "406115"
+  },
+  {
+    "tracker": "VGM Music Maker",
+    "composer": "Shiru",
+    "song": "example fm psg samples.vge",
+    "size": "141033"
+  },
+  {
+    "tracker": "VGM Music Maker",
+    "composer": "Shiru",
+    "song": "example periodic noise.vge",
+    "size": "378"
+  }
+]

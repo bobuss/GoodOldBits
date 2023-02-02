@@ -1,7 +1,20 @@
-{
-  "Leggless": [
-    "test module.psa",
-    "the punisher - game over.psa",
-    "the punisher - title.psa"
-  ]
-}
+[
+  {
+    "tracker": "Professional Sound Artists",
+    "composer": "Leggless",
+    "song": "test module.psa",
+    "size": "50948"
+  },
+  {
+    "tracker": "Professional Sound Artists",
+    "composer": "Leggless",
+    "song": "the punisher - game over.psa",
+    "size": "17280"
+  },
+  {
+    "tracker": "Professional Sound Artists",
+    "composer": "Leggless",
+    "song": "the punisher - title.psa",
+    "size": "21386"
+  }
+]

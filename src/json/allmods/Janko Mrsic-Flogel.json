@@ -1,10 +1,38 @@
-{
-  "Janko Mrsic-Flogel": [
-    "bombjack.jmf",
-    "fireblaster.jmf",
-    "luxor.jmf",
-    "protector.jmf",
-    "spacestation.jmf",
-    "warzone.jmf"
-  ]
-}
+[
+  {
+    "tracker": "Janko Mrsic-Flogel",
+    "composer": "Janko Mrsic-Flogel",
+    "song": "bombjack.jmf",
+    "size": "4072"
+  },
+  {
+    "tracker": "Janko Mrsic-Flogel",
+    "composer": "Janko Mrsic-Flogel",
+    "song": "fireblaster.jmf",
+    "size": "3580"
+  },
+  {
+    "tracker": "Janko Mrsic-Flogel",
+    "composer": "Janko Mrsic-Flogel",
+    "song": "luxor.jmf",
+    "size": "4040"
+  },
+  {
+    "tracker": "Janko Mrsic-Flogel",
+    "composer": "Janko Mrsic-Flogel",
+    "song": "protector.jmf",
+    "size": "3556"
+  },
+  {
+    "tracker": "Janko Mrsic-Flogel",
+    "composer": "Janko Mrsic-Flogel",
+    "song": "spacestation.jmf",
+    "size": "3816"
+  },
+  {
+    "tracker": "Janko Mrsic-Flogel",
+    "composer": "Janko Mrsic-Flogel",
+    "song": "warzone.jmf",
+    "size": "3432"
+  }
+]

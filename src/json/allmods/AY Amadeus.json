@@ -1,39 +1,200 @@
-{
-  "Frantisek Fuka": [
-    "atomix.amad",
-    "axel f.amad",
-    "belegost.amad",
-    "chimera.amad",
-    "commando.amad",
-    "crazy commets & penetrator.amad",
-    "equinox 5.amad",
-    "e.t. - flying.amad",
-    "feud.amad",
-    "f.i.r.e.amad",
-    "fuga.amad",
-    "ghostbusters.amad",
-    "golden triangle theme.amad",
-    "indiana jones.amad",
-    "jet story.amad",
-    "land of confusion.amad",
-    "magnetic fields 4.amad",
-    "magnetic fields 5.amad",
-    "master of magic.amad",
-    "monty on the run.amad",
-    "rendez-vous 4.amad",
-    "star dragon.amad",
-    "terra cresta.amad",
-    "tetris 2.amad",
-    "the last v8.amad",
-    "top gun.amad",
-    "view to a kill.amad",
-    "where time dropped dead.amad",
-    "zub.amad"
-  ],
-  "Patrik Rak": [
-    "aztec theme.amad",
-    "exploding atoms.amad",
-    "falcon patrol ii.amad",
-    "popcorn.amad"
-  ]
-}
+[
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "atomix.amad",
+    "size": "858"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "axel f.amad",
+    "size": "855"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "belegost.amad",
+    "size": "770"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "chimera.amad",
+    "size": "1024"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "commando.amad",
+    "size": "1994"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "crazy commets & penetrator.amad",
+    "size": "775"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "equinox 5.amad",
+    "size": "872"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "e.t. - flying.amad",
+    "size": "772"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "feud.amad",
+    "size": "983"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "f.i.r.e.amad",
+    "size": "2138"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "fuga.amad",
+    "size": "1943"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "ghostbusters.amad",
+    "size": "1392"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "golden triangle theme.amad",
+    "size": "515"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "indiana jones.amad",
+    "size": "1164"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "jet story.amad",
+    "size": "1392"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "land of confusion.amad",
+    "size": "2500"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "magnetic fields 4.amad",
+    "size": "1605"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "magnetic fields 5.amad",
+    "size": "830"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "master of magic.amad",
+    "size": "935"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "monty on the run.amad",
+    "size": "2457"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "rendez-vous 4.amad",
+    "size": "1096"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "star dragon.amad",
+    "size": "1268"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "terra cresta.amad",
+    "size": "635"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "tetris 2.amad",
+    "size": "2211"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "the last v8.amad",
+    "size": "693"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "top gun.amad",
+    "size": "747"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "view to a kill.amad",
+    "size": "1364"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "where time dropped dead.amad",
+    "size": "1108"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Frantisek Fuka",
+    "song": "zub.amad",
+    "size": "1303"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Patrik Rak",
+    "song": "aztec theme.amad",
+    "size": "550"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Patrik Rak",
+    "song": "exploding atoms.amad",
+    "size": "587"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Patrik Rak",
+    "song": "falcon patrol ii.amad",
+    "size": "456"
+  },
+  {
+    "tracker": "AY Amadeus",
+    "composer": "Patrik Rak",
+    "song": "popcorn.amad",
+    "size": "472"
+  }
+]

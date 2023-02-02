@@ -1,57 +1,272 @@
-{
-  "Fenyxkell": [
-    "bd10n'noeuf.sks",
-    "bobline.sks",
-    "kellyon.sks",
-    "smoke.sks",
-    "solarium.sks",
-    "spectrum castle.sks"
-  ],
-  "Pulkomandy": [
-    "renegade remix.sks"
-  ],
-  "Targhan": [
-    "dead on time - ingame.sks",
-    "dead on time - main menu.sks",
-    "dead on time - sound effects.sks",
-    "demoizart - end part.sks",
-    "demoizart - twist part.sks",
-    "midline process - carpet.sks",
-    "midline process - molusk.sks",
-    "ooops.sks",
-    "orion prime - danger ahead.sks",
-    "orion prime - fight.sks",
-    "orion prime - introduction.sks",
-    "orion prime - level 1.sks",
-    "orion prime - level 4 - theme 1.sks",
-    "orion prime - level 4 - theme 2.sks",
-    "star sabre - boss theme.sks",
-    "star sabre - ingame.sks",
-    "star sabre - intermission.sks",
-    "star sabre - main menu.sks"
-  ],
-  "Tom&Jerry": [
-    "boules et bits (extended).sks",
-    "from scratch - part 1.sks",
-    "from scratch - part 2.sks",
-    "from scratch - part 3.sks",
-    "from scratch - part 4.sks",
-    "le crime du parking - end game.sks",
-    "le crime du parking - intro.sks",
-    "sudoku - menu.sks",
-    "sudoku - notice.sks",
-    "sudoku - sundat.sks",
-    "sudoku - theme 1.sks",
-    "sudoku - theme 2.sks",
-    "sudoku - victory.sks"
-  ],
-  "Ultrasyd": [
-    "dead floppy.sks",
-    "fractal.sks",
-    "fuck it.sks",
-    "morons.sks",
-    "robot.sks",
-    "the end.sks",
-    "ym type.sks"
-  ]
-}
+[
+  {
+    "tracker": "Starkos",
+    "composer": "Fenyxkell",
+    "song": "bd10n'noeuf.sks",
+    "size": "3072"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Fenyxkell",
+    "song": "bobline.sks",
+    "size": "3072"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Fenyxkell",
+    "song": "kellyon.sks",
+    "size": "6144"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Fenyxkell",
+    "song": "smoke.sks",
+    "size": "3072"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Fenyxkell",
+    "song": "solarium.sks",
+    "size": "4096"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Fenyxkell",
+    "song": "spectrum castle.sks",
+    "size": "3968"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Pulkomandy",
+    "song": "renegade remix.sks",
+    "size": "6144"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Targhan",
+    "song": "dead on time - ingame.sks",
+    "size": "5120"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Targhan",
+    "song": "dead on time - main menu.sks",
+    "size": "3072"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Targhan",
+    "song": "dead on time - sound effects.sks",
+    "size": "1024"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Targhan",
+    "song": "demoizart - end part.sks",
+    "size": "12288"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Targhan",
+    "song": "demoizart - twist part.sks",
+    "size": "9216"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Targhan",
+    "song": "midline process - carpet.sks",
+    "size": "10496"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Targhan",
+    "song": "midline process - molusk.sks",
+    "size": "10624"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Targhan",
+    "song": "ooops.sks",
+    "size": "1024"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Targhan",
+    "song": "orion prime - danger ahead.sks",
+    "size": "1024"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Targhan",
+    "song": "orion prime - fight.sks",
+    "size": "1024"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Targhan",
+    "song": "orion prime - introduction.sks",
+    "size": "8192"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Targhan",
+    "song": "orion prime - level 1.sks",
+    "size": "3072"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Targhan",
+    "song": "orion prime - level 4 - theme 1.sks",
+    "size": "3072"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Targhan",
+    "song": "orion prime - level 4 - theme 2.sks",
+    "size": "4096"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Targhan",
+    "song": "star sabre - boss theme.sks",
+    "size": "2048"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Targhan",
+    "song": "star sabre - ingame.sks",
+    "size": "5120"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Targhan",
+    "song": "star sabre - intermission.sks",
+    "size": "2048"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Targhan",
+    "song": "star sabre - main menu.sks",
+    "size": "4096"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Tom&Jerry",
+    "song": "boules et bits (extended).sks",
+    "size": "4096"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Tom&Jerry",
+    "song": "from scratch - part 1.sks",
+    "size": "3072"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Tom&Jerry",
+    "song": "from scratch - part 2.sks",
+    "size": "4096"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Tom&Jerry",
+    "song": "from scratch - part 3.sks",
+    "size": "3072"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Tom&Jerry",
+    "song": "from scratch - part 4.sks",
+    "size": "5120"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Tom&Jerry",
+    "song": "le crime du parking - end game.sks",
+    "size": "2048"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Tom&Jerry",
+    "song": "le crime du parking - intro.sks",
+    "size": "4096"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Tom&Jerry",
+    "song": "sudoku - menu.sks",
+    "size": "2048"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Tom&Jerry",
+    "song": "sudoku - notice.sks",
+    "size": "1024"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Tom&Jerry",
+    "song": "sudoku - sundat.sks",
+    "size": "1024"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Tom&Jerry",
+    "song": "sudoku - theme 1.sks",
+    "size": "6144"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Tom&Jerry",
+    "song": "sudoku - theme 2.sks",
+    "size": "5120"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Tom&Jerry",
+    "song": "sudoku - victory.sks",
+    "size": "1024"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Ultrasyd",
+    "song": "dead floppy.sks",
+    "size": "3072"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Ultrasyd",
+    "song": "fractal.sks",
+    "size": "5120"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Ultrasyd",
+    "song": "fuck it.sks",
+    "size": "7168"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Ultrasyd",
+    "song": "morons.sks",
+    "size": "9216"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Ultrasyd",
+    "song": "robot.sks",
+    "size": "7168"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Ultrasyd",
+    "song": "the end.sks",
+    "size": "6144"
+  },
+  {
+    "tracker": "Starkos",
+    "composer": "Ultrasyd",
+    "song": "ym type.sks",
+    "size": "5120"
+  }
+]

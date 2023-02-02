@@ -1,32 +1,170 @@
-{
-  "Petter A. Urkedal": [
-    "action.aps",
-    "actionfiltersound.aps",
-    "cliffs.aps",
-    "cmolviolin.aps",
-    "dreams2.aps",
-    "dreams.aps",
-    "effects2.aps",
-    "effects.aps",
-    "futureinview!!!!!!.aps",
-    "lookingback.aps",
-    "lostinmol.aps",
-    "mercenary.aps",
-    "opportunity.aps",
-    "pixelgraphics.aps",
-    "ppy.aps",
-    "santymohl.aps",
-    "simplemelody2.aps",
-    "simplemelody.aps",
-    "slowevolution.aps",
-    "stairwalking.aps",
-    "test.aps",
-    "theme.aps",
-    "thenewworld.aps",
-    "therainoutside.aps",
-    "tragic.aps",
-    "triple.aps",
-    "tune0.aps",
-    "verysimpletune.aps"
-  ]
-}
+[
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "action.aps",
+    "size": "1890"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "actionfiltersound.aps",
+    "size": "1890"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "cliffs.aps",
+    "size": "13216"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "cmolviolin.aps",
+    "size": "25486"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "dreams2.aps",
+    "size": "1948"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "dreams.aps",
+    "size": "1302"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "effects2.aps",
+    "size": "1190"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "effects.aps",
+    "size": "1292"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "futureinview!!!!!!.aps",
+    "size": "9286"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "lookingback.aps",
+    "size": "10096"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "lostinmol.aps",
+    "size": "5124"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "mercenary.aps",
+    "size": "6656"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "opportunity.aps",
+    "size": "11220"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "pixelgraphics.aps",
+    "size": "6504"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "ppy.aps",
+    "size": "25826"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "santymohl.aps",
+    "size": "23328"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "simplemelody2.aps",
+    "size": "21490"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "simplemelody.aps",
+    "size": "5922"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "slowevolution.aps",
+    "size": "6120"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "stairwalking.aps",
+    "size": "2572"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "test.aps",
+    "size": "21452"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "theme.aps",
+    "size": "5566"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "thenewworld.aps",
+    "size": "17550"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "therainoutside.aps",
+    "size": "1758"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "tragic.aps",
+    "size": "5764"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "triple.aps",
+    "size": "18996"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "tune0.aps",
+    "size": "21116"
+  },
+  {
+    "tracker": "AProSys",
+    "composer": "Petter A. Urkedal",
+    "song": "verysimpletune.aps",
+    "size": "20964"
+  }
+]

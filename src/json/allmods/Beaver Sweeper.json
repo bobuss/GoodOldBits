@@ -1,8 +1,26 @@
-{
-  "Steffo": [
-    "goathack.gtk",
-    "jern stal auw.gtk",
-    "noice.gtk",
-    "nokia.gtk"
-  ]
-}
+[
+  {
+    "tracker": "Beaver Sweeper",
+    "composer": "Steffo",
+    "song": "goathack.gtk",
+    "size": "15064"
+  },
+  {
+    "tracker": "Beaver Sweeper",
+    "composer": "Steffo",
+    "song": "jern stal auw.gtk",
+    "size": "105809"
+  },
+  {
+    "tracker": "Beaver Sweeper",
+    "composer": "Steffo",
+    "song": "noice.gtk",
+    "size": "11549"
+  },
+  {
+    "tracker": "Beaver Sweeper",
+    "composer": "Steffo",
+    "song": "nokia.gtk",
+    "size": "7527"
+  }
+]

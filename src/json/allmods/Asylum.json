@@ -1,50 +1,254 @@
-{
-  "Basehead": [
-    "crusader - no regret - distort.amf",
-    "crusader - no regret - intent.amf",
-    "crusader - no regret - misc12.amf",
-    "crusader - no regret - misc6.amf",
-    "crusader - no regret - space2.amf",
-    "crusader - no regret - straight.amf",
-    "crusader - no regret - techno.amf",
-    "crusader - no remorse - credits.amf",
-    "crusader - no remorse - military.amf",
-    "crusader - no remorse - misc1.amf",
-    "crusader - no remorse - misc2.amf",
-    "crusader - no remorse - misc4.amf",
-    "crusader - no remorse - misc5.amf",
-    "crusader - no remorse - prison.amf",
-    "crusader - no remorse - science.amf",
-    "crusader - no remorse - space v2.0 - extended slight.amf"
-  ],
-  "Necros": [
-    "crusader - no regret - bleep2.amf",
-    "crusader - no regret - carnage and mayhem (middle eastern style).amf",
-    "crusader - no regret - d3.amf",
-    "crusader - no regret - darkened fantasies.amf",
-    "crusader - no regret - end4 (extended mutation).amf",
-    "crusader - no regret - main menu remix.amf",
-    "crusader - no regret - metal.amf",
-    "crusader - no regret - mk.amf",
-    "crusader - no regret - ninth crusade.amf",
-    "crusader - no regret - phil.amf",
-    "crusader - no regret - stint v2.0.amf",
-    "crusader - no regret - xmas (evil demonic elves mix).amf",
-    "crusader - no remorse - credits music.amf",
-    "crusader - no remorse - dimension 2012 (remix v2.0).amf",
-    "crusader - no remorse - end demo screen.amf",
-    "crusader - no remorse - end game.amf",
-    "crusader - no remorse - hypnotic (142 bpm).amf",
-    "crusader - no remorse - m16b.amf",
-    "crusader - no remorse - rebel base 2.amf",
-    "crusader - no remorse - rebel base.amf",
-    "crusader - no remorse - science station modul.amf",
-    "crusader - no remorse - the traveler.amf"
-  ],
-  "Todd Parsons": [
-    "coop-Kirk Winterrowd/crusader - no remorse - m07.amf",
-    "coop-Kirk Winterrowd/crusader - no remorse - m12.amf",
-    "crusader - no regret - dark.amf",
-    "crusader - no regret - third.amf"
-  ]
-}
+[
+  {
+    "tracker": "Asylum",
+    "composer": "Basehead",
+    "song": "crusader - no regret - distort.amf",
+    "size": "325474"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Basehead",
+    "song": "crusader - no regret - intent.amf",
+    "size": "281390"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Basehead",
+    "song": "crusader - no regret - misc12.amf",
+    "size": "327390"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Basehead",
+    "song": "crusader - no regret - misc6.amf",
+    "size": "266120"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Basehead",
+    "song": "crusader - no regret - space2.amf",
+    "size": "306694"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Basehead",
+    "song": "crusader - no regret - straight.amf",
+    "size": "315846"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Basehead",
+    "song": "crusader - no regret - techno.amf",
+    "size": "193872"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Basehead",
+    "song": "crusader - no remorse - credits.amf",
+    "size": "82896"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Basehead",
+    "song": "crusader - no remorse - military.amf",
+    "size": "199228"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Basehead",
+    "song": "crusader - no remorse - misc1.amf",
+    "size": "219378"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Basehead",
+    "song": "crusader - no remorse - misc2.amf",
+    "size": "287020"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Basehead",
+    "song": "crusader - no remorse - misc4.amf",
+    "size": "143584"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Basehead",
+    "song": "crusader - no remorse - misc5.amf",
+    "size": "338074"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Basehead",
+    "song": "crusader - no remorse - prison.amf",
+    "size": "347676"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Basehead",
+    "song": "crusader - no remorse - science.amf",
+    "size": "282446"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Basehead",
+    "song": "crusader - no remorse - space v2.0 - extended slight.amf",
+    "size": "304862"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Necros",
+    "song": "crusader - no regret - bleep2.amf",
+    "size": "372700"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Necros",
+    "song": "crusader - no regret - carnage and mayhem (middle eastern style).amf",
+    "size": "362876"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Necros",
+    "song": "crusader - no regret - d3.amf",
+    "size": "416546"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Necros",
+    "song": "crusader - no regret - darkened fantasies.amf",
+    "size": "264226"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Necros",
+    "song": "crusader - no regret - end4 (extended mutation).amf",
+    "size": "389742"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Necros",
+    "song": "crusader - no regret - main menu remix.amf",
+    "size": "516576"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Necros",
+    "song": "crusader - no regret - metal.amf",
+    "size": "420832"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Necros",
+    "song": "crusader - no regret - mk.amf",
+    "size": "274320"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Necros",
+    "song": "crusader - no regret - ninth crusade.amf",
+    "size": "438010"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Necros",
+    "song": "crusader - no regret - phil.amf",
+    "size": "334352"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Necros",
+    "song": "crusader - no regret - stint v2.0.amf",
+    "size": "383926"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Necros",
+    "song": "crusader - no regret - xmas (evil demonic elves mix).amf",
+    "size": "325934"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Necros",
+    "song": "crusader - no remorse - credits music.amf",
+    "size": "337076"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Necros",
+    "song": "crusader - no remorse - dimension 2012 (remix v2.0).amf",
+    "size": "368770"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Necros",
+    "song": "crusader - no remorse - end demo screen.amf",
+    "size": "213900"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Necros",
+    "song": "crusader - no remorse - end game.amf",
+    "size": "247900"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Necros",
+    "song": "crusader - no remorse - hypnotic (142 bpm).amf",
+    "size": "294088"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Necros",
+    "song": "crusader - no remorse - m16b.amf",
+    "size": "208960"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Necros",
+    "song": "crusader - no remorse - rebel base 2.amf",
+    "size": "248710"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Necros",
+    "song": "crusader - no remorse - rebel base.amf",
+    "size": "229746"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Necros",
+    "song": "crusader - no remorse - science station modul.amf",
+    "size": "172090"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Necros",
+    "song": "crusader - no remorse - the traveler.amf",
+    "size": "275960"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Todd Parsons",
+    "song": "coop-Kirk Winterrowd/crusader - no remorse - m07.amf",
+    "size": "149001"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Todd Parsons",
+    "song": "coop-Kirk Winterrowd/crusader - no remorse - m12.amf",
+    "size": "139774"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Todd Parsons",
+    "song": "crusader - no regret - dark.amf",
+    "size": "233022"
+  },
+  {
+    "tracker": "Asylum",
+    "composer": "Todd Parsons",
+    "song": "crusader - no regret - third.amf",
+    "size": "182450"
+  }
+]

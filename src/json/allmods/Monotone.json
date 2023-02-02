@@ -1,12 +1,26 @@
-{
-  "Trixter": [
-    "understa.mon"
-  ],
-  "Virt": [
-    "rickroll.mon"
-  ],
-  "Yesso": [
-    "prelude.mon",
-    "test.mon"
-  ]
-}
+[
+  {
+    "tracker": "Monotone",
+    "composer": "Trixter",
+    "song": "understa.mon",
+    "size": "1887"
+  },
+  {
+    "tracker": "Monotone",
+    "composer": "Virt",
+    "song": "rickroll.mon",
+    "size": "2271"
+  },
+  {
+    "tracker": "Monotone",
+    "composer": "Yesso",
+    "song": "prelude.mon",
+    "size": "12127"
+  },
+  {
+    "tracker": "Monotone",
+    "composer": "Yesso",
+    "song": "test.mon",
+    "size": "2399"
+  }
+]

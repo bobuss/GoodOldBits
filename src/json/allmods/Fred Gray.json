@@ -1,8 +1,26 @@
-{
-  "Fred Gray": [
-    "blacklamp.gray",
-    "eco.gray",
-    "stargoose.gray",
-    "victoryroad.gray"
-  ]
-}
+[
+  {
+    "tracker": "Fred Gray",
+    "composer": "Fred Gray",
+    "song": "blacklamp.gray",
+    "size": "5356"
+  },
+  {
+    "tracker": "Fred Gray",
+    "composer": "Fred Gray",
+    "song": "eco.gray",
+    "size": "6824"
+  },
+  {
+    "tracker": "Fred Gray",
+    "composer": "Fred Gray",
+    "song": "stargoose.gray",
+    "size": "8212"
+  },
+  {
+    "tracker": "Fred Gray",
+    "composer": "Fred Gray",
+    "song": "victoryroad.gray",
+    "size": "8284"
+  }
+]

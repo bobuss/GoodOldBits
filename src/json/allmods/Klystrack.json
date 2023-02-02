@@ -1,35 +1,104 @@
-{
-  "- unknown": [
-    "hskv01-dnb.kt",
-    "hskv02-rap.kt",
-    "hskv04-dubstep.kt",
-    "hskv05-rubaduhb.kt",
-    "hskv06-motorez.kt",
-    "ringmod.kt"
-  ],
-  "Bod": [
-    "apoptosis.kt",
-    "sync squatterpunk x.kt"
-  ],
-  "Dr. Mabuse": [
-    "paranoimia (suntronic).kt"
-  ],
-  "Ilkke": [
-    "phonkeh.kt",
-    "sprock'n'sprawl.kt"
-  ],
-  "Jeremy D. Landry": [
-    "hskv03-rygarhouse.kt"
-  ],
-  "N00bstar": [
-    "castlevania.kt",
-    "dr.happy.kt",
-    "smp-dpintro.kt"
-  ],
-  "Nebulah": [
-    "diverted experience.kt"
-  ],
-  "Null1024": [
-    "obspatial.kt"
-  ]
-}
+[
+  {
+    "tracker": "Klystrack",
+    "composer": "Bod",
+    "song": "apoptosis.kt",
+    "size": "15453"
+  },
+  {
+    "tracker": "Klystrack",
+    "composer": "Bod",
+    "song": "sync squatterpunk x.kt",
+    "size": "3399"
+  },
+  {
+    "tracker": "Klystrack",
+    "composer": "Dr. Mabuse",
+    "song": "paranoimia (suntronic).kt",
+    "size": "6943"
+  },
+  {
+    "tracker": "Klystrack",
+    "composer": "Ilkke",
+    "song": "phonkeh.kt",
+    "size": "5005"
+  },
+  {
+    "tracker": "Klystrack",
+    "composer": "Ilkke",
+    "song": "sprock'n'sprawl.kt",
+    "size": "3722"
+  },
+  {
+    "tracker": "Klystrack",
+    "composer": "Jeremy D. Landry",
+    "song": "hskv03-rygarhouse.kt",
+    "size": "14337"
+  },
+  {
+    "tracker": "Klystrack",
+    "composer": "N00bstar",
+    "song": "castlevania.kt",
+    "size": "2793"
+  },
+  {
+    "tracker": "Klystrack",
+    "composer": "N00bstar",
+    "song": "dr.happy.kt",
+    "size": "20502"
+  },
+  {
+    "tracker": "Klystrack",
+    "composer": "N00bstar",
+    "song": "smp-dpintro.kt",
+    "size": "9725"
+  },
+  {
+    "tracker": "Klystrack",
+    "composer": "Nebulah",
+    "song": "diverted experience.kt",
+    "size": "4771"
+  },
+  {
+    "tracker": "Klystrack",
+    "composer": "Null1024",
+    "song": "obspatial.kt",
+    "size": "20230"
+  },
+  {
+    "tracker": "Klystrack",
+    "composer": "- unknown",
+    "song": "hskv01-dnb.kt",
+    "size": "10977"
+  },
+  {
+    "tracker": "Klystrack",
+    "composer": "- unknown",
+    "song": "hskv02-rap.kt",
+    "size": "10711"
+  },
+  {
+    "tracker": "Klystrack",
+    "composer": "- unknown",
+    "song": "hskv04-dubstep.kt",
+    "size": "10880"
+  },
+  {
+    "tracker": "Klystrack",
+    "composer": "- unknown",
+    "song": "hskv05-rubaduhb.kt",
+    "size": "10944"
+  },
+  {
+    "tracker": "Klystrack",
+    "composer": "- unknown",
+    "song": "hskv06-motorez.kt",
+    "size": "10634"
+  },
+  {
+    "tracker": "Klystrack",
+    "composer": "- unknown",
+    "song": "ringmod.kt",
+    "size": "2479"
+  }
+]

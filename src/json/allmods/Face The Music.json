@@ -1,121 +1,572 @@
-{
-  "- unknown": [
-    "acco hop.ftm",
-    "ballade pour adeline.ftm",
-    "cowboy dance.ftm",
-    "gloryflightslideitiiend.ftm",
-    "tears on my amiga.ftm",
-    "wild thing.ftm"
-  ],
-  "Ambien": [
-    "andreab.ftm",
-    "dont cry.ftm",
-    "french lesson.ftm",
-    "huschlied.ftm",
-    "now move.ftm",
-    "rock this place.ftm",
-    "shake your body.ftm",
-    "space invaders.ftm"
-  ],
-  "Andre Eickler": [
-    "ambiente.ftm",
-    "a walk in the dark.ftm",
-    "bigfunk.ftm",
-    "danger mix.ftm",
-    "englishman in new york.ftm",
-    "innocence.ftm",
-    "looking at you.ftm",
-    "menolly's song.ftm",
-    "new generation.ftm",
-    "reggae.ftm",
-    "rock.ftm",
-    "song without name.ftm",
-    "stomper.ftm",
-    "stormcloud.ftm"
-  ],
-  "IG": [
-    "death march.ftm",
-    "faith no more.ftm"
-  ],
-  "JS (FI)": [
-    "arpeggiator.ftm",
-    "goldfinger.ftm",
-    "hearmoresoon.ftm",
-    "nacl.ftm",
-    "rave on till dawn.ftm",
-    "so hard.ftm",
-    "staticoscillations.ftm"
-  ],
-  "Jimmy Clytch": [
-    "delease.ftm",
-    "hot drive.ftm",
-    "minodance.ftm",
-    "snapp7.ftm",
-    "woodbloc.ftm"
-  ],
-  "Kasi Mir": [
-    "60 hours @ the white house.ftm",
-    "already lost.ftm",
-    "and cry alone.ftm",
-    "christmas eve.ftm",
-    "expecting the worst.ftm",
-    "hand-made.ftm",
-    "here and tonight.ftm",
-    "i don't want a relief.ftm",
-    "i love the night.ftm",
-    "it started to rain.ftm",
-    "jm song1.ftm",
-    "life is a sequence.ftm",
-    "life is a sequence-mix.ftm",
-    "mysteries.ftm",
-    "since i started to think.ftm",
-    "surprise song.ftm",
-    "wr.ftm",
-    "you have to wait.ftm"
-  ],
-  "Keimi": [
-    "bdp-faxen.ftm",
-    "jff8.ftm",
-    "neptune.ftm",
-    "ride a star.ftm",
-    "trainings-song.ftm"
-  ],
-  "Klaudio Ribic": [
-    "get off the base.ftm",
-    "midnight beats.ftm",
-    "view into imagine.ftm"
-  ],
-  "Neurodancer": [
-    "fade to light.ftm",
-    "stranger 8.ftm",
-    "sweet dreams.ftm"
-  ],
-  "Phil Marlowe": [
-    "hot-butt.ftm",
-    "snowblind.ftm",
-    "springtime.ftm",
-    "take my breath away.ftm",
-    "the equalizer part ii.ftm"
-  ],
-  "SSilk": [
-    "antom.ftm",
-    "detective waizenbaum in town.ftm",
-    "dog of baskerville.ftm",
-    "dreiviertel.ftm",
-    "herbst mit wehmut.ftm",
-    "if the life is too fun.ftm",
-    "jonahara.ftm",
-    "no return.ftm",
-    "ode to africa.ftm",
-    "padre i love you.ftm",
-    "relex.ftm",
-    "schlendering.ftm",
-    "scotsman will die.ftm",
-    "slow sing slow.ftm",
-    "sparky goes to nz.ftm",
-    "summer holidays.ftm",
-    "tag der disonanz.ftm",
-    "tekk-no.ftm",
-    "zamba-samba.ftm"
-  ]
-}
+[
+  {
+    "tracker": "Face The Music",
+    "composer": "Ambien",
+    "song": "andreab.ftm",
+    "size": "175154"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Ambien",
+    "song": "dont cry.ftm",
+    "size": "169192"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Ambien",
+    "song": "french lesson.ftm",
+    "size": "160734"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Ambien",
+    "song": "huschlied.ftm",
+    "size": "374390"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Ambien",
+    "song": "now move.ftm",
+    "size": "156358"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Ambien",
+    "song": "rock this place.ftm",
+    "size": "218514"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Ambien",
+    "song": "shake your body.ftm",
+    "size": "202464"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Ambien",
+    "song": "space invaders.ftm",
+    "size": "199152"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Andre Eickler",
+    "song": "ambiente.ftm",
+    "size": "342398"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Andre Eickler",
+    "song": "a walk in the dark.ftm",
+    "size": "165590"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Andre Eickler",
+    "song": "bigfunk.ftm",
+    "size": "162320"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Andre Eickler",
+    "song": "danger mix.ftm",
+    "size": "283464"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Andre Eickler",
+    "song": "englishman in new york.ftm",
+    "size": "217268"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Andre Eickler",
+    "song": "innocence.ftm",
+    "size": "172640"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Andre Eickler",
+    "song": "looking at you.ftm",
+    "size": "216374"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Andre Eickler",
+    "song": "menolly's song.ftm",
+    "size": "141786"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Andre Eickler",
+    "song": "new generation.ftm",
+    "size": "230822"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Andre Eickler",
+    "song": "reggae.ftm",
+    "size": "153982"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Andre Eickler",
+    "song": "rock.ftm",
+    "size": "187692"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Andre Eickler",
+    "song": "song without name.ftm",
+    "size": "94682"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Andre Eickler",
+    "song": "stomper.ftm",
+    "size": "213708"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Andre Eickler",
+    "song": "stormcloud.ftm",
+    "size": "179594"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "IG",
+    "song": "death march.ftm",
+    "size": "190862"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "IG",
+    "song": "faith no more.ftm",
+    "size": "175040"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Jimmy Clytch",
+    "song": "delease.ftm",
+    "size": "94040"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Jimmy Clytch",
+    "song": "hot drive.ftm",
+    "size": "48232"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Jimmy Clytch",
+    "song": "minodance.ftm",
+    "size": "83286"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Jimmy Clytch",
+    "song": "snapp7.ftm",
+    "size": "118624"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Jimmy Clytch",
+    "song": "woodbloc.ftm",
+    "size": "116302"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "JS (FI)",
+    "song": "arpeggiator.ftm",
+    "size": "28382"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "JS (FI)",
+    "song": "goldfinger.ftm",
+    "size": "78670"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "JS (FI)",
+    "song": "hearmoresoon.ftm",
+    "size": "48528"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "JS (FI)",
+    "song": "nacl.ftm",
+    "size": "46974"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "JS (FI)",
+    "song": "rave on till dawn.ftm",
+    "size": "42652"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "JS (FI)",
+    "song": "so hard.ftm",
+    "size": "126956"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "JS (FI)",
+    "song": "staticoscillations.ftm",
+    "size": "8888"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Kasi Mir",
+    "song": "60 hours @ the white house.ftm",
+    "size": "95342"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Kasi Mir",
+    "song": "already lost.ftm",
+    "size": "191040"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Kasi Mir",
+    "song": "and cry alone.ftm",
+    "size": "193278"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Kasi Mir",
+    "song": "christmas eve.ftm",
+    "size": "161768"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Kasi Mir",
+    "song": "expecting the worst.ftm",
+    "size": "204502"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Kasi Mir",
+    "song": "hand-made.ftm",
+    "size": "250916"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Kasi Mir",
+    "song": "here and tonight.ftm",
+    "size": "159036"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Kasi Mir",
+    "song": "i don't want a relief.ftm",
+    "size": "97220"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Kasi Mir",
+    "song": "i love the night.ftm",
+    "size": "91808"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Kasi Mir",
+    "song": "it started to rain.ftm",
+    "size": "320146"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Kasi Mir",
+    "song": "jm song1.ftm",
+    "size": "139910"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Kasi Mir",
+    "song": "life is a sequence.ftm",
+    "size": "213680"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Kasi Mir",
+    "song": "life is a sequence-mix.ftm",
+    "size": "203754"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Kasi Mir",
+    "song": "mysteries.ftm",
+    "size": "236952"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Kasi Mir",
+    "song": "since i started to think.ftm",
+    "size": "163554"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Kasi Mir",
+    "song": "surprise song.ftm",
+    "size": "118918"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Kasi Mir",
+    "song": "wr.ftm",
+    "size": "243120"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Kasi Mir",
+    "song": "you have to wait.ftm",
+    "size": "140948"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Keimi",
+    "song": "bdp-faxen.ftm",
+    "size": "157472"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Keimi",
+    "song": "jff8.ftm",
+    "size": "82200"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Keimi",
+    "song": "neptune.ftm",
+    "size": "79338"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Keimi",
+    "song": "ride a star.ftm",
+    "size": "127808"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Keimi",
+    "song": "trainings-song.ftm",
+    "size": "51584"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Klaudio Ribic",
+    "song": "get off the base.ftm",
+    "size": "99290"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Klaudio Ribic",
+    "song": "midnight beats.ftm",
+    "size": "206894"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Klaudio Ribic",
+    "song": "view into imagine.ftm",
+    "size": "169454"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Neurodancer",
+    "song": "fade to light.ftm",
+    "size": "191252"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Neurodancer",
+    "song": "stranger 8.ftm",
+    "size": "135364"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Neurodancer",
+    "song": "sweet dreams.ftm",
+    "size": "132244"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Phil Marlowe",
+    "song": "hot-butt.ftm",
+    "size": "85142"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Phil Marlowe",
+    "song": "snowblind.ftm",
+    "size": "145114"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Phil Marlowe",
+    "song": "springtime.ftm",
+    "size": "115616"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Phil Marlowe",
+    "song": "take my breath away.ftm",
+    "size": "128100"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "Phil Marlowe",
+    "song": "the equalizer part ii.ftm",
+    "size": "147788"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "SSilk",
+    "song": "antom.ftm",
+    "size": "230510"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "SSilk",
+    "song": "detective waizenbaum in town.ftm",
+    "size": "187600"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "SSilk",
+    "song": "dog of baskerville.ftm",
+    "size": "262188"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "SSilk",
+    "song": "dreiviertel.ftm",
+    "size": "211300"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "SSilk",
+    "song": "herbst mit wehmut.ftm",
+    "size": "123138"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "SSilk",
+    "song": "if the life is too fun.ftm",
+    "size": "35018"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "SSilk",
+    "song": "jonahara.ftm",
+    "size": "171622"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "SSilk",
+    "song": "no return.ftm",
+    "size": "150330"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "SSilk",
+    "song": "ode to africa.ftm",
+    "size": "66552"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "SSilk",
+    "song": "padre i love you.ftm",
+    "size": "156008"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "SSilk",
+    "song": "relex.ftm",
+    "size": "135238"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "SSilk",
+    "song": "schlendering.ftm",
+    "size": "221176"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "SSilk",
+    "song": "scotsman will die.ftm",
+    "size": "46048"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "SSilk",
+    "song": "slow sing slow.ftm",
+    "size": "96934"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "SSilk",
+    "song": "sparky goes to nz.ftm",
+    "size": "252476"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "SSilk",
+    "song": "summer holidays.ftm",
+    "size": "305452"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "SSilk",
+    "song": "tag der disonanz.ftm",
+    "size": "139830"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "SSilk",
+    "song": "tekk-no.ftm",
+    "size": "320898"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "SSilk",
+    "song": "zamba-samba.ftm",
+    "size": "139456"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "- unknown",
+    "song": "acco hop.ftm",
+    "size": "24188"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "- unknown",
+    "song": "ballade pour adeline.ftm",
+    "size": "80372"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "- unknown",
+    "song": "cowboy dance.ftm",
+    "size": "50304"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "- unknown",
+    "song": "gloryflightslideitiiend.ftm",
+    "size": "73934"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "- unknown",
+    "song": "tears on my amiga.ftm",
+    "size": "106618"
+  },
+  {
+    "tracker": "Face The Music",
+    "composer": "- unknown",
+    "song": "wild thing.ftm",
+    "size": "161148"
+  }
+]

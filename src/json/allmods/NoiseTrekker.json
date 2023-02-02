@@ -1,7 +1,20 @@
-{
-  "- unknown": [
-    "d.m.turner remix.ntk",
-    "robot-ballet.ntk",
-    "sunday 18'30.ntk"
-  ]
-}
+[
+  {
+    "tracker": "NoiseTrekker",
+    "composer": "- unknown",
+    "song": "d.m.turner remix.ntk",
+    "size": "186186"
+  },
+  {
+    "tracker": "NoiseTrekker",
+    "composer": "- unknown",
+    "song": "robot-ballet.ntk",
+    "size": "205006"
+  },
+  {
+    "tracker": "NoiseTrekker",
+    "composer": "- unknown",
+    "song": "sunday 18'30.ntk",
+    "size": "350200"
+  }
+]

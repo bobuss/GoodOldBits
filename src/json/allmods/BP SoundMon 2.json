@@ -1,237 +1,1268 @@
-{
-  "- unknown": [
-    "aquarivs.bp",
-    "backsong.bp",
-    "demon1.bp",
-    "dingdong.bp",
-    "freaky.bp",
-    "fuckmod2.bp",
-    "interpreter.bp",
-    "nobody.bp",
-    "pacific dream.bp",
-    "rsi-hard.bp",
-    "saboteur2.bp",
-    "soundmonitor-3.bp",
-    "synthdrum2.bp",
-    "test5 el.bp",
-    "timekiller.bp",
-    "ttb song.bp",
-    "universe.bp",
-    "visor 2 synth.bp"
-  ],
-  "Allister Brimble": [
-    "1st division manager.bp",
-    "alien breed - effects.bp",
-    "alien breed - end.bp",
-    "alien breed - end level.bp",
-    "alien breed - menu.bp",
-    "alien breed - menu long.bp",
-    "alien breed - menu remix.bp",
-    "alien breed se - menu.bp",
-    "bach.bp",
-    "bignose.bp",
-    "cjs elephant antics.bp",
-    "clumsy.bp",
-    "commando - hiscore.bp",
-    "commando - title.bp",
-    "commando v2.bp",
-    "crazy comets.bp",
-    "demon-1.bp",
-    "demon-2.bp",
-    "dizzy fast food.bp",
-    "dizzyisland2.bp",
-    "dizzy kwik snax.bp",
-    "fantasy world dizzy.bp",
-    "final frontier.bp",
-    "final frontier (short).bp",
-    "gapulus.bp",
-    "green beret.bp",
-    "hawkeye.bp",
-    "kamikazi.bp",
-    "karate.bp",
-    "labello.bp",
-    "liverpool.bp",
-    "mean machine.bp",
-    "mig 29 soviet fighter.bp",
-    "monopoly deluxe usa.bp",
-    "neverending story.bp",
-    "ocean loader.bp",
-    "plexu - the time travellers - plexu1.bp",
-    "pro boxing simulator.bp",
-    "projectx - level 1.bp",
-    "projectx - level 2-2.bp",
-    "projectx - level 2.bp",
-    "projectx - level 3.bp",
-    "projectx - level 4.bp",
-    "projectx - level 5.bp",
-    "projectx - level 6.bp",
-    "rampart.bp",
-    "robin hood legend quest.bp",
-    "select.bp",
-    "seymour goes hollywood.bp",
-    "slightly magic.bp",
-    "spellbound dizzy.bp",
-    "spellfire the sorcerer.bp",
-    "super grand prix.bp",
-    "super seymour.bp",
-    "treasure island dizzy - music 2.bp",
-    "wacko jr. in wonderland - superboy.bp",
-    "wacko jr. in wonderland - wonderlandtitle.bp",
-    "wacky darts (longer).bp"
-  ],
-  "Brian Postma": [
-    "ascension - theme of brian.bp",
-    "hawkeye.bp",
-    "sanctuary - brian's song.bp"
-  ],
-  "Dextrous": [
-    "loadertune.bp",
-    "obsession.bp"
-  ],
-  "Jaimen": [
-    "yes.bp"
-  ],
-  "Jeff": [
-    "roll or die - in misery.bp",
-    "roll or die - priest of lie.bp",
-    "roll or die - rolloader.bp",
-    "roll or die - super silly.bp"
-  ],
-  "Nick": [
-    "nicktune1.bp"
-  ],
-  "Sffen": [
-    "gravediving.bp",
-    "greater than live.bp",
-    "haddick.bp",
-    "hit the road.bp",
-    "sonja van veen.bp",
-    "space activa.bp"
-  ],
-  "Synthetic": [
-    "cardinals.bp"
-  ],
-  "The Fox": [
-    "bagitman intro.bp",
-    "chris.bp",
-    "cobra.bp",
-    "cold winter.bp",
-    "cooltune.bp",
-    "donkey kong - intro music.bp",
-    "frantic freddie - song 10.bp",
-    "frantic freddie - song 11.bp",
-    "frantic freddie - song 12.bp",
-    "frantic freddie - song 1.bp",
-    "frantic freddie - song 3.bp",
-    "frantic freddie - song 4.bp",
-    "frantic freddie - song 5.bp",
-    "frantic freddie - song 6.bp",
-    "frantic freddie - song 7.bp",
-    "frantic freddie - song 8.bp",
-    "frantic freddie - song 9.bp",
-    "loader.bp",
-    "moin moin.bp",
-    "nr.1.bp",
-    "party time.bp",
-    "raider.bp"
-  ],
-  "The Raven": [
-    "latest stuff 1.bp",
-    "raven theme 2.bp"
-  ],
-  "Zzzax": [
-    "acid mix.bp",
-    "artrun.bp",
-    "astra.bp",
-    "axel-f.bp",
-    "black and white.bp",
-    "boeskool.bp",
-    "breaker.bp",
-    "calamitous.bp",
-    "cardinals hit.bp",
-    "chase.bp",
-    "circle02.bp",
-    "circularium.bp",
-    "crisis.bp",
-    "crystals.bp",
-    "cybersong.bp",
-    "dadumda.bp",
-    "dark angel.bp",
-    "delta theme.bp",
-    "dig this.bp",
-    "dimension five.bp",
-    "draconian.bp",
-    "dreamscape.bp",
-    "eternity.bp",
-    "example.bp",
-    "exclusive.bp",
-    "expressions.bp",
-    "flash - loading tune.bp",
-    "freddy - mix.bp",
-    "frontier synth.bp",
-    "funtune.bp",
-    "galaxian cloud.bp",
-    "galaxy blast - in game.bp",
-    "galaxy blast - select ship.bp",
-    "galaxy blast - title 2.bp",
-    "ghosts'n'goblins.bp",
-    "heavens devil.bp",
-    "imago.bp",
-    "instructions.bp",
-    "jarre.bp",
-    "kitarro.bp",
-    "light circles.bp",
-    "lightstorm.bp",
-    "marching doves.bp",
-    "mixing.bp",
-    "monty remix.bp",
-    "multisynth.bp",
-    "new dimension.bp",
-    "new edition.bp",
-    "newmod3.bp",
-    "newmod6.bp",
-    "newmod.bp",
-    "no surrender.bp",
-    "over and over.bp",
-    "power please.bp",
-    "pulsarmix.bp",
-    "qume.bp",
-    "rain forest.bp",
-    "rasta blasta.bp",
-    "remix-x.bp",
-    "rocking chair.bp",
-    "sanxion.bp",
-    "selector.bp",
-    "sensibility.bp",
-    "shorty.bp",
-    "sing sing sing.bp",
-    "skybird.bp",
-    "soulmachine.bp",
-    "soundfx.bp",
-    "spaceship 505.bp",
-    "spectral.bp",
-    "spooky.bp",
-    "stealth.bp",
-    "stellarium.bp",
-    "synthdrum.bp",
-    "synthetic.bp",
-    "teflon.bp",
-    "terra cresta.bp",
-    "the short one.bp",
-    "the thinking man.bp",
-    "the timecircle - theme.bp",
-    "the timecircle - trial.bp",
-    "the wall.bp",
-    "traxx.bp",
-    "try this one.bp",
-    "twotw.bp",
-    "tylon - reset part.bp",
-    "vendetta.bp",
-    "visor.bp",
-    "voyage.bp",
-    "weird dream.bp",
-    "wonder world.bp",
-    "zyrotrom.bp",
-    "zzzax no eg.bp"
-  ]
-}
+[
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "1st division manager.bp",
+    "size": "40562"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "alien breed - effects.bp",
+    "size": "4304"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "alien breed - end.bp",
+    "size": "60144"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "alien breed - end level.bp",
+    "size": "14562"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "alien breed - menu.bp",
+    "size": "41830"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "alien breed - menu long.bp",
+    "size": "82126"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "alien breed - menu remix.bp",
+    "size": "99030"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "alien breed se - menu.bp",
+    "size": "41320"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "bach.bp",
+    "size": "5008"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "bignose.bp",
+    "size": "57264"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "cjs elephant antics.bp",
+    "size": "85874"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "clumsy.bp",
+    "size": "35814"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "commando - hiscore.bp",
+    "size": "3616"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "commando - title.bp",
+    "size": "12336"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "commando v2.bp",
+    "size": "19130"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "crazy comets.bp",
+    "size": "32144"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "demon-1.bp",
+    "size": "46836"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "demon-2.bp",
+    "size": "30182"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "dizzy fast food.bp",
+    "size": "51102"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "dizzyisland2.bp",
+    "size": "7304"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "dizzy kwik snax.bp",
+    "size": "59282"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "fantasy world dizzy.bp",
+    "size": "46140"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "final frontier.bp",
+    "size": "38536"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "final frontier (short).bp",
+    "size": "25736"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "gapulus.bp",
+    "size": "19874"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "green beret.bp",
+    "size": "7888"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "hawkeye.bp",
+    "size": "37154"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "kamikazi.bp",
+    "size": "53688"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "karate.bp",
+    "size": "71096"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "labello.bp",
+    "size": "20598"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "liverpool.bp",
+    "size": "7232"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "mean machine.bp",
+    "size": "49534"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "mig 29 soviet fighter.bp",
+    "size": "55750"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "monopoly deluxe usa.bp",
+    "size": "54572"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "neverending story.bp",
+    "size": "7360"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "ocean loader.bp",
+    "size": "11920"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "plexu - the time travellers - plexu1.bp",
+    "size": "61190"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "pro boxing simulator.bp",
+    "size": "50116"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "projectx - level 1.bp",
+    "size": "44092"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "projectx - level 2-2.bp",
+    "size": "19620"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "projectx - level 2.bp",
+    "size": "31070"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "projectx - level 3.bp",
+    "size": "39212"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "projectx - level 4.bp",
+    "size": "41900"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "projectx - level 5.bp",
+    "size": "25956"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "projectx - level 6.bp",
+    "size": "14834"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "rampart.bp",
+    "size": "20988"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "robin hood legend quest.bp",
+    "size": "28504"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "select.bp",
+    "size": "19232"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "seymour goes hollywood.bp",
+    "size": "27638"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "slightly magic.bp",
+    "size": "91052"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "spellbound dizzy.bp",
+    "size": "34554"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "spellfire the sorcerer.bp",
+    "size": "75970"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "super grand prix.bp",
+    "size": "56454"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "super seymour.bp",
+    "size": "68356"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "treasure island dizzy - music 2.bp",
+    "size": "22556"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "wacko jr. in wonderland - superboy.bp",
+    "size": "59370"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "wacko jr. in wonderland - wonderlandtitle.bp",
+    "size": "61036"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Allister Brimble",
+    "song": "wacky darts (longer).bp",
+    "size": "73520"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Brian Postma",
+    "song": "ascension - theme of brian.bp",
+    "size": "48792"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Brian Postma",
+    "song": "hawkeye.bp",
+    "size": "63514"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Brian Postma",
+    "song": "sanctuary - brian's song.bp",
+    "size": "67304"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Dextrous",
+    "song": "loadertune.bp",
+    "size": "10042"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Dextrous",
+    "song": "obsession.bp",
+    "size": "38036"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Jaimen",
+    "song": "yes.bp",
+    "size": "20478"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Jeff",
+    "song": "roll or die - in misery.bp",
+    "size": "16526"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Jeff",
+    "song": "roll or die - priest of lie.bp",
+    "size": "22814"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Jeff",
+    "song": "roll or die - rolloader.bp",
+    "size": "4416"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Jeff",
+    "song": "roll or die - super silly.bp",
+    "size": "17128"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Nick",
+    "song": "nicktune1.bp",
+    "size": "9782"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Sffen",
+    "song": "gravediving.bp",
+    "size": "77832"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Sffen",
+    "song": "greater than live.bp",
+    "size": "84962"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Sffen",
+    "song": "haddick.bp",
+    "size": "70276"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Sffen",
+    "song": "hit the road.bp",
+    "size": "46566"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Sffen",
+    "song": "sonja van veen.bp",
+    "size": "55676"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Sffen",
+    "song": "space activa.bp",
+    "size": "83274"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Synthetic",
+    "song": "cardinals.bp",
+    "size": "16894"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Fox",
+    "song": "bagitman intro.bp",
+    "size": "2512"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Fox",
+    "song": "chris.bp",
+    "size": "23064"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Fox",
+    "song": "cobra.bp",
+    "size": "12080"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Fox",
+    "song": "cold winter.bp",
+    "size": "23992"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Fox",
+    "song": "cooltune.bp",
+    "size": "7776"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Fox",
+    "song": "donkey kong - intro music.bp",
+    "size": "20568"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Fox",
+    "song": "frantic freddie - song 10.bp",
+    "size": "9104"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Fox",
+    "song": "frantic freddie - song 11.bp",
+    "size": "10112"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Fox",
+    "song": "frantic freddie - song 12.bp",
+    "size": "5216"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Fox",
+    "song": "frantic freddie - song 1.bp",
+    "size": "12368"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Fox",
+    "song": "frantic freddie - song 3.bp",
+    "size": "6560"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Fox",
+    "song": "frantic freddie - song 4.bp",
+    "size": "9344"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Fox",
+    "song": "frantic freddie - song 5.bp",
+    "size": "7088"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Fox",
+    "song": "frantic freddie - song 6.bp",
+    "size": "11424"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Fox",
+    "song": "frantic freddie - song 7.bp",
+    "size": "12912"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Fox",
+    "song": "frantic freddie - song 8.bp",
+    "size": "6352"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Fox",
+    "song": "frantic freddie - song 9.bp",
+    "size": "9392"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Fox",
+    "song": "loader.bp",
+    "size": "17776"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Fox",
+    "song": "moin moin.bp",
+    "size": "6320"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Fox",
+    "song": "nr.1.bp",
+    "size": "4416"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Fox",
+    "song": "party time.bp",
+    "size": "9088"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Fox",
+    "song": "raider.bp",
+    "size": "9104"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Raven",
+    "song": "latest stuff 1.bp",
+    "size": "4640"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "The Raven",
+    "song": "raven theme 2.bp",
+    "size": "8380"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "- unknown",
+    "song": "aquarivs.bp",
+    "size": "92962"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "- unknown",
+    "song": "backsong.bp",
+    "size": "67610"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "- unknown",
+    "song": "demon1.bp",
+    "size": "11680"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "- unknown",
+    "song": "dingdong.bp",
+    "size": "6064"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "- unknown",
+    "song": "freaky.bp",
+    "size": "135232"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "- unknown",
+    "song": "fuckmod2.bp",
+    "size": "1056"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "- unknown",
+    "song": "interpreter.bp",
+    "size": "162792"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "- unknown",
+    "song": "nobody.bp",
+    "size": "5152"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "- unknown",
+    "song": "pacific dream.bp",
+    "size": "158386"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "- unknown",
+    "song": "rsi-hard.bp",
+    "size": "90038"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "- unknown",
+    "song": "saboteur2.bp",
+    "size": "55874"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "- unknown",
+    "song": "soundmonitor-3.bp",
+    "size": "9064"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "- unknown",
+    "song": "synthdrum2.bp",
+    "size": "6160"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "- unknown",
+    "song": "test5 el.bp",
+    "size": "122380"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "- unknown",
+    "song": "timekiller.bp",
+    "size": "174820"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "- unknown",
+    "song": "ttb song.bp",
+    "size": "71488"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "- unknown",
+    "song": "universe.bp",
+    "size": "60968"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "- unknown",
+    "song": "visor 2 synth.bp",
+    "size": "9164"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "acid mix.bp",
+    "size": "231834"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "artrun.bp",
+    "size": "144730"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "astra.bp",
+    "size": "21318"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "axel-f.bp",
+    "size": "21188"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "black and white.bp",
+    "size": "39452"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "boeskool.bp",
+    "size": "29460"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "breaker.bp",
+    "size": "176714"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "calamitous.bp",
+    "size": "19430"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "cardinals hit.bp",
+    "size": "41084"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "chase.bp",
+    "size": "55746"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "circle02.bp",
+    "size": "16894"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "circularium.bp",
+    "size": "122348"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "crisis.bp",
+    "size": "85720"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "crystals.bp",
+    "size": "13206"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "cybersong.bp",
+    "size": "108008"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "dadumda.bp",
+    "size": "46800"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "dark angel.bp",
+    "size": "15106"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "delta theme.bp",
+    "size": "34052"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "dig this.bp",
+    "size": "48022"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "dimension five.bp",
+    "size": "18198"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "draconian.bp",
+    "size": "24608"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "dreamscape.bp",
+    "size": "46822"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "eternity.bp",
+    "size": "37580"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "example.bp",
+    "size": "2784"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "exclusive.bp",
+    "size": "18528"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "expressions.bp",
+    "size": "45140"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "flash - loading tune.bp",
+    "size": "66934"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "freddy - mix.bp",
+    "size": "242768"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "frontier synth.bp",
+    "size": "29074"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "funtune.bp",
+    "size": "8866"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "galaxian cloud.bp",
+    "size": "36388"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "galaxy blast - in game.bp",
+    "size": "141222"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "galaxy blast - select ship.bp",
+    "size": "80224"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "galaxy blast - title 2.bp",
+    "size": "130026"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "ghosts'n'goblins.bp",
+    "size": "11272"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "heavens devil.bp",
+    "size": "152338"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "imago.bp",
+    "size": "24158"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "instructions.bp",
+    "size": "91576"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "jarre.bp",
+    "size": "23478"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "kitarro.bp",
+    "size": "135642"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "light circles.bp",
+    "size": "37612"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "lightstorm.bp",
+    "size": "205030"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "marching doves.bp",
+    "size": "99890"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "mixing.bp",
+    "size": "124320"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "monty remix.bp",
+    "size": "108720"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "multisynth.bp",
+    "size": "140710"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "new dimension.bp",
+    "size": "16276"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "new edition.bp",
+    "size": "19650"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "newmod3.bp",
+    "size": "14378"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "newmod6.bp",
+    "size": "9470"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "newmod.bp",
+    "size": "23736"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "no surrender.bp",
+    "size": "14158"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "over and over.bp",
+    "size": "66936"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "power please.bp",
+    "size": "87638"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "pulsarmix.bp",
+    "size": "40802"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "qume.bp",
+    "size": "10388"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "rain forest.bp",
+    "size": "65848"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "rasta blasta.bp",
+    "size": "13278"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "remix-x.bp",
+    "size": "75904"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "rocking chair.bp",
+    "size": "18898"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "sanxion.bp",
+    "size": "26176"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "selector.bp",
+    "size": "26864"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "sensibility.bp",
+    "size": "153142"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "shorty.bp",
+    "size": "25756"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "sing sing sing.bp",
+    "size": "170304"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "skybird.bp",
+    "size": "26798"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "soulmachine.bp",
+    "size": "53858"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "soundfx.bp",
+    "size": "32510"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "spaceship 505.bp",
+    "size": "8628"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "spectral.bp",
+    "size": "64994"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "spooky.bp",
+    "size": "92918"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "stealth.bp",
+    "size": "26520"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "stellarium.bp",
+    "size": "55398"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "synthdrum.bp",
+    "size": "6064"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "synthetic.bp",
+    "size": "12350"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "teflon.bp",
+    "size": "82012"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "terra cresta.bp",
+    "size": "21880"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "the short one.bp",
+    "size": "62628"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "the thinking man.bp",
+    "size": "14282"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "the timecircle - theme.bp",
+    "size": "36988"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "the timecircle - trial.bp",
+    "size": "28008"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "the wall.bp",
+    "size": "78256"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "traxx.bp",
+    "size": "84930"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "try this one.bp",
+    "size": "57926"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "twotw.bp",
+    "size": "21928"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "tylon - reset part.bp",
+    "size": "19186"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "vendetta.bp",
+    "size": "12030"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "visor.bp",
+    "size": "25036"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "voyage.bp",
+    "size": "114150"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "weird dream.bp",
+    "size": "16324"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "wonder world.bp",
+    "size": "101298"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "zyrotrom.bp",
+    "size": "26786"
+  },
+  {
+    "tracker": "BP SoundMon 2",
+    "composer": "Zzzax",
+    "song": "zzzax no eg.bp",
+    "size": "26798"
+  }
+]

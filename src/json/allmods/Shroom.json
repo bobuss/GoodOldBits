@@ -1,191 +1,380 @@
-{
-  "Adam A. A. Golding": [
-    "untitled.sho"
-  ],
-  "Adam Netke": [
-    "untitled.sho"
-  ],
-  "Andy Lee": [
-    "untitled.sho"
-  ],
-  "Anewuser": [
-    "err...yesir.sho"
-  ],
-  "Baron Knoxburry": [
-    "poop hog.sho"
-  ],
-  "Ben Eike": [
-    "whistling vagrant song.sho"
-  ],
-  "Bill Moran": [
-    "untitled.sho"
-  ],
-  "Brandon Brock": [
-    "untitled.sho"
-  ],
-  "Brian M. Edwards": [
-    "untitled.sho"
-  ],
-  "Chris Van Eijk": [
-    "untitled.sho"
-  ],
-  "Dana Lutenegger": [
-    "untitled.sho"
-  ],
-  "Daniel Davis": [
-    "untitled.sho"
-  ],
-  "Daniel Dillman": [
-    "untitled.sho"
-  ],
-  "Dennis FX Mongello": [
-    "untitled.sho"
-  ],
-  "Douglas Beachy": [
-    "nin - closer remix.sho"
-  ],
-  "Fred Schillinger": [
-    "final fantasy prologue.sho"
-  ],
-  "Gregory Betters": [
-    "untitled.sho"
-  ],
-  "Ian Hill": [
-    "final fantasy 6 battle remix.sho"
-  ],
-  "JCD920": [
-    "untitled.sho"
-  ],
-  "Jason Oliveira": [
-    "untitled.sho"
-  ],
-  "Jean Charles Vallicres": [
-    "chocobo theme.sho"
-  ],
-  "Joey Parsell": [
-    "untitled.sho"
-  ],
-  "John Deering": [
-    "super mario bros. 3 - koopahari desert remix.sho"
-  ],
-  "John Mulhausen": [
-    "untitled.sho"
-  ],
-  "John Regner": [
-    "untitled.sho"
-  ],
-  "Jonathan Knibbs": [
-    "untitled.sho"
-  ],
-  "Julien Villemure": [
-    "untitled.sho"
-  ],
-  "Kelly Mandeville": [
-    "double dragon title remix.sho"
-  ],
-  "Kevin Lee": [
-    "untitled.sho"
-  ],
-  "Kevin Lee Fields": [
-    "lemmings remix.sho"
-  ],
-  "Kurtis McCartney": [
-    "untitled.sho"
-  ],
-  "Laura C. Almeida": [
-    "dr. mario - chill remix.sho"
-  ],
-  "Lavoie Guillaume": [
-    "untitled.sho"
-  ],
-  "Lawson Culver": [
-    "untitled.sho"
-  ],
-  "Magnus Aspling": [
-    "untitled.sho"
-  ],
-  "Martin Eriksson": [
-    "untitled.sho"
-  ],
-  "Matthew Hall": [
-    "untitled.sho"
-  ],
-  "Matthew Sexton": [
-    "untitled.sho"
-  ],
-  "Matthew W. Jackson": [
-    "untitled.sho"
-  ],
-  "Miau": [
-    "kittyfood.sho"
-  ],
-  "Mike Gupta": [
-    "cat's meow.sho"
-  ],
-  "Mike Welsh": [
-    "untitled.sho"
-  ],
-  "Neil Tenczar": [
-    "untitled.sho"
-  ],
-  "Nick Hemler": [
-    "spinoff of final fantasy battle theme.sho"
-  ],
-  "Nicolas Maille": [
-    "untitled.sho"
-  ],
-  "Patrick Roberts": [
-    "untitled.sho"
-  ],
-  "Paul Rahme": [
-    "yoshi's island remix.sho"
-  ],
-  "Richard Legters": [
-    "mario de chocobo.sho"
-  ],
-  "Riggs Rector": [
-    "mario paint (ju) [!].sho"
-  ],
-  "Robby Crichlow": [
-    "untitled.sho"
-  ],
-  "Robert Paquette": [
-    "untitled.sho"
-  ],
-  "Ross Bemrose": [
-    "untitled.sho"
-  ],
-  "Ryan Novak": [
-    "untitled.sho"
-  ],
-  "Sean Jacox": [
-    "final fantasy 3 victory remix.sho"
-  ],
-  "Sean Norton": [
-    "weary traveler.sho"
-  ],
-  "Setrodox": [
-    "whatever.sho"
-  ],
-  "Strobe": [
-    "zoosex.sho"
-  ],
-  "Thomas Morgan": [
-    "untitled.sho"
-  ],
-  "Tim Evans": [
-    "untitled.sho"
-  ],
-  "Tristan Heft": [
-    "luigi's bossa.sho"
-  ],
-  "Tyson Anderson": [
-    "untitled.sho"
-  ],
-  "Warlord": [
-    "miau hau oink oink.sho"
-  ],
-  "Zach Halperin": [
-    "untitled.sho"
-  ]
-}
+[
+  {
+    "tracker": "Shroom",
+    "composer": "Adam A. A. Golding",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Adam Netke",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Andy Lee",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Anewuser",
+    "song": "err...yesir.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Baron Knoxburry",
+    "song": "poop hog.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Ben Eike",
+    "song": "whistling vagrant song.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Bill Moran",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Brandon Brock",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Brian M. Edwards",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Chris Van Eijk",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Dana Lutenegger",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Daniel Davis",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Daniel Dillman",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Dennis FX Mongello",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Douglas Beachy",
+    "song": "nin - closer remix.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Fred Schillinger",
+    "song": "final fantasy prologue.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Gregory Betters",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Ian Hill",
+    "song": "final fantasy 6 battle remix.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Jason Oliveira",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "JCD920",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Jean Charles Vallicres",
+    "song": "chocobo theme.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Joey Parsell",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "John Deering",
+    "song": "super mario bros. 3 - koopahari desert remix.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "John Mulhausen",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "John Regner",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Jonathan Knibbs",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Julien Villemure",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Kelly Mandeville",
+    "song": "double dragon title remix.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Kevin Lee Fields",
+    "song": "lemmings remix.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Kevin Lee",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Kurtis McCartney",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Laura C. Almeida",
+    "song": "dr. mario - chill remix.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Lavoie Guillaume",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Lawson Culver",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Magnus Aspling",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Martin Eriksson",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Matthew Hall",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Matthew Sexton",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Matthew W. Jackson",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Miau",
+    "song": "kittyfood.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Mike Gupta",
+    "song": "cat's meow.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Mike Welsh",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Neil Tenczar",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Nick Hemler",
+    "song": "spinoff of final fantasy battle theme.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Nicolas Maille",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Patrick Roberts",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Paul Rahme",
+    "song": "yoshi's island remix.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Richard Legters",
+    "song": "mario de chocobo.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Riggs Rector",
+    "song": "mario paint (ju) [!].sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Robby Crichlow",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Robert Paquette",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Ross Bemrose",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Ryan Novak",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Sean Jacox",
+    "song": "final fantasy 3 victory remix.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Sean Norton",
+    "song": "weary traveler.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Setrodox",
+    "song": "whatever.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Strobe",
+    "song": "zoosex.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Thomas Morgan",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Tim Evans",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Tristan Heft",
+    "song": "luigi's bossa.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Tyson Anderson",
+    "song": "untitled.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Warlord",
+    "song": "miau hau oink oink.sho",
+    "size": "680"
+  },
+  {
+    "tracker": "Shroom",
+    "composer": "Zach Halperin",
+    "song": "untitled.sho",
+    "size": "680"
+  }
+]

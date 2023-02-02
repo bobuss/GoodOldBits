@@ -1,613 +1,2528 @@
-{
-  "- unknown": [
-    "21 emon - mezase! hotel ou.hes",
-    "3x3 eyes - sanjiyan henjou.hes",
-    "adventure quiz - world & hatena no daibouken.hes",
-    "after burner.hes",
-    "alshark.hes",
-    "aoi (blue) blink.hes",
-    "a-ressha de ikou 3.hes",
-    "artist tool.hes",
-    "atlas - renaissance voyager.hes",
-    "atomic robokid special.hes",
-    "av poker - world gambler.hes",
-    "ballistix.hes",
-    "barunba.hes",
-    "battle royale.hes",
-    "be ball.hes",
-    "blood gear.hes",
-    "body conquest 2.hes",
-    "bouken danshaku don sun=heart-hen.hes",
-    "bravoman.hes",
-    "break in.hes",
-    "bubblegum crash - knight sabers 2034.hes",
-    "bullfight ring no hasha.hes",
-    "burning angels.hes",
-    "cal ii.hes",
-    "cal iii.hes",
-    "chibi maruko-chan.hes",
-    "chikudenya toubei.hes",
-    "circus lido.hes",
-    "columns.hes",
-    "cosmic fantasy - bouken shounen yuu.hes",
-    "cyber dodge.hes",
-    "cychorider.hes",
-    "daichikun crisis - do natural.hes",
-    "dead of the brain 1 & 2.hes",
-    "deep blue kaitei shinwa.hes",
-    "de-ja.hes",
-    "devil's crush.hes",
-    "doraemon - nobita no dorabian night.hes",
-    "double dungeons.hes",
-    "dragon egg!.hes",
-    "dragon fighter.hes",
-    "dragon half.hes",
-    "dragon knight 2.hes",
-    "dragon knight 3.hes",
-    "dragon knight & grafitti.hes",
-    "drop rock hora hora.hes",
-    "drop rock hora horror.hes",
-    "dungeon explorer 2.hes",
-    "emerald dragon.hes",
-    "f-1 dream.hes",
-    "f-1 pilot.hes",
-    "f1 triple battle.hes",
-    "farjius no jakoutei - neo metal fantasy.hes",
-    "fiend hunter.hes",
-    "fighting run.hes",
-    "final fantasy - prelude.hes",
-    "final lap twin.hes",
-    "final match tennis.hes",
-    "fire pro wrestling 2nd bout.hes",
-    "fire pro wrestling 3 - legend bout.hes",
-    "fire pro wrestling combination tag.hes",
-    "formation armed force.hes",
-    "formation soccer - human cup'90.hes",
-    "fray.hes",
-    "fushigi no umi no nadia.hes",
-    "fushigi no yume no alice.hes",
-    "gaia no monshou.hes",
-    "galaxy fraulein yuna 2.hes",
-    "galaxy fraulein yuna.hes",
-    "genji tsuushin agedama.hes",
-    "ghost sweeper mikami.hes",
-    "ginga ojousama densetsu yuna fx (pc-fx).hes",
-    "go! go! birdie chance.hes",
-    "gokuraku! chuuka taisen.hes",
-    "gomola speed.hes",
-    "granzort (sgx).hes",
-    "gunhed.hes",
-    "hani in the sky.hes",
-    "hani on the road.hes",
-    "hany in the sky.hes",
-    "hatris.hes",
-    "hi-leg fantasy.hes",
-    "hit the ice.hes",
-    "idol hanafuda fan club.hes",
-    "inoue mami - kono hoshi ni tatta hitori no kimi.hes",
-    "jackie chan.hes",
-    "jack nicklaus - turbo golf.hes",
-    "jb harold murder club.hes",
-    "j-league greatest eleven.hes",
-    "joshoken necromancer.hes",
-    "jyuohki (altered beast).hes",
-    "kaiser's quest.hes",
-    "katutobi takuhai kun.hes",
-    "kickball.hes",
-    "kidou keisatsu patlabor - griffon hen.hes",
-    "king of casino.hes",
-    "klax.hes",
-    "knight rider special.hes",
-    "kore ga pro yakyuu '89.hes",
-    "kore ga pro yakyuu '90.hes",
-    "kyuukyoku mahjong 2 - super idol graphic.hes",
-    "kyuukyoku mahjong - idol graphic.hes",
-    "lady sword.hes",
-    "liquid kids.hes",
-    "lode runner - nawareta meikyuu.hes",
-    "madou monogatari 1 - honou no sotsuenji.hes",
-    "maerchen maze.hes",
-    "mahjong gakuen mild.hes",
-    "mahjong gokuu special.hes",
-    "mahjong shikaku retsuden - mahjong wars.hes",
-    "maison ikkoku.hes",
-    "maison ikkoku - omoide no shashin.hes",
-    "majin eiyu wataru.hes",
-    "makai hakkenden shada.hes",
-    "makai prince dorabocchan.hes",
-    "mamono hunter youko - makai kara no tenkousei.hes",
-    "mamono hunter youko - tooki yobigoe.hes",
-    "maniac pro wrestling.hes",
-    "momo tarou densetsu gaiden.hes",
-    "momo tarou densetsu ii.hes",
-    "momo tarou densetsu turbo.hes",
-    "momo tarou densetsu turbo ii.hes",
-    "momo tarou katsu geki.hes",
-    "monster pro wrestling.hes",
-    "morita shogi pc.hes",
-    "naxat open.hes",
-    "nazo no masquerade.hes",
-    "nekketsu koukou dodgeball bu.hes",
-    "nekketsu koukou dodge ball-bu pc soccer-hen.hes",
-    "new adventure island.hes",
-    "new zealand story.hes",
-    "nhk taiga drama taiheki.hes",
-    "niko-niko pun.hes",
-    "ninja gaiden.hes",
-    "ninja spirit.hes",
-    "nishimura kyoutarou mystery - hokutosei no onna.hes",
-    "no-ri-ko.hes",
-    "oboccha makun.hes",
-    "ordyne.hes",
-    "p-47 the freedom fighter.hes",
-    "pachio-kun - juuban shoubu.hes",
-    "pac land.hes",
-    "pastel lime.hes",
-    "pc genjin 3.hes",
-    "pc pachi-slot - idol gambler.hes",
-    "photograph boy.hes",
-    "pomping world.hes",
-    "power eleven.hes",
-    "power gate.hes",
-    "power golf.hes",
-    "power league '93.hes",
-    "power league.hes",
-    "power league ii.hes",
-    "power league iii.hes",
-    "power league iv.hes",
-    "power league v (alt).hes",
-    "power sports.hes",
-    "pro yakyuu world stadium '91.hes",
-    "pro yakyuu world stadium.hes",
-    "puyo puyo cd tsuu.hes",
-    "puzzle boy.hes",
-    "quiz toukou shashin.hes",
-    "rabio lepus special.hes",
-    "racing damashi (racing spirits).hes",
-    "ranma 1-2 - toraware no hanayome.hes",
-    "rastan saga 2.hes",
-    "rock on.hes",
-    "r-type 2.hes",
-    "r-type.hes",
-    "ryuukyuu.hes",
-    "sadakichi saban hideyoshi no ougon.hes",
-    "sekigahara.hes",
-    "shinobi.hes",
-    "shiryou sensen (war of the dead).hes",
-    "shogi shodan icchohusen.hes",
-    "shogi shoshinka muyou.hes",
-    "sindibad - chitei no dai makyu.hes",
-    "skweek.hes",
-    "sol bianca.hes",
-    "sol moonarge.hes",
-    "soukoban world (boxy boy).hes",
-    "space adventure cobra 2 - densetsu no otoko.hes",
-    "space adventure cobra - koku ryuu oh no densetsu.hes",
-    "spin pair.hes",
-    "spiral wave.hes",
-    "startling odyssey 2.hes",
-    "startling odyssey.hes",
-    "stratego.hes",
-    "strip fighter 2.hes",
-    "super daisenryaku.hes",
-    "super metal crusher.hes",
-    "super momotarou dentetsu.hes",
-    "super volley ball.hes",
-    "susano oh densetsu.hes",
-    "takeda shingen.hes",
-    "tenchi muyo! ryo-oh-ki.hes",
-    "tengai makyou - ziria.hes",
-    "the kung fu.hes",
-    "the silent debuggers.hes",
-    "tiger road.hes",
-    "tiger shark.hes",
-    "titan.hes",
-    "toilet kids.hes",
-    "top o nerae! gunbuster vol 1.hes",
-    "top o nerae! gunbuster vol 2.hes",
-    "toy shop boys.hes",
-    "tricky kick.hes",
-    "tsuppori oozumou.hes",
-    "tsuru teruto no jissen kabushiki bi-game.hes",
-    "turrican.hes",
-    "tv sports basketball.hes",
-    "tv sports football.hes",
-    "tv sports hockey.hes",
-    "urusei yatsura - stay with you.hes",
-    "usa pro basketball.hes",
-    "veigues tactical gladiator.hes",
-    "victory run.hes",
-    "vigilante.hes",
-    "violent soldier.hes",
-    "virgin dream.hes",
-    "wai wai mahjong.hes",
-    "wallaby!!.hes",
-    "winning shoot.hes",
-    "wizardry i + ii.hes",
-    "world beach volley.hes",
-    "world circuit.hes",
-    "world court tennis.hes",
-    "xak 1-2.hes",
-    "yamamura misa suspense - kinsenka kyo ezara satsujin jiken.hes",
-    "yami no ketsuzoku - harukanaru kioku.hes",
-    "yawara 2.hes",
-    "yawara.hes",
-    "yo, bro.hes",
-    "zipang.hes"
-  ],
-  "4-57": [
-    "final fantasy 1 main theme.hes",
-    "final fantasy 2 town.hes",
-    "final fantasy 3 final fantasy.hes",
-    "final fantasy 3 kodaijin no mura.hes",
-    "final fantasy 3 prelude.hes",
-    "makaitoushi saga prologue.hes",
-    "seiken densetsu rising sun.hes"
-  ],
-  "Akira Satou": [
-    "raiden.hes"
-  ],
-  "Atsuhiro Motoyama": [
-    "cyber city oedo 808 - kemono no zokusei.hes",
-    "digital champ.hes",
-    "ganbare! golf boys.hes"
-  ],
-  "Ayako Mori": [
-    "hyperdyne sidearms.hes"
-  ],
-  "Azusa Hara": [
-    "bloody wolf.hes"
-  ],
-  "Barry Leitch": [
-    "impossamole.hes"
-  ],
-  "DNA": [
-    "embodiment of scarlet devil - septette for the dead princess.hes"
-  ],
-  "Daisuke Morishima": [
-    "coryoon child of dragon.hes",
-    "paranoia.hes",
-    "pc denjin - punkic cyborgs (air zonk).hes"
-  ],
-  "Frank Klepacki": [
-    "order of the griffin.hes"
-  ],
-  "Hidehito Aoki": [
-    "mesopotamia.hes"
-  ],
-  "Hifumi": [
-    "1941 counter attack (sgx).hes"
-  ],
-  "Hirohiko Fukuda": [
-    "download.hes"
-  ],
-  "Hirohiko Takayama": [
-    "death bringer - the knight of darkness.hes",
-    "pc genjin 2.hes",
-    "tenseiryu saint dragon.hes"
-  ],
-  "Hiroshi Kawaguchi": [
-    "fantasy zone.hes",
-    "out run.hes",
-    "power drift.hes",
-    "space harrier.hes"
-  ],
-  "Hiroshi Ogawa": [
-    "f1 circus '91 - world championship.hes",
-    "f1 circus '92 - the speed of sound.hes",
-    "f1 circus.hes"
-  ],
-  "Hiroto Saitou": [
-    "cross wiber - cyber combat police.hes",
-    "metal stocker - neo hardboiled shooting.hes",
-    "time cruise 2.hes"
-  ],
-  "Hiroyuki Kawada": [
-    "valkyrie no densetsu.hes",
-    "youkai douchuuki.hes"
-  ],
-  "Hisayoshi Ogura": [
-    "darius.hes",
-    "kiki kai kai.hes",
-    "the ninja warriors.hes",
-    "volfied.hes"
-  ],
-  "Hitoshi Sakimoto": [
-    "magical chase.hes"
-  ],
-  "Iwamoo": [
-    "dabadaba fallin love.hes",
-    "original music 1.hes",
-    "scramble spirits stage 1-4-6.hes",
-    "yui horie - baby i love you.hes"
-  ],
-  "Jin Watanabe": [
-    "battle lode runner.hes"
-  ],
-  "Joe Hisaishi": [
-    "tengai makyou 2 - manjimaru.hes"
-  ],
-  "Jun Chikuma": [
-    "bomberman '93.hes",
-    "bomberman '94.hes",
-    "bomberman.hes",
-    "cratermaze.hes",
-    "doraemon meikyu daisakusen.hes",
-    "jaseiken necromancer.hes",
-    "makyou densetsu.hes",
-    "nectaris.hes"
-  ],
-  "Junko Ozawa": [
-    "the tower of druaga.hes"
-  ],
-  "K": [
-    "green hill.hes",
-    "mach rider.hes",
-    "mario.hes",
-    "speed king.hes",
-    "zelda.hes"
-  ],
-  "Katsumi Tanaka": [
-    "puyo puyo cd.hes"
-  ],
-  "Katsurou Tajima": [
-    "splatterhouse.hes"
-  ],
-  "Kayoko Maeda": [
-    "bishoujo senshi sailor moon.hes"
-  ],
-  "Kazuhiko Uehara": [
-    "parodius.hes"
-  ],
-  "Keita Hoshi": [
-    "aldynes.hes",
-    "super star soldier (j).hes",
-    "super star soldier (u).hes",
-    "tengai makyou - fuun kabuki den.hes"
-  ],
-  "Kenichi Kamio": [
-    "cyber cross.hes"
-  ],
-  "Kenichi Ookuma": [
-    "mamono hunter youko - tooki yobigoe.hes"
-  ],
-  "Kenji Kawai": [
-    "team innocent (pc-fx).hes"
-  ],
-  "Kenji Yoshida": [
-    "die hard.hes"
-  ],
-  "Kenta Watanabe": [
-    "dennou tenshi - digital angel.hes",
-    "hatsukoi monogatari.hes",
-    "himitsu no hanazono.hes"
-  ],
-  "Kimio Yudate": [
-    "wonder momo.hes"
-  ],
-  "Kinuyo Ueda": [
-    "hana taaka daka!!.hes"
-  ],
-  "Koji Hayama": [
-    "energy.hes",
-    "gai flame.hes",
-    "kaizou choujin shubibin man 2 - aratanaru teki.hes",
-    "kaizou choujin shubibin man.hes",
-    "moto roader 2.hes",
-    "moto roader.hes"
-  ],
-  "Koji Niikura": [
-    "laplace no ma.hes"
-  ],
-  "Kouhei Tanaka": [
-    "kuusou kagaku sekai - gulliver boy.hes"
-  ],
-  "Kouichi Namiki": [
-    "thunder blade.hes"
-  ],
-  "Kouichi Shimamura": [
-    "ghost sweeper mikami.hes"
-  ],
-  "M. Ishimoda": [
-    "dead moon.hes"
-  ],
-  "M. Maekawa": [
-    "blodia (timeball).hes",
-    "final soldier.hes",
-    "jackie chan.hes",
-    "power tennis.hes"
-  ],
-  "M. Shirakawa": [
-    "snatcher - cd-romantic.hes"
-  ],
-  "Makiko Tanifuji": [
-    "soldier blade.hes"
-  ],
-  "Manabu Kunieda": [
-    "doukyuusei.hes"
-  ],
-  "Manabu Saito": [
-    "yami no ketsuzoku - harukanaru kioku.hes"
-  ],
-  "Manami Matsumae": [
-    "tenchi wo kurau.hes"
-  ],
-  "Masahiro Sayama": [
-    "seiya monogatari - anearth fantasy stories.hes"
-  ],
-  "Masahiro Yuge": [
-    "tatsujin.hes"
-  ],
-  "Masahito Miyamoto": [
-    "kagami no kuni no legend.hes",
-    "mitsubachi gakuen.hes"
-  ],
-  "Masao Asakawa": [
-    "1552 tenka tairan.hes"
-  ],
-  "Masashi Kageyama": [
-    "benkei gaiden.hes",
-    "outlive.hes"
-  ],
-  "Michiharu Hasuya": [
-    "cyber knight.hes"
-  ],
-  "Michiru Yamane": [
-    "detana! twinbee.hes"
-  ],
-  "Mieko Ishikawa": [
-    "dragon slayer 8 - kaze no densetsu xanadu 2.hes",
-    "dragon slayer 8 - kaze no densetsu xanadu.hes",
-    "dragon slayer - eiyuu densetsu 2.hes",
-    "dragon slayer - eiyuu densetsu.hes",
-    "sorcerian.hes",
-    "ys i & ii.hes",
-    "ys iii - wanderers from ys.hes",
-    "ys iv - the dawn of ys.hes"
-  ],
-  "Miki Higashino": [
-    "gradius.hes",
-    "salamander.hes"
-  ],
-  "Mikio Saitou": [
-    "akumajou dracula x - chi no rondo.hes",
-    "tokimeki memorial.hes"
-  ],
-  "Motoi Sakuraba": [
-    "cosmic fantasy 4.hes"
-  ],
-  "Nobuyuki Nagamura": [
-    "star breaker.hes"
-  ],
-  "Nobuyuki Ohnogi": [
-    "galaga 88.hes"
-  ],
-  "Nobuyuki-kun": [
-    "batman.hes"
-  ],
-  "Norihiko Togashi": [
-    "final blaster.hes",
-    "maerchen maze.hes",
-    "world jockey.hes"
-  ],
-  "Norio Nakagata": [
-    "genpei tourma den 2 (samourai ghost 2).hes",
-    "genpei tourma den (samourai ghost).hes"
-  ],
-  "Ohgi Mishida": [
-    "image fight.hes",
-    "legend of hero tonma.hes",
-    "mr heli no dai bouken.hes"
-  ],
-  "Rob Hubbard": [
-    "populous.hes"
-  ],
-  "Rophon": [
-    "digital devil story 2 devil speak.hes",
-    "rophon's theme.hes",
-    "ropm 01.hes",
-    "ropm 02.hes",
-    "ropm 03.hes",
-    "test mudik.hes"
-  ],
-  "Ryoko Kihara": [
-    "linda cube.hes"
-  ],
-  "Sachiko Oita": [
-    "terra cresta ii.hes"
-  ],
-  "Shimo P": [
-    "street fighter ii champion edition.hes"
-  ],
-  "Shinichi Sakamoto": [
-    "bikkuriman world.hes",
-    "dragon curse.hes",
-    "star parodia.hes"
-  ],
-  "Shinji Hosoe": [
-    "dragon saber.hes",
-    "dragon spirit.hes"
-  ],
-  "Tadashi Sawashita": [
-    "fiend hunter.hes"
-  ],
-  "Takami Asano": [
-    "bari bari densetsu.hes"
-  ],
-  "Takane Ohkubo": [
-    "jinmu densho yaksa.hes"
-  ],
-  "Takashi Suzuki": [
-    "hisou kihei x-serd.hes"
-  ],
-  "Takeaki Kunimoto": [
-    "kato-chan & ken-chan.hes"
-  ],
-  "Takeo Kurashina": [
-    "private eyedol.hes"
-  ],
-  "Tamayo Kawamoto": [
-    "dai makai mura (sgx).hes"
-  ],
-  "Tatsumi Yano": [
-    "city hunter.hes"
-  ],
-  "Tatsuya Watanabe": [
-    "aero blaster.hes",
-    "heavy unit.hes"
-  ],
-  "Tenpei Sato": [
-    "cal ii.hes"
-  ],
-  "Tomotsune Maeno": [
-    "battle ace (sgx).hes",
-    "neutopia.hes",
-    "shanghai.hes"
-  ],
-  "Toshiaki Sakoda": [
-    "alien crush.hes"
-  ],
-  "Toshiaki Takimoto": [
-    "neutopia ii.hes"
-  ],
-  "Tsukasa Masuko": [
-    "ankoku densetsu.hes",
-    "dungeon explorer.hes",
-    "pc genjin.hes",
-    "shin megami tensei.hes"
-  ],
-  "Tsukushi Sasaki": [
-    "zero 4 champ.hes"
-  ],
-  "Virt": [
-    "dracula man x2 alpha turbo.hes"
-  ],
-  "Yasue Santou": [
-    "naxat stadium.hes",
-    "override.hes",
-    "psycho chaser.hes",
-    "w-ring the double rings.hes"
-  ],
-  "Yasuhito Saito": [
-    "psychic detective series vol 3 - aya.hes",
-    "psychic detective series vol 4 - orgel.hes"
-  ],
-  "Yoshihiro Sakaguchi": [
-    "1943 kai.hes",
-    "son son 2.hes"
-  ],
-  "Yuriko Keino": [
-    "xevious.hes"
-  ],
-  "Zuntata": [
-    "cadash.hes",
-    "champion wrestler.hes",
-    "chase hq.hes",
-    "don doko don.hes",
-    "operation wolf.hes",
-    "parasol stars.hes",
-    "puzznic.hes",
-    "s.c.i. - special criminal investigation.hes",
-    "space invaders fukkatsu no hi.hes"
-  ]
-}
+[
+  {
+    "tracker": "HES",
+    "composer": "4-57",
+    "song": "final fantasy 1 main theme.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "4-57",
+    "song": "final fantasy 2 town.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "4-57",
+    "song": "final fantasy 3 final fantasy.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "4-57",
+    "song": "final fantasy 3 kodaijin no mura.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "4-57",
+    "song": "final fantasy 3 prelude.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "4-57",
+    "song": "makaitoushi saga prologue.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "4-57",
+    "song": "seiken densetsu rising sun.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Akira Satou",
+    "song": "raiden.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Atsuhiro Motoyama",
+    "song": "cyber city oedo 808 - kemono no zokusei.hes",
+    "size": "139264"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Atsuhiro Motoyama",
+    "song": "digital champ.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Atsuhiro Motoyama",
+    "song": "ganbare! golf boys.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Ayako Mori",
+    "song": "hyperdyne sidearms.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Azusa Hara",
+    "song": "bloody wolf.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Barry Leitch",
+    "song": "impossamole.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Daisuke Morishima",
+    "song": "coryoon child of dragon.hes",
+    "size": "139264"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Daisuke Morishima",
+    "song": "paranoia.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Daisuke Morishima",
+    "song": "pc denjin - punkic cyborgs (air zonk).hes",
+    "size": "98304"
+  },
+  {
+    "tracker": "HES",
+    "composer": "DNA",
+    "song": "embodiment of scarlet devil - septette for the dead princess.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Frank Klepacki",
+    "song": "order of the griffin.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Hidehito Aoki",
+    "song": "mesopotamia.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Hifumi",
+    "song": "1941 counter attack (sgx).hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Hirohiko Fukuda",
+    "song": "download.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Hirohiko Takayama",
+    "song": "death bringer - the knight of darkness.hes",
+    "size": "57344"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Hirohiko Takayama",
+    "song": "pc genjin 2.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Hirohiko Takayama",
+    "song": "tenseiryu saint dragon.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Hiroshi Kawaguchi",
+    "song": "fantasy zone.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Hiroshi Kawaguchi",
+    "song": "out run.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Hiroshi Kawaguchi",
+    "song": "power drift.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Hiroshi Kawaguchi",
+    "song": "space harrier.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Hiroshi Ogawa",
+    "song": "f1 circus '91 - world championship.hes",
+    "size": "57344"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Hiroshi Ogawa",
+    "song": "f1 circus '92 - the speed of sound.hes",
+    "size": "196608"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Hiroshi Ogawa",
+    "song": "f1 circus.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Hiroto Saitou",
+    "song": "cross wiber - cyber combat police.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Hiroto Saitou",
+    "song": "metal stocker - neo hardboiled shooting.hes",
+    "size": "57344"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Hiroto Saitou",
+    "song": "time cruise 2.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Hiroyuki Kawada",
+    "song": "valkyrie no densetsu.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Hiroyuki Kawada",
+    "song": "youkai douchuuki.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Hisayoshi Ogura",
+    "song": "darius.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Hisayoshi Ogura",
+    "song": "kiki kai kai.hes",
+    "size": "16384"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Hisayoshi Ogura",
+    "song": "the ninja warriors.hes",
+    "size": "57344"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Hisayoshi Ogura",
+    "song": "volfied.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Hitoshi Sakimoto",
+    "song": "magical chase.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Iwamoo",
+    "song": "dabadaba fallin love.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Iwamoo",
+    "song": "original music 1.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Iwamoo",
+    "song": "scramble spirits stage 1-4-6.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Iwamoo",
+    "song": "yui horie - baby i love you.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Jin Watanabe",
+    "song": "battle lode runner.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Joe Hisaishi",
+    "song": "tengai makyou 2 - manjimaru.hes",
+    "size": "106496"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Jun Chikuma",
+    "song": "bomberman '93.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Jun Chikuma",
+    "song": "bomberman '94.hes",
+    "size": "106496"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Jun Chikuma",
+    "song": "bomberman.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Jun Chikuma",
+    "song": "cratermaze.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Jun Chikuma",
+    "song": "doraemon meikyu daisakusen.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Jun Chikuma",
+    "song": "jaseiken necromancer.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Jun Chikuma",
+    "song": "makyou densetsu.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Jun Chikuma",
+    "song": "nectaris.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Junko Ozawa",
+    "song": "the tower of druaga.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Katsumi Tanaka",
+    "song": "puyo puyo cd.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Katsurou Tajima",
+    "song": "splatterhouse.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Kayoko Maeda",
+    "song": "bishoujo senshi sailor moon.hes",
+    "size": "303104"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Kazuhiko Uehara",
+    "song": "parodius.hes",
+    "size": "139264"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Keita Hoshi",
+    "song": "aldynes.hes",
+    "size": "57344"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Keita Hoshi",
+    "song": "super star soldier (j).hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Keita Hoshi",
+    "song": "super star soldier (u).hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Keita Hoshi",
+    "song": "tengai makyou - fuun kabuki den.hes",
+    "size": "294912"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Kenichi Kamio",
+    "song": "cyber cross.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Kenichi Ookuma",
+    "song": "mamono hunter youko - tooki yobigoe.hes",
+    "size": "90112"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Kenji Kawai",
+    "song": "team innocent (pc-fx).hes",
+    "size": "270336"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Kenji Yoshida",
+    "song": "die hard.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Kenta Watanabe",
+    "song": "dennou tenshi - digital angel.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Kenta Watanabe",
+    "song": "hatsukoi monogatari.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Kenta Watanabe",
+    "song": "himitsu no hanazono.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "K",
+    "song": "green hill.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Kimio Yudate",
+    "song": "wonder momo.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Kinuyo Ueda",
+    "song": "hana taaka daka!!.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "K",
+    "song": "mach rider.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "K",
+    "song": "mario.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Koji Hayama",
+    "song": "energy.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Koji Hayama",
+    "song": "gai flame.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Koji Hayama",
+    "song": "kaizou choujin shubibin man 2 - aratanaru teki.hes",
+    "size": "57344"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Koji Hayama",
+    "song": "kaizou choujin shubibin man.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Koji Hayama",
+    "song": "moto roader 2.hes",
+    "size": "57344"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Koji Hayama",
+    "song": "moto roader.hes",
+    "size": "57344"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Koji Niikura",
+    "song": "laplace no ma.hes",
+    "size": "98304"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Kouhei Tanaka",
+    "song": "kuusou kagaku sekai - gulliver boy.hes",
+    "size": "598016"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Kouichi Namiki",
+    "song": "thunder blade.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Kouichi Shimamura",
+    "song": "ghost sweeper mikami.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "K",
+    "song": "speed king.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "K",
+    "song": "zelda.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Makiko Tanifuji",
+    "song": "soldier blade.hes",
+    "size": "90112"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Manabu Kunieda",
+    "song": "doukyuusei.hes",
+    "size": "81920"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Manabu Saito",
+    "song": "yami no ketsuzoku - harukanaru kioku.hes",
+    "size": "155648"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Manami Matsumae",
+    "song": "tenchi wo kurau.hes",
+    "size": "114688"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Masahiro Sayama",
+    "song": "seiya monogatari - anearth fantasy stories.hes",
+    "size": "180224"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Masahiro Yuge",
+    "song": "tatsujin.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Masahito Miyamoto",
+    "song": "kagami no kuni no legend.hes",
+    "size": "53248"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Masahito Miyamoto",
+    "song": "mitsubachi gakuen.hes",
+    "size": "204800"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Masao Asakawa",
+    "song": "1552 tenka tairan.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Masashi Kageyama",
+    "song": "benkei gaiden.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Masashi Kageyama",
+    "song": "outlive.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Michiharu Hasuya",
+    "song": "cyber knight.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Michiru Yamane",
+    "song": "detana! twinbee.hes",
+    "size": "81920"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Mieko Ishikawa",
+    "song": "dragon slayer 8 - kaze no densetsu xanadu 2.hes",
+    "size": "147456"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Mieko Ishikawa",
+    "song": "dragon slayer 8 - kaze no densetsu xanadu.hes",
+    "size": "303104"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Mieko Ishikawa",
+    "song": "dragon slayer - eiyuu densetsu 2.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Mieko Ishikawa",
+    "song": "dragon slayer - eiyuu densetsu.hes",
+    "size": "122880"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Mieko Ishikawa",
+    "song": "sorcerian.hes",
+    "size": "65536"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Mieko Ishikawa",
+    "song": "ys i & ii.hes",
+    "size": "65536"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Mieko Ishikawa",
+    "song": "ys iii - wanderers from ys.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Mieko Ishikawa",
+    "song": "ys iv - the dawn of ys.hes",
+    "size": "221184"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Miki Higashino",
+    "song": "gradius.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Miki Higashino",
+    "song": "salamander.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Mikio Saitou",
+    "song": "akumajou dracula x - chi no rondo.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Mikio Saitou",
+    "song": "tokimeki memorial.hes",
+    "size": "303104"
+  },
+  {
+    "tracker": "HES",
+    "composer": "M. Ishimoda",
+    "song": "dead moon.hes",
+    "size": "81920"
+  },
+  {
+    "tracker": "HES",
+    "composer": "M. Maekawa",
+    "song": "blodia (timeball).hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "M. Maekawa",
+    "song": "final soldier.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "M. Maekawa",
+    "song": "jackie chan.hes",
+    "size": "57344"
+  },
+  {
+    "tracker": "HES",
+    "composer": "M. Maekawa",
+    "song": "power tennis.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Motoi Sakuraba",
+    "song": "cosmic fantasy 4.hes",
+    "size": "57344"
+  },
+  {
+    "tracker": "HES",
+    "composer": "M. Shirakawa",
+    "song": "snatcher - cd-romantic.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Nobuyuki-kun",
+    "song": "batman.hes",
+    "size": "106496"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Nobuyuki Nagamura",
+    "song": "star breaker.hes",
+    "size": "81920"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Nobuyuki Ohnogi",
+    "song": "galaga 88.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Norihiko Togashi",
+    "song": "final blaster.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Norihiko Togashi",
+    "song": "maerchen maze.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Norihiko Togashi",
+    "song": "world jockey.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Norio Nakagata",
+    "song": "genpei tourma den 2 (samourai ghost 2).hes",
+    "size": "131072"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Norio Nakagata",
+    "song": "genpei tourma den (samourai ghost).hes",
+    "size": "122880"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Ohgi Mishida",
+    "song": "image fight.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Ohgi Mishida",
+    "song": "legend of hero tonma.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Ohgi Mishida",
+    "song": "mr heli no dai bouken.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Rob Hubbard",
+    "song": "populous.hes",
+    "size": "139264"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Rophon",
+    "song": "digital devil story 2 devil speak.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Rophon",
+    "song": "rophon's theme.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Rophon",
+    "song": "ropm 01.hes",
+    "size": "65536"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Rophon",
+    "song": "ropm 02.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Rophon",
+    "song": "ropm 03.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Rophon",
+    "song": "test mudik.hes",
+    "size": "65536"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Ryoko Kihara",
+    "song": "linda cube.hes",
+    "size": "294912"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Sachiko Oita",
+    "song": "terra cresta ii.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Shimo P",
+    "song": "street fighter ii champion edition.hes",
+    "size": "270336"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Shinichi Sakamoto",
+    "song": "bikkuriman world.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Shinichi Sakamoto",
+    "song": "dragon curse.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Shinichi Sakamoto",
+    "song": "star parodia.hes",
+    "size": "57344"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Shinji Hosoe",
+    "song": "dragon saber.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Shinji Hosoe",
+    "song": "dragon spirit.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Tadashi Sawashita",
+    "song": "fiend hunter.hes",
+    "size": "155648"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Takami Asano",
+    "song": "bari bari densetsu.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Takane Ohkubo",
+    "song": "jinmu densho yaksa.hes",
+    "size": "65536"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Takashi Suzuki",
+    "song": "hisou kihei x-serd.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Takeaki Kunimoto",
+    "song": "kato-chan & ken-chan.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Takeo Kurashina",
+    "song": "private eyedol.hes",
+    "size": "155648"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Tamayo Kawamoto",
+    "song": "dai makai mura (sgx).hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Tatsumi Yano",
+    "song": "city hunter.hes",
+    "size": "57344"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Tatsuya Watanabe",
+    "song": "aero blaster.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Tatsuya Watanabe",
+    "song": "heavy unit.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Tenpei Sato",
+    "song": "cal ii.hes",
+    "size": "139264"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Tomotsune Maeno",
+    "song": "battle ace (sgx).hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Tomotsune Maeno",
+    "song": "neutopia.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Tomotsune Maeno",
+    "song": "shanghai.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Toshiaki Sakoda",
+    "song": "alien crush.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Toshiaki Takimoto",
+    "song": "neutopia ii.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Tsukasa Masuko",
+    "song": "ankoku densetsu.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Tsukasa Masuko",
+    "song": "dungeon explorer.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Tsukasa Masuko",
+    "song": "pc genjin.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Tsukasa Masuko",
+    "song": "shin megami tensei.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Tsukushi Sasaki",
+    "song": "zero 4 champ.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "21 emon - mezase! hotel ou.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "3x3 eyes - sanjiyan henjou.hes",
+    "size": "122880"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "adventure quiz - world & hatena no daibouken.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "after burner.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "alshark.hes",
+    "size": "65536"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "aoi (blue) blink.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "a-ressha de ikou 3.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "artist tool.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "atlas - renaissance voyager.hes",
+    "size": "57344"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "atomic robokid special.hes",
+    "size": "57344"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "av poker - world gambler.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "ballistix.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "barunba.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "battle royale.hes",
+    "size": "172032"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "be ball.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "blood gear.hes",
+    "size": "180224"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "body conquest 2.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "bouken danshaku don sun=heart-hen.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "bravoman.hes",
+    "size": "163840"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "break in.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "bubblegum crash - knight sabers 2034.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "bullfight ring no hasha.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "burning angels.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "cal ii.hes",
+    "size": "139264"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "cal iii.hes",
+    "size": "131072"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "chibi maruko-chan.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "chikudenya toubei.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "circus lido.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "columns.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "cosmic fantasy - bouken shounen yuu.hes",
+    "size": "114688"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "cyber dodge.hes",
+    "size": "90112"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "cychorider.hes",
+    "size": "57344"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "daichikun crisis - do natural.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "dead of the brain 1 & 2.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "deep blue kaitei shinwa.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "de-ja.hes",
+    "size": "122880"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "devil's crush.hes",
+    "size": "98304"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "doraemon - nobita no dorabian night.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "double dungeons.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "dragon egg!.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "dragon fighter.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "dragon half.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "dragon knight 2.hes",
+    "size": "245760"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "dragon knight 3.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "dragon knight & grafitti.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "drop rock hora hora.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "drop rock hora horror.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "dungeon explorer 2.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "emerald dragon.hes",
+    "size": "180224"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "f-1 dream.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "f-1 pilot.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "f1 triple battle.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "farjius no jakoutei - neo metal fantasy.hes",
+    "size": "163840"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "fiend hunter.hes",
+    "size": "122880"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "fighting run.hes",
+    "size": "188416"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "final fantasy - prelude.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "final lap twin.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "final match tennis.hes",
+    "size": "81920"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "fire pro wrestling 2nd bout.hes",
+    "size": "81920"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "fire pro wrestling 3 - legend bout.hes",
+    "size": "122880"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "fire pro wrestling combination tag.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "formation armed force.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "formation soccer - human cup'90.hes",
+    "size": "81920"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "fray.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "fushigi no umi no nadia.hes",
+    "size": "163840"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "fushigi no yume no alice.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "gaia no monshou.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "galaxy fraulein yuna 2.hes",
+    "size": "122880"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "galaxy fraulein yuna.hes",
+    "size": "311296"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "genji tsuushin agedama.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "ghost sweeper mikami.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "ginga ojousama densetsu yuna fx (pc-fx).hes",
+    "size": "245760"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "go! go! birdie chance.hes",
+    "size": "212992"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "gokuraku! chuuka taisen.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "gomola speed.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "granzort (sgx).hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "gunhed.hes",
+    "size": "81920"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "hani in the sky.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "hani on the road.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "hany in the sky.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "hatris.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "hi-leg fantasy.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "hit the ice.hes",
+    "size": "106496"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "idol hanafuda fan club.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "inoue mami - kono hoshi ni tatta hitori no kimi.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "jackie chan.hes",
+    "size": "57344"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "jack nicklaus - turbo golf.hes",
+    "size": "16384"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "jb harold murder club.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "j-league greatest eleven.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "joshoken necromancer.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "jyuohki (altered beast).hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "kaiser's quest.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "katutobi takuhai kun.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "kickball.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "kidou keisatsu patlabor - griffon hen.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "king of casino.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "klax.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "knight rider special.hes",
+    "size": "57344"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "kore ga pro yakyuu '89.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "kore ga pro yakyuu '90.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "kyuukyoku mahjong 2 - super idol graphic.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "kyuukyoku mahjong - idol graphic.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "lady sword.hes",
+    "size": "16384"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "liquid kids.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "lode runner - nawareta meikyuu.hes",
+    "size": "16384"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "madou monogatari 1 - honou no sotsuenji.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "maerchen maze.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "mahjong gakuen mild.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "mahjong gokuu special.hes",
+    "size": "57344"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "mahjong shikaku retsuden - mahjong wars.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "maison ikkoku.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "maison ikkoku - omoide no shashin.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "majin eiyu wataru.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "makai hakkenden shada.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "makai prince dorabocchan.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "mamono hunter youko - makai kara no tenkousei.hes",
+    "size": "131072"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "mamono hunter youko - tooki yobigoe.hes",
+    "size": "90112"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "maniac pro wrestling.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "momo tarou densetsu gaiden.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "momo tarou densetsu ii.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "momo tarou densetsu turbo.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "momo tarou densetsu turbo ii.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "momo tarou katsu geki.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "monster pro wrestling.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "morita shogi pc.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "naxat open.hes",
+    "size": "16384"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "nazo no masquerade.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "nekketsu koukou dodgeball bu.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "nekketsu koukou dodge ball-bu pc soccer-hen.hes",
+    "size": "57344"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "new adventure island.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "new zealand story.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "nhk taiga drama taiheki.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "niko-niko pun.hes",
+    "size": "16384"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "ninja gaiden.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "ninja spirit.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "nishimura kyoutarou mystery - hokutosei no onna.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "no-ri-ko.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "oboccha makun.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "ordyne.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "p-47 the freedom fighter.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "pachio-kun - juuban shoubu.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "pac land.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "pastel lime.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "pc genjin 3.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "pc pachi-slot - idol gambler.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "photograph boy.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "pomping world.hes",
+    "size": "16384"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "power eleven.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "power gate.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "power golf.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "power league '93.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "power league.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "power league ii.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "power league iii.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "power league iv.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "power league v (alt).hes",
+    "size": "81920"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "power sports.hes",
+    "size": "65536"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "pro yakyuu world stadium '91.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "pro yakyuu world stadium.hes",
+    "size": "65536"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "puyo puyo cd tsuu.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "puzzle boy.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "quiz toukou shashin.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "rabio lepus special.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "racing damashi (racing spirits).hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "ranma 1-2 - toraware no hanayome.hes",
+    "size": "90112"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "rastan saga 2.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "rock on.hes",
+    "size": "65536"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "r-type 2.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "r-type.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "ryuukyuu.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "sadakichi saban hideyoshi no ougon.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "sekigahara.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "shinobi.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "shiryou sensen (war of the dead).hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "shogi shodan icchohusen.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "shogi shoshinka muyou.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "sindibad - chitei no dai makyu.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "skweek.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "sol bianca.hes",
+    "size": "286720"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "sol moonarge.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "soukoban world (boxy boy).hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "space adventure cobra 2 - densetsu no otoko.hes",
+    "size": "131072"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "space adventure cobra - koku ryuu oh no densetsu.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "spin pair.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "spiral wave.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "startling odyssey 2.hes",
+    "size": "139264"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "startling odyssey.hes",
+    "size": "557056"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "stratego.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "strip fighter 2.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "super daisenryaku.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "super metal crusher.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "super momotarou dentetsu.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "super volley ball.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "susano oh densetsu.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "takeda shingen.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "tenchi muyo! ryo-oh-ki.hes",
+    "size": "139264"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "tengai makyou - ziria.hes",
+    "size": "491520"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "the kung fu.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "the silent debuggers.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "tiger road.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "tiger shark.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "titan.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "toilet kids.hes",
+    "size": "90112"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "top o nerae! gunbuster vol 1.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "top o nerae! gunbuster vol 2.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "toy shop boys.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "tricky kick.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "tsuppori oozumou.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "tsuru teruto no jissen kabushiki bi-game.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "turrican.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "tv sports basketball.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "tv sports football.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "tv sports hockey.hes",
+    "size": "57344"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "urusei yatsura - stay with you.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "usa pro basketball.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "veigues tactical gladiator.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "victory run.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "vigilante.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "violent soldier.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "virgin dream.hes",
+    "size": "81920"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "wai wai mahjong.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "wallaby!!.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "winning shoot.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "wizardry i + ii.hes",
+    "size": "65536"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "world beach volley.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "world circuit.hes",
+    "size": "16384"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "world court tennis.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "xak 1-2.hes",
+    "size": "139264"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "yamamura misa suspense - kinsenka kyo ezara satsujin jiken.hes",
+    "size": "16384"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "yami no ketsuzoku - harukanaru kioku.hes",
+    "size": "155648"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "yawara 2.hes",
+    "size": "73728"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "yawara.hes",
+    "size": "57344"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "yo, bro.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "- unknown",
+    "song": "zipang.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Virt",
+    "song": "dracula man x2 alpha turbo.hes",
+    "size": "131072"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Yasue Santou",
+    "song": "naxat stadium.hes",
+    "size": "65536"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Yasue Santou",
+    "song": "override.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Yasue Santou",
+    "song": "psycho chaser.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Yasue Santou",
+    "song": "w-ring the double rings.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Yasuhito Saito",
+    "song": "psychic detective series vol 3 - aya.hes",
+    "size": "49152"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Yasuhito Saito",
+    "song": "psychic detective series vol 4 - orgel.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Yoshihiro Sakaguchi",
+    "song": "1943 kai.hes",
+    "size": "98304"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Yoshihiro Sakaguchi",
+    "song": "son son 2.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Yuriko Keino",
+    "song": "xevious.hes",
+    "size": "81920"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Zuntata",
+    "song": "cadash.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Zuntata",
+    "song": "champion wrestler.hes",
+    "size": "32768"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Zuntata",
+    "song": "chase hq.hes",
+    "size": "65536"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Zuntata",
+    "song": "don doko don.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Zuntata",
+    "song": "operation wolf.hes",
+    "size": "24576"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Zuntata",
+    "song": "parasol stars.hes",
+    "size": "40960"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Zuntata",
+    "song": "puzznic.hes",
+    "size": "16384"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Zuntata",
+    "song": "s.c.i. - special criminal investigation.hes",
+    "size": "57344"
+  },
+  {
+    "tracker": "HES",
+    "composer": "Zuntata",
+    "song": "space invaders fukkatsu no hi.hes",
+    "size": "40960"
+  }
+]

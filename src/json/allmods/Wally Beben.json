@@ -1,32 +1,146 @@
-{
-  "- unknown": [
-    "summerolympiad.wb",
-    "ultimateride.wb"
-  ],
-  "Richard Joseph": [
-    "wicked.wb"
-  ],
-  "Wally Beben": [
-    "ballgame.wb",
-    "circusgames.wb",
-    "colossuschessx 1024k.wb",
-    "colossuschessx 512k.wb",
-    "dark side.wb",
-    "elite.wb",
-    "foundation'swaste.wb",
-    "futuresport.wb",
-    "hammerfist.wb",
-    "hawkeye.wb",
-    "hyperdrome.wb",
-    "lancaster.wb",
-    "mr do! run run.wb",
-    "phantasm.wb",
-    "pool of radiance.wb",
-    "quartz.wb",
-    "sdi.wb",
-    "superman.wb",
-    "timemachine ingame.wb",
-    "timemachine title.wb",
-    "total eclipse.wb"
-  ]
-}
+[
+  {
+    "tracker": "Wally Beben",
+    "composer": "Richard Joseph",
+    "song": "wicked.wb",
+    "size": "54076"
+  },
+  {
+    "tracker": "Wally Beben",
+    "composer": "- unknown",
+    "song": "summerolympiad.wb",
+    "size": "60694"
+  },
+  {
+    "tracker": "Wally Beben",
+    "composer": "- unknown",
+    "song": "ultimateride.wb",
+    "size": "63466"
+  },
+  {
+    "tracker": "Wally Beben",
+    "composer": "Wally Beben",
+    "song": "ballgame.wb",
+    "size": "127780"
+  },
+  {
+    "tracker": "Wally Beben",
+    "composer": "Wally Beben",
+    "song": "circusgames.wb",
+    "size": "41428"
+  },
+  {
+    "tracker": "Wally Beben",
+    "composer": "Wally Beben",
+    "song": "colossuschessx 1024k.wb",
+    "size": "85698"
+  },
+  {
+    "tracker": "Wally Beben",
+    "composer": "Wally Beben",
+    "song": "colossuschessx 512k.wb",
+    "size": "14778"
+  },
+  {
+    "tracker": "Wally Beben",
+    "composer": "Wally Beben",
+    "song": "dark side.wb",
+    "size": "62650"
+  },
+  {
+    "tracker": "Wally Beben",
+    "composer": "Wally Beben",
+    "song": "elite.wb",
+    "size": "66082"
+  },
+  {
+    "tracker": "Wally Beben",
+    "composer": "Wally Beben",
+    "song": "foundation'swaste.wb",
+    "size": "73026"
+  },
+  {
+    "tracker": "Wally Beben",
+    "composer": "Wally Beben",
+    "song": "futuresport.wb",
+    "size": "47038"
+  },
+  {
+    "tracker": "Wally Beben",
+    "composer": "Wally Beben",
+    "song": "hammerfist.wb",
+    "size": "79558"
+  },
+  {
+    "tracker": "Wally Beben",
+    "composer": "Wally Beben",
+    "song": "hawkeye.wb",
+    "size": "50526"
+  },
+  {
+    "tracker": "Wally Beben",
+    "composer": "Wally Beben",
+    "song": "hyperdrome.wb",
+    "size": "49176"
+  },
+  {
+    "tracker": "Wally Beben",
+    "composer": "Wally Beben",
+    "song": "lancaster.wb",
+    "size": "104830"
+  },
+  {
+    "tracker": "Wally Beben",
+    "composer": "Wally Beben",
+    "song": "mr do! run run.wb",
+    "size": "19220"
+  },
+  {
+    "tracker": "Wally Beben",
+    "composer": "Wally Beben",
+    "song": "phantasm.wb",
+    "size": "63412"
+  },
+  {
+    "tracker": "Wally Beben",
+    "composer": "Wally Beben",
+    "song": "pool of radiance.wb",
+    "size": "75446"
+  },
+  {
+    "tracker": "Wally Beben",
+    "composer": "Wally Beben",
+    "song": "quartz.wb",
+    "size": "45038"
+  },
+  {
+    "tracker": "Wally Beben",
+    "composer": "Wally Beben",
+    "song": "sdi.wb",
+    "size": "65426"
+  },
+  {
+    "tracker": "Wally Beben",
+    "composer": "Wally Beben",
+    "song": "superman.wb",
+    "size": "38026"
+  },
+  {
+    "tracker": "Wally Beben",
+    "composer": "Wally Beben",
+    "song": "timemachine ingame.wb",
+    "size": "46246"
+  },
+  {
+    "tracker": "Wally Beben",
+    "composer": "Wally Beben",
+    "song": "timemachine title.wb",
+    "size": "60826"
+  },
+  {
+    "tracker": "Wally Beben",
+    "composer": "Wally Beben",
+    "song": "total eclipse.wb",
+    "size": "60192"
+  }
+]

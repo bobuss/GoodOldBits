@@ -1,45 +1,248 @@
-{
-  "Dave Lowe": [
-    "balrog.dln",
-    "beneathasteelsky 01.dln",
-    "beneathasteelsky 02.dln",
-    "beneathasteelsky 03.dln",
-    "beneathasteelsky 04.dln",
-    "beneathasteelsky 05.dln",
-    "beneathasteelsky 06.dln",
-    "beneathasteelsky 07.dln",
-    "beneathasteelsky 08.dln",
-    "beneathasteelsky 09.dln",
-    "beneathasteelsky 10.dln",
-    "beneathasteelsky 11.dln",
-    "beneathasteelsky 12.dln",
-    "beneathasteelsky 13.dln",
-    "beneathasteelsky intro.dln",
-    "beneathasteelsky outro.dln",
-    "blanka.dln",
-    "cammy.dln",
-    "chunli.dln",
-    "deejay.dln",
-    "dhalsim.dln",
-    "e-honda.dln",
-    "feilong.dln",
-    "guile.dln",
-    "jingles.dln",
-    "ken.dln",
-    "king'squest6 1.dln",
-    "king'squest6 2.dln",
-    "king'squest6 3.dln",
-    "king'squest6 4.dln",
-    "king'squest6 5.dln",
-    "king'squest6 6.dln",
-    "king'squest6 7.dln",
-    "king'squest6 8.dln",
-    "king'squest6 title.dln",
-    "m-bison.dln",
-    "ryu.dln",
-    "sagat.dln",
-    "t-hawk.dln",
-    "vega.dln",
-    "zangief.dln"
-  ]
-}
+[
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "balrog.dln",
+    "size": "24171"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "beneathasteelsky 01.dln",
+    "size": "164336"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "beneathasteelsky 02.dln",
+    "size": "188398"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "beneathasteelsky 03.dln",
+    "size": "238638"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "beneathasteelsky 04.dln",
+    "size": "243956"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "beneathasteelsky 05.dln",
+    "size": "119130"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "beneathasteelsky 06.dln",
+    "size": "199490"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "beneathasteelsky 07.dln",
+    "size": "215472"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "beneathasteelsky 08.dln",
+    "size": "156872"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "beneathasteelsky 09.dln",
+    "size": "217218"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "beneathasteelsky 10.dln",
+    "size": "244958"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "beneathasteelsky 11.dln",
+    "size": "188904"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "beneathasteelsky 12.dln",
+    "size": "134502"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "beneathasteelsky 13.dln",
+    "size": "230590"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "beneathasteelsky intro.dln",
+    "size": "152378"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "beneathasteelsky outro.dln",
+    "size": "177694"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "blanka.dln",
+    "size": "25857"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "cammy.dln",
+    "size": "23869"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "chunli.dln",
+    "size": "28423"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "deejay.dln",
+    "size": "29329"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "dhalsim.dln",
+    "size": "21671"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "e-honda.dln",
+    "size": "24735"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "feilong.dln",
+    "size": "29107"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "guile.dln",
+    "size": "22789"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "jingles.dln",
+    "size": "24767"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "ken.dln",
+    "size": "29553"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "king'squest6 1.dln",
+    "size": "46622"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "king'squest6 2.dln",
+    "size": "48608"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "king'squest6 3.dln",
+    "size": "55808"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "king'squest6 4.dln",
+    "size": "48080"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "king'squest6 5.dln",
+    "size": "59352"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "king'squest6 6.dln",
+    "size": "45866"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "king'squest6 7.dln",
+    "size": "61932"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "king'squest6 8.dln",
+    "size": "56230"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "king'squest6 title.dln",
+    "size": "62328"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "m-bison.dln",
+    "size": "21547"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "ryu.dln",
+    "size": "26537"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "sagat.dln",
+    "size": "29091"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "t-hawk.dln",
+    "size": "29559"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "vega.dln",
+    "size": "29179"
+  },
+  {
+    "tracker": "Dave Lowe New",
+    "composer": "Dave Lowe",
+    "song": "zangief.dln",
+    "size": "28633"
+  }
+]

@@ -1,28 +1,134 @@
-{
-  "Frank Klepacki": [
-    "legend of kyrandia - 1a.snd",
-    "legend of kyrandia - 1b.snd",
-    "legend of kyrandia - 2a.snd",
-    "legend of kyrandia - 3a.snd",
-    "legend of kyrandia - 4a.snd",
-    "legend of kyrandia - 4b.snd",
-    "legend of kyrandia - 5a.snd",
-    "legend of kyrandia - 5b.snd",
-    "legend of kyrandia - intro.snd",
-    "legend of kyrandia - misc.snd"
-  ],
-  "Paul Mudra": [
-    "eob2 - azure.snd",
-    "eob2 - catacomb.snd",
-    "eob2 - crimson1.snd",
-    "eob2 - crimson2.snd",
-    "eob2 - finale1.snd",
-    "eob2 - finale2.snd",
-    "eob2 - forest.snd",
-    "eob2 - intro.snd",
-    "eob2 - mezanine.snd",
-    "eob2 - silver.snd",
-    "eob - intro.snd",
-    "eob - logo.snd"
-  ]
-}
+[
+  {
+    "tracker": "Westwood SND",
+    "composer": "Frank Klepacki",
+    "song": "legend of kyrandia - 1a.snd",
+    "size": "7773"
+  },
+  {
+    "tracker": "Westwood SND",
+    "composer": "Frank Klepacki",
+    "song": "legend of kyrandia - 1b.snd",
+    "size": "7702"
+  },
+  {
+    "tracker": "Westwood SND",
+    "composer": "Frank Klepacki",
+    "song": "legend of kyrandia - 2a.snd",
+    "size": "7773"
+  },
+  {
+    "tracker": "Westwood SND",
+    "composer": "Frank Klepacki",
+    "song": "legend of kyrandia - 3a.snd",
+    "size": "7773"
+  },
+  {
+    "tracker": "Westwood SND",
+    "composer": "Frank Klepacki",
+    "song": "legend of kyrandia - 4a.snd",
+    "size": "7773"
+  },
+  {
+    "tracker": "Westwood SND",
+    "composer": "Frank Klepacki",
+    "song": "legend of kyrandia - 4b.snd",
+    "size": "7773"
+  },
+  {
+    "tracker": "Westwood SND",
+    "composer": "Frank Klepacki",
+    "song": "legend of kyrandia - 5a.snd",
+    "size": "7801"
+  },
+  {
+    "tracker": "Westwood SND",
+    "composer": "Frank Klepacki",
+    "song": "legend of kyrandia - 5b.snd",
+    "size": "7773"
+  },
+  {
+    "tracker": "Westwood SND",
+    "composer": "Frank Klepacki",
+    "song": "legend of kyrandia - intro.snd",
+    "size": "7314"
+  },
+  {
+    "tracker": "Westwood SND",
+    "composer": "Frank Klepacki",
+    "song": "legend of kyrandia - misc.snd",
+    "size": "7773"
+  },
+  {
+    "tracker": "Westwood SND",
+    "composer": "Paul Mudra",
+    "song": "eob2 - azure.snd",
+    "size": "5190"
+  },
+  {
+    "tracker": "Westwood SND",
+    "composer": "Paul Mudra",
+    "song": "eob2 - catacomb.snd",
+    "size": "5190"
+  },
+  {
+    "tracker": "Westwood SND",
+    "composer": "Paul Mudra",
+    "song": "eob2 - crimson1.snd",
+    "size": "5190"
+  },
+  {
+    "tracker": "Westwood SND",
+    "composer": "Paul Mudra",
+    "song": "eob2 - crimson2.snd",
+    "size": "5190"
+  },
+  {
+    "tracker": "Westwood SND",
+    "composer": "Paul Mudra",
+    "song": "eob2 - finale1.snd",
+    "size": "2115"
+  },
+  {
+    "tracker": "Westwood SND",
+    "composer": "Paul Mudra",
+    "song": "eob2 - finale2.snd",
+    "size": "1529"
+  },
+  {
+    "tracker": "Westwood SND",
+    "composer": "Paul Mudra",
+    "song": "eob2 - forest.snd",
+    "size": "5190"
+  },
+  {
+    "tracker": "Westwood SND",
+    "composer": "Paul Mudra",
+    "song": "eob2 - intro.snd",
+    "size": "1529"
+  },
+  {
+    "tracker": "Westwood SND",
+    "composer": "Paul Mudra",
+    "song": "eob2 - mezanine.snd",
+    "size": "5190"
+  },
+  {
+    "tracker": "Westwood SND",
+    "composer": "Paul Mudra",
+    "song": "eob2 - silver.snd",
+    "size": "5190"
+  },
+  {
+    "tracker": "Westwood SND",
+    "composer": "Paul Mudra",
+    "song": "eob - intro.snd",
+    "size": "4757"
+  },
+  {
+    "tracker": "Westwood SND",
+    "composer": "Paul Mudra",
+    "song": "eob - logo.snd",
+    "size": "1990"
+  }
+]

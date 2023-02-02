@@ -1,6 +1,14 @@
-{
-  "DJ Hikari": [
-    "demo.ms",
-    "drum.ms"
-  ]
-}
+[
+  {
+    "tracker": "MegaStation",
+    "composer": "DJ Hikari",
+    "song": "demo.ms",
+    "size": "280573"
+  },
+  {
+    "tracker": "MegaStation",
+    "composer": "DJ Hikari",
+    "song": "drum.ms",
+    "size": "155993"
+  }
+]

@@ -1,17 +1,80 @@
-{
-  "Tim Follin": [
-    "ghouls n ghosts count.tf",
-    "ghouls n ghosts hiscore.tf",
-    "ghouls n ghosts title.tf",
-    "ghouls n ghosts tune2.tf",
-    "ghouls n ghosts tune3.tf",
-    "ghouls n ghosts tune4.tf",
-    "ghouls n ghosts tune5.tf",
-    "puzznic.tf",
-    "sly spy title.tf",
-    "sly spy tune1.tf",
-    "sly spy tune2.tf",
-    "sly spy tune3.tf",
-    "sly spy twix.tf"
-  ]
-}
+[
+  {
+    "tracker": "Follin Player II",
+    "composer": "Tim Follin",
+    "song": "ghouls n ghosts count.tf",
+    "size": "25010"
+  },
+  {
+    "tracker": "Follin Player II",
+    "composer": "Tim Follin",
+    "song": "ghouls n ghosts hiscore.tf",
+    "size": "49002"
+  },
+  {
+    "tracker": "Follin Player II",
+    "composer": "Tim Follin",
+    "song": "ghouls n ghosts title.tf",
+    "size": "91002"
+  },
+  {
+    "tracker": "Follin Player II",
+    "composer": "Tim Follin",
+    "song": "ghouls n ghosts tune2.tf",
+    "size": "38750"
+  },
+  {
+    "tracker": "Follin Player II",
+    "composer": "Tim Follin",
+    "song": "ghouls n ghosts tune3.tf",
+    "size": "40726"
+  },
+  {
+    "tracker": "Follin Player II",
+    "composer": "Tim Follin",
+    "song": "ghouls n ghosts tune4.tf",
+    "size": "38412"
+  },
+  {
+    "tracker": "Follin Player II",
+    "composer": "Tim Follin",
+    "song": "ghouls n ghosts tune5.tf",
+    "size": "68724"
+  },
+  {
+    "tracker": "Follin Player II",
+    "composer": "Tim Follin",
+    "song": "puzznic.tf",
+    "size": "75033"
+  },
+  {
+    "tracker": "Follin Player II",
+    "composer": "Tim Follin",
+    "song": "sly spy title.tf",
+    "size": "97390"
+  },
+  {
+    "tracker": "Follin Player II",
+    "composer": "Tim Follin",
+    "song": "sly spy tune1.tf",
+    "size": "42994"
+  },
+  {
+    "tracker": "Follin Player II",
+    "composer": "Tim Follin",
+    "song": "sly spy tune2.tf",
+    "size": "44148"
+  },
+  {
+    "tracker": "Follin Player II",
+    "composer": "Tim Follin",
+    "song": "sly spy tune3.tf",
+    "size": "40706"
+  },
+  {
+    "tracker": "Follin Player II",
+    "composer": "Tim Follin",
+    "song": "sly spy twix.tf",
+    "size": "25902"
+  }
+]

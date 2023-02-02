@@ -1,6 +1,14 @@
-{
-  "The Chomp": [
-    "time after time.liq",
-    "waste of time.liq"
-  ]
-}
+[
+  {
+    "tracker": "Liquid Tracker",
+    "composer": "The Chomp",
+    "song": "time after time.liq",
+    "size": "223387"
+  },
+  {
+    "tracker": "Liquid Tracker",
+    "composer": "The Chomp",
+    "song": "waste of time.liq",
+    "size": "117399"
+  }
+]

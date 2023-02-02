@@ -1,7 +1,20 @@
-{
-  "Daniel Werner": [
-    "chemistry 101.dwp",
-    "chemistry 202.dwp",
-    "chemistry 303.dwp"
-  ]
-}
+[
+  {
+    "tracker": "DarkWave Studio",
+    "composer": "Daniel Werner",
+    "song": "chemistry 101.dwp",
+    "size": "10502"
+  },
+  {
+    "tracker": "DarkWave Studio",
+    "composer": "Daniel Werner",
+    "song": "chemistry 202.dwp",
+    "size": "14284"
+  },
+  {
+    "tracker": "DarkWave Studio",
+    "composer": "Daniel Werner",
+    "song": "chemistry 303.dwp",
+    "size": "18293"
+  }
+]

@@ -1,11 +1,44 @@
-{
-  "Jason Page": [
-    "ivan stewart super o r.jpo",
-    "offroad.jpo",
-    "paradroid90 1mb.jpo",
-    "paradroid90.jpo",
-    "paradroid90 long patched.jpo",
-    "rainbow islands.jpo",
-    "simulcra.jpo"
-  ]
-}
+[
+  {
+    "tracker": "Jason Page Old",
+    "composer": "Jason Page",
+    "song": "ivan stewart super o r.jpo",
+    "size": "40595"
+  },
+  {
+    "tracker": "Jason Page Old",
+    "composer": "Jason Page",
+    "song": "offroad.jpo",
+    "size": "40595"
+  },
+  {
+    "tracker": "Jason Page Old",
+    "composer": "Jason Page",
+    "song": "paradroid90 1mb.jpo",
+    "size": "133665"
+  },
+  {
+    "tracker": "Jason Page Old",
+    "composer": "Jason Page",
+    "song": "paradroid90.jpo",
+    "size": "17213"
+  },
+  {
+    "tracker": "Jason Page Old",
+    "composer": "Jason Page",
+    "song": "paradroid90 long patched.jpo",
+    "size": "81063"
+  },
+  {
+    "tracker": "Jason Page Old",
+    "composer": "Jason Page",
+    "song": "rainbow islands.jpo",
+    "size": "6803"
+  },
+  {
+    "tracker": "Jason Page Old",
+    "composer": "Jason Page",
+    "song": "simulcra.jpo",
+    "size": "36877"
+  }
+]

@@ -1,15 +1,32 @@
-{
-  "Baby": [
-    "guitar time 16 vx.dsm"
-  ],
-  "Bonanza": [
-    "flatliner.dsm"
-  ],
-  "Jogeir Liljedahl": [
-    "amore.dsm",
-    "nes-tea -pc-.dsm"
-  ],
-  "Pooyan": [
-    "twisted space.dsm"
-  ]
-}
+[
+  {
+    "tracker": "Dynamic Studio Professional",
+    "composer": "Baby",
+    "song": "guitar time 16 vx.dsm",
+    "size": "450305"
+  },
+  {
+    "tracker": "Dynamic Studio Professional",
+    "composer": "Bonanza",
+    "song": "flatliner.dsm",
+    "size": "265448"
+  },
+  {
+    "tracker": "Dynamic Studio Professional",
+    "composer": "Jogeir Liljedahl",
+    "song": "amore.dsm",
+    "size": "431291"
+  },
+  {
+    "tracker": "Dynamic Studio Professional",
+    "composer": "Jogeir Liljedahl",
+    "song": "nes-tea -pc-.dsm",
+    "size": "581360"
+  },
+  {
+    "tracker": "Dynamic Studio Professional",
+    "composer": "Pooyan",
+    "song": "twisted space.dsm",
+    "size": "520441"
+  }
+]

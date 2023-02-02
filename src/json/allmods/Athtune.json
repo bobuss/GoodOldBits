@@ -1,7 +1,20 @@
-{
-  "Athaudia": [
-    "example1.athtune",
-    "example2.athtune",
-    "example3.athtune"
-  ]
-}
+[
+  {
+    "tracker": "Athtune",
+    "composer": "Athaudia",
+    "song": "example1.athtune",
+    "size": "673"
+  },
+  {
+    "tracker": "Athtune",
+    "composer": "Athaudia",
+    "song": "example2.athtune",
+    "size": "2199"
+  },
+  {
+    "tracker": "Athtune",
+    "composer": "Athaudia",
+    "song": "example3.athtune",
+    "size": "1109"
+  }
+]

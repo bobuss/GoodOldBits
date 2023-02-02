@@ -1,10 +1,38 @@
-{
-  "Paul Van Der Valk": [
-    "defjam intro.fp",
-    "drums.fp",
-    "hybris ingame.fp",
-    "hybris title.fp",
-    "imploder.fp",
-    "tune.fp"
-  ]
-}
+[
+  {
+    "tracker": "Future Player",
+    "composer": "Paul Van Der Valk",
+    "song": "defjam intro.fp",
+    "size": "18128"
+  },
+  {
+    "tracker": "Future Player",
+    "composer": "Paul Van Der Valk",
+    "song": "drums.fp",
+    "size": "21716"
+  },
+  {
+    "tracker": "Future Player",
+    "composer": "Paul Van Der Valk",
+    "song": "hybris ingame.fp",
+    "size": "22716"
+  },
+  {
+    "tracker": "Future Player",
+    "composer": "Paul Van Der Valk",
+    "song": "hybris title.fp",
+    "size": "17868"
+  },
+  {
+    "tracker": "Future Player",
+    "composer": "Paul Van Der Valk",
+    "song": "imploder.fp",
+    "size": "21816"
+  },
+  {
+    "tracker": "Future Player",
+    "composer": "Paul Van Der Valk",
+    "song": "tune.fp",
+    "size": "18720"
+  }
+]

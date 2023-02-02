@@ -1,9 +1,20 @@
-{
-  "- unknown": [
-    "reaxion.scn",
-    "soccer super stars.scn"
-  ],
-  "Sean Connolly": [
-    "surf ninjas.scn"
-  ]
-}
+[
+  {
+    "tracker": "Sean Connolly",
+    "composer": "Sean Connolly",
+    "song": "surf ninjas.scn",
+    "size": "72652"
+  },
+  {
+    "tracker": "Sean Connolly",
+    "composer": "- unknown",
+    "song": "reaxion.scn",
+    "size": "175876"
+  },
+  {
+    "tracker": "Sean Connolly",
+    "composer": "- unknown",
+    "song": "soccer super stars.scn",
+    "size": "159512"
+  }
+]

@@ -1,6 +1,14 @@
-{
-  "Stargazer": [
-    "inconvenient intro.sg",
-    "irrepressible intro.sg"
-  ]
-}
+[
+  {
+    "tracker": "Tomy Tracker",
+    "composer": "Stargazer",
+    "song": "inconvenient intro.sg",
+    "size": "106072"
+  },
+  {
+    "tracker": "Tomy Tracker",
+    "composer": "Stargazer",
+    "song": "irrepressible intro.sg",
+    "size": "25894"
+  }
+]

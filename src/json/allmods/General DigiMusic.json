@@ -1,77 +1,356 @@
-{
-  "Bishop": [
-    "as the seasons change.gdm",
-    "floor 96 (extended mix).gdm",
-    "marshmellow dreams.gdm",
-    "neon life.gdm",
-    "open fields.gdm",
-    "rainy sunday night.gdm",
-    "tilbury fair (remix).gdm"
-  ],
-  "BoogieMannen": [
-    "digital kangaroo.gdm"
-  ],
-  "Chakra": [
-    "trial by fire.gdm"
-  ],
-  "Groovin": [
-    "kids of karendow - another day.gdm",
-    "kids of karendow - boss theme.gdm",
-    "kids of karendow - buy.gdm",
-    "kids of karendow - children of the sun.gdm",
-    "kids of karendow - crewl's theme.gdm",
-    "kids of karendow - darkness in karendow.gdm",
-    "kids of karendow - deep in the woods.gdm",
-    "kids of karendow - desert.gdm",
-    "kids of karendow - dump.gdm",
-    "kids of karendow - electric march.gdm",
-    "kids of karendow - elmo's theme.gdm",
-    "kids of karendow - fight for freedom.gdm",
-    "kids of karendow - gain level.gdm",
-    "kids of karendow - game over.gdm",
-    "kids of karendow - groove.gdm",
-    "kids of karendow - happy times.gdm",
-    "kids of karendow - hv2.gdm",
-    "kids of karendow - kapitol.gdm",
-    "kids of karendow - karendow kastle.gdm",
-    "kids of karendow - kids of karendow.gdm",
-    "kids of karendow - kids of karendow shop.gdm",
-    "kids of karendow - last.gdm",
-    "kids of karendow - lboss.gdm",
-    "kids of karendow - obidwa.gdm",
-    "kids of karendow - overworld.gdm",
-    "kids of karendow - sad2.gdm",
-    "kids of karendow - sad.gdm",
-    "kids of karendow - sadt.gdm",
-    "kids of karendow - the rebellious march.gdm",
-    "kids of karendow - the underground.gdm",
-    "kids of karendow - tower.gdm",
-    "kids of karendow - town.gdm"
-  ],
-  "Phoenix": [
-    "4play (four times two mix).gdm",
-    "annihilating.gdm",
-    "charade.gdm",
-    "critical mass.gdm",
-    "dc5 - scrollorama.gdm",
-    "dynamo (album edit).gdm",
-    "in god we thrust.gdm",
-    "past future.gdm",
-    "reality check.gdm",
-    "sequence start.gdm",
-    "spazzing in circles.gdm",
-    "synaesthesia - xproject (edit).gdm",
-    "synaesthesia - xproject.gdm",
-    "the joke is on me.gdm",
-    "the real.gdm"
-  ],
-  "Raiden": [
-    "divinity 1.3.gdm"
-  ],
-  "Rekall": [
-    "tranq.gdm"
-  ],
-  "Zippy": [
-    "chipadelic two - ost.gdm"
-  ]
-}
+[
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Bishop",
+    "song": "as the seasons change.gdm",
+    "size": "218381"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Bishop",
+    "song": "floor 96 (extended mix).gdm",
+    "size": "285293"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Bishop",
+    "song": "marshmellow dreams.gdm",
+    "size": "458822"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Bishop",
+    "song": "neon life.gdm",
+    "size": "175027"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Bishop",
+    "song": "open fields.gdm",
+    "size": "218581"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Bishop",
+    "song": "rainy sunday night.gdm",
+    "size": "215624"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Bishop",
+    "song": "tilbury fair (remix).gdm",
+    "size": "470125"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "BoogieMannen",
+    "song": "digital kangaroo.gdm",
+    "size": "357423"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Chakra",
+    "song": "trial by fire.gdm",
+    "size": "274364"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - another day.gdm",
+    "size": "51220"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - boss theme.gdm",
+    "size": "494833"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - buy.gdm",
+    "size": "100535"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - children of the sun.gdm",
+    "size": "46987"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - crewl's theme.gdm",
+    "size": "536500"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - darkness in karendow.gdm",
+    "size": "208159"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - deep in the woods.gdm",
+    "size": "145725"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - desert.gdm",
+    "size": "85098"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - dump.gdm",
+    "size": "152604"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - electric march.gdm",
+    "size": "124936"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - elmo's theme.gdm",
+    "size": "125187"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - fight for freedom.gdm",
+    "size": "468991"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - gain level.gdm",
+    "size": "100075"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - game over.gdm",
+    "size": "241927"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - groove.gdm",
+    "size": "257977"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - happy times.gdm",
+    "size": "137074"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - hv2.gdm",
+    "size": "34514"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - kapitol.gdm",
+    "size": "352774"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - karendow kastle.gdm",
+    "size": "263919"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - kids of karendow.gdm",
+    "size": "191389"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - kids of karendow shop.gdm",
+    "size": "82946"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - last.gdm",
+    "size": "166877"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - lboss.gdm",
+    "size": "648062"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - obidwa.gdm",
+    "size": "149162"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - overworld.gdm",
+    "size": "189960"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - sad2.gdm",
+    "size": "14795"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - sad.gdm",
+    "size": "67801"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - sadt.gdm",
+    "size": "73344"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - the rebellious march.gdm",
+    "size": "93128"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - the underground.gdm",
+    "size": "97201"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - tower.gdm",
+    "size": "92080"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Groovin",
+    "song": "kids of karendow - town.gdm",
+    "size": "65649"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Phoenix",
+    "song": "4play (four times two mix).gdm",
+    "size": "439359"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Phoenix",
+    "song": "annihilating.gdm",
+    "size": "333892"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Phoenix",
+    "song": "charade.gdm",
+    "size": "141678"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Phoenix",
+    "song": "critical mass.gdm",
+    "size": "191174"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Phoenix",
+    "song": "dc5 - scrollorama.gdm",
+    "size": "551230"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Phoenix",
+    "song": "dynamo (album edit).gdm",
+    "size": "268634"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Phoenix",
+    "song": "in god we thrust.gdm",
+    "size": "525302"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Phoenix",
+    "song": "past future.gdm",
+    "size": "323088"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Phoenix",
+    "song": "reality check.gdm",
+    "size": "436952"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Phoenix",
+    "song": "sequence start.gdm",
+    "size": "284576"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Phoenix",
+    "song": "spazzing in circles.gdm",
+    "size": "193873"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Phoenix",
+    "song": "synaesthesia - xproject (edit).gdm",
+    "size": "565011"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Phoenix",
+    "song": "synaesthesia - xproject.gdm",
+    "size": "425066"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Phoenix",
+    "song": "the joke is on me.gdm",
+    "size": "142447"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Phoenix",
+    "song": "the real.gdm",
+    "size": "493069"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Raiden",
+    "song": "divinity 1.3.gdm",
+    "size": "2415519"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Rekall",
+    "song": "tranq.gdm",
+    "size": "375192"
+  },
+  {
+    "tracker": "General DigiMusic",
+    "composer": "Zippy",
+    "song": "chipadelic two - ost.gdm",
+    "size": "20713"
+  }
+]

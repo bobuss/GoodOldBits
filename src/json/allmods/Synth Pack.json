@@ -1,23 +1,116 @@
-{
-  "Karsten Obarski": [
-    "Centerbase/centerbase act01.osp",
-    "Centerbase/centerbase act02.osp",
-    "Centerbase/centerbase act03.osp",
-    "Centerbase/centerbase act04.osp",
-    "Centerbase/centerbase animus.osp",
-    "Centerbase/centerbase lost.osp",
-    "Centerbase/centerbase main.osp",
-    "Centerbase/centerbase soft.osp",
-    "Centerbase/centerbase win.osp",
-    "Centerbase/smp.set",
-    "Dyter-07/dyter07 hiscore.osp",
-    "Dyter-07/dyter07 mainfx.osp",
-    "Dyter-07/dyter07 ongame01.osp",
-    "Dyter-07/dyter07 ongame02.osp",
-    "Dyter-07/dyter07 ongame03.osp",
-    "Dyter-07/dyter07 ongame04.osp",
-    "Dyter-07/dyter07 title.osp",
-    "Dyter-07/dyter07 victory.osp",
-    "Dyter-07/smp.set"
-  ]
-}
+[
+  {
+    "tracker": "Synth Pack",
+    "composer": "Karsten Obarski",
+    "song": "Centerbase/centerbase act01.osp",
+    "size": "3096"
+  },
+  {
+    "tracker": "Synth Pack",
+    "composer": "Karsten Obarski",
+    "song": "Centerbase/centerbase act02.osp",
+    "size": "2934"
+  },
+  {
+    "tracker": "Synth Pack",
+    "composer": "Karsten Obarski",
+    "song": "Centerbase/centerbase act03.osp",
+    "size": "4824"
+  },
+  {
+    "tracker": "Synth Pack",
+    "composer": "Karsten Obarski",
+    "song": "Centerbase/centerbase act04.osp",
+    "size": "3552"
+  },
+  {
+    "tracker": "Synth Pack",
+    "composer": "Karsten Obarski",
+    "song": "Centerbase/centerbase animus.osp",
+    "size": "2550"
+  },
+  {
+    "tracker": "Synth Pack",
+    "composer": "Karsten Obarski",
+    "song": "Centerbase/centerbase lost.osp",
+    "size": "3048"
+  },
+  {
+    "tracker": "Synth Pack",
+    "composer": "Karsten Obarski",
+    "song": "Centerbase/centerbase main.osp",
+    "size": "7200"
+  },
+  {
+    "tracker": "Synth Pack",
+    "composer": "Karsten Obarski",
+    "song": "Centerbase/centerbase soft.osp",
+    "size": "1950"
+  },
+  {
+    "tracker": "Synth Pack",
+    "composer": "Karsten Obarski",
+    "song": "Centerbase/centerbase win.osp",
+    "size": "4020"
+  },
+  {
+    "tracker": "Synth Pack",
+    "composer": "Karsten Obarski",
+    "song": "Centerbase/smp.set",
+    "size": "34726"
+  },
+  {
+    "tracker": "Synth Pack",
+    "composer": "Karsten Obarski",
+    "song": "Dyter-07/dyter07 hiscore.osp",
+    "size": "8588"
+  },
+  {
+    "tracker": "Synth Pack",
+    "composer": "Karsten Obarski",
+    "song": "Dyter-07/dyter07 mainfx.osp",
+    "size": "13580"
+  },
+  {
+    "tracker": "Synth Pack",
+    "composer": "Karsten Obarski",
+    "song": "Dyter-07/dyter07 ongame01.osp",
+    "size": "9356"
+  },
+  {
+    "tracker": "Synth Pack",
+    "composer": "Karsten Obarski",
+    "song": "Dyter-07/dyter07 ongame02.osp",
+    "size": "8972"
+  },
+  {
+    "tracker": "Synth Pack",
+    "composer": "Karsten Obarski",
+    "song": "Dyter-07/dyter07 ongame03.osp",
+    "size": "7820"
+  },
+  {
+    "tracker": "Synth Pack",
+    "composer": "Karsten Obarski",
+    "song": "Dyter-07/dyter07 ongame04.osp",
+    "size": "5516"
+  },
+  {
+    "tracker": "Synth Pack",
+    "composer": "Karsten Obarski",
+    "song": "Dyter-07/dyter07 title.osp",
+    "size": "13580"
+  },
+  {
+    "tracker": "Synth Pack",
+    "composer": "Karsten Obarski",
+    "song": "Dyter-07/dyter07 victory.osp",
+    "size": "8588"
+  },
+  {
+    "tracker": "Synth Pack",
+    "composer": "Karsten Obarski",
+    "song": "Dyter-07/smp.set",
+    "size": "53358"
+  }
+]

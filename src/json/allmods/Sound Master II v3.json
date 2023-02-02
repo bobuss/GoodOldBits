@@ -1,25 +1,116 @@
-{
-  "Jeroen Soede": [
-    "doofus 1.sm3",
-    "doofus 3.sm3",
-    "doofus 4.sm3",
-    "doofus 5.sm3",
-    "doofus 6.sm3"
-  ],
-  "Michael Jestram": [
-    "central park xxl.sm3",
-    "ghostngoblins2003.sm3",
-    "hurry up...!!!.sm3",
-    "necromania finale.sm3",
-    "necromania-loader fixed.sm3",
-    "necromania.sm3",
-    "project novastorm-preview.sm3",
-    "silkworm.sm3",
-    "tln2-central park!!!.sm3",
-    "tln2-final battle!!!.sm3",
-    "tln2-the sewers!!!.sm3",
-    "turrican2 loader.sm3",
-    "turrican loader.sm3",
-    "x-out-loader & jingle.sm3"
-  ]
-}
+[
+  {
+    "tracker": "Sound Master II v3",
+    "composer": "Jeroen Soede",
+    "song": "doofus 1.sm3",
+    "size": "71932"
+  },
+  {
+    "tracker": "Sound Master II v3",
+    "composer": "Jeroen Soede",
+    "song": "doofus 3.sm3",
+    "size": "62660"
+  },
+  {
+    "tracker": "Sound Master II v3",
+    "composer": "Jeroen Soede",
+    "song": "doofus 4.sm3",
+    "size": "55122"
+  },
+  {
+    "tracker": "Sound Master II v3",
+    "composer": "Jeroen Soede",
+    "song": "doofus 5.sm3",
+    "size": "87506"
+  },
+  {
+    "tracker": "Sound Master II v3",
+    "composer": "Jeroen Soede",
+    "song": "doofus 6.sm3",
+    "size": "66786"
+  },
+  {
+    "tracker": "Sound Master II v3",
+    "composer": "Michael Jestram",
+    "song": "central park xxl.sm3",
+    "size": "137462"
+  },
+  {
+    "tracker": "Sound Master II v3",
+    "composer": "Michael Jestram",
+    "song": "ghostngoblins2003.sm3",
+    "size": "8130"
+  },
+  {
+    "tracker": "Sound Master II v3",
+    "composer": "Michael Jestram",
+    "song": "hurry up...!!!.sm3",
+    "size": "12852"
+  },
+  {
+    "tracker": "Sound Master II v3",
+    "composer": "Michael Jestram",
+    "song": "necromania finale.sm3",
+    "size": "39652"
+  },
+  {
+    "tracker": "Sound Master II v3",
+    "composer": "Michael Jestram",
+    "song": "necromania-loader fixed.sm3",
+    "size": "10760"
+  },
+  {
+    "tracker": "Sound Master II v3",
+    "composer": "Michael Jestram",
+    "song": "necromania.sm3",
+    "size": "34584"
+  },
+  {
+    "tracker": "Sound Master II v3",
+    "composer": "Michael Jestram",
+    "song": "project novastorm-preview.sm3",
+    "size": "9466"
+  },
+  {
+    "tracker": "Sound Master II v3",
+    "composer": "Michael Jestram",
+    "song": "silkworm.sm3",
+    "size": "45368"
+  },
+  {
+    "tracker": "Sound Master II v3",
+    "composer": "Michael Jestram",
+    "song": "tln2-central park!!!.sm3",
+    "size": "13220"
+  },
+  {
+    "tracker": "Sound Master II v3",
+    "composer": "Michael Jestram",
+    "song": "tln2-final battle!!!.sm3",
+    "size": "4390"
+  },
+  {
+    "tracker": "Sound Master II v3",
+    "composer": "Michael Jestram",
+    "song": "tln2-the sewers!!!.sm3",
+    "size": "16420"
+  },
+  {
+    "tracker": "Sound Master II v3",
+    "composer": "Michael Jestram",
+    "song": "turrican2 loader.sm3",
+    "size": "4742"
+  },
+  {
+    "tracker": "Sound Master II v3",
+    "composer": "Michael Jestram",
+    "song": "turrican loader.sm3",
+    "size": "4696"
+  },
+  {
+    "tracker": "Sound Master II v3",
+    "composer": "Michael Jestram",
+    "song": "x-out-loader & jingle.sm3",
+    "size": "4542"
+  }
+]

@@ -1,30 +1,122 @@
-{
-  "- unknown": [
-    "afrcan.smufi",
-    "bassdrum.smufi",
-    "breakbeat.smufi",
-    "harderthanhard.smufi",
-    "test4k.smufi"
-  ],
-  "BeRo": [
-    "cubemanclub.smufi",
-    "cubeman.smufi",
-    "danceordie.smufi",
-    "feelthebass.smufi",
-    "fx.smufi",
-    "gamemusicno1.smufi",
-    "happybirthday.smufi",
-    "iamarobot.smufi",
-    "popcorn4k.smufi",
-    "ravedrumandbass180.smufi",
-    "spacing.smufi",
-    "yourhouseismyhouse.smufi"
-  ],
-  "FreQvibez": [
-    "peek-a-toon (exchipo shorty).smufi"
-  ],
-  "Lyzzard": [
-    "kbostel.xm conversion (abandoned).smufi",
-    "night.smufi"
-  ]
-}
+[
+  {
+    "tracker": "Picatune",
+    "composer": "BeRo",
+    "song": "cubemanclub.smufi",
+    "size": "21500"
+  },
+  {
+    "tracker": "Picatune",
+    "composer": "BeRo",
+    "song": "cubeman.smufi",
+    "size": "21880"
+  },
+  {
+    "tracker": "Picatune",
+    "composer": "BeRo",
+    "song": "danceordie.smufi",
+    "size": "14993"
+  },
+  {
+    "tracker": "Picatune",
+    "composer": "BeRo",
+    "song": "feelthebass.smufi",
+    "size": "36565"
+  },
+  {
+    "tracker": "Picatune",
+    "composer": "BeRo",
+    "song": "fx.smufi",
+    "size": "5678"
+  },
+  {
+    "tracker": "Picatune",
+    "composer": "BeRo",
+    "song": "gamemusicno1.smufi",
+    "size": "9412"
+  },
+  {
+    "tracker": "Picatune",
+    "composer": "BeRo",
+    "song": "happybirthday.smufi",
+    "size": "19046"
+  },
+  {
+    "tracker": "Picatune",
+    "composer": "BeRo",
+    "song": "iamarobot.smufi",
+    "size": "15524"
+  },
+  {
+    "tracker": "Picatune",
+    "composer": "BeRo",
+    "song": "popcorn4k.smufi",
+    "size": "14868"
+  },
+  {
+    "tracker": "Picatune",
+    "composer": "BeRo",
+    "song": "ravedrumandbass180.smufi",
+    "size": "21592"
+  },
+  {
+    "tracker": "Picatune",
+    "composer": "BeRo",
+    "song": "spacing.smufi",
+    "size": "28150"
+  },
+  {
+    "tracker": "Picatune",
+    "composer": "BeRo",
+    "song": "yourhouseismyhouse.smufi",
+    "size": "16150"
+  },
+  {
+    "tracker": "Picatune",
+    "composer": "FreQvibez",
+    "song": "peek-a-toon (exchipo shorty).smufi",
+    "size": "47084"
+  },
+  {
+    "tracker": "Picatune",
+    "composer": "Lyzzard",
+    "song": "kbostel.xm conversion (abandoned).smufi",
+    "size": "10321"
+  },
+  {
+    "tracker": "Picatune",
+    "composer": "Lyzzard",
+    "song": "night.smufi",
+    "size": "68065"
+  },
+  {
+    "tracker": "Picatune",
+    "composer": "- unknown",
+    "song": "afrcan.smufi",
+    "size": "17785"
+  },
+  {
+    "tracker": "Picatune",
+    "composer": "- unknown",
+    "song": "bassdrum.smufi",
+    "size": "7095"
+  },
+  {
+    "tracker": "Picatune",
+    "composer": "- unknown",
+    "song": "breakbeat.smufi",
+    "size": "9607"
+  },
+  {
+    "tracker": "Picatune",
+    "composer": "- unknown",
+    "song": "harderthanhard.smufi",
+    "size": "15052"
+  },
+  {
+    "tracker": "Picatune",
+    "composer": "- unknown",
+    "song": "test4k.smufi",
+    "size": "1820"
+  }
+]

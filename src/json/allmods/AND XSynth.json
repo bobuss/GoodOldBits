@@ -1,5 +1,8 @@
-{
-  "Slash (RU)": [
-    "motion in weightlessnesse.amx"
-  ]
-}
+[
+  {
+    "tracker": "AND XSynth",
+    "composer": "Slash (RU)",
+    "song": "motion in weightlessnesse.amx",
+    "size": "42603"
+  }
+]

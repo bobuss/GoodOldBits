@@ -1,6 +1,14 @@
-{
-  "Kaneda": [
-    "arktest.mus",
-    "entertn.mus"
-  ]
-}
+[
+  {
+    "tracker": "MVS Tracker",
+    "composer": "Kaneda",
+    "song": "arktest.mus",
+    "size": "4119"
+  },
+  {
+    "tracker": "MVS Tracker",
+    "composer": "Kaneda",
+    "song": "entertn.mus",
+    "size": "20638"
+  }
+]

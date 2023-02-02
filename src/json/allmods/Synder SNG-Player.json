@@ -1,108 +1,398 @@
-{
-  "Brite-Lite": [
-    "last try.sng",
-    "moonfire.sng",
-    "other side.sng",
-    "starfall.sng",
-    "sunchild.sng",
-    "would you.sng"
-  ],
-  "Chris Huelsbeck": [
-    "katakis highscore.sng",
-    "katakis level1.sng",
-    "katakis level2.sng",
-    "katakis level3.sng",
-    "katakis level4.sng",
-    "katakis level5.sng",
-    "katakis level6.sng",
-    "katakis title.sng"
-  ],
-  "Daf": [
-    "digital world 2.sng"
-  ],
-  "Extermer": [
-    "turrican end.sng",
-    "turrican level3-3.sng"
-  ],
-  "Fanta": [
-    "challenger.sng"
-  ],
-  "Intensity": [
-    "energy boost.sng"
-  ],
-  "Jeff": [
-    "blowing.sng",
-    "commodore 64.sng",
-    "cyberworld.sng",
-    "space journey.sng",
-    "turrican3 level1-2.sng"
-  ],
-  "KB": [
-    "who cares-endpart.sng"
-  ],
-  "Markus Siebold": [
-    "turrican 2-end.sng",
-    "turrican 2-highscore.sng",
-    "turrican 2-title.sng"
-  ],
-  "PRI": [
-    "experimenthal.sng"
-  ],
-  "PVCF": [
-    "bladeswede remix.sng",
-    "centric trackmo.sng",
-    "dresden party95-ii.sng",
-    "dresden party.sng",
-    "execute overdrive intro.sng"
-  ],
-  "Praiser": [
-    "blocks.sng",
-    "brain defect 2.sng",
-    "breek house.sng",
-    "breitbandkatze notemusic.sng",
-    "breitbandkatze tune1.sng",
-    "breitbandkatze tune2.sng",
-    "clouds.sng",
-    "een da haus.sng",
-    "fast shit.sng",
-    "flash out.sng",
-    "pokemony sa wsrod nas.sng",
-    "ryan.sng",
-    "unreality dreams.sng"
-  ],
-  "Randy": [
-    "lost in space.sng",
-    "nebbish.sng",
-    "progressiva.sng"
-  ],
-  "Rob Hubbard": [
-    "commando.sng"
-  ],
-  "Roy": [
-    "profik 2.sng",
-    "profik theme.sng",
-    "work profik.sng"
-  ],
-  "Ruuvari": [
-    "boom boom.sng",
-    "dungeon horror.sng",
-    "kymmene.sng",
-    "problem.sng"
-  ],
-  "Sonic": [
-    "flat rate.sng"
-  ],
-  "Stefan Hartwig": [
-    "turrican loader.sng"
-  ],
-  "Taxim": [
-    "klanghammer 2003.sng",
-    "pain remained.sng"
-  ],
-  "Thomas Detert": [
-    "game on 1091.sng",
-    "game on 1092.sng",
-    "magic disk 0491.sng",
-    "magic disk 0693.sng"
-  ]
-}
+[
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Brite-Lite",
+    "song": "last try.sng",
+    "size": "2754"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Brite-Lite",
+    "song": "moonfire.sng",
+    "size": "2081"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Brite-Lite",
+    "song": "other side.sng",
+    "size": "3118"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Brite-Lite",
+    "song": "starfall.sng",
+    "size": "2308"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Brite-Lite",
+    "song": "sunchild.sng",
+    "size": "2936"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Brite-Lite",
+    "song": "would you.sng",
+    "size": "2948"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Chris Huelsbeck",
+    "song": "katakis highscore.sng",
+    "size": "1611"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Chris Huelsbeck",
+    "song": "katakis level1.sng",
+    "size": "1457"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Chris Huelsbeck",
+    "song": "katakis level2.sng",
+    "size": "1453"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Chris Huelsbeck",
+    "song": "katakis level3.sng",
+    "size": "1484"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Chris Huelsbeck",
+    "song": "katakis level4.sng",
+    "size": "2166"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Chris Huelsbeck",
+    "song": "katakis level5.sng",
+    "size": "1336"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Chris Huelsbeck",
+    "song": "katakis level6.sng",
+    "size": "1782"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Chris Huelsbeck",
+    "song": "katakis title.sng",
+    "size": "6372"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Daf",
+    "song": "digital world 2.sng",
+    "size": "5073"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Extermer",
+    "song": "turrican end.sng",
+    "size": "5826"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Extermer",
+    "song": "turrican level3-3.sng",
+    "size": "2462"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Fanta",
+    "song": "challenger.sng",
+    "size": "4118"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Intensity",
+    "song": "energy boost.sng",
+    "size": "3872"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Jeff",
+    "song": "blowing.sng",
+    "size": "2367"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Jeff",
+    "song": "commodore 64.sng",
+    "size": "3209"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Jeff",
+    "song": "cyberworld.sng",
+    "size": "4714"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Jeff",
+    "song": "space journey.sng",
+    "size": "6727"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Jeff",
+    "song": "turrican3 level1-2.sng",
+    "size": "2371"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "KB",
+    "song": "who cares-endpart.sng",
+    "size": "3999"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Markus Siebold",
+    "song": "turrican 2-end.sng",
+    "size": "2431"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Markus Siebold",
+    "song": "turrican 2-highscore.sng",
+    "size": "1666"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Markus Siebold",
+    "song": "turrican 2-title.sng",
+    "size": "3010"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Praiser",
+    "song": "blocks.sng",
+    "size": "2738"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Praiser",
+    "song": "brain defect 2.sng",
+    "size": "3896"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Praiser",
+    "song": "breek house.sng",
+    "size": "6532"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Praiser",
+    "song": "breitbandkatze notemusic.sng",
+    "size": "3915"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Praiser",
+    "song": "breitbandkatze tune1.sng",
+    "size": "4571"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Praiser",
+    "song": "breitbandkatze tune2.sng",
+    "size": "4600"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Praiser",
+    "song": "clouds.sng",
+    "size": "5551"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Praiser",
+    "song": "een da haus.sng",
+    "size": "2055"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Praiser",
+    "song": "fast shit.sng",
+    "size": "1552"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Praiser",
+    "song": "flash out.sng",
+    "size": "18086"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Praiser",
+    "song": "pokemony sa wsrod nas.sng",
+    "size": "8337"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Praiser",
+    "song": "ryan.sng",
+    "size": "5575"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Praiser",
+    "song": "unreality dreams.sng",
+    "size": "7060"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "PRI",
+    "song": "experimenthal.sng",
+    "size": "4056"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "PVCF",
+    "song": "bladeswede remix.sng",
+    "size": "12698"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "PVCF",
+    "song": "centric trackmo.sng",
+    "size": "4016"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "PVCF",
+    "song": "dresden party95-ii.sng",
+    "size": "5329"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "PVCF",
+    "song": "dresden party.sng",
+    "size": "5687"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "PVCF",
+    "song": "execute overdrive intro.sng",
+    "size": "2061"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Randy",
+    "song": "lost in space.sng",
+    "size": "1522"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Randy",
+    "song": "nebbish.sng",
+    "size": "2538"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Randy",
+    "song": "progressiva.sng",
+    "size": "1662"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Rob Hubbard",
+    "song": "commando.sng",
+    "size": "6407"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Roy",
+    "song": "profik 2.sng",
+    "size": "4291"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Roy",
+    "song": "profik theme.sng",
+    "size": "3978"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Roy",
+    "song": "work profik.sng",
+    "size": "4706"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Ruuvari",
+    "song": "boom boom.sng",
+    "size": "3228"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Ruuvari",
+    "song": "dungeon horror.sng",
+    "size": "2203"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Ruuvari",
+    "song": "kymmene.sng",
+    "size": "3744"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Ruuvari",
+    "song": "problem.sng",
+    "size": "4970"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Sonic",
+    "song": "flat rate.sng",
+    "size": "5475"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Stefan Hartwig",
+    "song": "turrican loader.sng",
+    "size": "3053"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Taxim",
+    "song": "klanghammer 2003.sng",
+    "size": "3703"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Taxim",
+    "song": "pain remained.sng",
+    "size": "4882"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Thomas Detert",
+    "song": "game on 1091.sng",
+    "size": "7214"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Thomas Detert",
+    "song": "game on 1092.sng",
+    "size": "9113"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Thomas Detert",
+    "song": "magic disk 0491.sng",
+    "size": "5355"
+  },
+  {
+    "tracker": "Synder SNG-Player",
+    "composer": "Thomas Detert",
+    "song": "magic disk 0693.sng",
+    "size": "1593"
+  }
+]

@@ -1,96 +1,494 @@
-{
-  "- unknown": [
-    "contraptionzack-agro.mxtx",
-    "contraptionzack-bluejam.mxtx",
-    "contraptionzack-builder.mxtx",
-    "contraptionzack-funkfest.mxtx",
-    "contraptionzack-gopen.mxtx",
-    "contraptionzack-leaf.mxtx",
-    "contraptionzack-march.mxtx",
-    "contraptionzack-mk2.mxtx",
-    "contraptionzack-paboba.mxtx",
-    "contraptionzack-plot.mxtx",
-    "contraptionzack-rubefunk.mxtx",
-    "contraptionzack-walk.mxtx",
-    "might and magic city.mxtx",
-    "might and magic eerie.mxtx",
-    "mm3-bank.mxtx",
-    "mm3-cave.mxtx",
-    "mm3-city.mxtx",
-    "mm3-cyber2.mxtx",
-    "mm3-cyber.mxtx",
-    "mm3-eerie.mxtx",
-    "mm3-fx.mxtx",
-    "mm3-guild.mxtx",
-    "mm3-honky.mxtx",
-    "mm3-jaws.mxtx",
-    "mm3-medieval.mxtx",
-    "mm3-mm3theme.mxtx",
-    "mm3-shop.mxtx",
-    "mm3-temple.mxtx",
-    "mm3-towninn.mxtx",
-    "mm3-training.mxtx"
-  ],
-  "David A. Bean": [
-    "darkseed (00).mxtx",
-    "darkseed (01).mxtx",
-    "darkseed (02).mxtx",
-    "darkseed (03).mxtx",
-    "darkseed (04).mxtx",
-    "darkseed (05).mxtx",
-    "darkseed (06).mxtx",
-    "darkseed (07).mxtx",
-    "darkseed (08).mxtx",
-    "darkseed (09).mxtx",
-    "darkseed (10).mxtx",
-    "darkseed (11).mxtx",
-    "darkseed (12).mxtx",
-    "darkseed (13).mxtx",
-    "darkseed (14).mxtx",
-    "darkseed (15).mxtx",
-    "darkseed (16).mxtx",
-    "darkseed (18).mxtx",
-    "darkseed (19).mxtx"
-  ],
-  "Frank Klepacki": [
-    "dune 2 endgame.mxtx",
-    "dune 2 ingame english.mxtx",
-    "dune 2 ingame french.mxtx",
-    "dune 2 ingame german.mxtx",
-    "dune 2 intro 1a eng.mxtx",
-    "dune 2 intro 1a fre.mxtx",
-    "dune 2 intro 1a ger.mxtx",
-    "dune 2 intro.mxtx",
-    "kyrandia finalescr.mxtx",
-    "kyrandia introinst.mxtx",
-    "kyrandia introscr.mxtx",
-    "kyrandia kyramusic.mxtx"
-  ],
-  "John Halbleib": [
-    "secret silver blades.mxtx"
-  ],
-  "Russell Lieblich": [
-    "a-train (badinfo).mxtx",
-    "a-train (bullettrain).mxtx",
-    "a-train (deckthehalls).mxtx",
-    "a-train (downbeat).mxtx",
-    "a-train (fall).mxtx",
-    "a-train (goodinfo).mxtx",
-    "a-train (impendresp).mxtx",
-    "a-train (intro).mxtx",
-    "a-train (jinglebells).mxtx",
-    "a-train (silentnight).mxtx",
-    "a-train (spring).mxtx",
-    "a-train (summer).mxtx",
-    "a-train (titlescreen).mxtx",
-    "a-train (upbeat).mxtx",
-    "a-train (victory).mxtx",
-    "a-train (winter).mxtx",
-    "a-train (youlose).mxtx"
-  ],
-  "Steve Hales": [
-    "antmusic.mxtx",
-    "antmusicsmall.mxtx",
-    "earthmusic.mxtx"
-  ]
-}
+[
+  {
+    "tracker": "MaxTrax",
+    "composer": "David A. Bean",
+    "song": "darkseed (00).mxtx",
+    "size": "25708"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "David A. Bean",
+    "song": "darkseed (01).mxtx",
+    "size": "20026"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "David A. Bean",
+    "song": "darkseed (02).mxtx",
+    "size": "13426"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "David A. Bean",
+    "song": "darkseed (03).mxtx",
+    "size": "39448"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "David A. Bean",
+    "song": "darkseed (04).mxtx",
+    "size": "16522"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "David A. Bean",
+    "song": "darkseed (05).mxtx",
+    "size": "26078"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "David A. Bean",
+    "song": "darkseed (06).mxtx",
+    "size": "38052"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "David A. Bean",
+    "song": "darkseed (07).mxtx",
+    "size": "5308"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "David A. Bean",
+    "song": "darkseed (08).mxtx",
+    "size": "17788"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "David A. Bean",
+    "song": "darkseed (09).mxtx",
+    "size": "22770"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "David A. Bean",
+    "song": "darkseed (10).mxtx",
+    "size": "11410"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "David A. Bean",
+    "song": "darkseed (11).mxtx",
+    "size": "9078"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "David A. Bean",
+    "song": "darkseed (12).mxtx",
+    "size": "11892"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "David A. Bean",
+    "song": "darkseed (13).mxtx",
+    "size": "14800"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "David A. Bean",
+    "song": "darkseed (14).mxtx",
+    "size": "11978"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "David A. Bean",
+    "song": "darkseed (15).mxtx",
+    "size": "9160"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "David A. Bean",
+    "song": "darkseed (16).mxtx",
+    "size": "5598"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "David A. Bean",
+    "song": "darkseed (18).mxtx",
+    "size": "23216"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "David A. Bean",
+    "song": "darkseed (19).mxtx",
+    "size": "4874"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Frank Klepacki",
+    "song": "dune 2 endgame.mxtx",
+    "size": "41450"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Frank Klepacki",
+    "song": "dune 2 ingame english.mxtx",
+    "size": "141218"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Frank Klepacki",
+    "song": "dune 2 ingame french.mxtx",
+    "size": "135458"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Frank Klepacki",
+    "song": "dune 2 ingame german.mxtx",
+    "size": "128586"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Frank Klepacki",
+    "song": "dune 2 intro 1a eng.mxtx",
+    "size": "70472"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Frank Klepacki",
+    "song": "dune 2 intro 1a fre.mxtx",
+    "size": "99360"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Frank Klepacki",
+    "song": "dune 2 intro 1a ger.mxtx",
+    "size": "98186"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Frank Klepacki",
+    "song": "dune 2 intro.mxtx",
+    "size": "109946"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Frank Klepacki",
+    "song": "kyrandia finalescr.mxtx",
+    "size": "20382"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Frank Klepacki",
+    "song": "kyrandia introinst.mxtx",
+    "size": "150104"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Frank Klepacki",
+    "song": "kyrandia introscr.mxtx",
+    "size": "4930"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Frank Klepacki",
+    "song": "kyrandia kyramusic.mxtx",
+    "size": "238776"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "John Halbleib",
+    "song": "secret silver blades.mxtx",
+    "size": "20164"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Russell Lieblich",
+    "song": "a-train (badinfo).mxtx",
+    "size": "328"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Russell Lieblich",
+    "song": "a-train (bullettrain).mxtx",
+    "size": "2506"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Russell Lieblich",
+    "song": "a-train (deckthehalls).mxtx",
+    "size": "1924"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Russell Lieblich",
+    "song": "a-train (downbeat).mxtx",
+    "size": "166"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Russell Lieblich",
+    "song": "a-train (fall).mxtx",
+    "size": "472"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Russell Lieblich",
+    "song": "a-train (goodinfo).mxtx",
+    "size": "1012"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Russell Lieblich",
+    "song": "a-train (impendresp).mxtx",
+    "size": "436"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Russell Lieblich",
+    "song": "a-train (intro).mxtx",
+    "size": "61874"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Russell Lieblich",
+    "song": "a-train (jinglebells).mxtx",
+    "size": "4000"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Russell Lieblich",
+    "song": "a-train (silentnight).mxtx",
+    "size": "2368"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Russell Lieblich",
+    "song": "a-train (spring).mxtx",
+    "size": "1222"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Russell Lieblich",
+    "song": "a-train (summer).mxtx",
+    "size": "1114"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Russell Lieblich",
+    "song": "a-train (titlescreen).mxtx",
+    "size": "3118"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Russell Lieblich",
+    "song": "a-train (upbeat).mxtx",
+    "size": "196"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Russell Lieblich",
+    "song": "a-train (victory).mxtx",
+    "size": "2206"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Russell Lieblich",
+    "song": "a-train (winter).mxtx",
+    "size": "916"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Russell Lieblich",
+    "song": "a-train (youlose).mxtx",
+    "size": "964"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Steve Hales",
+    "song": "antmusic.mxtx",
+    "size": "81740"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Steve Hales",
+    "song": "antmusicsmall.mxtx",
+    "size": "30566"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "Steve Hales",
+    "song": "earthmusic.mxtx",
+    "size": "60150"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "contraptionzack-agro.mxtx",
+    "size": "44284"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "contraptionzack-bluejam.mxtx",
+    "size": "87526"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "contraptionzack-builder.mxtx",
+    "size": "26808"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "contraptionzack-funkfest.mxtx",
+    "size": "44076"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "contraptionzack-gopen.mxtx",
+    "size": "4282"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "contraptionzack-leaf.mxtx",
+    "size": "28076"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "contraptionzack-march.mxtx",
+    "size": "8568"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "contraptionzack-mk2.mxtx",
+    "size": "78244"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "contraptionzack-paboba.mxtx",
+    "size": "37688"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "contraptionzack-plot.mxtx",
+    "size": "9053"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "contraptionzack-rubefunk.mxtx",
+    "size": "71964"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "contraptionzack-walk.mxtx",
+    "size": "30750"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "might and magic city.mxtx",
+    "size": "35136"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "might and magic eerie.mxtx",
+    "size": "35136"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "mm3-bank.mxtx",
+    "size": "30072"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "mm3-cave.mxtx",
+    "size": "22950"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "mm3-city.mxtx",
+    "size": "36398"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "mm3-cyber2.mxtx",
+    "size": "45128"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "mm3-cyber.mxtx",
+    "size": "37350"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "mm3-eerie.mxtx",
+    "size": "36214"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "mm3-fx.mxtx",
+    "size": "12890"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "mm3-guild.mxtx",
+    "size": "10922"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "mm3-honky.mxtx",
+    "size": "31204"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "mm3-jaws.mxtx",
+    "size": "23846"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "mm3-medieval.mxtx",
+    "size": "46004"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "mm3-mm3theme.mxtx",
+    "size": "28044"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "mm3-shop.mxtx",
+    "size": "37800"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "mm3-temple.mxtx",
+    "size": "33038"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "mm3-towninn.mxtx",
+    "size": "11264"
+  },
+  {
+    "tracker": "MaxTrax",
+    "composer": "- unknown",
+    "song": "mm3-training.mxtx",
+    "size": "22592"
+  }
+]

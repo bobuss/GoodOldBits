@@ -1,37 +1,188 @@
-{
-  "- unknown": [
-    "dai-2-ji super robot taisen g.gbr",
-    "doki doki sasete.gbr",
-    "dragon slayer gaiden.gbr",
-    "golf.gbr",
-    "itsudemo pachinko boy - cr monster house.gbr",
-    "kidou senkan nadeshiko - ruri ruri mahjong.gbr",
-    "kung fu master.gbr",
-    "little nicky.gbr",
-    "lucky monkey.gbr",
-    "mickey mouse.gbr",
-    "mr. driller.gbr",
-    "navy blue 90.gbr",
-    "navy blue.gbr",
-    "nekketsu kouha kunio-kun - bangai rantou-hen.gbr",
-    "osawagase penguin boy.gbr",
-    "othello.gbr",
-    "pocket puyo puyo 4.gbr",
-    "puzzle boy 2.gbr",
-    "puzzle boy.gbr",
-    "shanghai pocket.gbr",
-    "shin megami tensei - devil children - kuro no sho.gbr",
-    "shin megami tensei - devil children - shiro no sho.gbr",
-    "shin megami tensei trading card - card summoner.gbr",
-    "shinseiki evangelion - mahjong hokan keikaku.gbr",
-    "tennis.gbr",
-    "wizardry gaiden 1 - suffering of the queen.gbr",
-    "wizardry gaiden 2 - kodai kotei no noroi.gbr",
-    "wizardry gaiden 3 - yama no seiten.gbr",
-    "yakuman.gbr"
-  ],
-  "Koichi Sugiyama": [
-    "dragon quest 1 & 2.gbr",
-    "dragon quest 3.gbr"
-  ]
-}
+[
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "Koichi Sugiyama",
+    "song": "dragon quest 1 & 2.gbr",
+    "size": "114720"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "Koichi Sugiyama",
+    "song": "dragon quest 3.gbr",
+    "size": "163872"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "dai-2-ji super robot taisen g.gbr",
+    "size": "32800"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "doki doki sasete.gbr",
+    "size": "81952"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "dragon slayer gaiden.gbr",
+    "size": "32800"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "golf.gbr",
+    "size": "16416"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "itsudemo pachinko boy - cr monster house.gbr",
+    "size": "49184"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "kidou senkan nadeshiko - ruri ruri mahjong.gbr",
+    "size": "573472"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "kung fu master.gbr",
+    "size": "16416"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "little nicky.gbr",
+    "size": "213024"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "lucky monkey.gbr",
+    "size": "32800"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "mickey mouse.gbr",
+    "size": "32800"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "mr. driller.gbr",
+    "size": "16416"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "navy blue 90.gbr",
+    "size": "16416"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "navy blue.gbr",
+    "size": "16416"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "nekketsu kouha kunio-kun - bangai rantou-hen.gbr",
+    "size": "16416"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "osawagase penguin boy.gbr",
+    "size": "32800"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "othello.gbr",
+    "size": "16416"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "pocket puyo puyo 4.gbr",
+    "size": "540704"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "puzzle boy 2.gbr",
+    "size": "16416"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "puzzle boy.gbr",
+    "size": "32800"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "shanghai pocket.gbr",
+    "size": "16416"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "shin megami tensei - devil children - kuro no sho.gbr",
+    "size": "65568"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "shin megami tensei - devil children - shiro no sho.gbr",
+    "size": "65568"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "shin megami tensei trading card - card summoner.gbr",
+    "size": "114720"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "shinseiki evangelion - mahjong hokan keikaku.gbr",
+    "size": "426016"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "tennis.gbr",
+    "size": "32800"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "wizardry gaiden 1 - suffering of the queen.gbr",
+    "size": "32800"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "wizardry gaiden 2 - kodai kotei no noroi.gbr",
+    "size": "32800"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "wizardry gaiden 3 - yama no seiten.gbr",
+    "size": "49184"
+  },
+  {
+    "tracker": "Gameboy Sound System GBR",
+    "composer": "- unknown",
+    "song": "yakuman.gbr",
+    "size": "16416"
+  }
+]

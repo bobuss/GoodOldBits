@@ -1,18 +1,74 @@
-{
-  "Gargaj": [
-    "73.mvm",
-    "chaos theory.mvm",
-    "invoke.mvm",
-    "memento.mvm",
-    "plural.mvm",
-    "trash - grime final.mvm"
-  ],
-  "Vincenzo": [
-    "coop-Gargaj/buenzli 13 invitation.mvm",
-    "coop-Gargaj/the prophecy.mvm",
-    "coop-Innocent/4players.de teaser.mvm",
-    "coop-Innocent/beyond.mvm",
-    "coop-Innocent/binary flow - the assembly'05 invitation.mvm",
-    "saturday night scener.mvm"
-  ]
-}
+[
+  {
+    "tracker": "MVX Module",
+    "composer": "Gargaj",
+    "song": "73.mvm",
+    "size": "32359"
+  },
+  {
+    "tracker": "MVX Module",
+    "composer": "Gargaj",
+    "song": "chaos theory.mvm",
+    "size": "419179"
+  },
+  {
+    "tracker": "MVX Module",
+    "composer": "Gargaj",
+    "song": "invoke.mvm",
+    "size": "359925"
+  },
+  {
+    "tracker": "MVX Module",
+    "composer": "Gargaj",
+    "song": "memento.mvm",
+    "size": "369511"
+  },
+  {
+    "tracker": "MVX Module",
+    "composer": "Gargaj",
+    "song": "plural.mvm",
+    "size": "379041"
+  },
+  {
+    "tracker": "MVX Module",
+    "composer": "Gargaj",
+    "song": "trash - grime final.mvm",
+    "size": "281263"
+  },
+  {
+    "tracker": "MVX Module",
+    "composer": "Vincenzo",
+    "song": "coop-Gargaj/buenzli 13 invitation.mvm",
+    "size": "439383"
+  },
+  {
+    "tracker": "MVX Module",
+    "composer": "Vincenzo",
+    "song": "coop-Gargaj/the prophecy.mvm",
+    "size": "3114494"
+  },
+  {
+    "tracker": "MVX Module",
+    "composer": "Vincenzo",
+    "song": "coop-Innocent/4players.de teaser.mvm",
+    "size": "152217"
+  },
+  {
+    "tracker": "MVX Module",
+    "composer": "Vincenzo",
+    "song": "coop-Innocent/beyond.mvm",
+    "size": "329881"
+  },
+  {
+    "tracker": "MVX Module",
+    "composer": "Vincenzo",
+    "song": "coop-Innocent/binary flow - the assembly'05 invitation.mvm",
+    "size": "639002"
+  },
+  {
+    "tracker": "MVX Module",
+    "composer": "Vincenzo",
+    "song": "saturday night scener.mvm",
+    "size": "313992"
+  }
+]

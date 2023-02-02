@@ -1,6 +1,14 @@
-{
-  "- unknown": [
-    "lowtheme.fuchs",
-    "titletheme.fuchs"
-  ]
-}
+[
+  {
+    "tracker": "FuchsTracker",
+    "composer": "- unknown",
+    "song": "lowtheme.fuchs",
+    "size": "7966"
+  },
+  {
+    "tracker": "FuchsTracker",
+    "composer": "- unknown",
+    "song": "titletheme.fuchs",
+    "size": "59912"
+  }
+]

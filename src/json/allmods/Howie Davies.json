@@ -1,7 +1,20 @@
-{
-  "Howie Davies": [
-    "blazing thunder.hd",
-    "future bike simulator.hd",
-    "yogi's great escape.hd"
-  ]
-}
+[
+  {
+    "tracker": "Howie Davies",
+    "composer": "Howie Davies",
+    "song": "blazing thunder.hd",
+    "size": "92244"
+  },
+  {
+    "tracker": "Howie Davies",
+    "composer": "Howie Davies",
+    "song": "future bike simulator.hd",
+    "size": "73332"
+  },
+  {
+    "tracker": "Howie Davies",
+    "composer": "Howie Davies",
+    "song": "yogi's great escape.hd",
+    "size": "99840"
+  }
+]

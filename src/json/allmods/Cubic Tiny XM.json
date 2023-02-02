@@ -1,8 +1,14 @@
-{
-  "Falcon (PL)": [
-    "pulse-sink.mxm"
-  ],
-  "Oxygener": [
-    "burra.mxm"
-  ]
-}
+[
+  {
+    "tracker": "Cubic Tiny XM",
+    "composer": "Falcon (PL)",
+    "song": "pulse-sink.mxm",
+    "size": "75390"
+  },
+  {
+    "tracker": "Cubic Tiny XM",
+    "composer": "Oxygener",
+    "song": "burra.mxm",
+    "size": "131872"
+  }
+]

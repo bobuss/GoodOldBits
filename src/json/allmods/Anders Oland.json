@@ -1,21 +1,104 @@
-{
-  "Anders Oland": [
-    "primemover 01.hot",
-    "primemover 02.hot",
-    "primemover 03.hot",
-    "primemover 04.hot",
-    "primemover 05.hot",
-    "primemover 06.hot",
-    "primemover 07.hot",
-    "primemover 08.hot",
-    "primemover 09.hot",
-    "primemover 10.hot",
-    "primemover 11.hot",
-    "primemover 12.hot",
-    "primemover 13.hot",
-    "primemover 14.hot",
-    "primemover 15.hot",
-    "primemover 16.hot",
-    "primemover 17.hot"
-  ]
-}
+[
+  {
+    "tracker": "Anders Oland",
+    "composer": "Anders Oland",
+    "song": "primemover 01.hot",
+    "size": "56698"
+  },
+  {
+    "tracker": "Anders Oland",
+    "composer": "Anders Oland",
+    "song": "primemover 02.hot",
+    "size": "71390"
+  },
+  {
+    "tracker": "Anders Oland",
+    "composer": "Anders Oland",
+    "song": "primemover 03.hot",
+    "size": "22306"
+  },
+  {
+    "tracker": "Anders Oland",
+    "composer": "Anders Oland",
+    "song": "primemover 04.hot",
+    "size": "43274"
+  },
+  {
+    "tracker": "Anders Oland",
+    "composer": "Anders Oland",
+    "song": "primemover 05.hot",
+    "size": "58946"
+  },
+  {
+    "tracker": "Anders Oland",
+    "composer": "Anders Oland",
+    "song": "primemover 06.hot",
+    "size": "3568"
+  },
+  {
+    "tracker": "Anders Oland",
+    "composer": "Anders Oland",
+    "song": "primemover 07.hot",
+    "size": "4738"
+  },
+  {
+    "tracker": "Anders Oland",
+    "composer": "Anders Oland",
+    "song": "primemover 08.hot",
+    "size": "4288"
+  },
+  {
+    "tracker": "Anders Oland",
+    "composer": "Anders Oland",
+    "song": "primemover 09.hot",
+    "size": "3036"
+  },
+  {
+    "tracker": "Anders Oland",
+    "composer": "Anders Oland",
+    "song": "primemover 10.hot",
+    "size": "36542"
+  },
+  {
+    "tracker": "Anders Oland",
+    "composer": "Anders Oland",
+    "song": "primemover 11.hot",
+    "size": "4148"
+  },
+  {
+    "tracker": "Anders Oland",
+    "composer": "Anders Oland",
+    "song": "primemover 12.hot",
+    "size": "3372"
+  },
+  {
+    "tracker": "Anders Oland",
+    "composer": "Anders Oland",
+    "song": "primemover 13.hot",
+    "size": "3326"
+  },
+  {
+    "tracker": "Anders Oland",
+    "composer": "Anders Oland",
+    "song": "primemover 14.hot",
+    "size": "5678"
+  },
+  {
+    "tracker": "Anders Oland",
+    "composer": "Anders Oland",
+    "song": "primemover 15.hot",
+    "size": "5980"
+  },
+  {
+    "tracker": "Anders Oland",
+    "composer": "Anders Oland",
+    "song": "primemover 16.hot",
+    "size": "4756"
+  },
+  {
+    "tracker": "Anders Oland",
+    "composer": "Anders Oland",
+    "song": "primemover 17.hot",
+    "size": "3326"
+  }
+]

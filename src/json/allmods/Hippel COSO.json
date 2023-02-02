@@ -1,96 +1,554 @@
-{
-  "Jochen Hippel": [
-    "amberstar (01).hipc",
-    "amberstar (02).hipc",
-    "amberstar (03).hipc",
-    "amberstar (04).hipc",
-    "amberstar (05).hipc",
-    "amberstar (06).hipc",
-    "amberstar (07).hipc",
-    "amberstar (08).hipc",
-    "amberstar (09).hipc",
-    "amberstar (10).hipc",
-    "amberstar (11).hipc",
-    "amberstar (12).hipc",
-    "amberstar (13).hipc",
-    "amberstar (14).hipc",
-    "amberstar (15).hipc",
-    "amberstar (16).hipc",
-    "amberstar (17).hipc",
-    "amberstar (18).hipc",
-    "amberstar (19).hipc",
-    "amberstar (end theme).hipc",
-    "amberstar (title).hipc",
-    "a prehistoric tale (end).hipc",
-    "a prehistoric tale (high).hipc",
-    "a prehistoric tale (intro).hipc",
-    "a prehistoric tale (menu).hipc",
-    "a prehistoric tale (music2).hipc",
-    "a prehistoric tale (music3).hipc",
-    "a prehistoric tale (music4).hipc",
-    "astaroth123.hipc",
-    "astaroth4.hipc",
-    "australian pioneers ingame.hipc",
-    "australian pioneers ragtime.hipc",
-    "australian pioneers title.hipc",
-    "cryptoburners - pack2.hipc",
-    "cryptoburners - pack3.hipc",
-    "cryptoburners - pack4.hipc",
-    "cryptoburners - pack5.hipc",
-    "dragonflight (always).hipc",
-    "dragonflight (ani).hipc",
-    "dragonflight (dungeon).hipc",
-    "dragonflight (endsequence).hipc",
-    "dragonflight (musf).hipc",
-    "dragonflight (surface).hipc",
-    "dragonflight (titletune).hipc",
-    "dragonflight (town).hipc",
-    "dragonflight (uni).hipc",
-    "enchanted land (1).hipc",
-    "enchanted land (2).hipc",
-    "enchanted land (3).hipc",
-    "enchanted land (4).hipc",
-    "firelord.hipc",
-    "ghost battle (gameover test).hipc",
-    "ghost battle (level 1).hipc",
-    "ghost battle (level 2).hipc",
-    "ghost battle (level 3).hipc",
-    "ghost battle (level 4).hipc",
-    "ghost battle (level 5).hipc",
-    "last ninja remix (1).hipc",
-    "last ninja remix (2).hipc",
-    "last ninja remix (3).hipc",
-    "last ninja remix (4).hipc",
-    "last ninja remix (5).hipc",
-    "last ninja remix (title).hipc",
-    "legend-intro.hipc",
-    "lethal xcess-desert of no return.hipc",
-    "lethal xcess-end.hipc",
-    "lethal xcess-fortress of methallycha.hipc",
-    "lethal xcess-intro.hipc",
-    "lethal xcess-main.hipc",
-    "lethal xcess-ruins of methallycha.hipc",
-    "lethal xcess-the evil garden.hipc",
-    "lethal xcess-title.hipc",
-    "lethal xcess-vulcanic plateaus.hipc",
-    "level16.hipc",
-    "level4.hipc",
-    "lsx mm.hipc",
-    "return of medusa (1).hipc",
-    "return of medusa (2).hipc",
-    "shaolin ingame 5.hipc",
-    "shaolin ingame 6.hipc",
-    "tangram (1).hipc",
-    "tangram (2).hipc",
-    "turbo 1.hipc",
-    "wassermu.hipc",
-    "willi.hipc",
-    "wings of death (level 1).hipc",
-    "wings of death (level 2).hipc",
-    "wings of death (level 3).hipc",
-    "wings of death (level 4).hipc",
-    "wings of death (level 5).hipc",
-    "wings of death (level 6).hipc",
-    "wings of death (level 7).hipc"
-  ]
-}
+[
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "amberstar (01).hipc",
+    "size": "59392"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "amberstar (02).hipc",
+    "size": "59672"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "amberstar (03).hipc",
+    "size": "59136"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "amberstar (04).hipc",
+    "size": "59314"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "amberstar (05).hipc",
+    "size": "59192"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "amberstar (06).hipc",
+    "size": "59538"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "amberstar (07).hipc",
+    "size": "59814"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "amberstar (08).hipc",
+    "size": "59958"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "amberstar (09).hipc",
+    "size": "60102"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "amberstar (10).hipc",
+    "size": "59784"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "amberstar (11).hipc",
+    "size": "59678"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "amberstar (12).hipc",
+    "size": "58864"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "amberstar (13).hipc",
+    "size": "59026"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "amberstar (14).hipc",
+    "size": "59146"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "amberstar (15).hipc",
+    "size": "59004"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "amberstar (16).hipc",
+    "size": "60656"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "amberstar (17).hipc",
+    "size": "59284"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "amberstar (18).hipc",
+    "size": "59514"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "amberstar (19).hipc",
+    "size": "59534"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "amberstar (end theme).hipc",
+    "size": "66064"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "amberstar (title).hipc",
+    "size": "149778"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "a prehistoric tale (end).hipc",
+    "size": "23520"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "a prehistoric tale (high).hipc",
+    "size": "52040"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "a prehistoric tale (intro).hipc",
+    "size": "59176"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "a prehistoric tale (menu).hipc",
+    "size": "24340"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "a prehistoric tale (music2).hipc",
+    "size": "49048"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "a prehistoric tale (music3).hipc",
+    "size": "48834"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "a prehistoric tale (music4).hipc",
+    "size": "41780"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "astaroth123.hipc",
+    "size": "21790"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "astaroth4.hipc",
+    "size": "20780"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "australian pioneers ingame.hipc",
+    "size": "49456"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "australian pioneers ragtime.hipc",
+    "size": "35966"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "australian pioneers title.hipc",
+    "size": "146316"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "cryptoburners - pack2.hipc",
+    "size": "4838"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "cryptoburners - pack3.hipc",
+    "size": "26342"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "cryptoburners - pack4.hipc",
+    "size": "5854"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "cryptoburners - pack5.hipc",
+    "size": "20316"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "dragonflight (always).hipc",
+    "size": "8814"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "dragonflight (ani).hipc",
+    "size": "2908"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "dragonflight (dungeon).hipc",
+    "size": "9036"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "dragonflight (endsequence).hipc",
+    "size": "5448"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "dragonflight (musf).hipc",
+    "size": "11506"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "dragonflight (surface).hipc",
+    "size": "11816"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "dragonflight (titletune).hipc",
+    "size": "182276"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "dragonflight (town).hipc",
+    "size": "4162"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "dragonflight (uni).hipc",
+    "size": "2278"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "enchanted land (1).hipc",
+    "size": "30174"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "enchanted land (2).hipc",
+    "size": "27754"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "enchanted land (3).hipc",
+    "size": "18078"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "enchanted land (4).hipc",
+    "size": "24606"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "firelord.hipc",
+    "size": "13138"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "ghost battle (gameover test).hipc",
+    "size": "42362"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "ghost battle (level 1).hipc",
+    "size": "28598"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "ghost battle (level 2).hipc",
+    "size": "29250"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "ghost battle (level 3).hipc",
+    "size": "30012"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "ghost battle (level 4).hipc",
+    "size": "34248"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "ghost battle (level 5).hipc",
+    "size": "39206"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "last ninja remix (1).hipc",
+    "size": "57730"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "last ninja remix (2).hipc",
+    "size": "53818"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "last ninja remix (3).hipc",
+    "size": "25938"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "last ninja remix (4).hipc",
+    "size": "22760"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "last ninja remix (5).hipc",
+    "size": "57688"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "last ninja remix (title).hipc",
+    "size": "63400"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "legend-intro.hipc",
+    "size": "11522"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "lethal xcess-desert of no return.hipc",
+    "size": "32460"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "lethal xcess-end.hipc",
+    "size": "33160"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "lethal xcess-fortress of methallycha.hipc",
+    "size": "26470"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "lethal xcess-intro.hipc",
+    "size": "60742"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "lethal xcess-main.hipc",
+    "size": "28518"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "lethal xcess-ruins of methallycha.hipc",
+    "size": "27766"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "lethal xcess-the evil garden.hipc",
+    "size": "30280"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "lethal xcess-title.hipc",
+    "size": "82628"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "lethal xcess-vulcanic plateaus.hipc",
+    "size": "27992"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "level16.hipc",
+    "size": "38786"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "level4.hipc",
+    "size": "33024"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "lsx mm.hipc",
+    "size": "30192"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "return of medusa (1).hipc",
+    "size": "44516"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "return of medusa (2).hipc",
+    "size": "10966"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "shaolin ingame 5.hipc",
+    "size": "38266"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "shaolin ingame 6.hipc",
+    "size": "36654"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "tangram (1).hipc",
+    "size": "28054"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "tangram (2).hipc",
+    "size": "26498"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "turbo 1.hipc",
+    "size": "28184"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "wassermu.hipc",
+    "size": "27980"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "willi.hipc",
+    "size": "53938"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "wings of death (level 1).hipc",
+    "size": "18292"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "wings of death (level 2).hipc",
+    "size": "17122"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "wings of death (level 3).hipc",
+    "size": "15760"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "wings of death (level 4).hipc",
+    "size": "18114"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "wings of death (level 5).hipc",
+    "size": "16518"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "wings of death (level 6).hipc",
+    "size": "17398"
+  },
+  {
+    "tracker": "Hippel COSO",
+    "composer": "Jochen Hippel",
+    "song": "wings of death (level 7).hipc",
+    "size": "17336"
+  }
+]

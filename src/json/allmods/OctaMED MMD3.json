@@ -1,896 +1,3842 @@
-{
-  "- unknown": [
-    "agression.mmd3",
-    "apocoliptic kettle.mmd3",
-    "auralx.mmd3",
-    "be shine.mmd3",
-    "beyond the temple.mmd3",
-    "black.mmd3",
-    "concept of m.mmd3",
-    "creep.mmd3",
-    "cx3.mmd3",
-    "dead tree.mmd3",
-    "downward trance.mmd3",
-    "dream.mmd3",
-    "dreamsong.mmd3",
-    "drug day.mmd3",
-    "dune - battle of the lions.mmd3",
-    "dynamic 1.mmd3",
-    "dynamic 2.0.mmd3",
-    "epic clouds.mmd3",
-    "for the unknown cause.mmd3",
-    "fractional.mmd3",
-    "from the get go - enticer.mmd3",
-    "frozen.mmd3",
-    "fuck life.mmd3",
-    "fungi.mmd3",
-    "giant fiction.mmd3",
-    "glad to be without you.mmd3",
-    "hag.mmd3",
-    "happyb.mmd3",
-    "high times.mmd3",
-    "housecore.mmd3",
-    "i like it.mmd3",
-    "inner feelings.mmd3",
-    "insert the bloody cd.mmd3",
-    "jolpoid.mmd3",
-    "lost in depth.mmd3",
-    "lou reed ripper.mmd3",
-    "mad frenchman.mmd3",
-    "megatrip.mmd3",
-    "melody pop.mmd3",
-    "mouldy skull.mmd3",
-    "mr techno.mmd3",
-    "new.mmd3",
-    "nkn maximal disorder.mmd3",
-    "noname.mmd3",
-    "prosektorium.mmd3",
-    "rock!!.mmd3",
-    "shit crap.mmd3",
-    "sideras2.mmd3",
-    "silent moon.mmd3",
-    "silent winds.mmd3",
-    "slide up.mmd3",
-    "song 01.mmd3",
-    "so-so-mahhn-remix.mmd3",
-    "sound of aliens.mmd3",
-    "ss.burning out.mmd3",
-    "strange.mmd3",
-    "strings of paradise.mmd3",
-    "sweet melody.mmd3",
-    "term2.mmd3",
-    "terminator2.mmd3",
-    "the freak is dead.mmd3",
-    "thunder in my mind.mmd3",
-    "timewarp.mmd3",
-    "toytown remix.mmd3",
-    "trinity inside.mmd3",
-    "triumph of the futile.mmd3",
-    "trumpet speaking.mmd3",
-    "tune2.mmd3",
-    "what you want - enticer.mmd3",
-    "whow.mmd3",
-    "wonder rmx wall.mmd3"
-  ],
-  "Acidpimp": [
-    "save me (it's killing me).mmd3"
-  ],
-  "Aftab Hussain": [
-    "deep cover.mmd3"
-  ],
-  "Apollon": [
-    "coop-Ransom/phulge.mmd3",
-    "hidden thing.mmd3",
-    "honeymoon.mmd3",
-    "isolate.mmd3",
-    "to eternaty.mmd3",
-    "untitled6.mmd3"
-  ],
-  "Arndt Heitkamp": [
-    "awave sector mix.mmd3"
-  ],
-  "Asarhad": [
-    "calculated risk [asarhad rmx].mmd3",
-    "hills of mandzuria.mmd3",
-    "scarecrow.mmd3",
-    "the champions.mmd3"
-  ],
-  "AudioKiller": [
-    "fly thru the open sea.mmd3",
-    "friends memories.mmd3",
-    "hands in love.mmd3",
-    "journey.mmd3"
-  ],
-  "Ben Bright": [
-    "jungel law.mmd3",
-    "long gone.mmd3"
-  ],
-  "Buster Blom": [
-    "bounty hunter - outro (remixed).mmd3"
-  ],
-  "C-Eagle": [
-    "world of love.mmd3"
-  ],
-  "C0ntax": [
-    "bumble.mmd3"
-  ],
-  "CCB": [
-    "happy hippos.mmd3"
-  ],
-  "CJ": [
-    "absolution2.mmd3",
-    "dizzy goes cruising.mmd3",
-    "gotter dammerung.mmd3"
-  ],
-  "Captain": [
-    "basic tune.mmd3"
-  ],
-  "Caustic": [
-    "coop-Acidpimp/hangover.mmd3",
-    "coop-Acidpimp/it's non sense.mmd3",
-    "coop-Acidpimp/winter poem [mix1].mmd3",
-    "ocean legends.mmd3"
-  ],
-  "Chill": [
-    "dataexpl.mmd3"
-  ],
-  "Chroust": [
-    "crazy song.mmd3",
-    "dark night.mmd3",
-    "flow.mmd3",
-    "new rein (remix).mmd3",
-    "peaovina (oh susanne).mmd3",
-    "rock piano.mmd3",
-    "znalka - still team.mmd3"
-  ],
-  "Counterpoint": [
-    "chronologic foundations.mmd3",
-    "intricate personality.mmd3",
-    "jaded sunset.mmd3"
-  ],
-  "Cybarite": [
-    "cestoda.mmd3",
-    "screwdriver.mmd3"
-  ],
-  "DJ Freak": [
-    "303 dream (final rmx).mmd3",
-    "back into time.mmd3",
-    "chemical go '98 mix.mmd3",
-    "distortion attack.mmd3",
-    "go insane [speed garage - funky mix].mmd3",
-    "greed (sythnie bass edit).mmd3",
-    "meldoic life [pure etheral mix].mmd3",
-    "mindless-bom'in [b'nt boy mix].mmd3",
-    "noise of - incert carefull.mmd3",
-    "playing god.mmd3",
-    "return of the bass-m's.mmd3",
-    "splow.mmd3",
-    "spooky chill out.mmd3",
-    "the air.mmd3",
-    "work it.mmd3"
-  ],
-  "DJ Hotcakes": [
-    "coop-Paul Malyschko/dungeon.mmd3",
-    "eklektik house (rmx).mmd3",
-    "fuk em up, buttercup!.mmd3",
-    "gods 2000 (radio edit).mmd3",
-    "i'm not in the moog! (noyz phaktah '005).mmd3",
-    "merry christmas '98!.mmd3",
-    "old angsomething (the 1996th 1998 release).mmd3",
-    "pop your fizzbang!.mmd3",
-    "ready for release.mmd3",
-    "say what (radio edit).mmd3",
-    "song of the siren.mmd3",
-    "still happy (after all of these years).mmd3",
-    "zombie shuffle!.mmd3"
-  ],
-  "DJ Mijk": [
-    "big beat cheeze.mmd3",
-    "black angel.mmd3",
-    "chemikaze rmx.mmd3",
-    "disengage (ode 2 grieg).mmd3",
-    "fettolainen.mmd3",
-    "fonky breakbeat remix.mmd3",
-    "nadia (big beat mix).mmd3",
-    "nazina.mmd3",
-    "space in days.mmd3",
-    "the original.mmd3",
-    "this is not cuthype.mmd3"
-  ],
-  "DJ Nick": [
-    "capital punishment - cd intro.mmd3",
-    "it's open.mmd3",
-    "sulphuric-acid.mmd3",
-    "warp.mmd3"
-  ],
-  "DJ Skidmarx": [
-    "birthday boy.mmd3"
-  ],
-  "DJ Tramp": [
-    "oorpi viiii.mmd3",
-    "oorpi viii.mmd3",
-    "oorpi vii.mmd3",
-    "oorpi x1 (return 2 edgewood part1).mmd3",
-    "oorpi x.mmd3"
-  ],
-  "DJ Twiglet": [
-    "ambi ant.mmd3",
-    "bananas.mmd3",
-    "beard.mmd3",
-    "bread and butter.mmd3",
-    "can't stop the beat.mmd3",
-    "chime remix.mmd3",
-    "eggbox.mmd3",
-    "en trance.mmd3",
-    "exercise in melody.mmd3",
-    "guadalope.mmd3",
-    "lorelie.mmd3",
-    "mince.mmd3",
-    "mungo.mmd3",
-    "never finished.mmd3",
-    "new years peeve.mmd3",
-    "nocturnal emissions.mmd3",
-    "rock your soul.mmd3",
-    "shoes.mmd3",
-    "socks [rock your soul remix].mmd3",
-    "sparrow.mmd3",
-    "strange land.mmd3",
-    "temporary flux.mmd3",
-    "toaster.mmd3"
-  ],
-  "DJ White Stallion": [
-    "definition of trance.mmd3",
-    "dreamers.mmd3",
-    "melody-1996.mmd3"
-  ],
-  "Daniel H. Dean": [
-    "airlock.mmd3"
-  ],
-  "Darren Tomlyn": [
-    "a jig for ben.mmd3",
-    "bass, angle, leaverage.mmd3",
-    "bass line 1.mmd3",
-    "bass line 2.mmd3",
-    "excalibur (1st campaign).mmd3",
-    "funk it up - 4th campaign.mmd3",
-    "judgement day.mmd3",
-    "motte and bailey reel.mmd3",
-    "out of time.mmd3",
-    "scot rock'n'reel.mmd3",
-    "wshtf ' ambush - 2nd campaign.mmd3"
-  ],
-  "Dave The Brave": [
-    "audrey.mmd3",
-    "different.mmd3",
-    "drift away.mmd3",
-    "evolution.mmd3",
-    "flying.mmd3",
-    "limitless.mmd3",
-    "tears.mmd3"
-  ],
-  "Dazzy": [
-    "a spell on you!.mmd3",
-    "distant suns (dazzy's plaeodies mix).mmd3",
-    "in oblivion (dazzy's original trance atlantic mix).mmd3",
-    "lust (extended 12'' mix).mmd3",
-    "perfection (dazzy's perfect mix).mmd3",
-    "seduction.mmd3",
-    "the terminator (remix).mmd3",
-    "visionary (dazzy sees the future mix).mmd3"
-  ],
-  "Delta": [
-    "heftigzt.mmd3"
-  ],
-  "Deltaray": [
-    "da ultra hardcore.mmd3",
-    "feel da bass.mmd3",
-    "terror lore bring ya terror.mmd3",
-    "what you want!.mmd3"
-  ],
-  "Dirtie": [
-    "beat-sweet-baby.mmd3",
-    "check out the flavour!.mmd3",
-    "full pull seagull.mmd3",
-    "human-collectors.mmd3",
-    "imperial sword fish eggs.mmd3",
-    "little man in phuturetown.mmd3",
-    "mustardrocker.mmd3",
-    "no retarger activated.mmd3",
-    "no way out (dirtie remake).mmd3"
-  ],
-  "Dizzy": [
-    "jammed '92.mmd3"
-  ],
-  "Doc K": [
-    "hard sequenz 2 (no!ze).mmd3",
-    "himmel uber koln [rmx].mmd3",
-    "like there is no tomorrow.mmd3",
-    "messies 2 all (remixed).mmd3",
-    "slice me nice!.mmd3"
-  ],
-  "Doc Mike": [
-    "all your base.mmd3",
-    "boingball reminiscence.mmd3",
-    "child in time.mmd3",
-    "chrome lexanis.mmd3",
-    "city lights (drum & bass version).mmd3",
-    "da lightah.mmd3",
-    "frequency unknown.mmd3",
-    "funky sadeness.mmd3",
-    "highway of doubts.mmd3",
-    "mass appeal.mmd3",
-    "my world.mmd3",
-    "no retarger activated (2001 remix).mmd3",
-    "silent poetry.mmd3",
-    "stillwell blues.mmd3",
-    "time of awakening (2001 remix).mmd3",
-    "we all will be free.mmd3"
-  ],
-  "Dominator": [
-    "'22'22'22'.mmd3",
-    "-3 degrees.mmd3",
-    "afterlife.mmd3",
-    "brain system collapse.mmd3",
-    "burning out.mmd3",
-    "calculated risk.mmd3",
-    "fokin dead.mmd3",
-    "intro.mmd3",
-    "lamer hunt.mmd3",
-    "metallic brainwash.mmd3",
-    "mighty dub players [domin8r remix].mmd3",
-    "new world disorder.mmd3",
-    "phuckinin darkness.mmd3",
-    "phuse.mmd3",
-    "repressive thoughts.mmd3",
-    "severe brain damage.mmd3",
-    "thcore.mmd3",
-    "wandering.mmd3"
-  ],
-  "Dr. Fiss": [
-    "command & conquer megamix.mmd3",
-    "nikolaus '96.mmd3",
-    "wer hat an der uhr gedreht.mmd3",
-    "we shake it '97.mmd3"
-  ],
-  "Echo": [
-    "damn swanky swamp donkey.mmd3",
-    "lower lip weird fashion beard.mmd3",
-    "morphine fork no. 7.mmd3",
-    "the seven spoons of intoxication.mmd3",
-    "the spoon circle.mmd3"
-  ],
-  "Elapse": [
-    "all messy 2k3rmx.mmd3",
-    "a windmill and a baker.mmd3",
-    "coop-Dirtie/drumsuckerz.mmd3",
-    "coop-Dirtie/headnoddah.mmd3",
-    "coop-Dirtie/headnoddah part ii.mmd3",
-    "coop-Dirtie/honky thonks fat ass.mmd3",
-    "crusin satellite.mmd3",
-    "link to nowhere.mmd3",
-    "pyro-electricity.mmd3",
-    "salado bogavante.mmd3",
-    "sugar n spice.mmd3",
-    "sunrise with soda.mmd3",
-    "the run.mmd3",
-    "the space tribe song.mmd3"
-  ],
-  "Essential Sound": [
-    "1afd.mmd3",
-    "33228.mmd3",
-    "ambient.mmd3",
-    "ankhrapt1 - endanim.mmd3",
-    "ankhrapt se.mmd3",
-    "antique dream (high quality version).mmd3",
-    "antique dream.mmd3",
-    "aphex401 fix.mmd3",
-    "asmaphara.mmd3",
-    "automatic trance.mmd3",
-    "ax01b.mmd3",
-    "chaos.mmd3",
-    "chaos plus.mmd3",
-    "clinic death.mmd3",
-    "cyrnox the beast!.mmd3",
-    "david bown.mmd3",
-    "depth of cosmos.mmd3",
-    "dffd c.mmd3",
-    "dream.mmd3",
-    "electra dream.mmd3",
-    "electronic city by night.mmd3",
-    "exit from time (high quality version).mmd3",
-    "exit from time.mmd3",
-    "fast-x-race part iii.mmd3",
-    "fast-x-race part ii.mmd3",
-    "fast-x-race part i.mmd3",
-    "fast-x-race part iv.mmd3",
-    "flint.mmd3",
-    "intro to the race.mmd3",
-    "intro to the world.mmd3",
-    "liquid garbage (9ch).mmd3",
-    "live in shadow.mmd3",
-    "low speed race.mmd3",
-    "main code.mmd3",
-    "manio cule.mmd3",
-    "max trance.mmd3",
-    "murderer of the techno.mmd3",
-    "neil on the moon.mmd3",
-    "one good day.mmd3",
-    "plastikk tripp.mmd3",
-    "quick start.mmd3",
-    "race a.mmd3",
-    "race b.mmd3",
-    "rt2dhx.mmd3",
-    "small mix '97.mmd3",
-    "space station.mmd3",
-    "syndromedia.mmd3",
-    "sys oix (mch version).mmd3",
-    "system of synth sound.mmd3",
-    "system pos & saint(mix).mmd3",
-    "system pos ve4 (mono version).mmd3",
-    "test2! (long).mmd3",
-    "test!2.mmd3",
-    "the cyberzajc.mmd3",
-    "the nature.mmd3",
-    "the night.mmd3",
-    "tranquillization.mmd3",
-    "vision.mmd3"
-  ],
-  "Fabien": [
-    "coop-Barthy/exctasia.mmd3"
-  ],
-  "Ferrara": [
-    "cats whispers.mmd3",
-    "peace in the sea.mmd3",
-    "the assassin.mmd3",
-    "travelling in time.mmd3",
-    "whiter than snow.mmd3"
-  ],
-  "Flaw": [
-    "hurghada.mmd3",
-    "nora.mmd3",
-    "roots' rave.mmd3",
-    "space-nights '97.mmd3"
-  ],
-  "Gabriel Klein": [
-    "alone forever.mmd3",
-    "danger somewhere.mmd3",
-    "fatigue take me.mmd3",
-    "save me.mmd3",
-    "welcome into my world.mmd3",
-    "world of misere.mmd3"
-  ],
-  "Hinch": [
-    "hinch!!!! first for 1997!!! (or no.50).mmd3"
-  ],
-  "Hyper": [
-    "progression.mmd3"
-  ],
-  "Immortal": [
-    "abba forever.mmd3",
-    "back to the wilderness.mmd3",
-    "day dreams.mmd3",
-    "eternal love.mmd3",
-    "evolution '99.mmd3",
-    "fuck the viscorp.mmd3",
-    "hall of eternity.mmd3",
-    "hypno house.mmd3",
-    "infinity.mmd3",
-    "la esperanza.mmd3",
-    "nightmare.mmd3",
-    "screaming.mmd3",
-    "terra hauz.mmd3",
-    "tomorrow.mmd3",
-    "whispering.mmd3"
-  ],
-  "Jazz (CA)": [
-    "promise.mmd3"
-  ],
-  "Joe": [
-    "rainy dream.mmd3"
-  ],
-  "Johnny Z": [
-    "fabiness.mmd3"
-  ],
-  "Jools Henn": [
-    "alcohol.mmd3"
-  ],
-  "Kalsu": [
-    "dose.mmd3"
-  ],
-  "Kns": [
-    "stupid new moon.mmd3"
-  ],
-  "Kozmo": [
-    "4ch theme.mmd3"
-  ],
-  "LCM": [
-    "toma makineo.mmd3"
-  ],
-  "Les Hewitt": [
-    "pianna.mmd3"
-  ],
-  "Loaderror": [
-    "coop-Zixaq/spam the universe.mmd3",
-    "halucinogeneralsnus.mmd3",
-    "risikovogna.mmd3"
-  ],
-  "Lorefice": [
-    "a gold maker.mmd3"
-  ],
-  "M. Fishwick": [
-    "fuzzy logic.mmd3",
-    "hard 'n' happy.mmd3",
-    "i 1 2 4 q.mmd3",
-    "reconaisance flight.mmd3"
-  ],
-  "Made On Earth": [
-    "le paty (gods children).mmd3"
-  ],
-  "Maniax": [
-    "just disturbed guys.mmd3"
-  ],
-  "Manto": [
-    "the color of your mind.mmd3",
-    "the dream.mmd3"
-  ],
-  "Mark Harman": [
-    "highland scapes.mmd3",
-    "tunnel.mmd3"
-  ],
-  "Mark Salud": [
-    "night & day fun.mmd3",
-    "operations normal.mmd3"
-  ],
-  "MeloManiac": [
-    "twisted cinema iii - lite.mmd3",
-    "twisted cinema iii.mmd3",
-    "twisted cinema ii.mmd3"
-  ],
-  "Mind Walker": [
-    "crystal motion.mmd3"
-  ],
-  "Mippydi": [
-    "worm hole.mmd3"
-  ],
-  "Mixa": [
-    "64 - number of acid!.mmd3",
-    "lotec.mmd3"
-  ],
-  "Moby": [
-    "go.mmd3"
-  ],
-  "Mortal Tindl": [
-    "acidmachine.mmd3",
-    "drumextension.mmd3",
-    "fatoverflow.mmd3",
-    "fluffy ii.mmd3",
-    "funky disko acid trance.mmd3",
-    "hypnotizing manner.mmd3",
-    "last night in my dreams.mmd3",
-    "nipponesic.mmd3",
-    "ongoing hardtrance.mmd3",
-    "organizedmethod.mmd3",
-    "synthese.mmd3",
-    "worksheet.mmd3"
-  ],
-  "Mr. Dig": [
-    "rising down.mmd3",
-    "tocupa.mmd3"
-  ],
-  "Neurodancer": [
-    "arkanoid 99.mmd3",
-    "desert grain.mmd3",
-    "exploding fist 99.mmd3",
-    "glacier dream.mmd3",
-    "midsummer.mmd3",
-    "mute lands.mmd3",
-    "omniconscious.mmd3",
-    "show me love.mmd3",
-    "stillpoint (in darkness i sink).mmd3",
-    "wings in the wind.mmd3"
-  ],
-  "Night Knight": [
-    "metall ti u bulju.mmd3",
-    "surface.mmd3"
-  ],
-  "Niklas Pahlsson": [
-    "audible healing - part ii.mmd3"
-  ],
-  "Nork": [
-    "lookers.mmd3",
-    "yin-yan.mmd3"
-  ],
-  "Novocaine": [
-    "freezin' ya mind (diggin' in ya mind).mmd3"
-  ],
-  "Olethros": [
-    "advance.mmd3",
-    "advent.mmd3",
-    "clear the streets.mmd3",
-    "cling on.mmd3",
-    "deep lyra.mmd3",
-    "masterplan.mmd3",
-    "rough.mmd3",
-    "spin out.mmd3",
-    "z-machine.mmd3"
-  ],
-  "Omslag Van Knoblet": [
-    "cyril.mmd3",
-    "industry cant stop.mmd3"
-  ],
-  "Orpheus": [
-    "crybaby 5.mmd3",
-    "mellodrone.mmd3"
-  ],
-  "PST!": [
-    "aliens.mmd3",
-    "bad feelings (1999 remix).mmd3",
-    "cry.mmd3",
-    "faith.mmd3",
-    "for jasia.mmd3",
-    "frequencer.mmd3",
-    "frozen.mmd3",
-    "hard life.mmd3",
-    "informer.mmd3",
-    "insomnia (sleepy remix).mmd3",
-    "jarre feat pst!.mmd3",
-    "let's drive.mmd3",
-    "lost in stars.mmd3",
-    "new romance '98.mmd3",
-    "night in castle.mmd3",
-    "on (132-bpm remix) (aphex twin).mmd3",
-    "on the floor!.mmd3",
-    "reflex mind.mmd3",
-    "return of cliexman.mmd3",
-    "thread of love.mmd3",
-    "traffic (remix).mmd3",
-    "trance galaktik.mmd3",
-    "why don't you dance with me (remix).mmd3",
-    "ys-200 yamaha test.mmd3"
-  ],
-  "Paranoid": [
-    "drain from hyperland! (d.f.h).mmd3",
-    "en annen dans!.mmd3",
-    "e-quality.mmd3",
-    "gosh! ('97-remixx).mmd3",
-    "lithium.mmd3"
-  ],
-  "Pavel Vrabec": [
-    "marian prayer.mmd3",
-    "piano impression.mmd3"
-  ],
-  "Pep": [
-    "after rain.mmd3"
-  ],
-  "Phil": [
-    "wagon train.mmd3"
-  ],
-  "Phin": [
-    "back in '94.mmd3"
-  ],
-  "Piper": [
-    "uv light.mmd3"
-  ],
-  "Pirat": [
-    "times 00 - opening.mmd3",
-    "times 01 - turn around.mmd3",
-    "times 02 - only a dream.mmd3",
-    "times 03 - too agressive!.mmd3",
-    "times 04 - friends.mmd3",
-    "times 05 - closing from times.mmd3"
-  ],
-  "Protas": [
-    "less than minimum.mmd3"
-  ],
-  "Pyratronik": [
-    "noinima uist.mmd3"
-  ],
-  "Quickspace": [
-    "yelling in da space.mmd3"
-  ],
-  "Rebb": [
-    "do-the-groove [papa-dee mix].mmd3",
-    "dream shifter.mmd3",
-    "polysix.mmd3",
-    "underwater.mmd3",
-    "vaxi.mmd3"
-  ],
-  "Rickard Johansson": [
-    "calm in the rain.mmd3",
-    "i'll be back.mmd3",
-    "i'm feeling so blue.mmd3",
-    "it's never the right way.mmd3",
-    "softmix.mmd3",
-    "sometimes it rains.mmd3"
-  ],
-  "Riley": [
-    "black ice.mmd3",
-    "mediterranean rhythm.mmd3",
-    "pale moonlight.mmd3"
-  ],
-  "Robin": [
-    "taste membrane.mmd3"
-  ],
-  "Roz": [
-    "down perfect.mmd3",
-    "hornsmurf.mmd3",
-    "more than enough.mmd3",
-    "shake me.mmd3",
-    "they hate you.mmd3",
-    "time.mmd3",
-    "yellow autumn.mmd3"
-  ],
-  "Salty": [
-    "b-brush.mmd3",
-    "chaos is coming (the bra mix).mmd3",
-    "crime street (the resinator mix).mmd3",
-    "the corinthian.mmd3"
-  ],
-  "Seven Eleven": [
-    "moods-yeah.mmd3"
-  ],
-  "Silize": [
-    "amadeus is born.mmd3"
-  ],
-  "Silkworm": [
-    "chemical graveyard (noyz phaktah '005).mmd3",
-    "warped.mmd3"
-  ],
-  "Slumgud": [
-    "after.mmd3",
-    "request for life.mmd3"
-  ],
-  "Sniper": [
-    "alienbreed 3d 3 (the preperation).mmd3",
-    "back in dune.mmd3",
-    "dream of the peyote.mmd3",
-    "dune 3 - stereo oddity.mmd3",
-    "falling in sleep.mmd3",
-    "flying away (2).mmd3",
-    "i loved her (leane brimbly).mmd3",
-    "life as we know it.mmd3",
-    "lost dream.mmd3",
-    "lost in the blizards of dune.mmd3",
-    "love is a part of the universe.mmd3",
-    "moon lit.mmd3",
-    "sirens of the piano.mmd3",
-    "the death of a god.mmd3",
-    "the start of time.mmd3",
-    "universal dream.mmd3"
-  ],
-  "Sofke": [
-    "free belgrade !!!! deep house !!!.mmd3"
-  ],
-  "Soundburst": [
-    "arcadey.mmd3",
-    "c64 cavern.mmd3",
-    "caschyna.mmd3",
-    "chrimbo tune.mmd3",
-    "homeward trek.mmd3",
-    "mad professor's joy ride.mmd3",
-    "nemella.mmd3",
-    "progress 2.mmd3",
-    "progress.mmd3",
-    "sky swing.mmd3",
-    "somewhere else.mmd3",
-    "warm friends.mmd3",
-    "zoom in.mmd3"
-  ],
-  "Stephen Williams": [
-    "condition - green! (eight channel mix).mmd3"
-  ],
-  "Stun": [
-    "current generator.mmd3"
-  ],
-  "TTX": [
-    "astro ii.mmd3",
-    "electric.mmd3",
-    "indicator.mmd3",
-    "i want u (remix).mmd3",
-    "loktrik.mmd3",
-    "nachbarn.mmd3",
-    "psychedelic-hardcore-trance.mmd3",
-    "reaggy 97! (4ch).mmd3",
-    "tabula rasa.mmd3",
-    "techno is dead !!!.mmd3",
-    "turrican 3d.mmd3",
-    "video 4.mmd3",
-    "virus 97.mmd3",
-    "wasteland (remix).mmd3",
-    "we0.2.mmd3",
-    "w.s.t.f.song.mmd3"
-  ],
-  "Temal": [
-    "coop-Altruist/parent ignition (compo-version).mmd3"
-  ],
-  "Teo.P3": [
-    "smokin' penguin.mmd3"
-  ],
-  "Thain": [
-    "ekg.mmd3"
-  ],
-  "The Highlander": [
-    "alarmaaaa.mmd3",
-    "dags.mmd3",
-    "hard.mmd3",
-    "l'abc de marie.mmd3",
-    "short lifespend.mmd3",
-    "sweet stars.mmd3",
-    "the branle.mmd3"
-  ],
-  "The Highlander (UK)": [
-    "motions of the falling rain.mmd3",
-    "shards and splinters.mmd3"
-  ],
-  "The Rescator": [
-    "nadia (stereomix).mmd3"
-  ],
-  "Toady": [
-    "darkland.mmd3",
-    "day of legend.mmd3",
-    "king of dream's.mmd3",
-    "legend of land.mmd3",
-    "lightland.mmd3",
-    "magic dream.mmd3",
-    "music de r-type.mmd3",
-    "speed man.mmd3",
-    "universe1.mmd3"
-  ],
-  "Tompeli": [
-    "universe.mmd3"
-  ],
-  "Tonid": [
-    "miles apart.mmd3"
-  ],
-  "Tricktrax": [
-    "words!.mmd3"
-  ],
-  "Tungsten": [
-    "afterthoughts.mmd3"
-  ],
-  "Urban Climax": [
-    "zu spaet otze.mmd3"
-  ],
-  "Vaere": [
-    "errrratttta.mmd3"
-  ],
-  "Vort": [
-    "unit.mmd3"
-  ],
-  "Wavemaker": [
-    "superstitious (undimensional mix).mmd3",
-    "waveforming ii.mmd3"
-  ],
-  "Wheeler": [
-    "adran (the dance mix).mmd3",
-    "sweet.mmd3",
-    "taxi motion.mmd3",
-    "the dance box.mmd3"
-  ],
-  "William Morton": [
-    "exclamation.mmd3"
-  ],
-  "Xenon (DK)": [
-    "coop-Sequentian/ventilator.mmd3",
-    "lost in gravity.mmd3",
-    "technical override.mmd3"
-  ],
-  "Zee": [
-    "continuum (zee's freefall mix).mmd3",
-    "digital dreams 99.mmd3",
-    "digital dreams.mmd3",
-    "discovery.mmd3",
-    "edge of the galaxy (wild justice remix - special edition).mmd3",
-    "ephemeral.mmd3",
-    "flux.mmd3",
-    "future breeze.mmd3",
-    "heartbeats (zee's remix).mmd3",
-    "may contain nuts.mmd3",
-    "raystorm (high quality mix).mmd3",
-    "raystorm (original mix).mmd3",
-    "raystorm (remix!).mmd3",
-    "red shift.mmd3",
-    "sunrise.mmd3",
-    "universal death.mmd3"
-  ]
-}
+[
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Acidpimp",
+    "song": "save me (it's killing me).mmd3",
+    "size": "665934"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Aftab Hussain",
+    "song": "deep cover.mmd3",
+    "size": "514782"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Apollon",
+    "song": "coop-Ransom/phulge.mmd3",
+    "size": "778430"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Apollon",
+    "song": "hidden thing.mmd3",
+    "size": "307374"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Apollon",
+    "song": "honeymoon.mmd3",
+    "size": "409792"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Apollon",
+    "song": "isolate.mmd3",
+    "size": "568286"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Apollon",
+    "song": "to eternaty.mmd3",
+    "size": "408320"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Apollon",
+    "song": "untitled6.mmd3",
+    "size": "565718"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Arndt Heitkamp",
+    "song": "awave sector mix.mmd3",
+    "size": "270152"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Asarhad",
+    "song": "calculated risk [asarhad rmx].mmd3",
+    "size": "767238"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Asarhad",
+    "song": "hills of mandzuria.mmd3",
+    "size": "74118"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Asarhad",
+    "song": "scarecrow.mmd3",
+    "size": "451182"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Asarhad",
+    "song": "the champions.mmd3",
+    "size": "615376"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "AudioKiller",
+    "song": "fly thru the open sea.mmd3",
+    "size": "888290"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "AudioKiller",
+    "song": "friends memories.mmd3",
+    "size": "549918"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "AudioKiller",
+    "song": "hands in love.mmd3",
+    "size": "390630"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "AudioKiller",
+    "song": "journey.mmd3",
+    "size": "327344"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Ben Bright",
+    "song": "jungel law.mmd3",
+    "size": "730380"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Ben Bright",
+    "song": "long gone.mmd3",
+    "size": "386392"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Buster Blom",
+    "song": "bounty hunter - outro (remixed).mmd3",
+    "size": "119076"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "C0ntax",
+    "song": "bumble.mmd3",
+    "size": "1271774"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Captain",
+    "song": "basic tune.mmd3",
+    "size": "360276"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Caustic",
+    "song": "coop-Acidpimp/hangover.mmd3",
+    "size": "425550"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Caustic",
+    "song": "coop-Acidpimp/it's non sense.mmd3",
+    "size": "608820"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Caustic",
+    "song": "coop-Acidpimp/winter poem [mix1].mmd3",
+    "size": "1033302"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Caustic",
+    "song": "ocean legends.mmd3",
+    "size": "867094"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "CCB",
+    "song": "happy hippos.mmd3",
+    "size": "198512"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "C-Eagle",
+    "song": "world of love.mmd3",
+    "size": "331700"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Chill",
+    "song": "dataexpl.mmd3",
+    "size": "459924"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Chroust",
+    "song": "crazy song.mmd3",
+    "size": "632542"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Chroust",
+    "song": "dark night.mmd3",
+    "size": "530686"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Chroust",
+    "song": "flow.mmd3",
+    "size": "198234"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Chroust",
+    "song": "new rein (remix).mmd3",
+    "size": "569982"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Chroust",
+    "song": "peaovina (oh susanne).mmd3",
+    "size": "100238"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Chroust",
+    "song": "rock piano.mmd3",
+    "size": "236590"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Chroust",
+    "song": "znalka - still team.mmd3",
+    "size": "147912"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "CJ",
+    "song": "absolution2.mmd3",
+    "size": "981272"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "CJ",
+    "song": "dizzy goes cruising.mmd3",
+    "size": "497708"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "CJ",
+    "song": "gotter dammerung.mmd3",
+    "size": "642004"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Counterpoint",
+    "song": "chronologic foundations.mmd3",
+    "size": "440066"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Counterpoint",
+    "song": "intricate personality.mmd3",
+    "size": "1037944"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Counterpoint",
+    "song": "jaded sunset.mmd3",
+    "size": "391818"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Cybarite",
+    "song": "cestoda.mmd3",
+    "size": "166286"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Cybarite",
+    "song": "screwdriver.mmd3",
+    "size": "135574"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Daniel H. Dean",
+    "song": "airlock.mmd3",
+    "size": "1279846"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Darren Tomlyn",
+    "song": "a jig for ben.mmd3",
+    "size": "120568"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Darren Tomlyn",
+    "song": "bass, angle, leaverage.mmd3",
+    "size": "127918"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Darren Tomlyn",
+    "song": "bass line 1.mmd3",
+    "size": "58698"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Darren Tomlyn",
+    "song": "bass line 2.mmd3",
+    "size": "57970"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Darren Tomlyn",
+    "song": "excalibur (1st campaign).mmd3",
+    "size": "351624"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Darren Tomlyn",
+    "song": "funk it up - 4th campaign.mmd3",
+    "size": "168462"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Darren Tomlyn",
+    "song": "judgement day.mmd3",
+    "size": "220532"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Darren Tomlyn",
+    "song": "motte and bailey reel.mmd3",
+    "size": "77434"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Darren Tomlyn",
+    "song": "out of time.mmd3",
+    "size": "138948"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Darren Tomlyn",
+    "song": "scot rock'n'reel.mmd3",
+    "size": "137040"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Darren Tomlyn",
+    "song": "wshtf ' ambush - 2nd campaign.mmd3",
+    "size": "134086"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dave The Brave",
+    "song": "audrey.mmd3",
+    "size": "419548"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dave The Brave",
+    "song": "different.mmd3",
+    "size": "524678"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dave The Brave",
+    "song": "drift away.mmd3",
+    "size": "386554"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dave The Brave",
+    "song": "evolution.mmd3",
+    "size": "334348"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dave The Brave",
+    "song": "flying.mmd3",
+    "size": "395192"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dave The Brave",
+    "song": "limitless.mmd3",
+    "size": "414518"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dave The Brave",
+    "song": "tears.mmd3",
+    "size": "509262"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dazzy",
+    "song": "a spell on you!.mmd3",
+    "size": "585660"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dazzy",
+    "song": "distant suns (dazzy's plaeodies mix).mmd3",
+    "size": "4316764"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dazzy",
+    "song": "in oblivion (dazzy's original trance atlantic mix).mmd3",
+    "size": "1891466"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dazzy",
+    "song": "lust (extended 12'' mix).mmd3",
+    "size": "1947002"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dazzy",
+    "song": "perfection (dazzy's perfect mix).mmd3",
+    "size": "1995378"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dazzy",
+    "song": "seduction.mmd3",
+    "size": "2772398"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dazzy",
+    "song": "the terminator (remix).mmd3",
+    "size": "485700"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dazzy",
+    "song": "visionary (dazzy sees the future mix).mmd3",
+    "size": "1540140"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Delta",
+    "song": "heftigzt.mmd3",
+    "size": "494638"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Deltaray",
+    "song": "da ultra hardcore.mmd3",
+    "size": "319262"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Deltaray",
+    "song": "feel da bass.mmd3",
+    "size": "409518"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Deltaray",
+    "song": "terror lore bring ya terror.mmd3",
+    "size": "502164"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Deltaray",
+    "song": "what you want!.mmd3",
+    "size": "335830"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dirtie",
+    "song": "beat-sweet-baby.mmd3",
+    "size": "748280"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dirtie",
+    "song": "check out the flavour!.mmd3",
+    "size": "197658"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dirtie",
+    "song": "full pull seagull.mmd3",
+    "size": "996186"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dirtie",
+    "song": "human-collectors.mmd3",
+    "size": "1272366"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dirtie",
+    "song": "imperial sword fish eggs.mmd3",
+    "size": "849156"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dirtie",
+    "song": "little man in phuturetown.mmd3",
+    "size": "819732"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dirtie",
+    "song": "mustardrocker.mmd3",
+    "size": "261872"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dirtie",
+    "song": "no retarger activated.mmd3",
+    "size": "100644"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dirtie",
+    "song": "no way out (dirtie remake).mmd3",
+    "size": "1715472"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dizzy",
+    "song": "jammed '92.mmd3",
+    "size": "69262"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Freak",
+    "song": "303 dream (final rmx).mmd3",
+    "size": "453482"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Freak",
+    "song": "back into time.mmd3",
+    "size": "473500"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Freak",
+    "song": "chemical go '98 mix.mmd3",
+    "size": "473190"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Freak",
+    "song": "distortion attack.mmd3",
+    "size": "499308"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Freak",
+    "song": "go insane [speed garage - funky mix].mmd3",
+    "size": "282548"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Freak",
+    "song": "greed (sythnie bass edit).mmd3",
+    "size": "307758"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Freak",
+    "song": "meldoic life [pure etheral mix].mmd3",
+    "size": "1032402"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Freak",
+    "song": "mindless-bom'in [b'nt boy mix].mmd3",
+    "size": "716322"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Freak",
+    "song": "noise of - incert carefull.mmd3",
+    "size": "321710"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Freak",
+    "song": "playing god.mmd3",
+    "size": "621042"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Freak",
+    "song": "return of the bass-m's.mmd3",
+    "size": "666578"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Freak",
+    "song": "splow.mmd3",
+    "size": "141174"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Freak",
+    "song": "spooky chill out.mmd3",
+    "size": "112566"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Freak",
+    "song": "the air.mmd3",
+    "size": "628330"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Freak",
+    "song": "work it.mmd3",
+    "size": "537374"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Hotcakes",
+    "song": "coop-Paul Malyschko/dungeon.mmd3",
+    "size": "850804"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Hotcakes",
+    "song": "eklektik house (rmx).mmd3",
+    "size": "1833338"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Hotcakes",
+    "song": "fuk em up, buttercup!.mmd3",
+    "size": "1471846"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Hotcakes",
+    "song": "gods 2000 (radio edit).mmd3",
+    "size": "768448"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Hotcakes",
+    "song": "i'm not in the moog! (noyz phaktah '005).mmd3",
+    "size": "858486"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Hotcakes",
+    "song": "merry christmas '98!.mmd3",
+    "size": "401302"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Hotcakes",
+    "song": "old angsomething (the 1996th 1998 release).mmd3",
+    "size": "330144"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Hotcakes",
+    "song": "pop your fizzbang!.mmd3",
+    "size": "490540"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Hotcakes",
+    "song": "ready for release.mmd3",
+    "size": "303790"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Hotcakes",
+    "song": "say what (radio edit).mmd3",
+    "size": "4375098"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Hotcakes",
+    "song": "song of the siren.mmd3",
+    "size": "854008"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Hotcakes",
+    "song": "still happy (after all of these years).mmd3",
+    "size": "415776"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Hotcakes",
+    "song": "zombie shuffle!.mmd3",
+    "size": "1166602"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Mijk",
+    "song": "big beat cheeze.mmd3",
+    "size": "457960"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Mijk",
+    "song": "black angel.mmd3",
+    "size": "461818"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Mijk",
+    "song": "chemikaze rmx.mmd3",
+    "size": "1913110"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Mijk",
+    "song": "disengage (ode 2 grieg).mmd3",
+    "size": "518892"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Mijk",
+    "song": "fettolainen.mmd3",
+    "size": "3479402"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Mijk",
+    "song": "fonky breakbeat remix.mmd3",
+    "size": "474030"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Mijk",
+    "song": "nadia (big beat mix).mmd3",
+    "size": "1084560"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Mijk",
+    "song": "nazina.mmd3",
+    "size": "1552972"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Mijk",
+    "song": "space in days.mmd3",
+    "size": "1127858"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Mijk",
+    "song": "the original.mmd3",
+    "size": "3061966"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Mijk",
+    "song": "this is not cuthype.mmd3",
+    "size": "1393466"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Nick",
+    "song": "capital punishment - cd intro.mmd3",
+    "size": "605950"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Nick",
+    "song": "it's open.mmd3",
+    "size": "628908"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Nick",
+    "song": "sulphuric-acid.mmd3",
+    "size": "472064"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Nick",
+    "song": "warp.mmd3",
+    "size": "963410"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Skidmarx",
+    "song": "birthday boy.mmd3",
+    "size": "803690"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Tramp",
+    "song": "oorpi viiii.mmd3",
+    "size": "254288"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Tramp",
+    "song": "oorpi viii.mmd3",
+    "size": "418500"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Tramp",
+    "song": "oorpi vii.mmd3",
+    "size": "668490"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Tramp",
+    "song": "oorpi x1 (return 2 edgewood part1).mmd3",
+    "size": "909102"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Tramp",
+    "song": "oorpi x.mmd3",
+    "size": "248152"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Twiglet",
+    "song": "ambi ant.mmd3",
+    "size": "657214"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Twiglet",
+    "song": "bananas.mmd3",
+    "size": "419808"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Twiglet",
+    "song": "beard.mmd3",
+    "size": "475834"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Twiglet",
+    "song": "bread and butter.mmd3",
+    "size": "504914"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Twiglet",
+    "song": "can't stop the beat.mmd3",
+    "size": "427138"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Twiglet",
+    "song": "chime remix.mmd3",
+    "size": "525612"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Twiglet",
+    "song": "eggbox.mmd3",
+    "size": "353622"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Twiglet",
+    "song": "en trance.mmd3",
+    "size": "550346"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Twiglet",
+    "song": "exercise in melody.mmd3",
+    "size": "188144"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Twiglet",
+    "song": "guadalope.mmd3",
+    "size": "354172"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Twiglet",
+    "song": "lorelie.mmd3",
+    "size": "613210"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Twiglet",
+    "song": "mince.mmd3",
+    "size": "765368"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Twiglet",
+    "song": "mungo.mmd3",
+    "size": "522994"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Twiglet",
+    "song": "never finished.mmd3",
+    "size": "742236"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Twiglet",
+    "song": "new years peeve.mmd3",
+    "size": "527160"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Twiglet",
+    "song": "nocturnal emissions.mmd3",
+    "size": "333764"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Twiglet",
+    "song": "rock your soul.mmd3",
+    "size": "575466"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Twiglet",
+    "song": "shoes.mmd3",
+    "size": "338430"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Twiglet",
+    "song": "socks [rock your soul remix].mmd3",
+    "size": "636956"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Twiglet",
+    "song": "sparrow.mmd3",
+    "size": "206910"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Twiglet",
+    "song": "strange land.mmd3",
+    "size": "472374"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Twiglet",
+    "song": "temporary flux.mmd3",
+    "size": "445426"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ Twiglet",
+    "song": "toaster.mmd3",
+    "size": "629924"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ White Stallion",
+    "song": "definition of trance.mmd3",
+    "size": "237708"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ White Stallion",
+    "song": "dreamers.mmd3",
+    "size": "381988"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "DJ White Stallion",
+    "song": "melody-1996.mmd3",
+    "size": "353696"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Doc K",
+    "song": "hard sequenz 2 (no!ze).mmd3",
+    "size": "115820"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Doc K",
+    "song": "himmel uber koln [rmx].mmd3",
+    "size": "228726"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Doc K",
+    "song": "like there is no tomorrow.mmd3",
+    "size": "160600"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Doc K",
+    "song": "messies 2 all (remixed).mmd3",
+    "size": "85056"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Doc K",
+    "song": "slice me nice!.mmd3",
+    "size": "117732"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Doc Mike",
+    "song": "all your base.mmd3",
+    "size": "1000254"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Doc Mike",
+    "song": "boingball reminiscence.mmd3",
+    "size": "877432"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Doc Mike",
+    "song": "child in time.mmd3",
+    "size": "1350162"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Doc Mike",
+    "song": "chrome lexanis.mmd3",
+    "size": "462426"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Doc Mike",
+    "song": "city lights (drum & bass version).mmd3",
+    "size": "918692"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Doc Mike",
+    "song": "da lightah.mmd3",
+    "size": "707680"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Doc Mike",
+    "song": "frequency unknown.mmd3",
+    "size": "1011588"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Doc Mike",
+    "song": "funky sadeness.mmd3",
+    "size": "485842"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Doc Mike",
+    "song": "highway of doubts.mmd3",
+    "size": "662750"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Doc Mike",
+    "song": "mass appeal.mmd3",
+    "size": "336220"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Doc Mike",
+    "song": "my world.mmd3",
+    "size": "1287896"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Doc Mike",
+    "song": "no retarger activated (2001 remix).mmd3",
+    "size": "547434"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Doc Mike",
+    "song": "silent poetry.mmd3",
+    "size": "231186"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Doc Mike",
+    "song": "stillwell blues.mmd3",
+    "size": "897160"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Doc Mike",
+    "song": "time of awakening (2001 remix).mmd3",
+    "size": "347542"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Doc Mike",
+    "song": "we all will be free.mmd3",
+    "size": "371904"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dominator",
+    "song": "'22'22'22'.mmd3",
+    "size": "638392"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dominator",
+    "song": "-3 degrees.mmd3",
+    "size": "670374"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dominator",
+    "song": "afterlife.mmd3",
+    "size": "457864"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dominator",
+    "song": "brain system collapse.mmd3",
+    "size": "550530"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dominator",
+    "song": "burning out.mmd3",
+    "size": "577396"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dominator",
+    "song": "calculated risk.mmd3",
+    "size": "851006"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dominator",
+    "song": "fokin dead.mmd3",
+    "size": "189884"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dominator",
+    "song": "intro.mmd3",
+    "size": "198698"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dominator",
+    "song": "lamer hunt.mmd3",
+    "size": "257928"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dominator",
+    "song": "metallic brainwash.mmd3",
+    "size": "369160"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dominator",
+    "song": "mighty dub players [domin8r remix].mmd3",
+    "size": "468390"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dominator",
+    "song": "new world disorder.mmd3",
+    "size": "1425446"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dominator",
+    "song": "phuckinin darkness.mmd3",
+    "size": "327208"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dominator",
+    "song": "phuse.mmd3",
+    "size": "189472"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dominator",
+    "song": "repressive thoughts.mmd3",
+    "size": "197070"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dominator",
+    "song": "severe brain damage.mmd3",
+    "size": "403450"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dominator",
+    "song": "thcore.mmd3",
+    "size": "218678"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dominator",
+    "song": "wandering.mmd3",
+    "size": "199576"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dr. Fiss",
+    "song": "command & conquer megamix.mmd3",
+    "size": "1186964"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dr. Fiss",
+    "song": "nikolaus '96.mmd3",
+    "size": "1491012"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dr. Fiss",
+    "song": "wer hat an der uhr gedreht.mmd3",
+    "size": "7658794"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Dr. Fiss",
+    "song": "we shake it '97.mmd3",
+    "size": "1274328"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Echo",
+    "song": "damn swanky swamp donkey.mmd3",
+    "size": "797128"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Echo",
+    "song": "lower lip weird fashion beard.mmd3",
+    "size": "618516"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Echo",
+    "song": "morphine fork no. 7.mmd3",
+    "size": "2293060"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Echo",
+    "song": "the seven spoons of intoxication.mmd3",
+    "size": "1142350"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Echo",
+    "song": "the spoon circle.mmd3",
+    "size": "2150470"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Elapse",
+    "song": "all messy 2k3rmx.mmd3",
+    "size": "1689338"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Elapse",
+    "song": "a windmill and a baker.mmd3",
+    "size": "1500414"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Elapse",
+    "song": "coop-Dirtie/drumsuckerz.mmd3",
+    "size": "1727688"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Elapse",
+    "song": "coop-Dirtie/headnoddah.mmd3",
+    "size": "774726"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Elapse",
+    "song": "coop-Dirtie/headnoddah part ii.mmd3",
+    "size": "865428"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Elapse",
+    "song": "coop-Dirtie/honky thonks fat ass.mmd3",
+    "size": "659712"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Elapse",
+    "song": "crusin satellite.mmd3",
+    "size": "845064"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Elapse",
+    "song": "link to nowhere.mmd3",
+    "size": "1695358"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Elapse",
+    "song": "pyro-electricity.mmd3",
+    "size": "1474188"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Elapse",
+    "song": "salado bogavante.mmd3",
+    "size": "1500688"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Elapse",
+    "song": "sugar n spice.mmd3",
+    "size": "1051750"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Elapse",
+    "song": "sunrise with soda.mmd3",
+    "size": "1156714"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Elapse",
+    "song": "the run.mmd3",
+    "size": "1389058"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Elapse",
+    "song": "the space tribe song.mmd3",
+    "size": "687940"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "1afd.mmd3",
+    "size": "519410"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "33228.mmd3",
+    "size": "233800"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "ambient.mmd3",
+    "size": "1244744"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "ankhrapt1 - endanim.mmd3",
+    "size": "584338"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "ankhrapt se.mmd3",
+    "size": "183228"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "antique dream (high quality version).mmd3",
+    "size": "5742046"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "antique dream.mmd3",
+    "size": "2171732"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "aphex401 fix.mmd3",
+    "size": "275450"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "asmaphara.mmd3",
+    "size": "567688"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "automatic trance.mmd3",
+    "size": "1059034"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "ax01b.mmd3",
+    "size": "275492"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "chaos.mmd3",
+    "size": "305528"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "chaos plus.mmd3",
+    "size": "305534"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "clinic death.mmd3",
+    "size": "264500"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "cyrnox the beast!.mmd3",
+    "size": "574694"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "david bown.mmd3",
+    "size": "1256408"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "depth of cosmos.mmd3",
+    "size": "387100"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "dffd c.mmd3",
+    "size": "169498"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "dream.mmd3",
+    "size": "266846"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "electra dream.mmd3",
+    "size": "2503864"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "electronic city by night.mmd3",
+    "size": "1140458"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "exit from time (high quality version).mmd3",
+    "size": "5188638"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "exit from time.mmd3",
+    "size": "2608692"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "fast-x-race part iii.mmd3",
+    "size": "663566"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "fast-x-race part ii.mmd3",
+    "size": "1249968"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "fast-x-race part i.mmd3",
+    "size": "1571538"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "fast-x-race part iv.mmd3",
+    "size": "1453190"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "flint.mmd3",
+    "size": "449606"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "intro to the race.mmd3",
+    "size": "593320"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "intro to the world.mmd3",
+    "size": "603118"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "liquid garbage (9ch).mmd3",
+    "size": "130454"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "live in shadow.mmd3",
+    "size": "245256"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "low speed race.mmd3",
+    "size": "309256"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "main code.mmd3",
+    "size": "99176"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "manio cule.mmd3",
+    "size": "353294"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "max trance.mmd3",
+    "size": "367678"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "murderer of the techno.mmd3",
+    "size": "156130"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "neil on the moon.mmd3",
+    "size": "700352"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "one good day.mmd3",
+    "size": "355032"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "plastikk tripp.mmd3",
+    "size": "157020"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "quick start.mmd3",
+    "size": "1135380"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "race a.mmd3",
+    "size": "1760206"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "race b.mmd3",
+    "size": "493574"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "rt2dhx.mmd3",
+    "size": "231754"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "small mix '97.mmd3",
+    "size": "539050"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "space station.mmd3",
+    "size": "77272"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "syndromedia.mmd3",
+    "size": "733060"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "sys oix (mch version).mmd3",
+    "size": "86806"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "system of synth sound.mmd3",
+    "size": "248236"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "system pos & saint(mix).mmd3",
+    "size": "477994"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "system pos ve4 (mono version).mmd3",
+    "size": "533598"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "test2! (long).mmd3",
+    "size": "273216"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "test!2.mmd3",
+    "size": "362902"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "the cyberzajc.mmd3",
+    "size": "350098"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "the nature.mmd3",
+    "size": "209842"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "the night.mmd3",
+    "size": "306570"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "tranquillization.mmd3",
+    "size": "98254"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Essential Sound",
+    "song": "vision.mmd3",
+    "size": "161126"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Fabien",
+    "song": "coop-Barthy/exctasia.mmd3",
+    "size": "758406"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Ferrara",
+    "song": "cats whispers.mmd3",
+    "size": "147142"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Ferrara",
+    "song": "peace in the sea.mmd3",
+    "size": "166710"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Ferrara",
+    "song": "the assassin.mmd3",
+    "size": "528336"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Ferrara",
+    "song": "travelling in time.mmd3",
+    "size": "287666"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Ferrara",
+    "song": "whiter than snow.mmd3",
+    "size": "188580"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Flaw",
+    "song": "hurghada.mmd3",
+    "size": "419990"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Flaw",
+    "song": "nora.mmd3",
+    "size": "382106"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Flaw",
+    "song": "roots' rave.mmd3",
+    "size": "306938"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Flaw",
+    "song": "space-nights '97.mmd3",
+    "size": "324322"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Gabriel Klein",
+    "song": "alone forever.mmd3",
+    "size": "137394"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Gabriel Klein",
+    "song": "danger somewhere.mmd3",
+    "size": "147686"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Gabriel Klein",
+    "song": "fatigue take me.mmd3",
+    "size": "242058"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Gabriel Klein",
+    "song": "save me.mmd3",
+    "size": "322630"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Gabriel Klein",
+    "song": "welcome into my world.mmd3",
+    "size": "151594"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Gabriel Klein",
+    "song": "world of misere.mmd3",
+    "size": "190720"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Hinch",
+    "song": "hinch!!!! first for 1997!!! (or no.50).mmd3",
+    "size": "221104"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Hyper",
+    "song": "progression.mmd3",
+    "size": "148852"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Immortal",
+    "song": "abba forever.mmd3",
+    "size": "214638"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Immortal",
+    "song": "back to the wilderness.mmd3",
+    "size": "252452"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Immortal",
+    "song": "day dreams.mmd3",
+    "size": "209442"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Immortal",
+    "song": "eternal love.mmd3",
+    "size": "1855144"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Immortal",
+    "song": "evolution '99.mmd3",
+    "size": "1464008"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Immortal",
+    "song": "fuck the viscorp.mmd3",
+    "size": "126172"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Immortal",
+    "song": "hall of eternity.mmd3",
+    "size": "299432"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Immortal",
+    "song": "hypno house.mmd3",
+    "size": "258964"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Immortal",
+    "song": "infinity.mmd3",
+    "size": "748146"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Immortal",
+    "song": "la esperanza.mmd3",
+    "size": "1503864"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Immortal",
+    "song": "nightmare.mmd3",
+    "size": "1250400"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Immortal",
+    "song": "screaming.mmd3",
+    "size": "838382"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Immortal",
+    "song": "terra hauz.mmd3",
+    "size": "237302"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Immortal",
+    "song": "tomorrow.mmd3",
+    "size": "2285086"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Immortal",
+    "song": "whispering.mmd3",
+    "size": "2241210"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Jazz (CA)",
+    "song": "promise.mmd3",
+    "size": "813894"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Joe",
+    "song": "rainy dream.mmd3",
+    "size": "393700"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Johnny Z",
+    "song": "fabiness.mmd3",
+    "size": "204396"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Jools Henn",
+    "song": "alcohol.mmd3",
+    "size": "292064"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Kalsu",
+    "song": "dose.mmd3",
+    "size": "440198"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Kns",
+    "song": "stupid new moon.mmd3",
+    "size": "251230"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Kozmo",
+    "song": "4ch theme.mmd3",
+    "size": "209048"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "LCM",
+    "song": "toma makineo.mmd3",
+    "size": "464362"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Les Hewitt",
+    "song": "pianna.mmd3",
+    "size": "265218"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Loaderror",
+    "song": "coop-Zixaq/spam the universe.mmd3",
+    "size": "799932"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Loaderror",
+    "song": "halucinogeneralsnus.mmd3",
+    "size": "798776"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Loaderror",
+    "song": "risikovogna.mmd3",
+    "size": "627694"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Lorefice",
+    "song": "a gold maker.mmd3",
+    "size": "376442"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Made On Earth",
+    "song": "le paty (gods children).mmd3",
+    "size": "563208"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Maniax",
+    "song": "just disturbed guys.mmd3",
+    "size": "612538"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Manto",
+    "song": "the color of your mind.mmd3",
+    "size": "189382"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Manto",
+    "song": "the dream.mmd3",
+    "size": "163942"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Mark Harman",
+    "song": "highland scapes.mmd3",
+    "size": "1017372"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Mark Harman",
+    "song": "tunnel.mmd3",
+    "size": "363158"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Mark Salud",
+    "song": "night & day fun.mmd3",
+    "size": "190160"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Mark Salud",
+    "song": "operations normal.mmd3",
+    "size": "157514"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "MeloManiac",
+    "song": "twisted cinema iii - lite.mmd3",
+    "size": "1045738"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "MeloManiac",
+    "song": "twisted cinema iii.mmd3",
+    "size": "1613654"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "MeloManiac",
+    "song": "twisted cinema ii.mmd3",
+    "size": "1458364"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "M. Fishwick",
+    "song": "fuzzy logic.mmd3",
+    "size": "7451806"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "M. Fishwick",
+    "song": "hard 'n' happy.mmd3",
+    "size": "324296"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "M. Fishwick",
+    "song": "i 1 2 4 q.mmd3",
+    "size": "5338202"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "M. Fishwick",
+    "song": "reconaisance flight.mmd3",
+    "size": "1587592"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Mind Walker",
+    "song": "crystal motion.mmd3",
+    "size": "450122"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Mippydi",
+    "song": "worm hole.mmd3",
+    "size": "385574"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Mixa",
+    "song": "64 - number of acid!.mmd3",
+    "size": "821850"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Mixa",
+    "song": "lotec.mmd3",
+    "size": "127944"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Moby",
+    "song": "go.mmd3",
+    "size": "360578"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Mortal Tindl",
+    "song": "acidmachine.mmd3",
+    "size": "241132"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Mortal Tindl",
+    "song": "drumextension.mmd3",
+    "size": "109416"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Mortal Tindl",
+    "song": "fatoverflow.mmd3",
+    "size": "237792"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Mortal Tindl",
+    "song": "fluffy ii.mmd3",
+    "size": "534932"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Mortal Tindl",
+    "song": "funky disko acid trance.mmd3",
+    "size": "288692"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Mortal Tindl",
+    "song": "hypnotizing manner.mmd3",
+    "size": "176736"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Mortal Tindl",
+    "song": "last night in my dreams.mmd3",
+    "size": "147008"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Mortal Tindl",
+    "song": "nipponesic.mmd3",
+    "size": "172144"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Mortal Tindl",
+    "song": "ongoing hardtrance.mmd3",
+    "size": "387974"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Mortal Tindl",
+    "song": "organizedmethod.mmd3",
+    "size": "204188"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Mortal Tindl",
+    "song": "synthese.mmd3",
+    "size": "84790"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Mortal Tindl",
+    "song": "worksheet.mmd3",
+    "size": "104960"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Mr. Dig",
+    "song": "rising down.mmd3",
+    "size": "375984"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Mr. Dig",
+    "song": "tocupa.mmd3",
+    "size": "358256"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Neurodancer",
+    "song": "arkanoid 99.mmd3",
+    "size": "535948"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Neurodancer",
+    "song": "desert grain.mmd3",
+    "size": "275296"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Neurodancer",
+    "song": "exploding fist 99.mmd3",
+    "size": "578352"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Neurodancer",
+    "song": "glacier dream.mmd3",
+    "size": "365854"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Neurodancer",
+    "song": "midsummer.mmd3",
+    "size": "900960"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Neurodancer",
+    "song": "mute lands.mmd3",
+    "size": "934678"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Neurodancer",
+    "song": "omniconscious.mmd3",
+    "size": "947306"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Neurodancer",
+    "song": "show me love.mmd3",
+    "size": "795652"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Neurodancer",
+    "song": "stillpoint (in darkness i sink).mmd3",
+    "size": "900984"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Neurodancer",
+    "song": "wings in the wind.mmd3",
+    "size": "1029864"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Night Knight",
+    "song": "metall ti u bulju.mmd3",
+    "size": "290812"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Night Knight",
+    "song": "surface.mmd3",
+    "size": "689852"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Niklas Pahlsson",
+    "song": "audible healing - part ii.mmd3",
+    "size": "861812"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Nork",
+    "song": "lookers.mmd3",
+    "size": "1111586"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Nork",
+    "song": "yin-yan.mmd3",
+    "size": "605658"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Novocaine",
+    "song": "freezin' ya mind (diggin' in ya mind).mmd3",
+    "size": "475852"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Olethros",
+    "song": "advance.mmd3",
+    "size": "732696"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Olethros",
+    "song": "advent.mmd3",
+    "size": "912954"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Olethros",
+    "song": "clear the streets.mmd3",
+    "size": "280900"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Olethros",
+    "song": "cling on.mmd3",
+    "size": "762710"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Olethros",
+    "song": "deep lyra.mmd3",
+    "size": "970662"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Olethros",
+    "song": "masterplan.mmd3",
+    "size": "1277272"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Olethros",
+    "song": "rough.mmd3",
+    "size": "952112"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Olethros",
+    "song": "spin out.mmd3",
+    "size": "827452"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Olethros",
+    "song": "z-machine.mmd3",
+    "size": "835060"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Omslag Van Knoblet",
+    "song": "cyril.mmd3",
+    "size": "940710"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Omslag Van Knoblet",
+    "song": "industry cant stop.mmd3",
+    "size": "465300"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Orpheus",
+    "song": "crybaby 5.mmd3",
+    "size": "952898"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Orpheus",
+    "song": "mellodrone.mmd3",
+    "size": "1555130"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Paranoid",
+    "song": "drain from hyperland! (d.f.h).mmd3",
+    "size": "473346"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Paranoid",
+    "song": "en annen dans!.mmd3",
+    "size": "57262"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Paranoid",
+    "song": "e-quality.mmd3",
+    "size": "1541538"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Paranoid",
+    "song": "gosh! ('97-remixx).mmd3",
+    "size": "361682"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Paranoid",
+    "song": "lithium.mmd3",
+    "size": "363642"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Pavel Vrabec",
+    "song": "marian prayer.mmd3",
+    "size": "1042040"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Pavel Vrabec",
+    "song": "piano impression.mmd3",
+    "size": "544550"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Pep",
+    "song": "after rain.mmd3",
+    "size": "322248"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Phil",
+    "song": "wagon train.mmd3",
+    "size": "204120"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Phin",
+    "song": "back in '94.mmd3",
+    "size": "120698"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Piper",
+    "song": "uv light.mmd3",
+    "size": "674370"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Pirat",
+    "song": "times 00 - opening.mmd3",
+    "size": "385368"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Pirat",
+    "song": "times 01 - turn around.mmd3",
+    "size": "226382"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Pirat",
+    "song": "times 02 - only a dream.mmd3",
+    "size": "570422"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Pirat",
+    "song": "times 03 - too agressive!.mmd3",
+    "size": "595546"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Pirat",
+    "song": "times 04 - friends.mmd3",
+    "size": "574518"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Pirat",
+    "song": "times 05 - closing from times.mmd3",
+    "size": "257736"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Protas",
+    "song": "less than minimum.mmd3",
+    "size": "346684"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "aliens.mmd3",
+    "size": "204696"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "bad feelings (1999 remix).mmd3",
+    "size": "114268"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "cry.mmd3",
+    "size": "224694"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "faith.mmd3",
+    "size": "201996"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "for jasia.mmd3",
+    "size": "33268"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "frequencer.mmd3",
+    "size": "186352"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "frozen.mmd3",
+    "size": "74574"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "hard life.mmd3",
+    "size": "840502"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "informer.mmd3",
+    "size": "245918"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "insomnia (sleepy remix).mmd3",
+    "size": "292098"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "jarre feat pst!.mmd3",
+    "size": "76126"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "let's drive.mmd3",
+    "size": "190746"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "lost in stars.mmd3",
+    "size": "131290"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "new romance '98.mmd3",
+    "size": "281186"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "night in castle.mmd3",
+    "size": "60518"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "on (132-bpm remix) (aphex twin).mmd3",
+    "size": "423694"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "on the floor!.mmd3",
+    "size": "291750"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "reflex mind.mmd3",
+    "size": "100860"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "return of cliexman.mmd3",
+    "size": "76240"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "thread of love.mmd3",
+    "size": "55560"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "traffic (remix).mmd3",
+    "size": "264514"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "trance galaktik.mmd3",
+    "size": "250360"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "why don't you dance with me (remix).mmd3",
+    "size": "157894"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "PST!",
+    "song": "ys-200 yamaha test.mmd3",
+    "size": "44312"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Pyratronik",
+    "song": "noinima uist.mmd3",
+    "size": "148086"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Quickspace",
+    "song": "yelling in da space.mmd3",
+    "size": "810904"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Rebb",
+    "song": "do-the-groove [papa-dee mix].mmd3",
+    "size": "247312"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Rebb",
+    "song": "dream shifter.mmd3",
+    "size": "400840"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Rebb",
+    "song": "polysix.mmd3",
+    "size": "408944"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Rebb",
+    "song": "underwater.mmd3",
+    "size": "232676"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Rebb",
+    "song": "vaxi.mmd3",
+    "size": "908672"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Rickard Johansson",
+    "song": "calm in the rain.mmd3",
+    "size": "191656"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Rickard Johansson",
+    "song": "i'll be back.mmd3",
+    "size": "396382"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Rickard Johansson",
+    "song": "i'm feeling so blue.mmd3",
+    "size": "382266"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Rickard Johansson",
+    "song": "it's never the right way.mmd3",
+    "size": "270312"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Rickard Johansson",
+    "song": "softmix.mmd3",
+    "size": "236224"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Rickard Johansson",
+    "song": "sometimes it rains.mmd3",
+    "size": "698620"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Riley",
+    "song": "black ice.mmd3",
+    "size": "412064"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Riley",
+    "song": "mediterranean rhythm.mmd3",
+    "size": "348476"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Riley",
+    "song": "pale moonlight.mmd3",
+    "size": "322316"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Robin",
+    "song": "taste membrane.mmd3",
+    "size": "1276630"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Roz",
+    "song": "down perfect.mmd3",
+    "size": "164528"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Roz",
+    "song": "hornsmurf.mmd3",
+    "size": "538336"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Roz",
+    "song": "more than enough.mmd3",
+    "size": "548944"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Roz",
+    "song": "shake me.mmd3",
+    "size": "261058"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Roz",
+    "song": "they hate you.mmd3",
+    "size": "814738"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Roz",
+    "song": "time.mmd3",
+    "size": "669730"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Roz",
+    "song": "yellow autumn.mmd3",
+    "size": "636128"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Salty",
+    "song": "b-brush.mmd3",
+    "size": "426090"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Salty",
+    "song": "chaos is coming (the bra mix).mmd3",
+    "size": "1000490"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Salty",
+    "song": "crime street (the resinator mix).mmd3",
+    "size": "588216"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Salty",
+    "song": "the corinthian.mmd3",
+    "size": "1261550"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Seven Eleven",
+    "song": "moods-yeah.mmd3",
+    "size": "18050"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Silize",
+    "song": "amadeus is born.mmd3",
+    "size": "136034"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Silkworm",
+    "song": "chemical graveyard (noyz phaktah '005).mmd3",
+    "size": "1351352"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Silkworm",
+    "song": "warped.mmd3",
+    "size": "1885394"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Slumgud",
+    "song": "after.mmd3",
+    "size": "853160"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Slumgud",
+    "song": "request for life.mmd3",
+    "size": "625062"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Sniper",
+    "song": "alienbreed 3d 3 (the preperation).mmd3",
+    "size": "980038"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Sniper",
+    "song": "back in dune.mmd3",
+    "size": "272480"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Sniper",
+    "song": "dream of the peyote.mmd3",
+    "size": "458874"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Sniper",
+    "song": "dune 3 - stereo oddity.mmd3",
+    "size": "1754748"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Sniper",
+    "song": "falling in sleep.mmd3",
+    "size": "205628"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Sniper",
+    "song": "flying away (2).mmd3",
+    "size": "323988"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Sniper",
+    "song": "i loved her (leane brimbly).mmd3",
+    "size": "354792"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Sniper",
+    "song": "life as we know it.mmd3",
+    "size": "116730"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Sniper",
+    "song": "lost dream.mmd3",
+    "size": "308288"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Sniper",
+    "song": "lost in the blizards of dune.mmd3",
+    "size": "125856"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Sniper",
+    "song": "love is a part of the universe.mmd3",
+    "size": "636192"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Sniper",
+    "song": "moon lit.mmd3",
+    "size": "622486"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Sniper",
+    "song": "sirens of the piano.mmd3",
+    "size": "599200"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Sniper",
+    "song": "the death of a god.mmd3",
+    "size": "717726"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Sniper",
+    "song": "the start of time.mmd3",
+    "size": "1201758"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Sniper",
+    "song": "universal dream.mmd3",
+    "size": "684934"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Sofke",
+    "song": "free belgrade !!!! deep house !!!.mmd3",
+    "size": "640302"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Soundburst",
+    "song": "arcadey.mmd3",
+    "size": "225710"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Soundburst",
+    "song": "c64 cavern.mmd3",
+    "size": "467450"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Soundburst",
+    "song": "caschyna.mmd3",
+    "size": "788772"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Soundburst",
+    "song": "chrimbo tune.mmd3",
+    "size": "1325156"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Soundburst",
+    "song": "homeward trek.mmd3",
+    "size": "137570"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Soundburst",
+    "song": "mad professor's joy ride.mmd3",
+    "size": "274356"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Soundburst",
+    "song": "nemella.mmd3",
+    "size": "409130"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Soundburst",
+    "song": "progress 2.mmd3",
+    "size": "317604"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Soundburst",
+    "song": "progress.mmd3",
+    "size": "138650"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Soundburst",
+    "song": "sky swing.mmd3",
+    "size": "609912"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Soundburst",
+    "song": "somewhere else.mmd3",
+    "size": "1130496"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Soundburst",
+    "song": "warm friends.mmd3",
+    "size": "168602"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Soundburst",
+    "song": "zoom in.mmd3",
+    "size": "653644"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Stephen Williams",
+    "song": "condition - green! (eight channel mix).mmd3",
+    "size": "161670"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Stun",
+    "song": "current generator.mmd3",
+    "size": "51532"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Temal",
+    "song": "coop-Altruist/parent ignition (compo-version).mmd3",
+    "size": "863392"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Teo.P3",
+    "song": "smokin' penguin.mmd3",
+    "size": "963560"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Thain",
+    "song": "ekg.mmd3",
+    "size": "5272"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "The Highlander",
+    "song": "alarmaaaa.mmd3",
+    "size": "574508"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "The Highlander",
+    "song": "dags.mmd3",
+    "size": "269502"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "The Highlander",
+    "song": "hard.mmd3",
+    "size": "339936"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "The Highlander",
+    "song": "l'abc de marie.mmd3",
+    "size": "862844"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "The Highlander",
+    "song": "short lifespend.mmd3",
+    "size": "423800"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "The Highlander",
+    "song": "sweet stars.mmd3",
+    "size": "479288"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "The Highlander",
+    "song": "the branle.mmd3",
+    "size": "139076"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "The Highlander (UK)",
+    "song": "motions of the falling rain.mmd3",
+    "size": "282944"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "The Highlander (UK)",
+    "song": "shards and splinters.mmd3",
+    "size": "148838"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "The Rescator",
+    "song": "nadia (stereomix).mmd3",
+    "size": "173620"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Toady",
+    "song": "darkland.mmd3",
+    "size": "662600"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Toady",
+    "song": "day of legend.mmd3",
+    "size": "725442"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Toady",
+    "song": "king of dream's.mmd3",
+    "size": "1029744"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Toady",
+    "song": "legend of land.mmd3",
+    "size": "631934"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Toady",
+    "song": "lightland.mmd3",
+    "size": "334754"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Toady",
+    "song": "magic dream.mmd3",
+    "size": "236514"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Toady",
+    "song": "music de r-type.mmd3",
+    "size": "46056"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Toady",
+    "song": "speed man.mmd3",
+    "size": "89060"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Toady",
+    "song": "universe1.mmd3",
+    "size": "35914"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Tompeli",
+    "song": "universe.mmd3",
+    "size": "801188"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Tonid",
+    "song": "miles apart.mmd3",
+    "size": "1084250"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Tricktrax",
+    "song": "words!.mmd3",
+    "size": "571656"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "TTX",
+    "song": "astro ii.mmd3",
+    "size": "774864"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "TTX",
+    "song": "electric.mmd3",
+    "size": "456224"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "TTX",
+    "song": "indicator.mmd3",
+    "size": "1260668"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "TTX",
+    "song": "i want u (remix).mmd3",
+    "size": "502564"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "TTX",
+    "song": "loktrik.mmd3",
+    "size": "529558"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "TTX",
+    "song": "nachbarn.mmd3",
+    "size": "916044"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "TTX",
+    "song": "psychedelic-hardcore-trance.mmd3",
+    "size": "904440"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "TTX",
+    "song": "reaggy 97! (4ch).mmd3",
+    "size": "1062836"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "TTX",
+    "song": "tabula rasa.mmd3",
+    "size": "801624"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "TTX",
+    "song": "techno is dead !!!.mmd3",
+    "size": "1652276"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "TTX",
+    "song": "turrican 3d.mmd3",
+    "size": "1588332"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "TTX",
+    "song": "video 4.mmd3",
+    "size": "2052162"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "TTX",
+    "song": "virus 97.mmd3",
+    "size": "1131942"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "TTX",
+    "song": "wasteland (remix).mmd3",
+    "size": "1120806"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "TTX",
+    "song": "we0.2.mmd3",
+    "size": "836822"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "TTX",
+    "song": "w.s.t.f.song.mmd3",
+    "size": "2337014"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Tungsten",
+    "song": "afterthoughts.mmd3",
+    "size": "439098"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "agression.mmd3",
+    "size": "259910"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "apocoliptic kettle.mmd3",
+    "size": "676394"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "auralx.mmd3",
+    "size": "488206"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "be shine.mmd3",
+    "size": "138256"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "beyond the temple.mmd3",
+    "size": "581062"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "black.mmd3",
+    "size": "271730"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "concept of m.mmd3",
+    "size": "1070304"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "creep.mmd3",
+    "size": "291954"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "cx3.mmd3",
+    "size": "216564"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "dead tree.mmd3",
+    "size": "149242"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "downward trance.mmd3",
+    "size": "502550"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "dream.mmd3",
+    "size": "257860"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "dreamsong.mmd3",
+    "size": "133892"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "drug day.mmd3",
+    "size": "679334"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "dune - battle of the lions.mmd3",
+    "size": "860640"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "dynamic 1.mmd3",
+    "size": "1449344"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "dynamic 2.0.mmd3",
+    "size": "1528584"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "epic clouds.mmd3",
+    "size": "443340"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "for the unknown cause.mmd3",
+    "size": "611944"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "fractional.mmd3",
+    "size": "1451654"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "from the get go - enticer.mmd3",
+    "size": "292670"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "frozen.mmd3",
+    "size": "273110"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "fuck life.mmd3",
+    "size": "62524"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "fungi.mmd3",
+    "size": "584578"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "giant fiction.mmd3",
+    "size": "540482"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "glad to be without you.mmd3",
+    "size": "41922"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "hag.mmd3",
+    "size": "394672"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "happyb.mmd3",
+    "size": "330026"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "high times.mmd3",
+    "size": "407464"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "housecore.mmd3",
+    "size": "444502"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "i like it.mmd3",
+    "size": "205946"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "inner feelings.mmd3",
+    "size": "546872"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "insert the bloody cd.mmd3",
+    "size": "712848"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "jolpoid.mmd3",
+    "size": "672954"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "lost in depth.mmd3",
+    "size": "1707094"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "lou reed ripper.mmd3",
+    "size": "1084978"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "mad frenchman.mmd3",
+    "size": "504354"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "megatrip.mmd3",
+    "size": "367400"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "melody pop.mmd3",
+    "size": "543222"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "mouldy skull.mmd3",
+    "size": "307904"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "mr techno.mmd3",
+    "size": "129998"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "new.mmd3",
+    "size": "254682"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "nkn maximal disorder.mmd3",
+    "size": "624694"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "noname.mmd3",
+    "size": "375506"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "prosektorium.mmd3",
+    "size": "358654"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "rock!!.mmd3",
+    "size": "173228"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "shit crap.mmd3",
+    "size": "231828"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "sideras2.mmd3",
+    "size": "235182"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "silent moon.mmd3",
+    "size": "368174"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "silent winds.mmd3",
+    "size": "924594"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "slide up.mmd3",
+    "size": "979006"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "song 01.mmd3",
+    "size": "330212"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "so-so-mahhn-remix.mmd3",
+    "size": "894862"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "sound of aliens.mmd3",
+    "size": "340968"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "ss.burning out.mmd3",
+    "size": "577396"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "strange.mmd3",
+    "size": "321310"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "strings of paradise.mmd3",
+    "size": "316640"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "sweet melody.mmd3",
+    "size": "389590"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "term2.mmd3",
+    "size": "337226"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "terminator2.mmd3",
+    "size": "277794"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "the freak is dead.mmd3",
+    "size": "119852"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "thunder in my mind.mmd3",
+    "size": "411286"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "timewarp.mmd3",
+    "size": "441548"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "toytown remix.mmd3",
+    "size": "155364"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "trinity inside.mmd3",
+    "size": "333712"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "triumph of the futile.mmd3",
+    "size": "419832"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "trumpet speaking.mmd3",
+    "size": "635406"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "tune2.mmd3",
+    "size": "127830"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "what you want - enticer.mmd3",
+    "size": "387014"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "whow.mmd3",
+    "size": "1031232"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "- unknown",
+    "song": "wonder rmx wall.mmd3",
+    "size": "1437960"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Urban Climax",
+    "song": "zu spaet otze.mmd3",
+    "size": "362938"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Vaere",
+    "song": "errrratttta.mmd3",
+    "size": "629846"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Vort",
+    "song": "unit.mmd3",
+    "size": "506526"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Wavemaker",
+    "song": "superstitious (undimensional mix).mmd3",
+    "size": "824648"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Wavemaker",
+    "song": "waveforming ii.mmd3",
+    "size": "349006"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Wheeler",
+    "song": "adran (the dance mix).mmd3",
+    "size": "262218"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Wheeler",
+    "song": "sweet.mmd3",
+    "size": "82692"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Wheeler",
+    "song": "taxi motion.mmd3",
+    "size": "359834"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Wheeler",
+    "song": "the dance box.mmd3",
+    "size": "659358"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "William Morton",
+    "song": "exclamation.mmd3",
+    "size": "166500"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Xenon (DK)",
+    "song": "coop-Sequentian/ventilator.mmd3",
+    "size": "424696"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Xenon (DK)",
+    "song": "lost in gravity.mmd3",
+    "size": "1001806"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Xenon (DK)",
+    "song": "technical override.mmd3",
+    "size": "440554"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Zee",
+    "song": "continuum (zee's freefall mix).mmd3",
+    "size": "319292"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Zee",
+    "song": "digital dreams 99.mmd3",
+    "size": "532648"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Zee",
+    "song": "digital dreams.mmd3",
+    "size": "397740"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Zee",
+    "song": "discovery.mmd3",
+    "size": "267112"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Zee",
+    "song": "edge of the galaxy (wild justice remix - special edition).mmd3",
+    "size": "141676"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Zee",
+    "song": "ephemeral.mmd3",
+    "size": "1020736"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Zee",
+    "song": "flux.mmd3",
+    "size": "286266"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Zee",
+    "song": "future breeze.mmd3",
+    "size": "124206"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Zee",
+    "song": "heartbeats (zee's remix).mmd3",
+    "size": "451152"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Zee",
+    "song": "may contain nuts.mmd3",
+    "size": "440440"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Zee",
+    "song": "raystorm (high quality mix).mmd3",
+    "size": "481402"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Zee",
+    "song": "raystorm (original mix).mmd3",
+    "size": "287756"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Zee",
+    "song": "raystorm (remix!).mmd3",
+    "size": "319250"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Zee",
+    "song": "red shift.mmd3",
+    "size": "156188"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Zee",
+    "song": "sunrise.mmd3",
+    "size": "501928"
+  },
+  {
+    "tracker": "OctaMED MMD3",
+    "composer": "Zee",
+    "song": "universal death.mmd3",
+    "size": "601374"
+  }
+]

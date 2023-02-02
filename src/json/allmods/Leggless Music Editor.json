@@ -1,6 +1,14 @@
-{
-  "Leggless": [
-    "ninjaspirit demo.lme",
-    "the punisher gameover.lme"
-  ]
-}
+[
+  {
+    "tracker": "Leggless Music Editor",
+    "composer": "Leggless",
+    "song": "ninjaspirit demo.lme",
+    "size": "57728"
+  },
+  {
+    "tracker": "Leggless Music Editor",
+    "composer": "Leggless",
+    "song": "the punisher gameover.lme",
+    "size": "7510"
+  }
+]

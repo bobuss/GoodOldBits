@@ -1,168 +1,986 @@
-{
-  "- unknown": [
-    "Depth/depth-peaceall.spu",
-    "Depth/depth-wireall.spu",
-    "Depth/depth-wire-playable.spu",
-    "Depth - Original Groove/01-peace-a.spu",
-    "Depth - Original Groove/02-peace-b.spu",
-    "Depth - Original Groove/03-abyss-a.spu",
-    "Depth - Original Groove/04-abyss-b.spu",
-    "Depth - Original Groove/05-wire-a.spu",
-    "Depth - Original Groove/06-wire-b.spu",
-    "Depth - Original Groove/07-crystal-a.spu",
-    "Depth - Original Groove/08-crystal-b.spu",
-    "Depth - Original Groove/09-tube-a.spu",
-    "Depth - Original Groove/10-tube-b.spu",
-    "Depth - Original Groove/11-temple-a.spu",
-    "Depth - Original Groove/12-temple-b.spu",
-    "Depth - Original Groove/13-space-a.spu",
-    "Depth - Original Groove/14-space-b.spu",
-    "Depth - Original Groove/15-flower-a.spu",
-    "Depth - Original Groove/16-flower-b.spu",
-    "Depth - Original Groove/17-wood-a.spu",
-    "Depth - Original Groove/18-wood-b.spu",
-    "Depth - Original Groove/19-shell-a.spu",
-    "Depth - Original Groove/20-shell-b.spu",
-    "Depth - Original Groove/21-coral-a.spu",
-    "Depth - Original Groove/22-coral-b.spu",
-    "Depth - Original Groove/23-garden-a.spu",
-    "Depth - Original Groove/24-garden-b.spu",
-    "Dezaemon Plus/dezaemon17.spu",
-    "Dezaemon Plus/dezaemon18.spu",
-    "Dezaemon Plus/dezaemon19.spu",
-    "Dezaemon Plus/dezaemon20.spu",
-    "Dezaemon Plus/dezaemon21.spu",
-    "Dezaemon Plus/dezaemon22.spu",
-    "Dezaemon Plus/dezaemon23.spu",
-    "Dezaemon Plus/dezaemon24.spu",
-    "Dezaemon Plus/dezaemon25.spu",
-    "Dezaemon Plus/dezaemon26.spu",
-    "Dezaemon Plus/dezaemon27.spu",
-    "Dezaemon Plus/dezaemon28.spu",
-    "Dezaemon Plus/dezaemon29.spu",
-    "Dezaemon Plus/dezaemon30.spu",
-    "Dezaemon Plus/dezaemon31.spu",
-    "Dezaemon Plus/dezaesys01.spu",
-    "Dezaemon Plus/dezaesys02.spu",
-    "Dezaemon Plus/dezaesys03.spu",
-    "Dezaemon Plus/dezaesys04.spu",
-    "Dragon Quest 7/dq7-0001.spu",
-    "Dragon Quest 7/dq7-0002.spu",
-    "Dragon Quest 7/dq7-0003.spu",
-    "Dragon Quest 7/dq7-0004.spu",
-    "Dragon Quest 7/dq7-0005.spu",
-    "Dragon Quest 7/dq7-0006.spu",
-    "Dragon Quest 7/dq7-0007.spu",
-    "Dragon Quest 7/dq7-0008.spu",
-    "Dragon Quest 7/dq7-0009.spu",
-    "Dragon Quest 7/dq7-0010.spu",
-    "Dragon Quest 7/dq7-0011.spu",
-    "Dragon Quest 7/dq7-0012.spu",
-    "Dragon Quest 7/dq7-0016.spu",
-    "Dragon Quest 7/dq7-0018.spu",
-    "Dragon Quest 7/dq7-0019.spu",
-    "Dragon Quest 7/dq7-0021.spu",
-    "Dragon Quest 7/dq7-0022.spu",
-    "Dragon Quest 7/dq7-0024.spu",
-    "Dragon Quest 7/dq7-0025.spu",
-    "Dragon Quest 7/dq7-0026.spu",
-    "Dragon Quest 7/dq7-0027.spu",
-    "Dragon Quest 7/dq7-0028.spu",
-    "Dragon Quest 7/dq7-0029.spu",
-    "Dragon Quest 7/dq7-0030.spu",
-    "Dragon Quest 7/dq7-0031.spu",
-    "Dragon Quest 7/dq7-0032.spu",
-    "Dragon Quest 7/dq7-0033.spu",
-    "Dragon Quest 7/dq7-0034.spu",
-    "Dragon Quest 7/dq7-0035.spu",
-    "Dragon Quest 7/dq7-0036.spu",
-    "Dragon Quest 7/dq7-0037.spu",
-    "Dragon Quest 7/dq7-0038.spu",
-    "Dragon Quest 7/dq7-0039.spu",
-    "Dragon Quest 7/dq7-0040.spu",
-    "Dragon Quest 7/dq7-0043.spu",
-    "Dragon Quest 7/dq7-0045.spu",
-    "Dragon Quest 7/dq7-0046.spu",
-    "Dragon Quest 7/dq7-0047.spu",
-    "Dragon Quest 7/dq7-0048.spu",
-    "Gundam Battle Assault 2/00-option.spu",
-    "Gundam Battle Assault 2/01-menu.spu",
-    "Gundam Battle Assault 2/02-select.spu",
-    "Gundam Battle Assault 2/03-battle-start.spu",
-    "Gundam Battle Assault 2/04-battle-intro.spu",
-    "Gundam Battle Assault 2/05-winner.spu",
-    "Gundam Battle Assault 2/06-lastboss.spu",
-    "Gundam Battle Assault 2/07-gameover.spu",
-    "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/01.spu",
-    "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/02.spu",
-    "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/03.spu",
-    "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/04.spu",
-    "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/05.spu",
-    "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/06.spu",
-    "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/07.spu",
-    "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/08.spu",
-    "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/09.spu",
-    "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/10.spu",
-    "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/11.spu",
-    "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/12.spu",
-    "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/13.spu",
-    "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/14.spu",
-    "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/15.spu",
-    "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/16.spu",
-    "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/17.spu",
-    "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/18.spu",
-    "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/19.spu",
-    "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/20.spu",
-    "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/21.spu",
-    "Jinguji Saburu - Tomoshibi Ga Kienumani/01-purple wind.spu",
-    "Jinguji Saburu - Tomoshibi Ga Kienumani/02-crystal sirens.spu",
-    "Jinguji Saburu - Tomoshibi Ga Kienumani/03-indigo ashtray.spu",
-    "Jinguji Saburu - Tomoshibi Ga Kienumani/04-kinchou.spu",
-    "Jinguji Saburu - Tomoshibi Ga Kienumani/05-irainin.spu",
-    "Jinguji Saburu - Tomoshibi Ga Kienumani/06-inquire mode.spu",
-    "Jinguji Saburu - Tomoshibi Ga Kienumani/07-command mode.spu",
-    "Jinguji Saburu - Tomoshibi Ga Kienumani/08-monochrome motion#1.spu",
-    "Jinguji Saburu - Tomoshibi Ga Kienumani/09-rosy waltz.spu",
-    "Jinguji Saburu - Tomoshibi Ga Kienumani/10-deduction mode.spu",
-    "Jinguji Saburu - Tomoshibi Ga Kienumani/11-izakaya.spu",
-    "Pixy Garden/03.spu",
-    "Pixy Garden/04.spu",
-    "Pixy Garden/05.spu",
-    "Pixy Garden/06.spu",
-    "Pixy Garden/07.spu",
-    "Pixy Garden/08.spu",
-    "Pixy Garden/09.spu",
-    "Pixy Garden/10.spu",
-    "Pixy Garden/11.spu",
-    "Pixy Garden/12.spu",
-    "Pixy Garden/13.spu",
-    "Raiden DX/raidendxnr-01.spu",
-    "Raiden DX/raidendxnr-02.spu",
-    "Raiden DX/raidendxnr-03.spu",
-    "Raiden DX/raidendxnr-04.spu",
-    "Raiden DX/raidendxnr-05.spu",
-    "Raiden DX/raidendxnr-06.spu",
-    "Raiden DX/raidendxnr-07.spu",
-    "Raiden DX/raidendxnr-08.spu",
-    "Raiden DX/raidendxnr-09.spu",
-    "Raiden DX/raidendxnr-10.spu",
-    "Raiden DX/raidendxnr-11.spu",
-    "Raiden DX/raidendxnr-12.spu",
-    "Raiden DX/raidendxnr-13.spu",
-    "Raiden DX/raidendxnr-14.spu",
-    "Raiden DX/raidendxnr-15.spu",
-    "Raiden DX/raidendxnr-16.spu",
-    "Raiden DX/raidendxvp1-01.spu",
-    "Raiden DX/raidendxvp1-02.spu",
-    "Raiden DX/raidendxvp1-03.spu",
-    "Raiden DX/raidendxvp1-04.spu",
-    "Raiden DX/raidendxvp1-05.spu",
-    "Raiden DX/raidendxvp1-06.spu",
-    "Raiden DX/raidendxvp1-07.spu",
-    "Raiden DX/raidendxvp1-08.spu",
-    "Raiden DX/raidendxvp1-09.spu",
-    "Raiden DX/raidendxvp1-10.spu",
-    "Raiden DX/raidendxvp1-11.spu",
-    "Raiden DX/raidendxvp1-12.spu"
-  ]
-}
+[
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth/depth-peaceall.spu",
+    "size": "1313268"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth/depth-wireall.spu",
+    "size": "1258680"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth/depth-wire-playable.spu",
+    "size": "1595388"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/01-peace-a.spu",
+    "size": "630720"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/02-peace-b.spu",
+    "size": "624624"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/03-abyss-a.spu",
+    "size": "635508"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/04-abyss-b.spu",
+    "size": "631836"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/05-wire-a.spu",
+    "size": "676164"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/06-wire-b.spu",
+    "size": "764448"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/07-crystal-a.spu",
+    "size": "709344"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/08-crystal-b.spu",
+    "size": "675648"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/09-tube-a.spu",
+    "size": "763200"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/10-tube-b.spu",
+    "size": "678972"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/11-temple-a.spu",
+    "size": "658692"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/12-temple-b.spu",
+    "size": "652044"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/13-space-a.spu",
+    "size": "700272"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/14-space-b.spu",
+    "size": "699600"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/15-flower-a.spu",
+    "size": "671520"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/16-flower-b.spu",
+    "size": "670656"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/17-wood-a.spu",
+    "size": "764088"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/18-wood-b.spu",
+    "size": "840144"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/19-shell-a.spu",
+    "size": "693876"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/20-shell-b.spu",
+    "size": "675000"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/21-coral-a.spu",
+    "size": "627744"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/22-coral-b.spu",
+    "size": "717072"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/23-garden-a.spu",
+    "size": "769740"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Depth - Original Groove/24-garden-b.spu",
+    "size": "633840"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dezaemon Plus/dezaemon17.spu",
+    "size": "991824"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dezaemon Plus/dezaemon18.spu",
+    "size": "1000536"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dezaemon Plus/dezaemon19.spu",
+    "size": "1046472"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dezaemon Plus/dezaemon20.spu",
+    "size": "1348008"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dezaemon Plus/dezaemon21.spu",
+    "size": "1276608"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dezaemon Plus/dezaemon22.spu",
+    "size": "1327776"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dezaemon Plus/dezaemon23.spu",
+    "size": "1134384"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dezaemon Plus/dezaemon24.spu",
+    "size": "1047840"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dezaemon Plus/dezaemon25.spu",
+    "size": "1005936"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dezaemon Plus/dezaemon26.spu",
+    "size": "1018608"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dezaemon Plus/dezaemon27.spu",
+    "size": "1059504"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dezaemon Plus/dezaemon28.spu",
+    "size": "560688"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dezaemon Plus/dezaemon29.spu",
+    "size": "1192488"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dezaemon Plus/dezaemon30.spu",
+    "size": "1218264"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dezaemon Plus/dezaemon31.spu",
+    "size": "1320432"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dezaemon Plus/dezaesys01.spu",
+    "size": "1115232"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dezaemon Plus/dezaesys02.spu",
+    "size": "1277184"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dezaemon Plus/dezaesys03.spu",
+    "size": "1581312"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dezaemon Plus/dezaesys04.spu",
+    "size": "2113512"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0001.spu",
+    "size": "1001830"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0002.spu",
+    "size": "844431"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0003.spu",
+    "size": "881094"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0004.spu",
+    "size": "752493"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0005.spu",
+    "size": "1107925"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0006.spu",
+    "size": "887947"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0007.spu",
+    "size": "738270"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0008.spu",
+    "size": "725719"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0009.spu",
+    "size": "1176939"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0010.spu",
+    "size": "824213"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0011.spu",
+    "size": "1152057"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0012.spu",
+    "size": "1141541"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0016.spu",
+    "size": "835708"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0018.spu",
+    "size": "836082"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0019.spu",
+    "size": "1358494"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0021.spu",
+    "size": "1227979"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0022.spu",
+    "size": "1298192"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0024.spu",
+    "size": "895383"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0025.spu",
+    "size": "935929"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0026.spu",
+    "size": "631075"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0027.spu",
+    "size": "800552"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0028.spu",
+    "size": "977355"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0029.spu",
+    "size": "885120"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0030.spu",
+    "size": "716743"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0031.spu",
+    "size": "816579"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0032.spu",
+    "size": "782160"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0033.spu",
+    "size": "765517"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0034.spu",
+    "size": "1060339"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0035.spu",
+    "size": "732330"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0036.spu",
+    "size": "971261"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0037.spu",
+    "size": "1095748"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0038.spu",
+    "size": "983097"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0039.spu",
+    "size": "861866"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0040.spu",
+    "size": "762151"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0043.spu",
+    "size": "646013"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0045.spu",
+    "size": "995912"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0046.spu",
+    "size": "671566"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0047.spu",
+    "size": "821265"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Dragon Quest 7/dq7-0048.spu",
+    "size": "2084879"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Gundam Battle Assault 2/00-option.spu",
+    "size": "1030760"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Gundam Battle Assault 2/01-menu.spu",
+    "size": "1519512"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Gundam Battle Assault 2/02-select.spu",
+    "size": "2235494"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Gundam Battle Assault 2/03-battle-start.spu",
+    "size": "623066"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Gundam Battle Assault 2/04-battle-intro.spu",
+    "size": "1191184"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Gundam Battle Assault 2/05-winner.spu",
+    "size": "1309236"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Gundam Battle Assault 2/06-lastboss.spu",
+    "size": "1039670"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Gundam Battle Assault 2/07-gameover.spu",
+    "size": "606270"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/01.spu",
+    "size": "878168"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/02.spu",
+    "size": "1074716"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/03.spu",
+    "size": "1473180"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/04.spu",
+    "size": "1084132"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/05.spu",
+    "size": "898892"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/06.spu",
+    "size": "2102952"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/07.spu",
+    "size": "639314"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/08.spu",
+    "size": "1270868"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/09.spu",
+    "size": "694908"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/10.spu",
+    "size": "1468824"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/11.spu",
+    "size": "578352"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/12.spu",
+    "size": "1608216"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/13.spu",
+    "size": "670312"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/14.spu",
+    "size": "654098"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/15.spu",
+    "size": "870556"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/16.spu",
+    "size": "2571189"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/17.spu",
+    "size": "1219146"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/18.spu",
+    "size": "1162023"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/19.spu",
+    "size": "1274146"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/20.spu",
+    "size": "585700"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Hokuto No Ken - Seiki Matsukyu Seishi Densetsu/21.spu",
+    "size": "2434187"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Jinguji Saburu - Tomoshibi Ga Kienumani/01-purple wind.spu",
+    "size": "6929920"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Jinguji Saburu - Tomoshibi Ga Kienumani/02-crystal sirens.spu",
+    "size": "2991616"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Jinguji Saburu - Tomoshibi Ga Kienumani/03-indigo ashtray.spu",
+    "size": "9855543"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Jinguji Saburu - Tomoshibi Ga Kienumani/04-kinchou.spu",
+    "size": "2465873"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Jinguji Saburu - Tomoshibi Ga Kienumani/05-irainin.spu",
+    "size": "6295736"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Jinguji Saburu - Tomoshibi Ga Kienumani/06-inquire mode.spu",
+    "size": "5159673"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Jinguji Saburu - Tomoshibi Ga Kienumani/07-command mode.spu",
+    "size": "7279197"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Jinguji Saburu - Tomoshibi Ga Kienumani/08-monochrome motion#1.spu",
+    "size": "6674913"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Jinguji Saburu - Tomoshibi Ga Kienumani/09-rosy waltz.spu",
+    "size": "5098429"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Jinguji Saburu - Tomoshibi Ga Kienumani/10-deduction mode.spu",
+    "size": "6892706"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Jinguji Saburu - Tomoshibi Ga Kienumani/11-izakaya.spu",
+    "size": "3275910"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Pixy Garden/03.spu",
+    "size": "2290218"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Pixy Garden/04.spu",
+    "size": "5768154"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Pixy Garden/05.spu",
+    "size": "2234655"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Pixy Garden/06.spu",
+    "size": "4037500"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Pixy Garden/07.spu",
+    "size": "2812254"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Pixy Garden/08.spu",
+    "size": "3518344"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Pixy Garden/09.spu",
+    "size": "3060392"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Pixy Garden/10.spu",
+    "size": "3205086"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Pixy Garden/11.spu",
+    "size": "3966796"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Pixy Garden/12.spu",
+    "size": "3134726"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Pixy Garden/13.spu",
+    "size": "4766364"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxnr-01.spu",
+    "size": "22253442"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxnr-02.spu",
+    "size": "1124424"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxnr-03.spu",
+    "size": "2750962"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxnr-04.spu",
+    "size": "1889618"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxnr-05.spu",
+    "size": "729796"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxnr-06.spu",
+    "size": "3520406"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxnr-07.spu",
+    "size": "3122354"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxnr-08.spu",
+    "size": "3448704"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxnr-09.spu",
+    "size": "3168414"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxnr-10.spu",
+    "size": "1065316"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxnr-11.spu",
+    "size": "2960852"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxnr-12.spu",
+    "size": "2881366"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxnr-13.spu",
+    "size": "3285510"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxnr-14.spu",
+    "size": "2180382"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxnr-15.spu",
+    "size": "1175840"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxnr-16.spu",
+    "size": "1270784"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxvp1-01.spu",
+    "size": "1107630"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxvp1-02.spu",
+    "size": "2934556"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxvp1-03.spu",
+    "size": "2818590"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxvp1-04.spu",
+    "size": "2528049"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxvp1-05.spu",
+    "size": "3259868"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxvp1-06.spu",
+    "size": "2809536"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxvp1-07.spu",
+    "size": "2585128"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxvp1-08.spu",
+    "size": "2722612"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxvp1-09.spu",
+    "size": "2765690"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxvp1-10.spu",
+    "size": "1393386"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxvp1-11.spu",
+    "size": "893998"
+  },
+  {
+    "tracker": "SPU",
+    "composer": "- unknown",
+    "song": "Raiden DX/raidendxvp1-12.spu",
+    "size": "1037870"
+  }
+]

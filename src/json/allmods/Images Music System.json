@@ -1,18 +1,74 @@
-{
-  "4-Mat": [
-    "am10-3ch.ims",
-    "am11-3ch.ims",
-    "am1-3ch.ims",
-    "am5-3ch.ims",
-    "am8-3ch.ims",
-    "am9-3ch.ims",
-    "beast-busters.ims"
-  ],
-  "The Judge": [
-    "redoctober-chopper.ims",
-    "redoctober-game-over.ims",
-    "redoctober-scramble1.ims",
-    "redoctober-sub-docking.ims",
-    "redoctober-title-tune.ims"
-  ]
-}
+[
+  {
+    "tracker": "Images Music System",
+    "composer": "4-Mat",
+    "song": "am10-3ch.ims",
+    "size": "28244"
+  },
+  {
+    "tracker": "Images Music System",
+    "composer": "4-Mat",
+    "song": "am11-3ch.ims",
+    "size": "30652"
+  },
+  {
+    "tracker": "Images Music System",
+    "composer": "4-Mat",
+    "song": "am1-3ch.ims",
+    "size": "34444"
+  },
+  {
+    "tracker": "Images Music System",
+    "composer": "4-Mat",
+    "song": "am5-3ch.ims",
+    "size": "35136"
+  },
+  {
+    "tracker": "Images Music System",
+    "composer": "4-Mat",
+    "song": "am8-3ch.ims",
+    "size": "29348"
+  },
+  {
+    "tracker": "Images Music System",
+    "composer": "4-Mat",
+    "song": "am9-3ch.ims",
+    "size": "36612"
+  },
+  {
+    "tracker": "Images Music System",
+    "composer": "4-Mat",
+    "song": "beast-busters.ims",
+    "size": "41630"
+  },
+  {
+    "tracker": "Images Music System",
+    "composer": "The Judge",
+    "song": "redoctober-chopper.ims",
+    "size": "49742"
+  },
+  {
+    "tracker": "Images Music System",
+    "composer": "The Judge",
+    "song": "redoctober-game-over.ims",
+    "size": "30942"
+  },
+  {
+    "tracker": "Images Music System",
+    "composer": "The Judge",
+    "song": "redoctober-scramble1.ims",
+    "size": "48800"
+  },
+  {
+    "tracker": "Images Music System",
+    "composer": "The Judge",
+    "song": "redoctober-sub-docking.ims",
+    "size": "26280"
+  },
+  {
+    "tracker": "Images Music System",
+    "composer": "The Judge",
+    "song": "redoctober-title-tune.ims",
+    "size": "70914"
+  }
+]

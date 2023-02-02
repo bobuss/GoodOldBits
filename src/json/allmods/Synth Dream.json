@@ -1,33 +1,176 @@
-{
-  "Laurens Tummers": [
-    "sdr.monsterbusiness 1",
-    "sdr.monsterbusiness 2",
-    "sdr.monsterbusiness 3",
-    "sdr.monsterbusiness 4",
-    "sdr.monsterbusiness 5",
-    "sdr.monsterbusiness 6",
-    "sdr.monsterbusiness 7",
-    "sdr.monsterbusiness 8",
-    "sdr.nobuddiesland 1",
-    "sdr.nobuddiesland 2",
-    "sdr.nobuddiesland 3",
-    "sdr.nobuddiesland 4",
-    "sdr.nobuddiesland 5",
-    "sdr.nobuddiesland 6",
-    "sdr.nobuddiesland 7",
-    "sdr.nobuddiesland 8",
-    "sdr.nobuddiesland end 1",
-    "sdr.nobuddiesland end 2",
-    "sdr.nobuddiesland game 1",
-    "sdr.nobuddiesland game 2",
-    "sdr.nobuddiesland hiscore",
-    "sdr.nobuddiesland jigsaw",
-    "smp.nobuddiesland end 1",
-    "smp.nobuddiesland end 2",
-    "smp.nobuddiesland game 1",
-    "smp.nobuddiesland game 2",
-    "smp.nobuddiesland hiscore",
-    "smp.nobuddiesland jigsaw",
-    "smp.set"
-  ]
-}
+[
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "sdr.monsterbusiness 1",
+    "size": "8232"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "sdr.monsterbusiness 2",
+    "size": "4878"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "sdr.monsterbusiness 3",
+    "size": "6072"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "sdr.monsterbusiness 4",
+    "size": "7246"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "sdr.monsterbusiness 5",
+    "size": "2014"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "sdr.monsterbusiness 6",
+    "size": "5164"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "sdr.monsterbusiness 7",
+    "size": "7806"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "sdr.monsterbusiness 8",
+    "size": "3764"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "sdr.nobuddiesland 1",
+    "size": "3416"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "sdr.nobuddiesland 2",
+    "size": "4776"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "sdr.nobuddiesland 3",
+    "size": "3300"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "sdr.nobuddiesland 4",
+    "size": "11412"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "sdr.nobuddiesland 5",
+    "size": "9496"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "sdr.nobuddiesland 6",
+    "size": "7838"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "sdr.nobuddiesland 7",
+    "size": "5408"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "sdr.nobuddiesland 8",
+    "size": "6592"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "sdr.nobuddiesland end 1",
+    "size": "6132"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "sdr.nobuddiesland end 2",
+    "size": "7874"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "sdr.nobuddiesland game 1",
+    "size": "12284"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "sdr.nobuddiesland game 2",
+    "size": "4360"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "sdr.nobuddiesland hiscore",
+    "size": "5040"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "sdr.nobuddiesland jigsaw",
+    "size": "5102"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "smp.nobuddiesland end 1",
+    "size": "93730"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "smp.nobuddiesland end 2",
+    "size": "93730"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "smp.nobuddiesland game 1",
+    "size": "71398"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "smp.nobuddiesland game 2",
+    "size": "91506"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "smp.nobuddiesland hiscore",
+    "size": "83540"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "smp.nobuddiesland jigsaw",
+    "size": "85904"
+  },
+  {
+    "tracker": "Synth Dream",
+    "composer": "Laurens Tummers",
+    "song": "smp.set",
+    "size": "98524"
+  }
+]

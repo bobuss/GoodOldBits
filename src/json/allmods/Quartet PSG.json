@@ -1,8 +1,26 @@
-{
-  "- unknown": [
-    "flimbo's quest.sqt",
-    "horror zombies from crypt.sqt",
-    "time machine.sqt",
-    "warlock the avenger.sqt"
-  ]
-}
+[
+  {
+    "tracker": "Quartet PSG",
+    "composer": "- unknown",
+    "song": "flimbo's quest.sqt",
+    "size": "25096"
+  },
+  {
+    "tracker": "Quartet PSG",
+    "composer": "- unknown",
+    "song": "horror zombies from crypt.sqt",
+    "size": "20888"
+  },
+  {
+    "tracker": "Quartet PSG",
+    "composer": "- unknown",
+    "song": "time machine.sqt",
+    "size": "17852"
+  },
+  {
+    "tracker": "Quartet PSG",
+    "composer": "- unknown",
+    "song": "warlock the avenger.sqt",
+    "size": "10654"
+  }
+]

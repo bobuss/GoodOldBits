@@ -1,13 +1,56 @@
-{
-  "Benjamin Birney": [
-    "mantra 01 opening.mad",
-    "mantra 02 forest.mad",
-    "mantra 03 dungeon.mad",
-    "mantra 04 town.mad",
-    "mantra 05 desert.mad",
-    "mantra 06 labyrinth.mad",
-    "mantra 07 bridge.mad",
-    "mantra 08 final labyrinth.mad",
-    "mantra 09 final boss.mad"
-  ]
-}
+[
+  {
+    "tracker": "PlayerPro",
+    "composer": "Benjamin Birney",
+    "song": "mantra 01 opening.mad",
+    "size": "29049"
+  },
+  {
+    "tracker": "PlayerPro",
+    "composer": "Benjamin Birney",
+    "song": "mantra 02 forest.mad",
+    "size": "36822"
+  },
+  {
+    "tracker": "PlayerPro",
+    "composer": "Benjamin Birney",
+    "song": "mantra 03 dungeon.mad",
+    "size": "65561"
+  },
+  {
+    "tracker": "PlayerPro",
+    "composer": "Benjamin Birney",
+    "song": "mantra 04 town.mad",
+    "size": "31362"
+  },
+  {
+    "tracker": "PlayerPro",
+    "composer": "Benjamin Birney",
+    "song": "mantra 05 desert.mad",
+    "size": "52321"
+  },
+  {
+    "tracker": "PlayerPro",
+    "composer": "Benjamin Birney",
+    "song": "mantra 06 labyrinth.mad",
+    "size": "63086"
+  },
+  {
+    "tracker": "PlayerPro",
+    "composer": "Benjamin Birney",
+    "song": "mantra 07 bridge.mad",
+    "size": "61632"
+  },
+  {
+    "tracker": "PlayerPro",
+    "composer": "Benjamin Birney",
+    "song": "mantra 08 final labyrinth.mad",
+    "size": "83962"
+  },
+  {
+    "tracker": "PlayerPro",
+    "composer": "Benjamin Birney",
+    "song": "mantra 09 final boss.mad",
+    "size": "65914"
+  }
+]

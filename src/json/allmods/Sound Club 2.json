@@ -1,31 +1,152 @@
-{
-  "- unknown": [
-    "country funk.sn2",
-    "hemming.sn2",
-    "night of the droid.sn2",
-    "no amiga.sn2",
-    "sunset.sn2",
-    "valley king.sn2"
-  ],
-  "Der Riese": [
-    "ahhhhh.sn2",
-    "brilliance (hardcore remix).sn2",
-    "dancin' together (hardcore remix).sn2",
-    "danish.sn2",
-    "doom and stuff.sn2",
-    "funny.sn2",
-    "give peace.sn2",
-    "going nowhere, feeling nothing.sn2",
-    "green sleeves.sn2",
-    "havah nagila.sn2",
-    "ipgahs.sn2",
-    "lambada.sn2",
-    "mission impossible.sn2",
-    "mouth-fingered and closed drum.sn2",
-    "oh susanna.sn2",
-    "red dwarf.sn2",
-    "stimmung.sn2",
-    "we fly over elten.sn2",
-    "worms.sn2"
-  ]
-}
+[
+  {
+    "tracker": "Sound Club 2",
+    "composer": "Der Riese",
+    "song": "ahhhhh.sn2",
+    "size": "661604"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "Der Riese",
+    "song": "brilliance (hardcore remix).sn2",
+    "size": "197446"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "Der Riese",
+    "song": "dancin' together (hardcore remix).sn2",
+    "size": "600480"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "Der Riese",
+    "song": "danish.sn2",
+    "size": "625804"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "Der Riese",
+    "song": "doom and stuff.sn2",
+    "size": "742109"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "Der Riese",
+    "song": "funny.sn2",
+    "size": "88240"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "Der Riese",
+    "song": "give peace.sn2",
+    "size": "314399"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "Der Riese",
+    "song": "going nowhere, feeling nothing.sn2",
+    "size": "9177"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "Der Riese",
+    "song": "green sleeves.sn2",
+    "size": "85539"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "Der Riese",
+    "song": "havah nagila.sn2",
+    "size": "81661"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "Der Riese",
+    "song": "ipgahs.sn2",
+    "size": "40295"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "Der Riese",
+    "song": "lambada.sn2",
+    "size": "42702"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "Der Riese",
+    "song": "mission impossible.sn2",
+    "size": "137157"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "Der Riese",
+    "song": "mouth-fingered and closed drum.sn2",
+    "size": "33238"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "Der Riese",
+    "song": "oh susanna.sn2",
+    "size": "64318"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "Der Riese",
+    "song": "red dwarf.sn2",
+    "size": "80879"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "Der Riese",
+    "song": "stimmung.sn2",
+    "size": "128132"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "Der Riese",
+    "song": "we fly over elten.sn2",
+    "size": "34840"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "Der Riese",
+    "song": "worms.sn2",
+    "size": "531706"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "- unknown",
+    "song": "country funk.sn2",
+    "size": "50777"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "- unknown",
+    "song": "hemming.sn2",
+    "size": "115655"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "- unknown",
+    "song": "night of the droid.sn2",
+    "size": "80124"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "- unknown",
+    "song": "no amiga.sn2",
+    "size": "70765"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "- unknown",
+    "song": "sunset.sn2",
+    "size": "51725"
+  },
+  {
+    "tracker": "Sound Club 2",
+    "composer": "- unknown",
+    "song": "valley king.sn2",
+    "size": "68753"
+  }
+]

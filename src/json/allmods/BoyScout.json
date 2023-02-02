@@ -1,22 +1,74 @@
-{
-  "- unknown": [
-    "castlevania-boss.bsf",
-    "false-alarm.bsf",
-    "nails-of-lucifer.bsf",
-    "the-crazy-dentist.bsf"
-  ],
-  "Aegis": [
-    "a walk in the park.bsf",
-    "inspiration (purple motion).bsf",
-    "ladybug.bsf",
-    "my eleventh year (beek).bsf",
-    "numb.bsf"
-  ],
-  "Mic": [
-    "paperboy theme.bsf",
-    "wizardry.bsf"
-  ],
-  "Saim": [
-    "groove boy.bsf"
-  ]
-}
+[
+  {
+    "tracker": "BoyScout",
+    "composer": "Aegis",
+    "song": "a walk in the park.bsf",
+    "size": "172936"
+  },
+  {
+    "tracker": "BoyScout",
+    "composer": "Aegis",
+    "song": "inspiration (purple motion).bsf",
+    "size": "160188"
+  },
+  {
+    "tracker": "BoyScout",
+    "composer": "Aegis",
+    "song": "ladybug.bsf",
+    "size": "176124"
+  },
+  {
+    "tracker": "BoyScout",
+    "composer": "Aegis",
+    "song": "my eleventh year (beek).bsf",
+    "size": "236500"
+  },
+  {
+    "tracker": "BoyScout",
+    "composer": "Aegis",
+    "song": "numb.bsf",
+    "size": "174912"
+  },
+  {
+    "tracker": "BoyScout",
+    "composer": "Mic",
+    "song": "paperboy theme.bsf",
+    "size": "170076"
+  },
+  {
+    "tracker": "BoyScout",
+    "composer": "Mic",
+    "song": "wizardry.bsf",
+    "size": "175700"
+  },
+  {
+    "tracker": "BoyScout",
+    "composer": "Saim",
+    "song": "groove boy.bsf",
+    "size": "202516"
+  },
+  {
+    "tracker": "BoyScout",
+    "composer": "- unknown",
+    "song": "castlevania-boss.bsf",
+    "size": "164556"
+  },
+  {
+    "tracker": "BoyScout",
+    "composer": "- unknown",
+    "song": "false-alarm.bsf",
+    "size": "180752"
+  },
+  {
+    "tracker": "BoyScout",
+    "composer": "- unknown",
+    "song": "nails-of-lucifer.bsf",
+    "size": "179336"
+  },
+  {
+    "tracker": "BoyScout",
+    "composer": "- unknown",
+    "song": "the-crazy-dentist.bsf",
+    "size": "197768"
+  }
+]

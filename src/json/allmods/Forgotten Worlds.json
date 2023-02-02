@@ -1,9 +1,32 @@
-{
-  "Mark Cooksey": [
-    "forgotten worlds intro2.fw",
-    "forgotten worlds intro.fw",
-    "forgotten worlds level1&3.fw",
-    "forgotten worlds level2&4.fw",
-    "forgotten worlds theend.fw"
-  ]
-}
+[
+  {
+    "tracker": "Forgotten Worlds",
+    "composer": "Mark Cooksey",
+    "song": "forgotten worlds intro2.fw",
+    "size": "11396"
+  },
+  {
+    "tracker": "Forgotten Worlds",
+    "composer": "Mark Cooksey",
+    "song": "forgotten worlds intro.fw",
+    "size": "22400"
+  },
+  {
+    "tracker": "Forgotten Worlds",
+    "composer": "Mark Cooksey",
+    "song": "forgotten worlds level1&3.fw",
+    "size": "29024"
+  },
+  {
+    "tracker": "Forgotten Worlds",
+    "composer": "Mark Cooksey",
+    "song": "forgotten worlds level2&4.fw",
+    "size": "34634"
+  },
+  {
+    "tracker": "Forgotten Worlds",
+    "composer": "Mark Cooksey",
+    "song": "forgotten worlds theend.fw",
+    "size": "17842"
+  }
+]

@@ -1,48 +1,266 @@
-{
-  "Ben Daglish": [
-    "3d galax.bd",
-    "artura.bd",
-    "axel's magic hammer.bd",
-    "axel's magic hammer title.bd",
-    "blasteroids-2.bd",
-    "blasteroids.bd",
-    "butcher hill ingame 1.bd",
-    "butcher hill ingame 2.bd",
-    "butcher hill ingame 3.bd",
-    "butcher hill title.bd",
-    "continental circus.bd",
-    "corporation.bd",
-    "dark fusion.bd",
-    "deflektor.bd",
-    "foft ingame 1.bd",
-    "foft ingame 2.bd",
-    "foft ingame 3.bd",
-    "foft ingame 4.bd",
-    "foft ingame 5.bd",
-    "foft title.bd",
-    "footballer of the year 2 ingame.bd",
-    "footballer of the year 2 title.bd",
-    "gary linekers hot-shot.bd",
-    "greg norman's ultimate golf.bd",
-    "h.a.t.e.bd",
-    "heroes of the lance.bd",
-    "hot rod.bd",
-    "john lowes ultimate darts.bd",
-    "mickey mouse.bd",
-    "motorhead-2.bd",
-    "motorhead-3.bd",
-    "motorhead-4.bd",
-    "motorhead-titleandingame.bd",
-    "mth2.bd",
-    "passing shot.bd",
-    "prison.bd",
-    "rick dangerous 2.bd",
-    "rick dangerous 2 patched.bd",
-    "skidz.bd",
-    "skidz v2.bd",
-    "super cars.bd",
-    "superscramble-bike0.bd",
-    "superscramble-jingles.bd",
-    "switchblade.bd"
-  ]
-}
+[
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "3d galax.bd",
+    "size": "282144"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "artura.bd",
+    "size": "47172"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "axel's magic hammer.bd",
+    "size": "59524"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "axel's magic hammer title.bd",
+    "size": "39210"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "blasteroids-2.bd",
+    "size": "28420"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "blasteroids.bd",
+    "size": "26600"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "butcher hill ingame 1.bd",
+    "size": "57750"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "butcher hill ingame 2.bd",
+    "size": "53540"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "butcher hill ingame 3.bd",
+    "size": "57024"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "butcher hill title.bd",
+    "size": "42804"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "continental circus.bd",
+    "size": "63488"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "corporation.bd",
+    "size": "256522"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "dark fusion.bd",
+    "size": "117702"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "deflektor.bd",
+    "size": "71430"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "foft ingame 1.bd",
+    "size": "46870"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "foft ingame 2.bd",
+    "size": "29576"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "foft ingame 3.bd",
+    "size": "46288"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "foft ingame 4.bd",
+    "size": "38958"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "foft ingame 5.bd",
+    "size": "26440"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "foft title.bd",
+    "size": "48788"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "footballer of the year 2 ingame.bd",
+    "size": "64110"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "footballer of the year 2 title.bd",
+    "size": "229722"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "gary linekers hot-shot.bd",
+    "size": "115734"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "greg norman's ultimate golf.bd",
+    "size": "118396"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "h.a.t.e.bd",
+    "size": "181584"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "heroes of the lance.bd",
+    "size": "32216"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "hot rod.bd",
+    "size": "47910"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "john lowes ultimate darts.bd",
+    "size": "63592"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "mickey mouse.bd",
+    "size": "7616"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "motorhead-2.bd",
+    "size": "68966"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "motorhead-3.bd",
+    "size": "67700"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "motorhead-4.bd",
+    "size": "80900"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "motorhead-titleandingame.bd",
+    "size": "63200"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "mth2.bd",
+    "size": "69000"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "passing shot.bd",
+    "size": "30102"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "prison.bd",
+    "size": "86626"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "rick dangerous 2.bd",
+    "size": "147094"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "rick dangerous 2 patched.bd",
+    "size": "146944"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "skidz.bd",
+    "size": "50515"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "skidz v2.bd",
+    "size": "49830"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "super cars.bd",
+    "size": "70404"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "superscramble-bike0.bd",
+    "size": "87830"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "superscramble-jingles.bd",
+    "size": "21164"
+  },
+  {
+    "tracker": "Ben Daglish",
+    "composer": "Ben Daglish",
+    "song": "switchblade.bd",
+    "size": "32694"
+  }
+]

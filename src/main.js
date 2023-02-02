@@ -1,10 +1,10 @@
 import { createApp } from 'vue'
 import Player from './Player.vue'
-import { NodePlayer } from './nodePlayer.js'
+import { LegacyPlayer } from './legacy-player.js'
 
 const app = createApp(Player)
 const audioContext = new (window.AudioContext || window.webkitAudioContext)();
-const player = new NodePlayer(audioContext)
+const player = new LegacyPlayer(audioContext)
 await player.loadWorkletProcessor('sc68')
 await player.loadWorkletProcessor('openmpt')
 await player.loadWorkletProcessor('ahx')

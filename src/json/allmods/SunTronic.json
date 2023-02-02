@@ -1,11 +1,44 @@
-{
-  "TSM": [
-    "msx-cracktro 2.sun",
-    "msx-cracktro.sun",
-    "msx-intro.sun",
-    "pseudo oops.sun",
-    "shades2.sun",
-    "shades.sun",
-    "unknown.sun"
-  ]
-}
+[
+  {
+    "tracker": "SunTronic",
+    "composer": "TSM",
+    "song": "msx-cracktro 2.sun",
+    "size": "4186"
+  },
+  {
+    "tracker": "SunTronic",
+    "composer": "TSM",
+    "song": "msx-cracktro.sun",
+    "size": "2759"
+  },
+  {
+    "tracker": "SunTronic",
+    "composer": "TSM",
+    "song": "msx-intro.sun",
+    "size": "6400"
+  },
+  {
+    "tracker": "SunTronic",
+    "composer": "TSM",
+    "song": "pseudo oops.sun",
+    "size": "13864"
+  },
+  {
+    "tracker": "SunTronic",
+    "composer": "TSM",
+    "song": "shades2.sun",
+    "size": "6536"
+  },
+  {
+    "tracker": "SunTronic",
+    "composer": "TSM",
+    "song": "shades.sun",
+    "size": "3642"
+  },
+  {
+    "tracker": "SunTronic",
+    "composer": "TSM",
+    "song": "unknown.sun",
+    "size": "7320"
+  }
+]
