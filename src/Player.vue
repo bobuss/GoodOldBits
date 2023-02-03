@@ -157,23 +157,6 @@ export default {
 
         },
 
-        processorName() {
-
-            switch (this.playerFormat) {
-
-                case 'SNDH':
-                case 'SC68':
-                case 'sc68':
-                case 'sndh':
-                    return 'sc68';
-                    break;
-
-                default:
-                    return 'openmpt';
-                    break;
-            }
-        },
-
         flatComposerSongs() {
             if (this.selectedComposer in this.composerSongs) {
                 return this.composerSongs[this.selectedComposer].map(song => this.selectedComposer + '/' + song)
@@ -201,14 +184,6 @@ export default {
     async mounted() {
 
         this.player = new LegacyPlayer(audioContext)
-
-        await this.player.loadWorkletProcessor('sc68')
-        await this.player.loadWorkletProcessor('openmpt')
-        await this.player.loadWorkletProcessor('ahx')
-        await this.player.loadWorkletProcessor('pt')
-        await this.player.loadWorkletProcessor('ft2')
-        await this.player.loadWorkletProcessor('st3')
-
 
         if (this.modland_enabled_formats.length >= 0) {
             await this.buildSongListFromFile('modland', this.modland_enabled_formats)
@@ -479,13 +454,14 @@ export default {
                 this.setVolume();
 
                 if (oldMusicPath == this.musicPath && oldPlayerTrack != this.playerTrack) {
+                    // just a track change
                     this.player.setTrack(this.playerTrack)
+                    this.player.play()
                 } else {
                     // That's where we acutally load the music
                     await this.player.load(this.musicPath, { 'track': this.playerTrack })
+                    this.player.play()
                 }
-
-                if (this.player) this.player.play()
 
                 if (init) {
                     this.onSelectComposer(this.playerComposer, true)
