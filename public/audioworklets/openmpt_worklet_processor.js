@@ -34,6 +34,8 @@ class OpenMPTWorkletProcessor extends AudioWorkletProcessor {
     // setup asyc completion of initialization
     isSongReady = false;    // initialized (including file-loads that might have been necessary)
 
+    publishSongPosition = true;
+
 
     constructor() {
         super();
@@ -244,6 +246,16 @@ class OpenMPTWorkletProcessor extends AudioWorkletProcessor {
                 this.port.postMessage({
                     type: 'onTrackEnd'
                 });
+            } else {
+
+                if (this.publishSongPosition) {
+                    const pos = this.libopenmpt._openmpt_module_get_position_seconds(this.modulePtr)
+
+                    this.port.postMessage({
+                        'type': 'songPositionUpdated',
+                        'position': pos
+                    })
+                }
             }
 
         }

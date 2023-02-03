@@ -649,7 +649,6 @@ class AHXPlayer {
 
     InitSubsong(Nr) {
         if (Nr > this.Song.SubsongNr) return 0;
-
         if (Nr == 0) this.PosNr = 0;
         else this.PosNr = this.Song.Subsongs[Nr - 1];
 
@@ -721,6 +720,14 @@ class AHXPlayer {
         //RemainPosition
         for (let a = 0; a < 4; a++) this.SetAudio(a);
     }
+
+	Seek(pos) {
+		this.PosNr = pos;
+        if (this.PosNr == this.Song.PositionNr) this.PosNr = this.Song.PositionNr - 1;
+		if (this.PosNr < 0) this.PosNr = 0;
+        this.StepWaitFrames = 0;
+        this.GetNewPosition = 1;
+	}
 
     NextPosition() {
         this.PosNr++;

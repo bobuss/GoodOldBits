@@ -18,6 +18,7 @@ class FT2WorkletProcessor extends AudioWorkletProcessor {
     songInfo = {};
 
     publishChannelVU = true
+    publishSongPosition = true
 
     constructor() {
         super();
@@ -46,24 +47,26 @@ class FT2WorkletProcessor extends AudioWorkletProcessor {
                         songInfo: this.songInfo
                     });
                 }
-                break;
-
-            case 'play':
-                this.isPaused = false;
                 this.endofsong = false;
-                this.player.endofsong = false;
-                this.player.paused = false;
                 this.player.initialize();
                 this.player.flags = 1 + 2;
                 this.player.playing = true;
-                this.playing = true;
-
+                this.player.paused = false;
+                this.isPaused = true;
                 this.chvu = new Float32Array(this.player.channels);
                 for (let i = 0; i < this.player.channels; i++) this.chvu[i] = 0.0;
                 break;
 
+            case 'play':
+                this.isPaused = false;
+                break;
+
             case 'pause':
                 this.isPaused = true;
+                break;
+
+            case 'seek':
+                this.seek(data.position);
                 break;
         }
     }
@@ -79,13 +82,26 @@ class FT2WorkletProcessor extends AudioWorkletProcessor {
         return true
     }
 
+    seek(position) {
+        if (this.player) {
+            this.player.tick = 0;
+            this.player.row = 0;
+            this.player.position = position;
+            this.player.flags = 1 + 2;
+            if (this.player.position < 0) this.player.position = 0;
+            if (this.player.position >= this.player.songlen) this.stop();
+        }
+        this.position = this.player.position;
+        this.row = this.player.row;
+    }
+
     updateSongInfo() {
         let data = {};
         // copy static data from player
         data = {
             'title': this.player.title,
             'signature': this.player.signature,
-            'songlen': this.player.songlen,
+            'positionNr': this.player.songlen,
             'channels': this.player.channels,
             'patterns': this.player.patterns,
             'filter': this.player.filter,
@@ -156,7 +172,7 @@ class FT2WorkletProcessor extends AudioWorkletProcessor {
             //    this.setfilter(this.player.filter);
             //}
 
-            if (this.endofsong && this.playing) {
+            if (this.endofsong) {
                 this.isPaused = true;  // stop playback (or this will retrigger again and again before new song is started)
                 this.port.postMessage({
                     type: 'onTrackEnd'
@@ -172,13 +188,19 @@ class FT2WorkletProcessor extends AudioWorkletProcessor {
                 this.player.chvu[i] = 0.0;
             }
 
+            if (this.publishSongPosition) {
+                this.port.postMessage({
+                    'type': 'songPositionUpdated',
+                    'position': this.player.position
+                })
+            }
+
             if (this.publishChannelVU) {
                 this.port.postMessage({
                     type: 'chvu',
                     chvu: this.chvu
                 });
             }
-
         }
 
         return true

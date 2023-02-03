@@ -37,6 +37,7 @@ class AHXWorkletProcessor extends AudioWorkletProcessor {
     isSongReady = false;    // initialized (including file-loads that might have been necessary)
 
     publishChannelVU = true
+    publishSongPosition = true
 
 
     constructor() {
@@ -67,24 +68,12 @@ class AHXWorkletProcessor extends AudioWorkletProcessor {
                 }
                 break;
 
-            case 'evalTrackOptions':
-                // not implemented
-                break;
-
-            case 'resetSampleRate':
-                //
-                break;
-
             case 'play':
                 this.isPaused = false;
                 break;
 
             case 'pause':
                 this.isPaused = true;
-                break;
-
-            case 'registerFileData':
-                //this.backendAdapter.registerFileData(data.name, data.payload)
                 break;
 
             case 'setTrack':
@@ -97,7 +86,7 @@ class AHXWorkletProcessor extends AudioWorkletProcessor {
                 break;
 
             case 'seek':
-
+                this.Player.Seek(Math.floor(data.position))
                 break
 
         }
@@ -128,10 +117,6 @@ class AHXWorkletProcessor extends AudioWorkletProcessor {
         return data;
     }
 
-
-    seek(position) {
-
-    }
 
     setStereoSeparation(stereoSeparation) {
         stereoSeparation = Math.max(0, stereoSeparation)
@@ -190,6 +175,13 @@ class AHXWorkletProcessor extends AudioWorkletProcessor {
 
             mb = this.mixChunk(nrSamples, mb);
         } // frames
+
+        if (this.publishSongPosition) {
+            this.port.postMessage({
+                'type': 'songPositionUpdated',
+                'position': this.Player.PosNr
+            })
+        }
     }
 
     process(inputs, outputs) {
