@@ -151,9 +151,9 @@ export default {
         musicPath() {
 
             if (LOCAL_AVAILABLE_FORMATS.indexOf(this.playerFormat) != -1)
-                return 'musics/' + this.playerPath
+                return 'musics/' + encodeURIComponent(this.playerPath)
             else
-                return 'https://modland.com/pub/modules/' + this.playerPath
+                return 'https://modland.com/pub/modules/' + encodeURIComponent(this.playerPath)
 
         },
 
@@ -458,9 +458,13 @@ export default {
                     this.player.setTrack(this.playerTrack)
                     this.player.play()
                 } else {
-                    // That's where we acutally load the music
-                    await this.player.load(this.musicPath, { 'track': this.playerTrack })
-                    this.player.play()
+                    try {
+                        // That's where we acutally load the music
+                        await this.player.load(this.musicPath, { 'track': this.playerTrack })
+                        this.player.play()
+                    } catch (error) {
+                        console.error(error)
+                    }
                 }
 
                 if (init) {
