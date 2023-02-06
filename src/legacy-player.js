@@ -7,7 +7,7 @@
 * (http://creativecommons.org/licenses/by-nc-sa/4.0/).
 */
 
-const SUPPORTED_PROCESSORS = ['sc68', 'openmpt', 'ahx', 'pt', 'ft2', 'st3'] //, 'psgplay']
+const SUPPORTED_PROCESSORS = ['sc68', 'openmpt', 'ahx', 'pt', 'ft2', 'st3']
 
 const DEFAULT_FORMAT_PROCESSOR_MAPPING = {
     'sc68': 'sc68',
@@ -27,8 +27,7 @@ const workletProcessorCodes = {
     'pt': [`lib/pt.js?${timestamp}`, `audioworklets/pt_worklet_processor.js?${timestamp}`],
     'ahx': [`lib/ahx.js?${timestamp}`, `audioworklets/ahx_worklet_processor.js?${timestamp}`],
     'openmpt': ["lib/libopenmpt.js", `audioworklets/openmpt_worklet_processor.js?${timestamp}`],
-    'sc68': ["lib/sc68.js", "lib/sc68_backend_adapter.js", `audioworklets/sc68_worklet_processor.js?${timestamp}`],
-    //'psgplay': [`lib/libpsgplay.js?${timestamp}`, `audioworklets/psgplay_worklet_processor.js?${timestamp}`],
+    'sc68': [`lib/sc68.js?${timestamp}`, `lib/sc68_backend_adapter.js?${timestamp}`, `audioworklets/sc68_worklet_processor.js?${timestamp}`]
 };
 
 // from https://github.com/padenot/ringbuf.js/blob/main/public/example/utils.js

@@ -4,10 +4,6 @@ import { LegacyPlayer } from './legacy-player.js'
 const audioContext = new (window.AudioContext || window.webkitAudioContext)();
 
 const MODLAND_AVAILABLE_FORMATS = [
-    "Protracker",
-    "Screamtracker 3",
-    "Fasttracker 2",
-    "Impulsetracker",
     "OpenMPT MPTM",
     "Composer 669",
     "Asylum",
@@ -69,6 +65,8 @@ export default {
             songInfo: { numberOfTracks: 1 },
             search: '',
             playing: false,
+            timer: null,
+            playingTime: 0,
             queue: [],
             hover: null,
             selectedSong: null,
@@ -231,6 +229,8 @@ export default {
 
     async mounted() {
 
+        console.log(audioContext)
+
         this.player = new LegacyPlayer(audioContext)
 
         if (this.modland_enabled_formats.length >= 0) {
@@ -242,9 +242,11 @@ export default {
         };
 
         // sort the list by author
+        const start = Date.now()
         this.flatSongs.sort(function (a, b) {
             return a.split('/')[1].toLowerCase() < b.split('/')[1].toLowerCase() ? -1 : 1
         })
+        console.log(`Songlist sorted in: ${Date.now() - start} ms`);
 
 
         // Set Hooks
@@ -259,6 +261,15 @@ export default {
         this.player.onSongInfoUpdated = function () {
             self.songInfo = this.songInfo
         };
+
+        // define timer
+        this.timer = function() {
+            if (self.playing) {
+                self.playingTime++
+            }
+            setTimeout(self.timer, 1000)
+        }
+        this.timer()
 
         // this.player.reset() ?
         if (localStorage.queue) {
@@ -276,6 +287,7 @@ export default {
         console.log('beforeDestroy')
         this.player.pause();
         this.player = null;
+        clearTimeout(this.timer);
     },
 
     methods: {
@@ -346,6 +358,8 @@ export default {
             var song = arr.slice(2).join('/')
 
             if (composer && song) {
+
+                this.playingTime = 0;
 
                 if ((this.playerFormat == format) && (this.playerComposer == composer) && (this.playerSong == song) && (this.playerTrack == track)) {
                     this.player.play();
@@ -506,17 +520,16 @@ export default {
                     try {
                         // That's where we acutally load the music
                         await this.player.load(this.musicPath, { 'track': this.playerTrack })
-                        this.player.play()
+                        if (init) {
+                            this.onSelectComposer(this.playerComposer, true)
+                            this.playing = false
+                        } else {
+                            this.player.play()
+                            this.playing = true
+                        }
                     } catch (error) {
                         console.error(error)
                     }
-                }
-
-                if (init) {
-                    this.onSelectComposer(this.playerComposer, true)
-                    this.playing = false
-                } else {
-                    this.playing = true
                 }
 
                 if (this.queue.indexOf(this.playerPath) == -1)
@@ -576,13 +589,19 @@ export default {
             }
         },
 
-        displaySong(song) {
+        formatSeconds(time) {
+            const minutes = Math.floor(time / 60);
+            const seconds = Math.floor(time - minutes * 60);
+            return `${minutes}:${seconds < 10 ? '0'+seconds : seconds}`
+        },
+
+        formatSong(song) {
             //var re = new RegExp(this.formats.map(x => `.${x}`).join("|"), 'gi');
             //return song.replace(re, matched => '').replaceAll('_', ' ');
             return song
         },
 
-        displayComposer(composer) {
+        formatComposer(composer) {
             const comp_format = composer.split('/').reverse().map(x => x.replaceAll('_', ' '))
             return comp_format[0] + ' [' + comp_format[1] + ']'
         },
@@ -614,7 +633,7 @@ export default {
                 </div>
 
                 <div class="user">
-                    <a href="https://github.com/bobuss/atari_player" target="_blank">
+                    <a href="https://github.com/bobuss/GoodOldBits" target="_blank">
                         <img src="@/assets/github.png" />
                     </a>
                 </div>
@@ -634,7 +653,7 @@ export default {
                                 :class="{ navigation__list__item__selected: composer == selectedComposer }"
                                 @click.prevent="onSelectComposer(composer)">
 
-                                <span :class="{ playing: composer == playerComposer }">{{ displayComposer(composer) }}
+                                <span :class="{ playing: composer == playerComposer }">{{ formatComposer(composer) }}
                                     ({{
                                         count
                                     }})</span>
@@ -652,7 +671,7 @@ export default {
                     <div class="artist" ref="artist">
 
                         <div class="artist__header">
-                            <div class="artist__info__name">{{ displayComposer(selectedComposer) }}</div>
+                            <div class="artist__info__name">{{ formatComposer(selectedComposer) }}</div>
                         </div>
 
                         <div class="artist__content">
@@ -711,7 +730,7 @@ export default {
                                                     </div>
                                                     <div :class="{ playing: s == playerSong && selectedComposer == playerComposer }"
                                                         class="track__title">{{
-                                                            displaySong(s)
+                                                            formatSong(s)
                                                         }}</div>
 
                                                     <div class="track__added">
@@ -794,10 +813,10 @@ export default {
 
                                                         <div :class="{ playing: s.path == playerPath }"
                                                             class="track__title">
-                                                            <span class="title">{{ displaySong(s.title) }}</span>
+                                                            <span class="title">{{ formatSong(s.title) }}</span>
                                                             <a class="composer"
                                                                 @click.prevent="onSelectComposer(s.composer, true)">{{
-                                                                    displayComposer(s.composer)
+                                                                    formatComposer(s.composer)
                                                                 }}</a>
                                                         </div>
                                                         <div class="track__added">
@@ -829,9 +848,9 @@ export default {
                 <!-- PLAYER -->
                 <section class="playing" ref="playing">
                     <div v-if="playerSong" class="playing__song">
-                        <a class="playing__song__name">{{ displaySong(playerSong) }}</a>
+                        <a class="playing__song__name">{{ formatSong(playerSong) }}</a>
                         <a class="playing__song__artist" @click.prevent="onSelectComposer(playerComposer, true)">{{
-                            displayComposer(playerComposer)
+                            formatComposer(playerComposer)
                         }}</a>
                     </div>
                 </section>
@@ -868,6 +887,15 @@ export default {
                         </a>
 
                     </div>
+
+                    <div v-if="songInfo.duration" class="current-track__progress">
+                        <div class="current-track__progress__start">{{ formatSeconds(playingTime) }}</div>
+                            <div class="current-track__progress__bar">
+                                <div id="song-progress" :style="{ width: (playingTime / songInfo.duration * 100) + '%' }"></div>
+                            </div>
+                        <div class="current-track__progress__finish">{{ formatSeconds(songInfo.duration) }}</div>
+                    </div>
+
 
                     <div v-if="songInfo.numberOfTracks > 1">
                         <a @click.prevent="previousTrack()">

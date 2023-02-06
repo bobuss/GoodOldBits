@@ -7,6 +7,8 @@ https://player.tornil.me/
 
 
 ## Features
+- Song list is based on [modland](https://modland.com/). Currently provides 19551 composers for 163759 songs. Thanks to smart infiny scroll, your browser won't melt trying to mount 20000+ DOM element !
+
 - Modern WebAudio Module player, uses [AudioWorklets](https://developer.mozilla.org/en-US/docs/Web/API/AudioWorklet).
 
 - Have a look to the list of [supported formats](src/README.md).

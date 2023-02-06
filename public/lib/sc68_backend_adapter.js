@@ -466,7 +466,7 @@ class SC68BackendAdapter extends EmsHEAP16BackendAdapter {
         this.songInfo.composer = this.Module.UTF8ToString(array[2]);
         this.songInfo.replay = this.Module.UTF8ToString(array[3]);
         this.songInfo.hwname = this.Module.UTF8ToString(array[4]);
-        this.songInfo.songInMillis = parseInt(this.Module.UTF8ToString(array[5]));
+        this.songInfo.duration = parseInt(this.Module.UTF8ToString(array[5])) / 1000;
         this.songInfo.numberOfTracks = parseInt(this.Module.UTF8ToString(array[6]));
 
         return this.songInfo
