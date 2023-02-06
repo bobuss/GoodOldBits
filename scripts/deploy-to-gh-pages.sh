@@ -29,3 +29,4 @@ cd "${DIRECTORY}" &&
 
 echo -e "\033[0;32mCleaning up...\033[0m\n"
 git worktree remove "${DIRECTORY}"
+git restore "${ROOT}/vite.config.js"
