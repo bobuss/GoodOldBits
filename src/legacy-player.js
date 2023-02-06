@@ -15,7 +15,8 @@ const DEFAULT_FORMAT_PROCESSOR_MAPPING = {
     's3m': 'st3',
     'mod': 'pt',
     'xm': 'ft2',
-    'ahx': 'ahx'
+    'ahx': 'ahx',
+    'it': 'openmpt'
 }
 
 const timestamp = Date.now()

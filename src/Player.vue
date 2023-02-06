@@ -76,10 +76,13 @@ export default {
             sbVisible: false,
             vVisible: false,
             volume: 0.5,
-            modland_enabled_formats: ['SNDH'],
+            modland_enabled_formats: ['SNDH', 'Impulsetracker', 'Fasttracker 2', "Protracker", "Screamtracker 3"],
             local_enabled_formats: ['ahx', 'sc68'],
             composerSongs: {},
-            flatSongs: []
+            flatSongs: [],
+            scrollElements: 76,
+            delta: 29,
+            scrollFactor: 0
         }
     },
     watch: {
@@ -134,6 +137,10 @@ export default {
             return groupByComposer
         },
 
+        facetedComposersCount() {
+            return Object.keys(this.facetedComposers).length
+        },
+
         filteredComposerSongs() {
             const searches = this.search.toLowerCase().split(' ');
 
@@ -173,9 +180,46 @@ export default {
                     'title': arr.slice(2).join('/')
                 }
             })
-        }
+        },
 
+        rowHeight() {
+            return 31
+        },
+
+        realRowNr() {
+            return 76
+        },
+
+        startIdx() {
+            return Math.min(Math.floor(this.scrollFactor / this.delta) * this.delta, this.facetedComposersCount - this.scrollElements)
+        },
+
+        endIdx() {
+            return this.startIdx + this.scrollElements
+        },
+
+        topFiller() {
+            return this.startIdx * this.rowHeight
+        },
+
+        bottomFiller() {
+            return (this.facetedComposersCount - this.endIdx) * this.rowHeight;
+        },
+
+        sliceOfFacetedComposers() {
+
+            if (this.facetedComposers) {
+                //return this.facetedComposers
+                const res = {}
+                for (let x of Object.keys(this.facetedComposers).slice(this.startIdx, this.endIdx)) {
+                    res[x] = this.facetedComposers[x]
+                }
+                return res
+            } else
+                return {}
+        }
     },
+
 
     updated() {
         this.initDisplay();
@@ -195,7 +239,7 @@ export default {
 
         // sort the list by author
         this.flatSongs.sort(function (a, b) {
-            return a.split('/')[1] < b.split('/')[1] ? -1 : 1
+            return a.split('/')[1].toLowerCase() < b.split('/')[1].toLowerCase() ? -1 : 1
         })
 
 
@@ -203,6 +247,7 @@ export default {
         const self = this
         // onTrackEnd
         this.player.onTrackEnd = function () {
+            console.log('Player.vue onTrackEnd')
             self.nextSong()
         };
 
@@ -409,10 +454,6 @@ export default {
             document.querySelector('#scrollArea').addEventListener('scroll', this.scrollEv);
         },
 
-        scrollEv(e) {
-            //console.log(e)
-        },
-
         setRoute(route) {
             route = '/' + String(route || '').replace(/^[\#\/]+|[\/]+$/g, '').trim();
             window.location.hash = route;
@@ -540,6 +581,11 @@ export default {
         displayComposer(composer) {
             const comp_format = composer.split('/').reverse().map(x => x.replaceAll('_', ' '))
             return comp_format[0] + ' [' + comp_format[1] + ']'
+        },
+
+        scrollEv(e) {
+            let maxHeight = this.facetedComposersCount * this.rowHeight
+            this.scrollFactor = e.target.scrollTop * (this.facetedComposersCount - this.scrollElements) / (maxHeight - this.scrollElements * this.rowHeight)
         }
 
     }
@@ -559,6 +605,10 @@ export default {
                     <i class="material-icons clear-icon" @click.lazy="clearSearch()">clear</i>
                 </div>
 
+                <div>
+                    <span>{{ facetedComposersCount }}</span>
+                </div>
+
                 <div class="user">
                     <a href="https://github.com/bobuss/atari_player" target="_blank">
                         <img src="@/assets/github.png" />
@@ -573,8 +623,10 @@ export default {
                     <section class="navigation" id="scrollArea">
 
                         <div class="navigation__list">
-                            <a v-for="(count, composer) in facetedComposers" :id="'nav_c_' + composer" :ref="composer"
-                                :key="composer" href="#" class="navigation__list__item"
+                            <a class="scrollFiller" :style="{ height: topFiller + 'px' }"></a>
+
+                            <a v-for="(count, composer) in sliceOfFacetedComposers" :id="'nav_c_' + composer"
+                                :ref="composer" :key="composer" href="#" class="navigation__list__item"
                                 :class="{ navigation__list__item__selected: composer == selectedComposer }"
                                 @click.prevent="onSelectComposer(composer)">
 
@@ -583,6 +635,8 @@ export default {
                                         count
                                     }})</span>
                             </a>
+
+                            <a class="scrollFiller" :style="{ height: bottomFiller + 'px' }"></a>
                         </div>
                     </section>
                     <!-- END COMPOSER LIST -->
