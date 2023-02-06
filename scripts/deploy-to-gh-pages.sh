@@ -2,7 +2,7 @@
 
 ROOT="$( cd "$( dirname "${BASH_SOURCE[0]}" )/.." && pwd )"
 DIRECTORY="dist"
-BRANCH='test'
+BRANCH='gh-pages'
 
 PROJECTNAME='GoodOldBits'
 
