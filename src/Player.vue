@@ -606,7 +606,7 @@ export default {
                 </div>
 
                 <div>
-                    <span>{{ facetedComposersCount }}</span>
+                    <span>{{ facetedComposersCount }} composers, {{ filteredSongs.length }} songs</span>
                 </div>
 
                 <div class="user">
