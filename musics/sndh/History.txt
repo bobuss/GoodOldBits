@@ -1,0 +1,4884 @@
+SNDH.ATARI.ORG - VERSION HISTORY
+------------------------------------------------------------------------------
+
+SNDH.ATARI.ORG - VERSION HISTORY
+------------------------------------------------------------------------------
+
+V4.8 (February 5, 2023)
+
+727 new/updated SNDH files (1668 subtunes).
+
+Here is the long awaited SNDH update!
+
+However, from now on new SNDHs will be available as soon
+as they are uploaded. But don't stress - we will still do 
+yearly update packs
+
+Quick highlights :-
+
++ All music releases from Atari parties since 2018
++ 0913 tunes by Ultrasyd
++ Lucasart tunes ripped by Meynaf
++ Tunes from the DIGIT tracker 1992
++ Mini-Sound-Machine tunes
+
+More information can be found at the SNDH blog
+ 
+Blog: http://sndh.atari.org/blog.php
+
+Title					Composer
+
+4 Years Endtheme			505	
+And we are cracking on ...		505	
+G. P. Telemann Funk			505	
+Megademo Intro				505	
+Merry SMXMAS and a Happy 2019		505	
+Motus					505	
+Orthodox				505	
+Oxygene					505	
+SMag-FX 1 intro				505	
+SMagFX 4 Intro				505	
+The Virtue of Failure			505	
+Tinytune				505	
+Twist					505	
+A Plain New Day				607	
+Drop the Liquorice			607	
+Frost, Fright and Fairies		607	
+Ik ben vandag zo vrolijk		607	
+Out Of Tune				607	
+Piep Piep Hallo!			607	
+Rocks and Drops				607	
+Spiegelbeeld				607	
+Whistling Winds				607	
+Brenarvious				!Cube	
+Super Mega Ultra Turrican+		!Cube	
+Threshold				!Cube	
+how my snowman became an amputee	2a03fox	
+Beastbusters				4-Mat	
+What If					7an	
+Hedgedog Piesojez			AceMan	
+Silly Venture 2020 Invitro		AceMan	
+Blonj Blan				AD	
+Came Embert				AD	
+Discored Unired				AD	
+Moonshine				AD	
+Water Detox				AD	
+Bloodsucker Demo Hidden			Adrian Dalecki	
+Invest					Adrian Dalecki	
+Rolling Ronny A				Adrian Dalecki	
+Rolling Ronny B				Adrian Dalecki	
+Tailwind				aki	
+1st Division Manager			Allister Brimble	All these fixed
+Bignose The Caveman			Allister Brimble	
+CJ's Elephant Antics			Allister Brimble	
+Fantasy World Dizzy			Allister Brimble	
+Fast Food				Allister Brimble	
+Goal!					Allister Brimble	
+Kamikaze				Allister Brimble	
+Kwik Snax				Allister Brimble	
+Mig 29 - Soviet Fighter			Allister Brimble	
+Rampart					Allister Brimble	
+Robin Hood - Legend Quest		Allister Brimble	
+Sky High Stuntman			Allister Brimble	
+Spellbound Dizzy			Allister Brimble	
+Spellfire The Sorceror			Allister Brimble	
+Super Seymour				Allister Brimble	
+The Final Day				Allister Brimble	
+adads					Amelia	
+baba					Amelia	
+bpomopop				Amelia	
+dream sauce awakanang			Amelia	
+A.N. Bass				AN Cool	
+Bass Drum				AN Cool	
+Fleas					Andrew Gower	
+Elektraglide				Andy Severn	
+Joe Blade 2				Andy Severn	
+Rebirth					Anthony Rother	Unpacked as takes 30 seconds to depack!
+Cosmic Pirate Empire Intro		Archimedes	
+vombot makes a website on geocities	Argarak	
+DragonST				atariBDSM	
+Harlequin				Barry Leitch	Extra tunes
+Xenophobe				Barry Leitch	Extra tunes
+Zone Warrior				Barry Leitch	Extra tunes
+Switchblade				Ben Daglish	Speed fix
+Ambermoon				Big Alec	
+Offbeat Demo Compilation Volume 1	Big Alec	
+Uncensored parts 1 and 2		Big Alec	
+Gauntlet 2				Bill Allen	
+Ocean Loader v4				black	
+Super Cycle				Bob Vieira	
+Ensamhet				Britelite	
+Starfall Humppa				Britelite	
+Goofy's Railway Express			Carlo Perconti	
+Mickeys Runaway Zoo			Carlo Perconti	
+Flashbeer				Cerror	
+Charge of the Light Brigade		Chris Denman	
+Kenny Dalglish Soccer Match		Chris Denman	
+Merchant Colony				Chris Denman	
+Paladin 2				Chris Denman	
+Trivia Game Show			Chris Denman	
+Combo Racer Intro			Chris TGE	
+Maggie 5 ULM intro			Chris TGE	
+Ambition				Cornervizion	
+Kohl Ohr Schock				Count Zero	
+Curse of the High Coast			Crazy Q	
+Darwins Dilemma				Crazy Q	
+Darwins Dilemma End			Crazy Q	
+Five Years SMFX				Crazy Q	
+Game On					Crazy Q	
+High Coast Acid				Crazy Q	
+Keep It LOFI				Crazy Q	
+MPC In Dalarna				Crazy Q	
+MY PHUNKY ROBOT				Crazy Q	
+No Screaming Pigs			Crazy Q	
+Original Beat Maker			Crazy Q	
+Street Life				Crazy Q	
+SUE MY SHOES				Crazy Q	
+The (fucking)(complex) Art Of Profanity	Crazy Q	
+Grimey					Damo	
+Maniac Mansion				Dan Filner	
+Little Puff in Dragonland		Dave Kelly	
+Ghostbusters 2 title			Dave Lowe	
+Cybernoid				Dave Rogers	
+Loom					David Hayes	
+Championship Wrestling			David Thiel	
+Winter Games				David Thiel	
+Indiana Jones and the Last Crusade	David Warhol	
+Loom					David Warhol	
+Maniac Mansion				David Warhol	
+The Bards Tale				David Warhol	
+Advanced Rugby Simulator		David Whittaker	All fixed for mono
+APB					David Whittaker	
+Archipelagos				David Whittaker	
+Army Moves				David Whittaker	
+Back to the Future 2			David Whittaker	
+Beverly Hills Cop			David Whittaker	
+Beyond The Ice Palace			David Whittaker	
+BMX Simulator				David Whittaker	
+Buffalo Bill				David Whittaker	
+Challenge Golf				David Whittaker	
+Chips Challenge				David Whittaker	
+Chronoquest				David Whittaker	
+Cloud Kingdoms				David Whittaker	
+Cosmic Pirates				David Whittaker	
+Crossbow - William Tell			David Whittaker	
+Custodian				David Whittaker	
+Dan Dare III				David Whittaker	
+Days of Thunder				David Whittaker	
+Defender of the Crown			David Whittaker	
+Emlyn Hughes Arcade Quiz		David Whittaker	
+Emlyn Hughes Football			David Whittaker	
+Empire Strikes Back			David Whittaker	
+Enduro Racer				David Whittaker	
+European Champions			David Whittaker	
+Eye of Horus				David Whittaker	
+First Person Pinball			David Whittaker	
+Future Sports				David Whittaker	
+Garfield				David Whittaker	
+Gazza 2					David Whittaker	
+Gold of the Aztecs			David Whittaker	
+Golden Axe				David Whittaker	
+Goldrunner 2				David Whittaker	
+Graham Gooch World Class Cricket	David Whittaker	
+Grimblood				David Whittaker	
+Hunter Killer				David Whittaker	
+Ironlord				David Whittaker	
+Jaws					David Whittaker	
+Jupiter Master Drive			David Whittaker	
+Leatherneck				David Whittaker	
+Licence to Kill				David Whittaker	
+Menace					David Whittaker	
+Millennium 2.2				David Whittaker	
+Mr Heli					David Whittaker	
+Ninja Mission				David Whittaker	
+Nitro Boost Challenge			David Whittaker	
+Obliterator				David Whittaker	
+Pandora					David Whittaker	
+Panther					David Whittaker	
+Platoon					David Whittaker	
+Quadralien				David Whittaker	
+Rampage					David Whittaker	
+Renaissance				David Whittaker	
+Renegade				David Whittaker	
+Renegade - Andrew Tather mix		David Whittaker	
+Return to Genesis			David Whittaker	
+Road Blasters				David Whittaker	
+Sidewinder				David Whittaker	Samples added
+Skate Wars				David Whittaker	
+Slapfight				David Whittaker	
+Snoopy					David Whittaker	
+Snowstrike				David Whittaker	
+Speedball				David Whittaker	
+Spitting Image				David Whittaker	
+Sporting Triangles			David Whittaker	
+Starblaze				David Whittaker	
+Starray					David Whittaker	
+Startrek				David Whittaker	
+Starwars				David Whittaker	
+Stormtrooper				David Whittaker	
+Super Stuntman				David Whittaker	
+Super Wonderboy				David Whittaker	
+Supremacy				David Whittaker	
+Tetris					David Whittaker	
+The Real Ghostbusters			David Whittaker	
+Total Recall				David Whittaker	
+Verminator				David Whittaker	
+Voodoo Nightmare			David Whittaker	
+Warlock the Avenger			David Whittaker	
+Weird Dreams				David Whittaker	
+World Class Rugby			David Whittaker	
+Wrath of the Demon			David Whittaker	
+Wreckers				David Whittaker	
+Xenon					David Whittaker	
+Xenon 2					David Whittaker	
+Zombi					David Whittaker	
+Illusion Part 1				Deneb	
+Flashbeer				DF0:BAD	
+Unextreme				Dhor	
+Kick Off				Dino Dini	
+Autorama				DJ Thomas	
+Surfing-on-a-Sine-Wave			djnzx48	
+ATASCII in MMoDA			Dma-Sc	
+Athanor 2 - Legend of the Birdmen	Dma-Sc
+Biomechanical Physics			Dma-Sc	
+Chilled out in Sweden			Dma-Sc	
+Dread					Dma-Sc	
+Fluffy Clouds				Dma-Sc	
+Froggies ? Oh ! no offense...		Dma-Sc	
+Galaxy Trip				Dma-Sc	
+GemTos Invitro				Dma-Sc	
+GemTos Tribute Sequence			Dma-Sc	
+glADNess				Dma-Sc	
+Hatari 2.1				Dma-Sc	
+Lecons de Tenebres			Dma-Sc	
+Lovetro Main Theme			Dma-Sc	
+Melankoland				Dma-Sc	
+MMoDA					Dma-Sc	
+MMoDA Intro				Dma-Sc	
+Modern Entertainers			Dma-Sc	
+MYM PWM and cust wave jam		Dma-Sc	
+Neverending Summer Love			Dma-Sc	
+Safari Guns Cracktro			Dma-Sc	
+Sommarhack 1991 Best Of			Dma-Sc	
+Sommarhack 1991 Best Of Intro		Dma-Sc	
+Son Shu Shi cracktro			Dma-Sc	
+Son Shu Shi cracktro hidden		Dma-Sc	
+Synthetic Persona			Dma-Sc	
+The Party - Dub				Dma-Sc	
+The Party - Intro			Dma-Sc	
+The Party - Reggae			Dma-Sc	
+The Rise of Love			Dma-Sc	
+Tuned Caps & Sexy Chips			Dma-Sc	
+UFO - I Want to Believe			Dma-Sc	
+Unbelievable				Dma-Sc	
+Unreachable				Dma-Sc	
+Unstatik				Dma-Sc	
+Whack a Virus!				Dma-Sc	
+What Have You Done?			Dma-Sc	
+Winter Troubadour			Dma-Sc	
+0010 1010 +1				Dolby	
+Acoustic Paradise			Dolby	
+STNICCC 2000++				Dolby	
+Block Out				Dorota Blaszczak	
+Club Backgammon				Dorota Blaszczak	
+Phantasie I				Dorota Blaszczak	
+Phantasie II				Dorota Blaszczak	
+Rings of Zilfin				Dorota Blaszczak	
+Vegas Gambler				Dorota Blaszczak	
+Pulsion 75				Dr Beat	
+Alien-City				Draxx	
+Anatevka (Musical)			Draxx	
+Blast Off				Draxx	
+Blink					Draxx	
+I'm a lonely Bikin' Bear		Draxx	
+Journey to the Stars			Draxx	
+Kill MS-DOS and WINDOWS			Draxx	
+MC Drax add the groovy Eumels		Draxx	
+Rainblues				Draxx	
+Spar-Rap				Draxx	
+Whananaxx				Draxx	
+Pressure Drop version 1			Dubmood	
+Esprits Maths				Epic	
+I Might As Well Be On Mars		Epic	
+Kikoo Electra				Epic	
+Kikoo Lap				Epic	
+Metallica				Epic	
+Vixit					Epic	
+Vixit In His Bath			Epic	
+Indiana Jones and the Last Crusade	Eric Hammond	
+Loom					Eric Hammond	
+Dulcedo (C64 cover)			Estrayk	
+Her Numbness (ST)			Estrayk	
+Hybris					Estrayk	
+OKS (Cover)				Estrayk	
+Telephone (cover)			Estrayk	
+Bubble Bobble Descend into Hell mix	Excellence In Art	
+Demosong				Excellence In Art	
+G. P. Telemann Funk			Excellence In Art	
+Gubbdata 2020				Excellence In Art	
+Just add cream				Excellence In Art	
+Love Potion Level 4 (Hello)		Excellence In Art	
+SMagFX 4 Intro				Excellence In Art	
+Speechless				Excellence In Art	
+Steps					Excellence In Art	
+Pink Panther				Fabian Rosenschein	
+Supremacy 18				FOFT	
+Supremacy 20				FOFT	
+African Raiders				Francois Peirano	
+Monkeys & Balloons			Frank Cohen	
+TSC 19					Frazer	
+TSC 26					Frazer	
+TSC Fettisdag Slideshow			Frazer	
+Star Goose				Fred Gray	Fixed
+Halftron				Frequent	
+Level 41				Frequent	
+Sid Jensen				Frequent	
+Vrimmel (maxYMiser version)		Frequent	
+Vrimmel (Triplex version)		Frequent	
+Virtual Escape Unused			Furax	
+Samotny Wilk				Garvalf	
+Title0					Garvalf	
+Title5					Garvalf	
+Title7					Garvalf	
+UCM 1 intro				Gary	
+Avina Blue				Gary Wheaton	
+Dance All Night				Gasman	
+To The Ends Of The Earth		Gasman	
+Loom					George Sanger	
+Steve Davis World Snooker		Grant Evans	
+Aggressive Hornet			gwEm	
+Babylon Can Wait			gwEm	
+Darkness				gwEm	
+Psycho Hacking Force			gwEm	
+Wicked Modulation			gwEm	
+Monotheist				H0ffman	
+Great Courts				Haiko Ruttmann	
+Tom And The Ghost			Haiko Ruttmann	
+Twinworld				Haiko Ruttmann	
+dozing markou bot			Hanna	
+Persian Gulf Inferno			Holger Gehrmann	
+Synth Sample V				Holger Gehrmann	
+Toxic Mag 16				ISO	
+adggfjggfafafafa the song		Jakerson	
+My SpaceRocket is facking Awesome	Jakerson	
+vombot wat is that			Jakerson	
+vombot you have to finish your homework	Jakerson	
+watermelons				Jakerson	
+Chopper X				Janko Mrsic Flogel	
+Final Legacy				Janko Mrsic Flogel	
+Haunted House				Janko Mrsic Flogel	
+Space Station				Janko Mrsic Flogel	
+ST Karate				Janko Mrsic Flogel	
+ST Protector				Janko Mrsic Flogel	
+Bof Bof					Jedi	
+USS John Young				Jesper Kyd	
+4K Memories (Revision 2022)		Jess	
+Akira vs Sangoku vs Ip Man 		Jess	
+Blip Bait For The Masses		Jess	
+FirST Love (Hidden)			Jess	
+FirST Love (Pt1)			Jess	
+FirST Love (Pt2)			Jess	
+FirST Love (Pt3)			Jess	
+FirST Love (Pt4)			Jess	
+FirST Love (Pt5)			Jess	
+FirST Love (Pt6)			Jess	
+FirST Love (Pt7)			Jess	
+FirST Love (Pt8)			Jess	
+FirST Love (Reset)			Jess	
+Little -ME- Odyssey			Jess	
+Metaverse Entertainment			Jess	
+Ninja Turtle Syndrom			Jess	
+Purrfect Cheetah			Jess	
+PYM - The Cube				Jess	
+Saw Toothed Tiger Finale		Jess	
+Snow Leopard Overture			Jess	
+The 3 Minstrels Awakening		Jess	
+The Bobcat Delirium			Jess	
+Rocket Ranger				Jim Simmons	
+TV Sports Football			Jim Simmons	
+Disciples of Steel main			Jim Smelley	
+Pulsion 125				Joard	
+Saint Dragon				John Croudy	
+Voyager					Jonathan Dunn	
+Toxic Mag 18				Kanewood	
+Iceblox Plus				Karl Hornell	
+Ultima III - Exodus			Ken Arnold	
+Ultima IV - Quest of the Avatar		Ken Arnold	
+ST Beermat				Kev Davis	
+for some reason, the page is botb	Kleeder	
+Wants action instead of homework	Kleeder	
+Wietzes chiphol simulator		Knoedelkrauzk	
+Make prods not war			kubikami	
+Edtro					Kuckeliku	
+Spice Boyz				Kuckeliku	
+Starfield				Kuckeliku	
+Starfield SID				Kuckeliku	
+Cuevas De Los Tayos			Lotek Style	
+Unrepairable (YM Version)		Lotek Style	
+Mind Endurance				luchibobra	
+Little Puff in Dragonland		Lyndon Sharp	
+Archon					Mad Max	
+Archon remix				Mad Max	
+Arkanoid				Mad Max	
+Arkanoid - SID				Mad Max	
+Arpy					Mad Max	
+Bangkok Knights - SID			Mad Max	
+Bangkok Knights Loader			Mad Max	
+Bangkok Knights Loader - SID		Mad Max	
+Battle of Britain - SID			Mad Max	
+Car Race - SID				Mad Max	
+LAB - Loader - SID			Mad Max	
+Pro BMX Simulator A			Mad Max	
+Return to Medusa - SID			Mad Max	
+Scoop thats the Way It is - SID		Mad Max	
+So Watt - No Crew			Mad Max	
+So Watt - No Crew - SID			Mad Max	
+Starball digi				Mad Max	
+The Seven Gates of Jambala remix	Mad Max	
+To Be On Top				Mad Max	
+Wings Of Death				Mad Max	
+Wings of Death STe			Mad Max	
+Gitarr					Marcer	
+Hamma					Marcer	
+World Championship Soccer		Mark Cooksey	
+Robocop 2				Matthew Cannon	Paul Hughes confirmed composer
+Zak McKracken and the Alien Mindbenders	Matthew Kane	
+Run the Gauntlet			Mcasso	Fixed
+Datastorm 2017 invite			MCH	
+DigiSTories				MCH	
+Green Beard				MCH	
+Mutative				MCH	
+Saguro					MCH	
+Chilicon Valey				Mephistow	
+Dead Society				Mephistow	
+Electric Sound				Mephistow	
+Enigmatica				Mephistow	
+Jysteris				Mephistow	
+Dreamless				Mic	
+Cobra II				Michel Winogradoff	
+Dark Sat				Michel Winogradoff	
+Guardians				Michel Winogradoff	
+Mach 3					Michel Winogradoff	
+Leisure Suit Larry 3			Mike Dana	
+Indiana Jones and the Last Crusade	Mike Davies	
+Italy 90				Mike Davies	
+Kuba Club Mix Pack 2			Mikee	
+Chipface				Miq	
+Not-Yet-Time-Chaos-Constructions-2017-3	MmcM	
+Transistor of Hacker			MmcM	
+Cougar Force				Moby	
+Substance				Moby	
+Alles Nur Geklaut			Modmate	
+And we are cracking on ...		Modmate	
+Aquanaut				Modmate	
+Bring Back the 90s			Modmate	
+Chip Mashup				Modmate	
+ChipMon Tales				Modmate	
+Dancetrack				Modmate	
+DHS (ttrak test)			Modmate	
+Fullmetal Fighter STe			Modmate	
+jamtrack (ode to scavy)			Modmate	
+Jess-O-Mat				Modmate	
+Leif Rular (ttrak test edition)		Modmate	
+Nukeloader				Modmate	
+Prophecy Mym Version			Modmate	
+Rebuilding Fractals			Modmate	
+Shche Ne Vmerla Ukrainy			Modmate	
+Summer					Modmate	
+Taolectikal				Modmate	
+Tetris Music A				Modmate	
+The Morph Helix				Modmate	
+Unreeeal Superhero 3			Modmate	
+WOTW 56					Modmate	
+WOTW 56 digi				Modmate	
+WOTW 75					Modmate	
+WOTW 79					Modmate	
+WOTW 82					Modmate	
+WOTW 98					Modmate	
+WOTW 98 (ttrak edition)			Modmate	
+How Much is the Fish			MotionRide	
+The Checkerboardening			Mr Coke	
+Gen4					Mr X	
+Misery					mygg	
+Rise Up					mygg	
+Disco					Nexus 6	
+Drummer					Nexus 6	
+Fifth					Nexus 6	
+First					Nexus 6	
+Fourth					Nexus 6	
+Klilack					Nexus 6	
+Klinik					Nexus 6	
+Muhh					Nexus 6	
+New					Nexus 6	
+Oxide					Nexus 6	
+Panic Theme & Variation			Nexus 6	
+Second					Nexus 6	
+Seventh					Nexus 6	
+Terror					Nexus 6	
+Test					Nexus 6	
+Third					Nexus 6	
+Honda RVF				Nick Moorbath	
+Pictionary				Nick Moorbath	
+Spy vs Spy - Arctic Antics		Nick Scarim	
+Double Dragon				Nick Vincent	
+Double Dragon 2				Nick Vincent	
+deadline-funk				nq	
+ppk					nq	
+Sweet Dreams				nq	
+synchronization				nq	
+Tech - The Race Against the Targanoids	Olaf Mindach	
+a new day that feels like all days	OminPidgeon	
+Amelia watering the flowers		OminPidgeon	
+Furui kabin				OminPidgeon	
+Guardian Turtle Boss Battle		OminPidgeon	
+happy centipede on his way to work	OminPidgeon	
+Hidden Pavlopetri			OminPidgeon	
+mini plane fights into taccato castle	OminPidgeon	
+Prodigium Depths			OminPidgeon	
+Vombots Villanous Daydreaming		OminPidgeon	
+Winter Beach Zone			OminPidgeon	
+Yokai Residence				OminPidgeon	
+Persifal				Pascal Constanza	
+Popeye 2				Paul Loraine	
+Tonic Tile				Paul Seneville	
+Tonic Tile FX				Paul Seneville	
+Desolator Main				Paul Summers	
+Oriental Games				Paul Summers	
+Thomas the Tank Engine			Paul Tankard	
+Thomas the Tank Engine 2		Paul Tankard	
+Contact Us Prg				Perkele	
+Arkanoid				Peter Johnson	
+Arkanoid - Revenge of Doh		Peter Johnson	
+Daley Thompson's Olympic Challenge	Peter Johnson	
+Robocop					Peter Johnson	Fixed Added sample intro
+Wizball					Peter Johnson	
+Fuzion 44				Phil Good	
+Ivanhoe					Pierre-Eric Loriaux	Fixed
+Plotting				Pierre-Eric Loriaux	Fixed
+Toki					Pierre-Eric Loriaux	Fixed
+Basics					Proto	
+Battle Royale				Proto	
+Buzz					Proto	
+Camel Trot				Proto	
+CobraCOM				Proto	
+Done and Dusted				Proto	
+Doom					Proto	
+Dream					Proto	
+dYMb					Proto	
+Flexiscroll				Proto	
+Mantrax					Proto	
+Metabuzz				Proto	
+Mortal Kombat				Proto	
+The Joker				Proto	
+Mod Compil 96 02			Radium	
+101 Phraqtals Show			Ralph	
+No Blitter				Ralph	
+Slalom					Ralph	
+GURU LAMINATION				Rhino	
+Dragons Breath				Richard Joseph	Added extra tunes. Coder confirmed tune by RJ not DH 
+Darktrip - Stars			Rick	
+Miami Vice				Rick Leinecker	
+Arsenite				Ricky Martin	
+Bad Remix				Ricky Martin	
+Blonk					Ricky Martin	
+Cheerful and Sociable			Ricky Martin	
+Krets					Ricky Martin	
+Lapamato				Ricky Martin	
+Let Go					Ricky Martin	
+No Rights				Ricky Martin	
+Pause					Ricky Martin	
+Serial					Ricky Martin	
+Silly Venture 2k18 Invitation		Ricky Martin	
+Starfall Humppa				Ricky Martin	
+The Truth Hurts				Ricky Martin	
+Goldrunner				Rob Hubbard	Added samples. Now two subtunes - samples/chip and chip only. 
+Warhawk					Rob Hubbard	
+You're Wrong				Robyn	
+Bax					Rod	
+Demo 1					Rod	
+Demo 2					Rod	
+Demo 3					Rod	
+Quant Mux				Rod	
+Super Huey				Russ Bedord	
+Dream Zone				Sarah Sidman	
+Now Its Over				Seajeff	
+texts					sean	
+vortex whirlpool			sean	
+Sooty & Sweep Fun With Numbers		Sean Conran	
+O.C.E.A.N				SERGant	
+Stax 84					Sh3	
+Backlash				Simon Berry	Fixed
+Damocles				Simon Berry	
+Encounter				Simon Berry	
+Sinbad and the throne of the falcon	Singing Electrons	
+Bosmang					Skuggemannen	
+Bowdog					Skuggemannen	
+Chrysalis				Skuggemannen	
+Dorks of Pang				Skuggemannen	
+Fokk					Skuggemannen	
+Gnawrly Derps				Skuggemannen	
+l'Abbaye des Morts			Skuggemannen	
+Lostbeat				Skuggemannen	
+Shades of Circuits			Skuggemannen	
+Stargazer				Skuggemannen	
+Strum					Skuggemannen	
+The Beginning				Skuggemannen	
+The Feller				Skuggemannen	
+The Journey				Skuggemannen	
+Thumper					Skuggemannen	
+Atari Loves Bombs			Soundy	
+Deafwish				Speechless	
+Captain Fizz				SRS	
+Noisy Pillars (Jeroen Tel cover)	Stax	
+Kult					Stephane Picq	
+Italia 1990				Steve Barrett	
+SAS Combat Simulator			Steve Barrett	
+Disciples of Steel main			Steve Schrade	
+Komen Wij Uit Rotterdam			Stu	
+Mind The Bend The Mind			Syphus	
+Bits 44					T1000	
+Bits 50					T1000	
+Bits 54					T1000	
+Bits 62					T1000	
+Bits 65					T1000	
+Foxx 1					Tangens	
+Foxx 2					Tangens	
+Buzz Me!				Tao	
+SillyLoop				Tao	
+Sillystomp				Tao	
+ultraBooST				Tao	
+44					Tat	
+tubnob					Tennisers	
+Candles					TFX	
+Death And Taxes				TFX	
+Floating Points				TFX	
+Love Bytes				TFX	
+Starfields 2001				TFX	
+Wolf Pack				Thom Clement	
+Frogs main				Thomas ilg	
+Frogs title				Thomas ilg	
+Smooth CrYMinals			Timbral	
+Kid Gloves				Timothy Closs	Fixed
+Chasing That Little Rascal		Tobikomi	
+The Intelligent Vombot			Tobikomi	
+Basic Ttrack				Tomchi	
+Enjoy The Sun				Tomchi	
+Fog					Tomchi	
+HiHan					Tomchi	
+In Waves				Tomchi	
+Juxtaposition				Tomchi	
+Life					Tomchi	
+Moodish					Tomchi	
+PLAS23					Tomchi	
+Smoke Town				Tomchi	
+Temptation				Tomchi	
+Dominator				Tony Francis	
+Stax 138				Tyan	
+UF Intro				Tyan	
+Mini Golf				Ulrich Schultz	
+A Tribute To Nothing			Ultrasyd	Deprotected by Leonard
+Atari Sucks				Ultrasyd	
+Dansen Dronkaard			Ultrasyd	
+Dead But Still Dancing			Ultrasyd	
+Laying Down Some Patterns		Ultrasyd	
+Monochrom Morning			Ultrasyd	
+Needs More Atari			Ultrasyd	
+The Final BitchSlap			Ultrasyd	
+Tokyo Part II				Ultrasyd	
+Tokyo Part III				Ultrasyd	
+Alien Fires 2199AD			Unknown Composer	
+Atarian					Unknown Composer	
+Boing					Unknown Composer	
+Brass					Unknown Composer	
+Breakmen				Unknown Composer	
+Combo Racer				Unknown Composer	
+Demons Winter				Unknown Composer	
+Easy For You To Say			Unknown Composer	
+Fast Lane!				Unknown Composer	
+FOD List				Unknown Composer	
+Hillsfar				Unknown Composer	
+Illusion Part 2				Unknown Composer	
+Instyle					Unknown Composer	
+Kling					Unknown Composer	
+Major Motion				Unknown Composer	
+Melody					Unknown Composer	
+Nice One				Unknown Composer	
+Phantasie III - The Wrath of Nikademus	Unknown Composer	
+Piano					Unknown Composer	
+Questron II				Unknown Composer	
+Road Runner				Unknown Composer	
+Roadwar 2000				Unknown Composer	
+Roadwar Europa				Unknown Composer	
+Skate Ball				Unknown Composer	v1 of the game
+Stormlord				Unknown Composer	
+Techno					Unknown Composer	
+Technotronic				Unknown Composer	
+Temple of Apshai Trilogy		Unknown Composer	
+Test					Unknown Composer	
+Test2					Unknown Composer	
+The Final Frontier			Unknown Composer	
+Time					Unknown Composer	
+Timesold				Unknown Composer	
+Total Confusion				Unknown Composer	
+Uridium					Unknown Composer	
+Wizards Crown				Unknown Composer	
+Work					Unknown Composer	
+World Games				Unknown Composer	
+Xor					Unknown Composer	
+Zirpy					Unknown Composer	
+Napalm-Loadertune			wbcbz7	
+firSTtro				Wiecz0r	
+Heal Old Geek Main			Wiecz0r	
+Heal Old Geek Outtro			Wiecz0r	
+Laserball 2014				xFalcon	
+Randomazer				xFalcon	
+Mussolini				Xrwwr	
+Zoomed!					Xrwwr	
+BASSEZ					Xyce	
+Amiga					YQN	
+AYFTERNO				YQN	
+bellyfoul				YQN	
+birthdaYMoodswing			YQN	
+February Fool				YQN	
+FMERGENCY				YQN	
+Half Assed Blues			YQN	
+HNY2021					YQN	
+HTTPSVOM				YQN	
+Last Attempt				YQN	
+Nez Directions				YQN	
+Olds Cool				YQN	
+Out of Breqth				YQN	
+Quickie					YQN	
+Sidisord				YQN	
+Vomwalks				YQN	
+We accidentally your Oculus		Zerkman	
+Jebac					Zlew	
+Generation One				ZoltarX	
+Seven Bit Tune				ZoltarX	
+
+
+
+------------------------------------------------------------------------------
+
+
+V4.7 (January 6, 2018)
+
+323 new/updated SNDH files (1209 subtunes).
+
+We slug out another SNDH update. 
+
+Quick highlights :-
+
++ All the sid-i-fied tunes from HIPSid incuded
++ More SNDH-Digi tunes including Altair, Populous & Fighter Bomber
++ Tonnes of rare tunes by Mephistow & Jovis
++ More ancient un-ripped tunes by Daglish, Loriuax, Shimskey & Legace
++ Curse of Ra, innovative chip-digi driver for the time
+ 
+Blog: http://dbug.kicks-ass.net/sndh/ 
+
+
+NEW
+
+Title					Composer
+Dalarna Calling				505
+Execution Intro				505
+Execution Mainpart			505
+Mosquido Dots				505
+Ripoff					505
+Unglobal				505
+All's Well That Ends Well		607
+Better Luck Next Time			607
+Dawn of a New Endeavour			607
+Expanding Possibilities			607
+Good Old Times				607
+Happy Smiles				607
+Intense Stuff				607
+Journey of the Woolly			607
+Pursuing Freedom			607
+Reaping Benefits			607
+You Did It!				607
+Elusive Groove				!Cube
+Hyper Ocean Ride			!Cube
+Terraboink				7an
+Pumpkin Hop				AceMan
+Rybalt Bzdziwuj z Atarostu		AceMan
+Adidas Championship Tie-Break		Adrian Dalecki
+Slightly Magic				Allister Brimble
+Magenta					Arnauld Chevallier
+CJ In The USA				Ashley Hogg
+Zone Warrior Preview			Barry Leitch
+Roy of the Rovers			Ben Daglish
+Dark Side of the Spoon - TLB remix	Crawdaddy
+Dozen					Crawdaddy
+Going Places				Crawdaddy
+Meatballs				Crawdaddy
+Pure Energy 3				Crawdaddy
+Tune 4					Crawdaddy
+Crack 95				Crazy Q
+Midnight Sun				Crazy Q
+Avalon					Daniel Decourdemanche
+Balls Up				Darren Ithell
+Fusion					Dave Hanlon
+Battleships				David Whittaker
+Challenge Golf				David Whittaker
+Super Stuntman				David Whittaker
+Garcimore Aime Les Moules End		Deneb
+Frenchies				Dma-Sc
+Frogger					Dma-Sc
+My Galaxy				Dma-Sc
+Quartet Deluxe				Dma-Sc
+UBI Soft 30th Anniversary		Dma-Sc
+UCM 23 Intro				Dma-Sc
+Arachnophobia Intro			Epic
+Hydroxid				Epic
+Eierkopf				Ewald Greiml
+Marble Islands				Ewald Greiml
+Hexagon					Exyl
+Altair					Fabrice Decroix
+Batch Please!				fegolhuzz
+Alphabet Mix				Flipside
+Metal Planet				Floopy
+Revers					Frequent
+Stress					Frequent
+Preview					Furax
+Return					Furax
+FREY OG HAVFRUEN			Garvalf
+Le Refuge				Garvalf
+Cheqular				Grease Monkey
+Wonderful World				gwEm
+Sound					Hagen
+Fiendish Freddy's Big Top o'Fun		Igor Shimskey
+Inter Me 2				Jedi
+Phaleon - Nerve Centre			Jedi
+Unknown					Jedi
+Killing Time				John Wangler
+Mahna-mahna				Jookie
+Santa-Claus is Coming to Town		Jookie
+Cannon Fodders in action		Jovis
+Do you feel the drum?			Jovis
+Enter the merry-go-round		Jovis
+Everybody can find how to make it	Jovis
+Five ears-tearings			Jovis
+I'm a lonesome boy, yeah!		Jovis
+Morphing tunes				Jovis
+Never Plucking Again			Jovis
+Out of the war action			Jovis
+Please recover your high spirits!	Jovis
+Pop-Corn maniac fun show		Jovis
+Praelude of Bachs variation		Jovis
+Tales of the Arabian days		Jovis
+Tellers troubled Funband		Jovis
+The real heartburner			Jovis
+Three classic snores			Jovis
+Why the World?				Jovis
+Will you bear that?			Jovis
+Gunship					Ken Legace
+M1 Tank Platoon				Ken Legace
+Pirates!				Ken Legace
+Red Storm Rising			Ken Legace
+Pure Energy 11				Lotus
+Phaleon - Fullball			LTK
+Advanced Fruit Machine Simulator	Lyndon Sharp
+5th Gear - SID				Mad Max
+A Prehistoric Tale			Mad Max
+A Prehistoric Tale - SID		Mad Max
+Airball Remix - SID			Mad Max
+Alloy Run - SID				Mad Max
+Amberstar - SID				Mad Max
+Archon - SID				Mad Max
+Arkanoid - SID				Mad Max
+Arpy Remix - SID			Mad Max
+Astaroth - SID				Mad Max
+Atomino - SID				Mad Max
+Atomix - SID				Mad Max
+Axel F - SID				Mad Max
+Bach the Future - SID			Mad Max
+Bach the Future remix			Mad Max
+Bach the Future remix - SID		Mad Max
+Bangkok Knights				Mad Max
+Bangkok Knights Loader			Mad Max
+Big Sprite - SID			Mad Max
+Car Race - SID				Mad Max
+Chambers of Shaolin - SID		Mad Max
+Childrens Song - SID			Mad Max
+Circus Attractions - SID		Mad Max
+Comic Bakery - SID			Mad Max
+Crimetime - SID				Mad Max
+Cuddly Reset - SID			Mad Max
+Cybernoid - SID				Mad Max
+Cybernoid 2 - SID			Mad Max
+Dark Side Of The Spoon - TLB - SID	Mad Max
+Demo Music 5 - SID			Mad Max
+Demo Music 6 - SID			Mad Max
+Demo Music 7 - SID			Mad Max
+Demo Music 8 - SID			Mad Max
+Dragonflight - SID			Mad Max
+Dugger - SID				Mad Max
+Enchanted Land - SID			Mad Max
+Esbe - SID				Mad Max
+Fletch - SID				Mad Max
+Galway Mix				Mad Max
+Galway Mix - SID			Mad Max
+Gambol - SID				Mad Max
+Grand Monster Slam - SID		Mad Max
+Great Giana Sisters - SID		Mad Max
+Ikari Union - SID			Mad Max
+Insects In Space - SID			Mad Max
+Jinks - SID				Mad Max
+JT in Space - SID			Mad Max
+Knucklebusters - SID			Mad Max
+LAB - Loader - SID			Mad Max
+Last Ninja				Mad Max
+Last Ninja - SID			Mad Max
+Leavin Teramis - SID			Mad Max
+LM - SID				Mad Max
+Main Menu - SID				Mad Max
+Main Menu - SID				Mad Max
+Masterblazer - SID			Mad Max
+Mega Apocalypse - SID			Mad Max
+Nearly Spherical - SID			Mad Max
+Noisy Pillars - SID			Mad Max
+Noname - SID				Mad Max
+Nordik Coders - SID			Mad Max
+OCWAS Sheep in Mongolia - SID		Mad Max
+OCWAS Your Mind is my Ashtray - SID	Mad Max
+Ooh Crikey Loader - SID			Mad Max
+Pablo_Gold_Of_Montezuma - SID		Mad Max
+Pandora - SID				Mad Max
+Poker Music - SID			Mad Max
+Pro BMX Simulator A - SID		Mad Max
+Pro BMX Simulator B - SID		Mad Max
+Pro Tennis Tour 2 - SID			Mad Max
+Quizmaster - SID			Mad Max
+Return to Medusa - SID			Mad Max
+Return to Medusa Unused - SID		Mad Max
+Rings of Medusa - SID			Mad Max
+Robocop - SID				Mad Max
+Rollout - SID				Mad Max
+Scout - SID				Mad Max
+Scout Remix - SID			Mad Max
+Shades / Giana Sisters Remix		Mad Max
+Shades / Giana Sisters Remix - SID	Mad Max
+ST News 6.1 - SID			Mad Max
+Starball - SID				Mad Max
+Stormlord - SID				Mad Max
+Supersonic - SID			Mad Max
+Syntax - Level 16 - SID			Mad Max
+Syntax - Loader - SID			Mad Max
+Tangram - SID				Mad Max
+Thalion intro - SID			Mad Max
+The Seven Gates Of Jambala - SID	Mad Max
+Thundercats - SID			Mad Max
+Warhawk Remix - SID			Mad Max
+Warp - SID				Mad Max
+Warp Preview - SID			Mad Max
+Data upp och data ner			Mahoney
+High Score (Attack Wave)		Malodix
+Diablo					Manuel Constantinidis
+720 tune1				Marcer
+Ace II					Marcer
+I Wish (Attack Wave)			Marcer
+Soft XXX				Marcer
+Air Supply				Markus Weichselbaum
+Curse of Ra				Markus Weichselbaum
+Run the Gauntlet			Mcasso
+Andromed				Mephistow
+Deadsoci				Mephistow
+Electric				Mephistow
+Emispher				Mephistow
+Enigmati				Mephistow
+Gadjoe					Mephistow
+Gold					Mephistow
+Hagen					Mephistow
+Horgame					Mephistow
+Illusion Main				Mephistow
+Karista					Mephistow
+Momiblou				Mephistow
+Odd					Mephistow
+Quaracas				Mephistow
+Runway					Mephistow
+S. King					Mephistow
+Skylab					Mephistow
+Storm					Mephistow
+Windjamm				Mephistow
+Zaphira					Mephistow
+Datastorm 2017 invite			Michu
+Mushy Music				Mikael Lundberg
+Garcimore Aime Les Moules Intro		Morgan
+367 Days				MotionRide
+GreenBox				MotionRide
+How Much is the Fish			MotionRide
+K0mar (Atari XL conversion)		MotionRide
+OctoBitz				MotionRide
+Spy vs Spy Theme			MotionRide
+The World According to Nordlicht	Mr Coke
+Outzone					Nicolas Andzrejak
+Recovery				Nicolas Andzrejak
+UCM SILIcon Special 97			No More
+Fighter Bomber				Paul Summers
+Plotting				Pierre-Eric Loriaux
+Giga Dance Demo - Boot			Raider
+Bort					Ricky Martin
+SillyVenture 17 Invitation		Ricky Martin
+Arsenite				rm
+Populous				Rob Hubbard
+Yogi Bear and Friends in Greed Monster	Sean Conran
+Paradise CD 1				Sighfried
+Paradise CD 2				Sighfried
+Pleaze Wait - End Screen		Sonix
+Konix					Stan Mercury
+Indigo					Stephane Belin
+Recovery				Stephane Belin
+The Karate Kid - Part II		Steve Bak
+Badlands Pete				Steve Cain
+Detonator Music Disk 8			Steve Wonder
+Slub					Stu
+F6					Tao
+Reels of Fortune			Terry Mancey
+New YM					TFX
+Forgotten Bits				Tomchi
+ltc1B (compo version)			Tomchi
+Ngup (looped)				Tomchi
+No Face					Tyan
+Stax 41					Tyan
+Apache Flight				Unknown Composer
+Bubblefield				Unknown Composer
+Horror Zombies from the Crypt		Unknown Composer
+Kids Academy - Alvins puzzles		Unknown Composer
+Kids Academy - Alvins puzzles title	Unknown Composer
+Play and Read - Learn to Read with Prof	Unknown Composer
+Ultimate Arena				Unknown Composer
+Whos That Girl				Unknown Composer
+Tribute To The Sentinel			V!X
+Remote Entry 2				VIX
+Back 2 0ldsch00l			Wiecz0r
+Raiders of the lost duke		Wiecz0r
+Datass Plus				Xyce
+HappyHardcore				Yerzmyey
+Temple of Asherah			Yerzmyey
+ah que coucou				Zerkman
+
+FIXED OR UPDATED
+			
+Mixed Up Mother Goose			Amenda Lombardo
+Frankenstein				Barry Leitch
+Manhunter - San Francisco B		Barry Murray
+Butcher Hill				Ben Daglish
+Continental Circus			Ben Daglish
+Deflektor				Ben Daglish
+Kingmaker				Ben Daglish
+Munsters				Ben Daglish
+Rick Dangerous 2			Ben Daglish
+PYM - Ishido Way Of The Stones		Big Alec
+Overdrive Bitmap Mania			Chris Mad
+Overdrive Music Box			Chris Mad
+Skate Tribe				Christopher Guard
+Microprose Formula One Grand Prix	Dave Lowe
+Exolon					Dave Rogers
+Defender of the Crown			David Whittaker
+Skate Wars				David Whittaker
+Stormtrooper				David Whittaker
+Star Goose				Fred Gray
+Where Time Stood Still			Fred Gray
+Spider Spell 2				Geoff Camp
+Outrun					Jas_C_Brooke
+Outrun - USA version			Jas_C_Brooke
+Realms					Jason Page
+Risky Woods				Jose A. Martin
+Hook					Jonathan Dunn
+Synth Dream				Lotus
+Kings Quest 3 - The Heir is Human	Margaret Lowe
+Police Quest - In Death Angel		Margaret Lowe
+Mighty Bombjack				Mark Cooksey
+Space Quest Chapter 1- The Sarien 	Mark Crowe
+Space Quest Chapter 2 - Vohauls 	Mark Crowe
+Violence				Martin Barlow
+Badlands				Matt Furniss
+Hard Drivin				Matt Furniss
+Klax					Matt Furniss
+Rugby - The World Cup			Matt Furniss
+Thunderwing				Nigel Pritchard
+Lotus III - The Ulitmate Challenge	Patrick Phelan
+Super Hang On				Paul Summers
+Yolanda					Phil Bak
+Salt Evil				Scavenger
+Who Cares				Scavenger
+Elvira - The Arcade Game		Sean Connolly
+Circus Games				Wally Beben
+Collosus Chess X			Wally Beben
+
+
+------------------------------------------------------------------------------
+
+
+V4.6 (August 16, 2016) - Yorkshire day!
+
+345 new/updated SNDH files (437 subtunes).
+
+We made it! SNDH v4.6 finally hits the streets.
+
+Quick highlights :-
+
++ Figured out Michel Winogradoff's digi routines, so here's Disc, 
+  Turbo Cup & Bumpy
++ Finally Mad Max's "Bittner, Bit, Bit, Bittner" is included
++ Many more unknown Quartet tracks added
++ STNICCC tunes including gwEm's winning entry
++ Missing The Bits music-mon tunes added, sorry
++ Tonnes of XBios-32 added, sorry mk2
++ 505's fabulous Sabotage tracks
++ Many Jovis tri-mod and SSD tunes
+
+A much more comprehensive account of this release are contained in Grazey's 
+blog at 
+  
+Blog: http://dbug.kicks-ass.net/sndh/ 
+
+
+NEW
+
+Alternative Invite			505
+Courage (compo version)			505
+Hires					505
+Pulse					505
+Pulse intro				505
+Sabotage Intro				505
+Sabotage Main				505
+Glittering Waves			!Cube
+Assembly Line				7an
+Bleeps of San Secuestro			7an
+Ruby					ACC
+Stupid					ACC
+Demo Tune				Ace
+Pro BMX Simulator (cover)		Big Alec
+Bladerunner				black
+Turrican 2 final - release version	black
+Turrican 2 final - sid version		black
+Dark Side of the Spoon - TLB remix	Crawdaddy
+Despair					Crawdaddy
+Who Knows				Crawdaddy
+Sillyventure 2013 Invite Main		Damo
+Wings of Death Mix by Damo		Damo
+Uncomplicated				Dhor
+2149 Lives				Dma-Sc
+Circle Dots				Dma-Sc
+ParaDis3 - Parallax Distorter		Dma-Sc
+Zabutoms Space Journey (D-Bug remix)	Dubmood
+Fuck Cancer				Excellence In Art
+Xmas 2015				Excellence In Art
+Crazy Cars III				Fred Eric Gerard
+Super Cauldron				Fred Eric Gerard
+KGB - Fly Over Fantasy			Ged
+Flash of the Rom			gwEm
+YM303					gwEm
+Great Courts				Haiko Ruttmann
+Tom And The Ghost			Haiko Ruttmann
+Maniac					Illusion
+Intruder 1				Intruder
+Intruder 2				Intruder
+Intruder 3				Intruder
+Intruder 4				Intruder
+Intruder 5				Intruder
+Intruder 6				Intruder
+Intruder 7				Intruder
+Pac-Land				Jas_C_Brooke
+3 Tunes					Jovis
+5 Tunes					Jovis
+BAF					Jovis
+Cannon F				Jovis
+Compil using no drum			Jovis
+Compil with some crap			Jovis
+Ghost ship, then Fun-board		Jovis
+If you were a photon			Jovis
+Jetset Willy Fantasy			Jovis
+Merry Goes Round			Jovis
+Mumuse					Jovis
+No Dash					Jovis
+Plucking				Jovis
+Sampled Attack				Jovis
+Speedrit				Jovis
+Subir					Jovis
+The old odd funstyle of J		Jovis
+Think About what You Want		Jovis
+Trash Buzz				Jovis
+Travel with Japman			Jovis
+Real Cyber Aciiied			Lonestar
+Neon Lips				Lotek Style
+Paracon 4 Invite			Luebke
+Xmas 2000				Luebke
+Bittner Rap				Mad Max
+Demo Music 5				Mad Max
+Wings of Death Mix by Damo		Mad Max
+Davids Raster Demo			Marcer
+Look Whos Coding Too - Coffin Shika	Matrix
+Look Whos Coding Too - Menu		Matrix
+Bumpy					Michel Winogradoff
+Disc					Michel Winogradoff
+Turbo Cup				Michel Winogradoff
+Atari Forum Intro			Mr Man
+Vectronix Xmas				No More
+LFEE '91				Paul Loraine
+Gyroscope				Powapixel
+Prelude					Powapixel
+Have you seen our coder anywhere?	Rhino
+Atari Touch				Sarek
+Bomb Fight N Run			Schmx
+Pure Energy 38				SNC
+European Demos Intro			Stan Mercury
+Synth Sample V				Stefan Jerowski
+Air					Stu
+Earth					Stu
+Fire					Stu
+Water					Stu
+Bits 28					T1000
+Bits 29					T1000
+Bits 30					T1000
+Bits 31					T1000
+Bits 33					T1000
+Bits 34					T1000
+Bits 35					T1000
+Bits 36					T1000
+Bits 37					T1000
+Bits 38					T1000
+Bits 40					T1000
+Bits 42					T1000
+Bits 45					T1000
+Bits 49					T1000
+Bits 53					T1000
+Bits 55a				T1000
+Bits 55b				T1000
+Bits 55c				T1000
+Bits 55e				T1000
+Bits 56					T1000
+Bits 57					T1000
+Bits 58					T1000
+Bits 60					T1000
+Bits 61					T1000
+Feelings				Tao
+STreSTeST				Tao
+Chom					Tomchi
+Ltc01 Ouacances				Tomchi
+Altogether Now				Twitch
+Funkymix				Twitch
+It Dont Matter				Twitch
+Modelmix 91				Twitch
+Only You				Twitch
+Straight Up				Twitch
+Twitchs Hotmix				Twitch
+808 State				Unknown Composer
+Acid					Unknown Composer
+Air on a G-String			Unknown Composer
+America					Unknown Composer
+Axel F					Unknown Composer
+Axel F					Unknown Composer
+Axel F					Unknown Composer
+Big in Japan				Unknown Composer
+Big Spender				Unknown Composer
+Blueberry Hill				Unknown Composer
+Blues					Unknown Composer
+Bob P					Unknown Composer
+Boxer					Unknown Composer
+Brasil					Unknown Composer
+California				Unknown Composer
+Change					Unknown Composer
+Circus Renz				Unknown Composer
+Cockles and Mussels			Unknown Composer
+Coming Bach				Unknown Composer
+Confuzion				Unknown Composer
+Country Boy				Unknown Composer
+Cucaracha				Unknown Composer
+Dallas Theme				Unknown Composer
+Dampfoot				Unknown Composer
+Danube					Unknown Composer
+Delta					Unknown Composer
+Dynasty Theme				Unknown Composer
+Elenor					Unknown Composer
+Entertainer				Unknown Composer
+Flash					Unknown Composer
+Flying Shark				Unknown Composer
+French National Anthem			Unknown Composer
+Fugue					Unknown Composer
+F?r Elize				Unknown Composer
+Ghostbusters				Unknown Composer
+House					Unknown Composer
+Ilsezlen				Unknown Composer
+Irritate				Unknown Composer
+Jukebox					Unknown Composer
+Killer					Unknown Composer
+Kleine Nachtmusik			Unknown Composer
+Larry Laffer				Unknown Composer
+Magnetic Field				Unknown Composer
+Magnetic Fields				Unknown Composer
+Mash					Unknown Composer
+Mini					Unknown Composer
+Mission Impossible			Unknown Composer
+Monty Python				Unknown Composer
+Muppet Show				Unknown Composer
+Nommage					Unknown Composer
+Oh No					Unknown Composer
+Oh yeah					Unknown Composer
+Outside					Unknown Composer
+Popcorn v2 correct			Unknown Composer
+Prelude					Unknown Composer
+Sailors					Unknown Composer
+Sonata					Unknown Composer
+Spr					Unknown Composer
+Star Trek				Unknown Composer
+Star Wars				Unknown Composer
+Swanee					Unknown Composer
+Tango					Unknown Composer
+Tear drop				Unknown Composer
+Thank You				Unknown Composer
+Tin					Unknown Composer
+Top of the World			Unknown Composer
+Tubular Bells				Unknown Composer
+Ultmusic				Unknown Composer
+USA National Anthem			Unknown Composer
+Vincent					Unknown Composer
+Yankee Doodle				Unknown Composer
+Yellow Rose of Texas			Unknown Composer
+Square Wars I: Assault (YM version)	Wiecz0r
+Brasipop				xFalcon
+Chillout				xFalcon
+Deep Thought				xFalcon
+Happy Chip				xFalcon
+Hurry Up				xFalcon
+In A Country Style			xFalcon
+Laser Chip Talk				xFalcon
+Maria durch ein Dornwald ging		xFalcon
+Move To Trance				xFalcon
+W?stenschiff				xFalcon
+Last Attempt				yqn
+Sidisord				yqn
+Zabutoms Space Journey (D-Bug remix)	Zabutom
+
+
+FIXED OR UPDATED
+
+Ala Turka				ACC
+Michelle				ACC
+Popcorn					ACC
+Heroes					Crawdaddy
+Jammers					Crawdaddy
+Suffer In Hell				Crawdaddy
+Leatherneck				David Whittaker
+Rainbows				Davidow
+Sidestep				Davidow
+Studio Music				Davidow
+Calypso					Ed Bogas
+Razor Megademo Intro			Emphii
+Razor Megademo Screen 4			Emphii
+Razor Megademo Screen 5			Emphii
+Razor Megademo The Corps		Emphii
+Epsilons' Nightmare			Epic
+Prof E Gadd (NGC cover)			Excellence In Art
+Fun Sad					Jovis
+Knucklebusters				Jovis
+Lame Bip				Jovis
+Mars Station				Jovis
+Spider Ship				Jovis
+Zwaqwam					Jovis
+Arkanoid				Mad Max
+Ninja					Mad Max
+Pro BMX Simulator A			Mad Max
+ACIA					Michael Opel
+James Pond 2 Codename: Robocod		Richard Joseph
+Zombie Apocalypse			Schemantix
+Delerious Demo 2 - Reset		Stan Mercury
+Innuendo				Stan Mercury
+Konix					Stan Mercury
+The Karate Kid - Part II		Steve Bak
+Thundercats (Rob Hubbard cover)		Tao
+Just Buggin - Mate			Titan
+12 Bar Blues				Unknown Composer
+76 Trombones				Unknown Composer
+Away in a Manger			Unknown Composer
+Believe It or Not!			Unknown Composer
+Ben Hur Chariot Race March		Unknown Composer
+Both Sides Now				Unknown Composer
+California Girls			Unknown Composer
+Carry On				Unknown Composer
+Cavlary					Unknown Composer
+Children's Corner # 1			Unknown Composer
+Children's Corner # 2			Unknown Composer
+Children's Corner # 3			Unknown Composer
+Children's Corner # 4			Unknown Composer
+Children's Corner # 5			Unknown Composer
+Children's Corner # 6			Unknown Composer
+Daybreaker-ELO				Unknown Composer
+Don't Stop Believing,			Unknown Composer
+Eastenders				Unknown Composer
+Entry of the Gladiators			Unknown Composer
+Estrel					Unknown Composer
+Every Breath You Take - Sting		Unknown Composer
+Eye Sky					Unknown Composer
+Flashdance...What A Feeling		Unknown Composer
+FUR ELISE by L. V. Beethoven		Unknown Composer
+God Father				Unknown Composer
+Good Time Charlie			Unknown Composer
+Goodbye Yellow Brick Road		Unknown Composer
+Goodnight Saigon			Unknown Composer
+Han Solo and the Princess		Unknown Composer
+Have Yourself Merry Christmas		Unknown Composer
+He Played Real Good For Free		Unknown Composer
+Hey Hey,My My - Neil Young		Unknown Composer
+Homage to ANDRES SEGOVIA		Unknown Composer
+Honkitnk				Unknown Composer
+I am a Rock				Unknown Composer
+I Can See Clearly Now			Unknown Composer
+I Heard the Bells			Unknown Composer
+I Honestly Love You			Unknown Composer
+I Just Called to Say I Love U		Unknown Composer
+It Came Upon a Midnight Clear		Unknown Composer
+Joy to the World			Unknown Composer
+Jump					Unknown Composer
+La Virgen de la Macarena		Unknown Composer
+Life in a Northern Town			Unknown Composer
+Maggie May				Unknown Composer
+Michelle				Unknown Composer
+Mini Dance				Unknown Composer
+Minuet in G				Unknown Composer
+Money for Nothing			Unknown Composer
+Music Box Dancer			Unknown Composer
+Night Moves				Unknown Composer
+O Little Town of Bethlehem		Unknown Composer
+Off To School Boogie			Unknown Composer
+OLD JOE CLARK'S BOOGIE			Unknown Composer
+Orange Blossom Special			Unknown Composer
+Pachelbel's Canon in D			Unknown Composer
+Peter Gunn				Unknown Composer
+Rest Life				Unknown Composer
+Russian					Unknown Composer
+SAILORS BOOGIE				Unknown Composer
+Santa Clause is Coming to Town		Unknown Composer
+Sensation				Unknown Composer
+She's Always A Woman			Unknown Composer
+Silent Night				Unknown Composer
+Somewhere, My Love			Unknown Composer
+Soon It's Gonna Rain			Unknown Composer
+SOUND OF SILENCE By Paul Simon		Unknown Composer
+Spanish Eyes				Unknown Composer
+ST Elsewhere				Unknown Composer
+Stand By Me				Unknown Composer
+Star Wars				Unknown Composer
+Star-Spangled Banner			Unknown Composer
+Stealing the Enterprise			Unknown Composer
+Talk To Me - by Stevie Nicks		Unknown Composer
+The Entertainer				Unknown Composer
+The First Noel the Angel ...		Unknown Composer
+The Imperial Death March		Unknown Composer
+The Rock Island Line			Unknown Composer
+The Spider Dance - Tarantelle		Unknown Composer
+The Windmills of Your Mind		Unknown Composer
+Theme From Startrek			Unknown Composer
+They Call It The Blues			Unknown Composer
+Today					Unknown Composer
+Two Part Invention			Unknown Composer
+Two Part Invention #13			Unknown Composer
+Up on the House Top			Unknown Composer
+Watch Girl				Unknown Composer
+We Are The World			Unknown Composer
+What Child is This			Unknown Composer
+Where Have All th Flowers Gone		Unknown Composer
+William Tell Overture			Unknown Composer
+Yankee Doodle				Unknown Composer
+Yoda's Theme				Unknown Composer
+Hyperdome				Wally Beben
+Laserball 2014				xFalcon
+
+
+------------------------------------------------------------------------------
+
+V4.5 (August 1, 2015) - Yorkshire day!
+
+355 new/updated SNDH files (1731 subtunes).
+
+Finally, after over a year we update the SNDH archive to v4.5.
+
+Quick highlights :-
+
++ Sierra games included - Leisure Suit Larry etc
++ Barry Leitch driver updated - Superior sound quality
++ Unreleased ancient Mad Max track
++ Dave Lowe digi musics - Carrier Command, Afterburner etc
++ gwEm's Kraftwerk music - two versions
++ Many song lengths added by bober, thanks!
+
+A much more comprehensive account of this release are contained in Grazey's blog at 
+  
+Blog: http://dbug.kicks-ass.net/sndh/ 
+
+
+NEW
+
+Grado Groove						505
+Hardsync 01I						505
+Pulse (compo edit)					505
+Saboteaser						505
+Sommarhack 2015 invite					505
+Spacedisko						505
+STNICCC 2015						505
+Bullet Sequence						!Cube
+Cute Animals						ActoDi
+Friday							ActoDi
+No Timer SV14						ActoDi
+Prof E Gadd (NGC cover)					ActoDi
+Lettris							AG Smith
+Donald Ducks Playground					Al Lowe
+Gold Rush						Al Lowe
+Kings Quest - Quest for the Crown			Al Lowe
+Kings Quest 2 - Romancing the Throne			Al Lowe
+Kings Quest II						Al Lowe
+Leisure Suit Larry - In the Land of Lounge Lizards	Al Lowe
+The Black Cauldron					Al Lowe
+Mixed Up Mother Goose					Amenda Lombardo
+ACIA							Andrew Hollweg
+Explorer						Andrew Hollweg
+Big Run							Andrew Taylor
+Double Dragon 3 - The Rosetta Stone			Andrew Taylor
+Infinity One						Andy Kauling
+Magenta							Arnauld Chevallier
+Just Another Silly Sports sim				B Amundlien
+Jag fyller Assn till bredden				Bagarn
+XXX-Mas							Bagarn
+Championship Manager					Barry Leitch
+Frankenstein						Barry Leitch
+Postman Pat						Barry Leitch
+Switchblade 2						Barry Leitch
+Manhunter - New York					Barry Murray
+Manhunter - San Francisco A				Barry Murray
+Manhunter - San Francisco B				Barry Murray
+Unknown_Blipblopper					Beast
+3D Galax						Ben Daglish
+Yatzy							Benny Johansen
+MIX number ONE demo - Intro				Beyonder
+MIX number ONE demo - Sicmu				Beyonder
+MIX number ONE demo - Slide				Beyonder
+Apologies All Around					Blind-Io
+Borderline Bacon					Blind-Io
+Real Stat Hockey					Bob Bath
+Supremacy						Brain
+Hammarsock						Britelite
+Bombsquad						Crawdaddy
+Dropzone						Crawdaddy
+Electric Experience					Crawdaddy
+Enigma Force						Crawdaddy
+Jammers							Crawdaddy
+Kruz Theme						Crawdaddy
+Plazma							Crawdaddy
+Pure Energy 1						Crawdaddy
+Pure Energy 2						Crawdaddy
+Streetkids						Crawdaddy
+The Joker						Crawdaddy
+The Village						Crawdaddy
+Tough Guys in Sweden					Crawdaddy
+Corrupted Data File					Crazy Q
+From Da Ghetto With Love				Crazy Q
+Lunar Bounce						Crazy Q
+Moneymania 2						D. Haylett
+Poker Dice						Daryl Kiley
+Mindlock						Dave Cobbledick
+Steigar							Dave Hasler
+After Burner						Dave Lowe
+After Burner Digi					Dave Lowe
+Carrier Command						Dave Lowe
+Starglider 2						Dave Lowe
+Dan Dare III - The Escape				David Whittaker
+Xenon 2 - digi						David Whittaker
+Marios Quest						Dean Sharples
+The Heavy Bunch						Dean Sharples
+Bore							Dhor
+Crash Test						Dhor
+Happy2							Dhor
+"Hurry Harry, hurry"					Dhor
+Chipster (UCM #14)					Dma-Sc
+Kolmik							Dma-Sc
+Lovetro intro						Dma-Sc
+Lovetro Main Theme					Dma-Sc
+Return of the Fighters					Dma-Sc
+Makers Match						Don Sharpe
+Eiz@Work						Eiz
+Zik 11							Epic
+Nervana Quest						Eric Kinkead
+Marble Islands						Ewald Greiml
+Louder! Louder!						Excellence In Art
+The Chicken Song 4K					Excellence In Art
+Who Made You Judge Judy And Executioner?		Excellence In Art
+Energy							Ferox
+Tuesday							Ferox
+Victory							Ferox
+Glitre							Frequent
+Konge							Frequent
+Lykkerus						Frequent
+Revers							Frequent
+Silisium Skogen						Garvalf
+Kubes							Gary Cook
+Ace Invaders						Gary Wheaton
+Shapeshifters						Gary Wheaton
+Spider Spell 2						Geoff Camp
+Sapiens							Gilles Soulet
+Trans D-Bug Express (orig edit)				gwEm
+Trans D-Bug Express (release edit)			gwEm
+Pure Energy 4						Illusion
+Pure Energy 5						Illusion
+Pure Energy 6						Illusion
+Perfect Squared Circle					Jakub Husak
+BSS Jane Seymour					Jason Sheppard
+Killing Time						John Wangler
+AGI Quest						Juha Terho
+X-Out							Jurgen Piscol
+Platform Capers						Kay Downes
+Zedoinoid						Kevin J. Grantham
+Axel F							Kijop
+Bob Dylan						Kijop
+Raaap							Kijop
+NPRDKT							LSL
+Pixie & Dixie featuring Mr Jinks			M Franks
+Esbe							Mad Max
+Warp Preview						Mad Max
+Boobs							Marcer
+Kings Quest 3 - The Heir is Human			Margaret Lowe
+Police Quest - In the Pursuit of Death Angel		Margaret Lowe
+Space Quest Chapter 1- The Sarien Encounter		Mark Crowe
+Space Quest Chapter 2 - Vohauls Revenge			Mark Crowe
+Deuteros						Matt Bates
+Starlight						MCH
+Librarie						Mephistow
+Sound							Mephistow
+Ventura - Evil						Mephistow
+Trinomic						Michael Opel
+Mushy Music						Mikael Lundberg
+Colony (Proof of Pokey Concept)				Modmate
+Reassessing Teramis (Pokey Flavour)			Modmate
+Yanartas SV Thank You					Modmate
+EIL 3							MSG
+Hallucinations						MSG
+Undercover Action Agents				Nemo
+YM Rocker						Nemo
+Infinity						No More
+Mars Maze						P Blay
+Pushover						P.F. Rees
+Huckleberry Hound In Hollywood				Paul Loraine
+Fighting Soccer						Paul Summers
+Matrix Marauders					Paul Summers
+Stryx							Paul Summers
+Super Hang On						Paul Summers
+Treasure Search						Peter Hickman
+Arkanoid - Revenge of Doh				Peter Johnson
+Last Man						Piotr Szerszen
+Anthrax							Przybyszewski
+Coming Back After 15 Years				Ralph
+Razor Megademo Intro					Razor
+Razor Megademo Screen 4					Razor
+Razor Megademo Screen 5					Razor
+Razor Megademo The Corps				Razor
+Tron							Richard Jacques
+Demoniak						Richard Joseph
+Dragons Breath						Richard Joseph
+Moonshine Racers					Richard Joseph
+Kingdom							Robert Groves
+Yahtzee							Robert Groves
+Bilinski						Robert Wolf
+Mr Dig							Robin Edwards
+Lunacy							Roderick Martin
+Iraky							Ronan
+Kass Kong						Ronan
+Fergus							Rude Kid
+Funeral							Rude Kid
+In Air							Rude Kid
+Match of the Day					Rude Kid
+Playtime						Rude Kid
+Samba 2							Rude Kid
+TV Themes						Rude Kid
+Weirdo 2						Rude Kid
+Mindbend						Sally
+X-CALIBUR						Schmx
+Elvira - The Arcade Game				Sean Connolly
+Biomechanoid Locomotion					Shinobi
+Drop Zoner						Shinobi
+Gems in Montana						Shinobi
+Outgoing						Shinobi
+Spaced Weller						Simon Wilsher
+Innuendo						Stan Mercury
+Konix							Stan Mercury
+Flimbos Quest						Steve Wheterill
+Tusker							Steve Wheterill
+Tusker Digi						Steve Wheterill
+Bits 59							T1000
+Rasputin (Rob Hubbard cover)				Tao
+Hier Sind Noch Zwei Greetings				Tarzan Boy
+Bom Tsh Bap Bap						Technoblip
+Groovin' Nostrils					Technoblip
+Pure Energy 3						Technoblip
+Reels of Fortune					Terry Mancey
+Disco I							TFC
+Disco II						TFC
+Sunbeat							TFC
+BSW 88							The Byte
+Outrun Highway E6					Timbral
+Plantonix						Timo Weggen
+0ompa intro						Tomchi
+0ompa main						Tomchi
+LTC 01 extra volume 2					Tomchi
+Smoke Town						Tomchi
+Onslaught						Tony Williams
+Serious 1						Tyan
+Thunderdome						Ultrasyd
+Gore 2							Unknown
+Beyond the Titanic 2					Unknown Composer
+Bio C							Unknown Composer
+CH 11							Unknown Composer
+Demo 2							Unknown Composer
+End Theme						Unknown Composer
+I Just Cant Get Enough					Unknown Composer
+Idea							Unknown Composer
+Japs the Sequence					Unknown Composer
+Kids Academy - Alvins puzzles				Unknown Composer
+Kids Academy - Alvins puzzles title			Unknown Composer
+Life on the Ocean Waves					Unknown Composer
+MGD2							Unknown Composer
+Nova Cam						Unknown Composer
+Play and Read - Learn to Read with Prof			Unknown Composer
+Prehistorik						Unknown Composer
+Sweet Dreams						Unknown Composer
+The Big STOS Demo					Unknown Composer
+Wizardry						Unknown Composer
+Remote Entry #2						V!X
+Boobswatch theme					V0yager
+Cartridge Generation					V0yager
+Takeover						V0yager
+Le jeu des sons no 1					Vivian Peschardt
+Farewell						White Ninja
+Grounded						White Ninja
+How forget...						White Ninja
+Love Desaster						White Ninja
+Unchanged						White Ninja
+Zoolookologic						White Ninja
+The Galactic Miner					William Anderson
+Kings Quest 4 - The Perils of Rosella			William Goldstein
+Laserball 2014						xfalcon
+Dentro							Xrwwr
+SOS (2015 Remix)					Xrwwr
+Wings Of Life						Xrwwr
+Spacedisko						Xyce
+Evelynn							Yerzmyey
+SNDH v4.4 Update					Yerzmyey
+Bob Dylan						Zbyhoo
+
+
+
+UPDATED / FIXED
+
+Antique							505
+Chasey Intro						505
+Clowns							505
+Dosk							505
+Glas							505
+Greetings						505
+Heaven Sux						505
+Hmmm One - Error In Line 3 invite			505
+Humming							505
+Huzt							505
+Hysteria - Posh demo					505
+Jingle01						505
+Kill Bill						505
+Lala							505
+Leave it - Alive 4					505
+Melodie							505
+Modulation 2 - Intro					505
+Moesrave (Birthtro)					505
+Moodswinger						505
+More Sun						505
+Mystic Bytes 2						505
+Old crap (UCM 22)					505
+Pacemaker						505
+ST Tri Sound						505
+Stage Completed (YM rockerz)				505
+Sure Trip Part 1					505
+Sure Trip Part 2					505
+Sure Trip Part 3					505
+Suretrip 2 - Part 2					505
+Surprise						505
+Too Hard						505
+Trace Intro						505
+UCM #12 Song 2						505
+UCM #14							505
+UCM 11 Intro (endpart)					505
+UCM 11 Intro (greetings)				505
+Useless							505
+Vagrant							505
+You Bore (D-Bug 180)					505
+Zirkuss							505
+Zymplix							505
+Decisive Factor						!Cube
+Dizzzruptor part 3					!Cube
+Earth							!Cube
+Eye on Scene Maggie Dentro				!Cube
+Outpost							!Cube
+Renaissance						!Cube
+Back to the Future part III				Barry Leitch
+Harlequin						Barry Leitch
+Impossamole						Barry Leitch
+Pegasus							Barry Leitch
+Prophecy I - The Viking Child				Barry Leitch
+Raiden							Barry Leitch
+Super Cars 2						Barry Leitch
+The Shoe People						Barry Leitch
+Treasure Trap						Barry Leitch
+Utopia							Barry Leitch
+Zone Warrior						Barry Leitch
+Federation of Free Traders				Ben Daglish
+Iron Trackers						Claude Abromont
+Killerball						Claude Abromont
+Betrayal						Dave Lowe
+California Games 2					Dave Lowe
+Garfield 2 - Winters Tale				Dave Lowe
+Ghostbusters II						Dave Lowe
+Line of Fire						Dave Lowe
+Street Fighter II					Dave Lowe
+Summer Games						Dave Lowe
+The Games - Summer Edition				Dave Lowe
+Evader							Dave Munsie
+STeg The Slug						Hard N Soft
+Fireblaster						Janko Mrsic Flogel
+Warzone							Janko Mrsic Flogel
+Venus The Flytrap					Jason Sheppard
+Bangkok Knights Loader					Mad Max
+Skate or Die!						Mad Max
+Ventura - Hystanders					Mephistow
+Toki							Pierre-Eric Loriaux
+Having a Period in 3D Space				Scavenger
+Prophecy I - The Viking Child				Sean Connolly
+Just Buggin - Greetings					Tao
+Stars (digi) - Songs That Make You Go Mmhh 2		Tao
+Before the Raw						Timbral
+Discoman						Timbral
+Mandarine Street					Timbral
+Polish Waitress						Timbral
+So alone... (Live ver.)					Timbral
+1st Extra						Tomchi
+1st Intro						Tomchi
+AC2010							Tomchi
+DCK On Board - Oldckool					Tomchi
+DCKolors - Oldckool					Tomchi
+Four Screens - Oldckool					Tomchi
+HAP							Tomchi
+No Monkey						Tomchi
+Pakakaka						Tomchi
+Parallax - Oldckool					Tomchi
+PI Bass							Tomchi
+PTSPRT- Oldckool					Tomchi
+Vertical DCKroll - Oldckool				Tomchi
+Atahym							Unknown Composer
+Lauderbilder						Unknown Composer
+
+
+------------------------------------------------------------------------------
+
+V4.4 (July 2, 2014)
+Dedicated to Lowlife/Hotline
+171 new/updated SNDH files (625 subtunes).
+
+To coincide with Sommarhack we update the SNDH archive to v4.4.
+
+This release has a very Dutch theme, mainly due to Lowlife of Hotline
+stumbling over some long lost musical goodies. Thanks to him you will find 
+very rare tunes by Scavenger, ISO, Dr Beat, ENS and EVE. Continuing the Dutch
+mood we finally complete the Lotus collection with all the tunes from the
+Synth Dream 2 demo.
+
+More details on the archive are contained in Grazey's blog at 
+
+  
+Blog: http://dbug.kicks-ass.net/sndh/ 
+
+
+NEW
+
+Alive!                          505
+Battle Zone                     AC Porritt
+Ghost Mine                      Albert Baggetta
+Fia                             Andreaz
+3D Ski                          Andrei Ellman
+Fleas                           Andrew Gower
+Flipped                         Andrew R. Oakley
+Robocop                         Antichrist
+The Games - Winter Edition      Ben Daglish
+Fang Die Ratte                  Bobby Kirchoff
+Final Assault                   Charles Callet
+Bob Morane - Jungle             Charles Callet
+Bob Morane - Chevalerie         Charles Callet
+Bob Morane - Science Fiction    Charles Callet
+Bobo                            Charles Callet
+Hostages                        Charles Callet
+Iznogoud                        Charles Callet
+La Affaire                      Charles Callet
+La Marque Jaune                 Charles Callet
+Meurt En Serie                  Charles Callet
+Passengers in the Wind          Charles Callet
+Passengers in the Wind 2        Charles Callet
+Prohibition                     Charles Callet
+Les Ripoux                      Charles Callet
+Sidewalk                        Charles Callet
+TNT                             Charles Callet
+Turlogh Le Rodeur               Charles Callet
+Murders in Venice               Charles Callet
+Championship Water Skiing       Charles Callet
+The Toyottes                    Charles Callet
+Batman - The Batwing            Charles Cullinan
+Arc                             Christof Dukiet
+Brain Jogging                   Christof Dukiet
+Olympian                        Corpsicle
+Boing                           CRG Johnson
+Avalon                          Daniel Decourdemanche
+Flipit & Magnose                Darren Ithell
+Mouthtrap                       Darren Ithell
+Balls Up                        Darren Ithell
+Fun School 4 (5-7 years)        Darren Ithell
+Fun School 4 (Under 5)          Darren Ithell
+Fun School 2 (Over 8)           Darren Ithell
+Fun School 3 (Over 7)           Darren Ithell
+Raffles                         Dave Lowe
+Galtan 6 / Elite Intro 3 digi   Dr Beat
+Maziac                          Dr Beat
+Maziac unused                   Dr Beat
+Niet AF 1                       Dr Beat
+Byte Man                        Edwyn Thomas
+ENS 1 digi                      ENS Music
+F Nightmare                     EVE
+Loading & Decrunching           EVE
+Makelot                         EVE
+Noisy Pillars                   EVE
+Rock and Roll                   EVE
+Serious                         EVE
+Sewer 8                         EVE
+Axel F - digi                   EVE
+Stack Row                       EVE
+Eierkopf                        Ewald Greiml
+Fox Brothers                    Ewald Greiml
+Give Me Time                    Factor 6
+Alphabet Mix                    Flipside
+Mega Musix                      Flix
+What Time Is It?                Flix
+Bullet Train                    Francois Lionet
+Gatelys                         Frequent
+Sooty & Sweep                   Full FX
+Brainfood - Deuce               Geoff Camp
+Brainfood - Letters             Geoff Camp
+Brainfood - Pipeline            Geoff Camp
+Home Worker                     Geoff Camp
+Granshot                        Grant Magnuson
+Four-F                          Greg George
+Sillyventure 2014 Invite        gwEm
+Hop                             Iain Young
+Dizzy Fun Time                  Ian Chapman
+Dragon Scape                    Ian Maxwell
+Checkmate                       ISO
+Easter Uncky                    ISO
+None Dignified                  ISO
+Smooth Talking                  ISO
+Frog Race                       Jan Holmgren
+Funfares                        Jawx
+Funfares 2                      Jawx
+Aventura I The Witch Curse      Jean-Claude Schopfer
+Expressing                      Jim Cuomo
+Joardy Blitter                  Joard
+Bootiful Babe                   Jon Wheatman
+Color Quest                     JP Peach
+Beginning of the Ending Demo    Kafka
+Wall PD                         Lotus
+Bionic Fields                   Lotus
+Blow Jam                        Lotus
+Brain Drops                     Lotus
+Big Bubble                      Lotus
+End                             Lotus
+Eternal                         Lotus
+Inna Groovy Mood                Lotus
+Intro                           Lotus
+Loader                          Lotus
+Max Intro                       Lotus
+Micro Kit                       Lotus
+Pace                            Lotus
+Of All Places                   Lotus
+Running Status                  Lotus
+Shuffle Express                 Lotus
+State of the World              Lotus
+Tidal Waves                     Lotus
+Wishful Thinking                Lotus
+You Know Lotus                  Lotus
+Return of Medusa (Unused)       Mad Max
+Axel F (TEX cracktro)           Mad Max
+Groggy Balldric                 Magnus Adolphzon
+Marcer Quartet                  Marcer
+Amazeing                        Mikael Lundberg
+Human Killing Machine           Mike Davies
+Forest Fire                     Mike Davis
+Second Reality 2013 - Intro     Modmate
+180                             Nathan Taylor
+Monkey (Hoby One Demo)          Ninja One
+Boxing Champ                    Paul Dowers
+Popeye 2                        Paul Loraine
+Thomas the Tank Engine          Paul Tankard
+Thomas the Tank Engine 2        Paul Tankard
+Hedge Hogger                    Peter Caddock
+Easy Learning Maths             Philip Rankin
+3D aSTeroids                    Ralph Effemey
+Arthur of the Britons           Ralph Effemey
+Biker                           Reiner Glock
+Drip                            Richard Brough
+Quartet 1.5 demo tunes          Rob Povey
+Confusion                       Ross McNaughton
+Anarchy                         Scavenger
+Bomb                            Scavenger
+Loaders                         Scavenger
+Sambase                         Scavenger
+Sambase Digi                    Scavenger
+SYM II                          Scavenger
+Knuckle Joe Extended            Scavenger
+Inferno                         Simon Brown
+Bangkok Knights Loader          Simon O
+Predator                        Simon O
+Goldrunner                      Simon O
+Gremlin Music Demo - Tune 7     Simon O
+Killing Spree                   Spaz
+Staring at the Sea              Ultrasyd
+Early Learning Maths 2          Unknown
+Anti Matter                     Unknown Composer
+Bubblefield                     Unknown Composer
+Bully's Sporting Darts          Unknown Composer
+Bumber Jacky                    Unknown Composer
+Denver Je Decouvre Les Animaux  Vivian Peschardt
+Denver Je decouvre les chiffres Vivian Peschardt
+Winter Olympiad 88              Wally Beben
+Gopher Hunt                     William Anderson
+Sommarhack 2014 Invite          Yerzmyey
+
+
+UPDATED
+Magicland Dizzy                 4-Mat
+Galtan 6 / Elite Intro 3        Dr Beat
+Summer Delights                 Excellence In Art
+Hardrock Ballad                 Jess
+Enchanted Land                  Mad Max
+5th Gear                        Mad Max
+Dark Side Of The Spoon -TLB     Mad Max
+Clumsy Colin Action Biker       Mad Max
+Esbe                            Mad Max
+Classroom Maths 2               Paul Dowers
+Arcade Trivia Quiz              Paul Loraine
+Huckleberry Hound In Hollywood  Paul Loraine
+Scooby Doo And Scrappy Doo      Paul Loraine
+Pandora's Box                   Scavenger
+
+
+------------------------------------------------------------------------------
+
+V4.3 (January 24, 2014)
+Dedicated to Sink/HMD!
+303 new/updated SNDH files (607 subtunes).
+
+Here are some YM delights to brighten up the dark January nights. 
+Slightly different from the norm, yes we still have some tasty new tunes
+including exclusives, however we also have a massive amount of fixes, many
+of which are by Ben of The Overlandes. A more detailed account of this
+work can be found at the SNDH Bloog.
+
+Highlights >
+
++ All the tunes from Sillyventure 2013 including 505's ginormous Relix demo!
++ Some uber rare un-released tunes by Jess of OVR
++ An extended version of Furax's EQX Virtual Escape theme
++ The two Big Alec digi drum tunes from Punish Your Machine finally SNDH'D
+
+  
+Blog: http://dbug.kicks-ass.net/sndh/ 
+
+
+
+NEW
+---
+Aeh                             505     
+Anfang                          505     
+Arcarde                         505     
+Balibulu                        505     
+Banga                           505     
+Beenden                         505     
+Blark                           505     
+Bounce                          505     
+BRN 2010                        505     
+Brotchen                        505     
+Byeing                          505     
+Chase                           505     
+Crapsong                        505     
+Dark                            505     
+Destruct                        505     
+Duckwalk                        505     
+Dudelich                        505     
+Eighties                        505     
+EIL99 testsong                  505     
+Etudial                         505     
+Fettiger                        505     
+Foolish                         505     
+For MC                          505     
+Gamesong 01                     505     
+Granit                          505     
+Ground                          505     
+Hack                            505     
+Hall of Fame                    505     
+Hectic                          505     
+Idiot                           505     
+Impulse                         505     
+Insigina 10th                   505     
+Insigina 11th                   505     
+Insigina 12th                   505     
+Insigina 14th                   505     
+Insigina 20th                   505     
+Insigina 21st                   505     
+Insigina 22nd                   505     
+Insigina 3rd                    505     
+Insigina 4th                    505     
+Insigina 5th                    505     
+Insigina 6th                    505     
+Insigina 7th                    505     
+Insigina 8th                    505     
+Insigina 9th                    505     
+Jelling                         505     
+Jingle 02                       505     
+Kickdown                        505     
+Kithentable                     505     
+Kurts                           505     
+Lame 01                         505     
+Lame 02                         505     
+Lamer                           505     
+Laughter                        505     
+Loading                         505     
+Loop 00                         505     
+Loop 03                         505     
+Loop 04                         505     
+Loop 06                         505     
+Loop 07                         505     
+Loop 09                         505     
+Lousy                           505     
+Lovesong                        505     
+Melting                         505     
+Messing                         505     
+Midfinger                       505     
+Muell                           505     
+Myth                            505     
+Nervous                         505     
+Newu                            505     
+No Stress                       505     
+Noir                            505     
+Noix000f                        505     
+Once                            505     
+Painsid                         505     
+PaniC                           505     
+Pestwurz                        505     
+Pieces                          505     
+Reaching                        505     
+Relix                           505     
+Render                          505     
+Retelling                       505     
+RoboST                          505     
+Scheme                          505     
+Sherlock                        505     
+Siebenschlaefer                 505     
+Something                       505     
+ST Tri Sound                    505     
+ST_B                            505     
+ST_M                            505     
+ST_O                            505     
+ST_P                            505     
+Stream                          505     
+Supadupa                        505     
+Switch                          505     
+Synthpop                        505     
+Tambumbi                        505     
+Tammo - KB cover                505     
+Taotic                          505     
+Tell Me                         505     
+Terror                          505     
+Three                           505     
+Tsrups                          505     
+Weird                           505     
+Xmas CPT 15kb I                 505     
+Yaa Taaru                       505     
+Z                               505     
+Zuuuuuuu                        505     
+Blipblop Memories               !Cube   
+Kid Gloves 2                    Andy Severn     
+Fireball                        Anthony Lees    
+Back to the Future part 3       Barry Leitch    
+Saint & Greavsie                Ben Daglish     
+Audio Artistic Demo             Big Alec        
+PYM - Best Part Creation        Big Alec - PYM version with 15khz digi drums 
+PYM - Main Menu                 Big Alec - PYM version with 15khz digi drums 
+One Trick Pony                  Britelite       
+Caesar                          Chris Denman    
+Cohort - Fighting for Rome      Chris Denman    
+Great Napoleonic Battles        Chris Denman    
+Baby Jo in Going Home           Christophe Zurfluh      
+Ghostbusters II                 Dave Lowe       
+Emlyn Hughes Arcade Quiz        David Whittaker 
+Outrun - USA version            David Whittaker - Extra tune in USA version
+Crash Test                      Dhor    
+Jumping Squares                 Dhor    
+It's A Girl 2                   Dma-Sc  
+Second Reality 2013 end         Dma-Sc  
+Second Reality 2013 main        Dma-Sc  
+Transbeauce Demo 2 Hidden       Doclands        
+Sonixx Music Demo               Edd the Duck    
+Virtual Escape (Enhanced)       Furax - Longer version of the original tune
+Hibernation Demo                Golden Otter    
+Hibernation Demo 2              Golden Otter    
+STe Folies (O-Demo)             Griffon 
+Fuji Sunset                     gwEm    
+Graffiti Man                    Holger Gehrmann 
+H Chip Ewperiment               Hylst   
+Lemon Squeezers Dream           Jess - Original chip version
+Middle Earth Theme              Jess - Never released digit version
+My ST Suntans in Brazil         Jess - unfinished chip version
+Rock (draft)                    Jess - Yet another draft from Jess
+Routine 3                       Jess - Yet another draft from Jess
+Sharpness Buzztone              Jess - Unreleased chip version
+Squeeze 11                      Jess - Yet another draft from Jess
+Tears On My Keyboard            Jess - Preview different enough of
+                                Tears On My Keyboard
+The Name's Bond, Jess Bond      Jess - Original chip version
+The Singing Green Frog          Jess - (Unreleased ?) STe digit drum version
+Throw It In A Trash Can         Jess - STe version
+Vulx (draft)                    Jess - Yet another draft from Jess
+Zara (Bagpipes Buzz mix)        Jess - Drafts composed by Jess, assembled
+                                into this song by Ben
+Elvira II                       Jezz Woodroffe  
+Astate                          Jim Cuomo       
+Window Wizard                   Karsten Obarski 
+Window Wizard - Digi            Karsten Obarski - Only playable within GEM on
+                                16MHz or faster machines
+Fujiology Archivist             Lotek Style     
+Elefantastic                    MCH and Mermaid 
+almoST real (ENtRACte cHiP)     Modmate 
+Draconust                       Modmate 
+Storm Revisited                 Modmate 
+Zybex Enshrined                 Modmate 
+Beyond Eden (Nino...)           Nexus 6 
+Discover                        Nexus 6 
+Ga!                             Nexus 6 
+Johnny B. (The Hooters)         Nexus 6 
+Moskito Attack                  Nexus 6 
+Nexus of Sominus Theme          Nexus 6 
+Red Movement                    Nexus 6 
+Times of Lore                   Nigel Pritchard 
+Crossland                       Paul Shields    
+Espionage                       Paul Summers    
+Fighting Soccer                 Paul Summers    
+Matrix Marauders                Paul Summers    
+Predator                        Paul Summers    
+Rainbow Warriors                Paul Summers    
+Stryx                           Paul Summers    
+Elvira II                       Philip Nixon    
+Compofiller 2013                Rhino   
+Quartet 1.0 demo tunes          Rob Povey       
+Unreal                          Roderic Mege    
+Compo Breaker                   Serpent 
+Lands of Havoc                  Steve Bak       
+For Abyss                       Tao - STMYGM 2 version
+Just Feel It                    Tao - STMYGM 2 version
+Nostalgic_O Dots Revenge        Tao - 2 SID
+Nostalgic_O Fractal Blast       Tao - 2 SID     
+Nostalgic_O Ikari Union         Tao - 2 SID     
+Nostalgic_O Main Menu           Tao - 2 SID     
+Treasure Island intro           Tomchi  
+Postman Pat 3                   Unknown Composer        
+Space Harrier                   Unknown Composer        
+One Day Wonder                  V0yager 
+Carrot                          X The Beermat   
+Deal                            X The Beermat   
+Drag                            X The Beermat   
+Dunno                           X The Beermat   
+Mud                             X The Beermat   
+Next                            X The Beermat   
+Night                           X The Beermat   
+Now                             X The Beermat   
+Yours                           X The Beermat   
+Eindbaasmix                     Xyce    
+Celestial Sphere                Yerzmyey        
+Out Of The Mist                 Yerzmyey        
+        
+                
+UPDATED
+------- 
+Stage                           505 - Fixed MFP issue
+Dizzy: Prince Of Yolkfolk       4-Mat                   
+The Sword and the Rose          Allister Brimble - Removed dupe
+McDonald Land                   Andi McGinty - All subtunes included
+PYM - BPC chip                  Big Alec - Renamed due to inclusion of proper
+                                digi drum version
+PYM - Main Menu chip            Big Alec - Renamed due to inclusion of proper
+                                digi drum version
+What Time Is It ?(Scrolly)      Big Alec - Fixed missing first 8 seconds
+Hydra                           Chris Scudds - Tunes crashed at song end.
+Killing Game Show               Count Zero - Fixed default tune to #22
+Drivin Force                    Dave Hasler - Composer update
+Elvira                          Dave Hasler - Fixed composer name
+Ninja Spirit                    Dave Hasler - Composer update
+The Punisher                    Dave Hasler - Composer update
+Dan Dare III - The Escape       David Whittaker - Fixed Title name
+Kid Gloves                      David Whittaker - Added all sub tunes
+Outrun                          David Whittaker - Fixed composer (J.C Brooke)
+Warlock the Avenger             David Whittaker - Reduced subtunes, sub music
+                                was from Cloud Kingdoms and most sub tunes
+                                inaccessible within game
+Fire & Ice                      Jason Page - All subtunes included
+A Sixties Slow                  Jess - System compliant / new tags
+Akira Versus Sangoku            Jess - System compliant / new tags
+Another Western Legend          Jess - System compliant / new tags
+Concerto For Acid Band          Jess - System compliant / new tags
+Cubase versus Notator           Jess - System compliant / new tags
+Do You Speak Russian            Jess - System compliant / new tags
+Dyscomelodus                    Jess - Name / system compliant / new tags
+Echelle                         Jess - Name / system compliant / new tags
+For Your Loader 1               Jess - System compliant / new tags
+For Your Loader 2               Jess - System compliant / new tags
+For Your Loader 3               Jess - System compliant / new tags
+Generation 2.0                  Jess - System compliant / new tags
+Guile                           Jess - Name / system compliant / new tags
+Hardrock Ballad                 Jess - System compliant / new tags
+I Found The Dead Zone           Jess - System compliant / New tags
+I Want U 2 Shoot'em UP          Jess - System compliant / new tags
+If It Works Good                Jess - System compliant / new tags
+Jochen Spirit                   Jess - System compliant / new tags
+Lemon Squeezers Dream           Jess - System compliant / new tags
+Let Ze Djoard Bells Ring        Jess - Name / System compliant / New tags
+Middle Earth Theme              Jess - System compliant / new tags
+Middle Earth Theme (chip)       Jess - System compliant / new tags
+My First Resonant Burp Ste      Jess - System compliant / new tags
+My First Resonant Burp STf      Jess - All system compliant and new tags
+My ST Suntans in Brazil         Jess - System compliant / new tags
+Not a Soporific Lullaby         Jess - System compliant / new tags
+Pentatonik Illusion             Jess - System compliant / new tags
+Please, No                      Jess - System compliant / new tags
+Protect Your Environment        Jess - Typo / system compliant / new tags
+Psychosonorous Disorder         Jess - System compliant / New tags
+Run For Your Life               Jess - System compliant / new tags
+See Ya Again on Falcon          Jess - System compliant / New tag
+Sharpness Buzztone              Jess - System compliant / New tags
+SOS: Means Save Our ST          Jess - System compliant / new tags
+Super Mario Bros Family         Jess - Name / system compliant / new tags
+Tears On My Keyboard            Jess - System compliant / new tags
+That's Illogical Captain        Jess - System compliant / New tags
+The Battle Of Arpeggios         Jess - Typo / System compliant / New tags
+The Legacy Nightmare            Jess - System compliant / new tags
+The Music Bootsector            Jess - System compliant / new tags
+The Music Bootsector Remix      Jess - Remix by Ben for SFX test
+The Name's Bond, Jess Bond      Jess - System compliant / new tags
+The Popples Revenge             Jess - System compliant / new tags
+The Singing Green Frog          Jess - System compliant / new tags
+The Twin Paradox                Jess - Ben: original file patched with MOVEP.W and YM 
+                                register select intimer rout.
+The Un-dead Horror Show         Jess - System compliant / new tags
+Throw It In A Trash Can         Jess - System compliant, YEAR/FLAG/TIME added
+Throw The Confettis             Jess - System compliant / new tags
+Tra La Li and Tra La La         Jess - System compliant / new tags 
+Unfinished, Sorry AN Cool       Jess - System compliant / new tags
+Kid Gloves 2                    Justin Scharvona - Sub composer (Andy Severn)
+Traxxer 2                       Marcer - Removed timer-c hook.
+Mighty Bombjack                 Mark Cooksey    
+Ventura - Hystanders            Mephisto - Fixed - only one subtune
+Hyper dog poo                   Miggy - Replaced timer C by timer D
+Sisco Sun (Unfinished)          Miggy - Replaced timer C by timer D
+Thunderwing                     Nigel Pritchard - Changed default start tune
+Jug                             Paul Shields - Added missing highscore music.
+Everton FC Intelligensia        Paul Summers - Fixed composer name
+P47 The Freedom Fighter         Paul Summers - Fixed composer name
+SDI (Activision)                Paul Summers - Fixed composer name
+Sonic Boom                      Paul Summers - Fixed composer name
+Synergy Demo - Credits          Scavenger - Renamed Not Reset!
+Synergy Demo - Symbiosis        Scavenger - Renamed Not Odyssey!
+Elvira - The Arcade Game        Sean Connolly   
+Chillout                        Stu - Removed timer-c hook
+Synthetic Visions - Hidden      Tangens - Fixed - added all 7 subtunes
+Heftig (Sillyventure 2010)      Tao - Replaced timer C by timer A
+Nostalgic--O Chased             Tao - Non demo version with 3 Sid voice
+Nostalgic--O Credits            Tao - Non demo version with 3 Sid voice
+Nostalgic--O Dots Revenge       Tao - Non demo version with 3 Sid voice
+Nostalgic--O Fractal Blast      Tao - Non demo version with 3 Sid voice
+Nostalgic--O Ikari              Tao - Non demo version with 3 Sid voice
+Nostalgic--O Ikari Unused       Tao - Non demo version with 3 Sid voice
+Nostalgic--O Intro              Tao - Non demo version with 3 Sid voice
+Nostalgic--O Loader             Tao - Non demo version with 3 Sid voice
+Nostalgic--O Main Menu          Tao - Non demo version with 3 Sid voice
+Nostalgic--O Reset              Tao - Non demo version with extra SID voice
+Torture - SSD                   Tao - Replaced file, was not ICEd
+C++ Is Forbidden Part 1         Xyce - Filename fix
+
+        
+DELETED
+-------         
+UCM 15                          505 - Same as Mystic Bytes 2
+Sword and Rose                  Allister Brimble - Same as Sword & the Rose
+Laser Squad                     Ben Daglish - Same as Matt Furniss version
+Treat Final                     D-Force - Same as Treat
+Frosty's Music 2                Excellence in Art - Same as Frosty's Music
+1990                            Gary Wheaton - Same as Chuckie Egg II remix
+Spictro                         Housemania - Same as ISO Houseman
+Song 9                          Jedi - Same as Kidney Bean 5
+Sega World Champ Soccer         Mark Cooksey - Same as World Champ. Soccer
+WWF European Rampage            Mark Cooksey - Same as Andi Mcginty version
+GSC 30                          No More - Same as Jedi Stephanie
+Stax 53 - Tune 3                Sally / Same as Great
+Outline                         SH3 - Same as Outline by MSG
+Pompey Pirates Menu 77          Sparky - Same as Just 4 Fun
+Choux H                         Ultimatum - Same as Kidney Bean 5
+BSW 121                         Unknown - Same as Ralph 4
+Huno Demo                       Unknown - Same as Remalon Unlimited Cho
+Powerbass                       Unknown - Same as Roggie Powerbass
+ 
+
+
+------------------------------------------------------------------------------
+
+V4.2 (September 2, 2013)
+
+256 new/updated SNDH files (482 sub-tunes).
+
+A new update is upon us. This is a mixed bag really containing tunes 
+from both ends of the quality spectrum. 
+
+Highlights includes : -
+
++ Thalion Sound Demo digital tunes
++ 18 tunes from a new musician called Xyno 
++ A major update of tunes by Scottish Quartet composer - Roggie
+
+More information can be found in the SNDH blog which I'll update very soon. 
+
+http://dbug.kicks-ass.net/sndh/
+
+# signifies fix
+ 
+Title                                   Composer
+Arping                                  505     
+Blazing                                 505     
+Blazing (Digidrums)                     505     
+Blink                                   505     
+December                                505     
+Hopping                                 505     
+Jingle 01                               505     
+Mist                                    505     
+Mysery                                  505     
+Sidarta                                 505     
+UCM 20                                  505     
+Nibbel is Small Kermit is Fat           7an     
+Bombz                                   Alex Herbert #
+The Simpsons - Bart vs The World        Andi McGinty    
+Euroquiz                                Arthur F Vosseler
+Hate                                    Ben Daglish #   
+Pac-mania                               Ben Daglish #
+Gnurk Bobo                              Blue Nun        
+Gnurk Intro                             Blue Nun        
+Gnurk Loader                            Blue Nun        
+Gnurk Misspell                          Blue Nun        
+Gnurk Snor Bobs                         Celtic  
+Blues Brothers                          Christophe Fevre        
+Spirit of Excalibur                     Christopher Barker
+The Third Courier                       Christopher Barker
+Iron Trackers                           Claude Abromont 
+Killerball                              Claude Abromont 
+Kaiser                                  Claudio Kronmuller
+The Year After - Risk 1                 Danny Oneway    
+The Year After - Risk 2                 Danny Oneway    
+War in Middle Earth                     David Schroeder
+Circus Backstage                        Dma-Sc  
+Liberators - Kick De Bucket             Dubmood 
+Lost Refound Unfinished Dub Session     Dubmood 
+Cerror Rulez                            Elrinth 
+Super Sensori                           Eric Thoner
+Idas Sommarvisa                         Excellence In Art       
+SledgeBusters                           Excellence In Art       
+Smakrik                                 Excellence In Art       
+A8 Menu                                 Gary Wheaton
+Abhonk (aboriginal version)             Gary Wheaton
+Backlash                                Gary Wheaton
+Bandit                                  Gary Wheaton
+Bass                                    Gary Wheaton
+Batman                                  Gary Wheaton
+Belgium                                 Gary Wheaton
+Beware of my Love                       Gary Wheaton
+Boom                                    Gary Wheaton
+British Anthem (West Indian Style)      Gary Wheaton
+Chuckie Egg II                          Gary Wheaton
+Chuckie Egg II remix                    Gary Wheaton
+Circus                                  Gary Wheaton
+Colours                                 Gary Wheaton
+Cuddly Demos Main Menu                  Gary Wheaton
+Dear Boy                                Gary Wheaton
+Don't let the sun go down on me         Gary Wheaton
+Douglas Rockmoor 1                      Gary Wheaton
+Dream 10                                Gary Wheaton
+Fell in the horse shit in his suit      Gary Wheaton
+Fractal                                 Gary Wheaton
+Galaxia                                 Gary Wheaton
+Handle with Care                        Gary Wheaton
+Home Drunk                              Gary Wheaton
+Honey Pie                               Gary Wheaton
+Honk                                    Gary Wheaton
+I'm knitting with only one needle       Gary Wheaton
+Jimi                                    Gary Wheaton
+Jingle                                  Gary Wheaton
+Let It Be                               Gary Wheaton
+Liane                                   Gary Wheaton
+Like a Hurricane                        Gary Wheaton
+Lisa                                    Gary Wheaton
+Masters of Magic                        Gary Wheaton
+Medley                                  Gary Wheaton
+Miner 2049er                            Gary Wheaton
+Moondance                               Gary Wheaton
+Munsters                                Gary Wheaton
+Necros                                  Gary Wheaton
+New Relgion                             Gary Wheaton
+Not quite a new car                     Gary Wheaton
+Old Man                                 Gary Wheaton
+Out on the Weekend                      Gary Wheaton
+Pacman                                  Gary Wheaton
+Peewee's Big Adeventure                 Gary Wheaton
+Permanent Waves                         Gary Wheaton
+Ram on                                  Gary Wheaton
+Real Programmer                         Gary Wheaton
+Scarborough Fair                        Gary Wheaton
+Sea Fishermen                           Gary Wheaton
+So Watt                                 Gary Wheaton
+So Watt Remix                           Gary Wheaton
+Strawberry Fields                       Gary Wheaton
+Tangerine Dream 2                       Gary Wheaton
+The earth dies screaming                Gary Wheaton
+The Monkey Man                          Gary Wheaton
+Tri Heli                                Gary Wheaton
+Unfinished - Greetings                  Gary Wheaton
+Womble Song                             Gary Wheaton
+1st Maths                               Geoff Camp      
+Maths X                                 Geoff Camp      
+Maths X 2                               Geoff Camp      
+Hybrid                                  Hybrid  
+Swirl                                   Hybrid  
+Detonate                                Ian Blair       
+Rambo III                               Jonathan Dunn # 
+Noisy Again 2013                        Lotek Style     
+Axel F                                  Mad Max 
+Defcon                                  Mad Max 
+In 80 Days Around the World             Mad Max 
+In 80 Days Around the World digi        Mad Max 
+Jinks Digi                              Mad Max 
+Thalion Fever                           Mad Max 
+Thalion Forever                         Mad Max 
+Robert in the Fire Factory              Manfred Becker  
+Wolfchild                               Martin Iveson #
+Deuteros                                Martin Walker #
+Shadow Warriors                         Matt Furniss    
+Defend The Earth 2                      Michael Haar    
+Derwurm 2                               Michael Haar    
+Tetris X                                Michael Haar    
+Childhood Heroes                        Modmate 
+Silly Jet Willy                         Modmate 
+Ivanhoe                                 Pierre-Eric Loriaux #   
+Protector                               Riff    
+Ameobas rule ok                         Roggie  
+Bach                                    Roggie  
+Bag of Tomato Crisps                    Roggie  
+Beef Barbeque                           Roggie  
+Dreams                                  Roggie  
+Echoes                                  Roggie  
+F.O.A.D. ya bam                         Roggie  
+Florence Loves Dougal                   Roggie  
+Give me the rice pudding                Roggie  
+Haggies Man                             Roggie  
+Inferno                                 Roggie  
+Interludes 1-4                          Roggie  
+Interludes 5-6                          Roggie  
+Is he a mule?                           Roggie  
+Legacy                                  Roggie  
+Odyssey                                 Roggie  
+Ooooer my digits fell off               Roggie  
+Phobia                                  Roggie  
+Pocket Warmer                           Roggie  
+Power Bass                              Roggie  
+Prelude                                 Roggie  
+Quasar                                  Roggie  
+RFC Ok                                  Roggie
+Rissoto Supreme and Custard             Roggie                                  
+Roggie 15                               Roggie
+Roggie 16                               Roggie  
+Roggie 17                               Roggie  
+Roggie 18                               Roggie  
+Roggie 19                               Roggie  
+Roggie 20                               Roggie  
+Roggie The baked bean on toast          Roggie  
+Shoo and away ye go                     Roggie  
+Sonixx                                  Roggie  
+Spellbound                              Roggie  
+Spleen music                            Roggie  
+Spooked                                 Roggie  
+STC                                     Roggie  
+STC end                                 Roggie  
+The Realm                               Roggie  
+The Works                               Roggie  
+Three pints of milk please              Roggie  
+Variations                              Roggie  
+Who stood on the caterpillar?           Roggie  
+Backlash                                Simon Berry #
+Projectyle                              Steve Wheterill #
+...Do Things - Magic Synth 3.0 version  Tao     
+150 mph - Magic Synth 3.0 version       Tao     
+150 mph - STMYGM2 version               Tao     
+Ace 2 (Rob Hubbard cover)               Tao     
+Airwaves - Magic Synth 3.0 version      Tao     
+Androids - STMYGM2 version              Tao     
+Birth - Magic Synth 3.0 version         Tao     
+Building a Ruin - Magic Synth 3.0 versi Tao     
+Call Me - STMYGM2 version               Tao     
+For Abyss - STMYGM2 version             Tao     
+Fractals - Magic Synth 3.0 version      Tao     
+Happy End - Magic Synth 3.0 version     Tao     
+Intensity - Magic Synth 3.0 version     Tao     
+Lost - Magic Synth 3.0 version          Tao     
+Magnetic - Magic Synth 3.0 version      Tao     
+MineSweeper - Magic Synth 3.0 version   Tao     
+Nostalgia - Magic Synth 3.0 version     Tao     
+One on One - Magic Synth 3.0 version    Tao     
+Powerman - STMYGM2 version              Tao     
+Prelude - STMYGM2 version               Tao     
+Rise - STMYGM2 version                  Tao
+Seagulls - Magic Synth 3.0 version      Tao     
+Seagulls - STMYGM2 version              Tao     
+Silly Shuffle - Magic Synth 3.0 version Tao     
+Stars - Magic Synth 3.0 version         Tao     
+Stella Polaris - Magic Synth 3.0 versio Tao     
+Steps - STMYGM2 version                 Tao     
+Sunriders - STMYGM2 version             Tao     
+Sunshine - Magic Synth 3.0 version      Tao     
+The Arrival - STMYGM2 version           Tao     
+The Cave - STMYGM2 version              Tao     
+The Core - Magic Synth 3.0 version      Tao     
+The Dancer - Magic Synth 3.0 version    Tao     
+The Dancer - STMYGM2 version            Tao     
+The Entrance - Magic Synth 3.0 version  Tao     
+Torture - Magic Synth 3.0 version       Tao     
+Toxygen - Magic Synth 3.0 version       Tao     
+Walk on Ice - STMYGM2 version           Tao     
+Wide Awake - Magic Synth 3.0 version    Tao     
+Wide Awake - STMYGM2 version            Tao     
+Sonic Boom                              The Source      
+Star Trash                              Timo Bauer #    
+Stampede 1                              Tony Williams   
+Killer                                  Tufty   
+Alture                                  Unknown Composer        
+Andante6                                Unknown Composer        
+Baall2                                  Unknown Composer        
+Bumerang 2                              Unknown Composer        
+Carry All                               Unknown Composer        
+Cityroad                                Unknown Composer        
+Danza                                   Unknown Composer        
+Dizzy Wizard                            Unknown Composer        
+Fantastic World                         Unknown Composer        
+Fantastic World 2                       Unknown Composer        
+gggra125                                Unknown Composer        
+I-Ball                                  Unknown Composer #
+Infanzia                                Unknown Composer
+Into The Eagles Nest - Title            Unknown Composer #
+Kampf                                   Unknown Composer        
+Karlchen                                Unknown Composer        
+Lauderbilder                            Unknown Composer        
+Michelle                                Unknown Composer
+Orfana                                  Unknown Composer
+Pompom                                  Unknown Composer
+Risvegli                                Unknown Composer
+Rumores                                 Unknown Composer
+Title Designer                          Unknown Composer
+I-Ball 2                                Wally Beben
+Superman - The Man of Steel             Wally Beben
+A La Plage!                             XyNo
+Blipskill                               XyNo
+Cheeselame                              XyNo
+Cyborgs N' Clubs                        XyNo
+Danceurfuckout!?                        XyNo
+Darkrooms                               XyNo
+Hip STfucck Hop !                       XyNo
+Insecure                                XyNo
+Napalm Loader ST                        XyNo
+Not A 0110100101                        XyNo
+Pocaille Burger!                        XyNo
+That Fuckr                              XyNo
+Waiting Updates                         XyNo
+Walebrks!                               XyNo  
+Why Emm?                                XyNo  
+Xc3n Bday 48H                           XyNo  
+YMizuself                               XyNo  
+YS1 Minea Town ST Cover                 XyNo
+ 
+
+
+------------------------------------------------------------------------------
+
+
+V4.1 (March 13, 2013)
+
+146 new/updated SNDH files (206 sub-tunes).
+
+We pass the 7000 sub-tune total!!
+
+Welcome to a new update of the SNDH archive.
+
+Highlights this time includes : -
+
++ Music from the un-released game M.U.D.S. 
+sent directly to us by Mad Max! 
+
++ All the tunes from the recent Silly 
+Venture party.  
+
++ Exotic digi musics like Starglider using
+our new replayer
+
++ and finally! The B.I.G. demo digital
+department. How did this go un-ripped for so
+long?
+
+We now have an SNDH blog so you can keep
+up-to-date with the SNDH archive and to glean
+additional information about each release.
+
+
+http://sndh.atari.org/blog.php
+
+
+Title                           Composer
+Aragorn - UCM 22                505
+Chasey Intro                    505
+Mutative                        505
+Decisive Factor                 !Cube
+Dizzzruptor part 3              !Cube
+Outpost                         !Cube
+Renaissance                     !Cube
+KIller                          Adamski
+Puzzlepuzzle                    Andreas Maier
+RGB                             Arnauld Chevallier
+Advantage Tennis                Charles Callet
+Pick N Pile                     Charles Callet
+NTM Demo - TGE                  Chris TGE
+Starglider - Title              Dave Lowe
+Skit                            Dma-Sc
+Projectyle                      Eldrich The Cat
+Altair - Title                  Fabrice Decroix
+Belegost                        Frantisek Fuka
+Jernanger                       Frequent
+Ace Invaders                    Gary Wheaton
+Clodhopper                      Gary Wheaton
+Cyberstorm Loader               Gary Wheaton
+Cyberstorm Title                Gary Wheaton
+Flying                          Gary Wheaton
+JS Bach                         Gary Wheaton
+Juandeho                        Gary Wheaton
+Sidelong                        Gary Wheaton
+Murdered                        Hylst
+Frost Byte - Title              I. Waugh
+Tolteka - Title                 Ingo Massalski
+TimeRunner - Title              Janette R. Armstrong
+Touring Car Racer               Jeremy Das
+My First Resonant Burp - STe    Jess
+Lemmings                        Justin Scharvona
+Approaching the Endzeit         Lotek Style
+Morphonic Lab XI                LSL
+Ace 2                           Mad Max
+Arkanoid (Digidrum)             Mad Max
+Labello                         Mad Max
+MUDS                            Mad Max
+Phantom of the Asteroid         Mad Max
+Sanxion Loader                  Mad Max
+Starpaws                        Mad Max
+Turrican Digi Music             Mad Max
+Devious Designs Digi            Martin Walker
+Mutative                        Michu
+Chasey End                      Mr Coke
+Chasey Loader                   Mr Coke
+Dasda                           Mr Coke
+Yet Another 4k Intro            Mr Coke
+MSI Sound Demo                  Mr Saigon
+Hoversprint                     P Webb
+Bzdet                           Pinokio
+Airwolf (Sylvester Levay)       Rhino
+Bumble Beezer                   Rhino
+Three out of Four               Rhino
+Cadaver Intro                   Richard Joseph
+Axel F                          Scott Lemmon
+Elenor                          Scott Lemmon
+Fish                            Scott Lemmon
+Geosong                         Scott Lemmon
+House of the Rising Sun         Scott Lemmon
+I am the Walrus                 Scott Lemmon
+Instod5                         Scott Lemmon
+Ivan 2                          Scott Lemmon
+Ivan 3                          Scott Lemmon
+Paranoid                        Scott Lemmon
+Piggies                         Scott Lemmon
+RSMTST                          Scott Lemmon
+SRL 4                           Scott Lemmon
+The Song                        Scott Lemmon
+Thrash 1                        Scott Lemmon
+Thrash 5                        Scott Lemmon
+Work                            Scott Lemmon
+Stone Age Menu                  Skidz
+Stampede 1                      Sound Images
+Sillyride                       Tao
+MSI Sound Demo                  The Archmage
+Muda                            Tomchi
+Lorna                           TPM
+A1                              Unknown Composer
+Acid 1                          Unknown Composer
+Adamski                         Unknown Composer
+Andalusa                        Unknown Composer
+Around                          Unknown Composer
+Asterix im Morgenland - Title   Unknown Composer
+Atahym                          Unknown Composer
+B1 MIT                          Unknown Composer
+B1 Ohne                         Unknown Composer
+Bach                            Unknown Composer
+Bangkok Knights                 Unknown Composer
+Blueberry Hill                  Unknown Composer
+C1                              Unknown Composer
+C1 Like                         Unknown Composer
+D1 M Like                       Unknown Composer
+Dampf                           Unknown Composer
+Delta                           Unknown Composer
+Dobru Noc                       Unknown Composer
+Dyer Maker                      Unknown Composer
+E1                              Unknown Composer
+E1 like                         Unknown Composer
+E1 Ohne                         Unknown Composer
+England                         Unknown Composer
+Falsch1                         Unknown Composer
+Finnland                        Unknown Composer
+Holland                         Unknown Composer
+Hommage                         Unknown Composer
+Into The Eagles Nest - Title    Unknown Composer
+Klassik1                        Unknown Composer
+Kobyly                          Unknown Composer
+Ladeer                          Unknown Composer
+LT Fuge 2                       Unknown Composer
+Magnetic Fields 2               Unknown Composer
+Marseill                        Unknown Composer
+Menuet                          Unknown Composer
+Menuett                         Unknown Composer
+Mewilo - Title                  Unknown Composer
+Musik                           Unknown Composer
+Musik 001                       Unknown Composer
+Musik 002                       Unknown Composer
+Power Bass                      Unknown Composer
+Richrig1                        Unknown Composer
+Risvegli                        Unknown Composer
+Rumores                         Unknown Composer
+Sanxion Loader                  Unknown Composer
+Sevilla                         Unknown Composer
+Son Of God                      Unknown Composer
+Sound 1                         Unknown Composer
+Sound 2                         Unknown Composer
+Sound 3                         Unknown Composer
+Sound1                          Unknown Composer
+Sterrei                         Unknown Composer
+Studie 9                        Unknown Composer
+Tango                           Unknown Composer
+Tango 001                       Unknown Composer
+Timo1                           Unknown Composer
+Titel                           Unknown Composer
+Udssr                           Unknown Composer
+Under The Bridge                Unknown Composer
+Ungarn                          Unknown Composer
+Victory - Title                 Unknown Composer
+Volkslied                       Unknown Composer
+C++ Is Forbidden Part 1         Xyce
+C++ Is Forbidden Part 1 (SID)   Xyce
+C++ Is Forbidden Part 2         Xyce
+Wake Up                         Yerzmyey
+
+
+------------------------------------------------------------------------------
+
+V4.0 (October 31, 2012)
+
+121 new SNDH files (240 sub-tunes).
+
+Well this has been in the works since 
+Outline 2010. I've always wanted to add
+exotic digi-tracks to the archive. 
+
+One such format is Quartet which was used
+in both demos and commercial games.
+
+So now it arrives, signalling SNDH library v4.
+
+The accompanying SNDH's have a number of
+advantages over native Quartet files, 
+
+ + Each file has 3 built-in replayers
+for STFM, STE and Falcon respecively. The
+player will automatically default to 
+superior sound quality.
+
+ + SNDH allows for sub-tunes which 
+drastically reduces filesizes.
+
+ + Library 4.0 updates the SNDH file-format.
+Both default tune and sub-tune names are now
+catered for. (see the SNDH 2.1 fileformat page
+at our main site).
+
+Thanks to gwEm and Evil for testing and
+fixes.
+
+http://bbs.dhs.nu/tracking/
+
+
+Grazey-PHF 
+
+ 
+Title                           Composer
+
+TEC Demo                        BB
+Metal Masters                   Charles Callet
+Combo Racer Intro               Chris TGE
+Decade Demo - Quartet           Count Zero
+Shadow of the Beast             David Whittaker
+Gazza2                          David Whittaker
+The Killing Cloud               David Whittaker
+Supremacy                       David Whittaker
+Fire & Brimstone                David Whittaker
+International Soccer Challenge  David Whittaker
+Snow Strike                     David Whittaker
+Dan Dare III                    David Whittaker
+Loopz                           David Whittaker
+Wrath of The Demon              David Whittaker
+Tusker Digi                     Eldrich The Cat
+Projectyle                      Eldrich The Cat
+Excited                         Exarch
+Psychedelika                    Exarch
+Scientia                        Exarch
+Son Et Lumiere                  Exarch
+Back To The Golden Age          F Smadja
+Disciples of Steel              Jim Smelley
+TEC Demo                        JO
+Narco Police                    Jose A. Martin
+LTK Music Disk                  LTK
+Defender 2                      Martin Walker
+Hunter                          Martin Walker
+Shadow Sorcerer                 Martin Walker
+Gettysburg                      Martin Walker
+Spindizzy Worlds                Martin Walker
+Thunderhawk AH-73M Title        Martin Walker
+Thunderhawk AH-73M In Game      Martin Walker
+Aquanaut                        Max Headroom
+Mig                             Miggy
+Magic Fly                       Mr Micro
+Rising 1                        Nexus 6
+Rising 2                        Nexus 6
+Cadaver Intro                   Richard Joseph
+Speedball 2                     Richard Joseph
+International 3D Tennis Intro   Richard Joseph
+International 3D Tennis Main    Richard Joseph
+Decade Demo - Quartet           Roggie
+Disk Mag                        Roggie
+Minuet 1                        Roggie
+Minuet 2                        Roggie
+Ripped Off                      Roggie
+Guy Fawkes                      Sean O'Connor
+Stampede 1                      Sound Images
+Absentia                        Sparky
+Bachola - From a Bach 3-part    Sparky
+Badd Boy - Lode Runner Forever  Sparky
+Dogs Life - For PP Sledgehammer Sparky
+Fistfull of Dollars             Sparky
+Just 4 Fun                      Sparky
+MC DES'er - For DES and Juggler Sparky
+Magnetic Fields 2               Sparky
+Sledge - For PP Sledgehammer    Sparky
+War and Pieces (Nuke Iraq?)     Sparky
+Pompey Pirates #77              Sparky
+Pompey Pirates #84              Sparky
+Pompey Pirates #106             Sparky
+Twitch                          Sparky
+Wave                            Sparky
+Ooh Crikey - Intro              Spaz
+Ooh Crikey - Chainsaw Massacre  Spaz
+Ooh Crikey - What a Bummer      Spaz
+Ooh Crikey - Homische Sackratte Spaz
+Ooh Crikey - Reset              Spaz
+Punish Your Machine Reset       Spaz
+Starball                        Spaz
+Dark Side of the Spoon - TLB    Spaz
+Mindbomb Digi Synth             Spaz
+Dead Orgy 2                     Spaz
+Manic Demo - Intro              Spector
+Manic Demo - LED                Spector
+Quartet Music Demo 2            Spherical
+Disciples of Steel              Steve Schrade
+Stampede 4                      Stewart Gardner
+Stampede 5                      Stewart Gardner
+Stampede 6                      Stewart Gardner
+Stampede 7                      Stewart Gardner
+TEC Demo                        TEC
+TEC Demo Intro                  TEC
+Insignificant Demo              The Phantom
+A Cappella Choir                Tufty
+Aces High                       Tufty
+Don't Break My Heart - UB40     Tufty
+C64                             Tufty
+C64 Caz                         Tufty
+Hot Guitarin                    Tufty
+Hypnotic                        Tufty
+I Feel Love - Donna Summer      Tufty
+Kaos 1                          Tufty
+Kaos 1 Hyp                      Tufty
+Killer - Adamski                Tufty
+Knucklebusters                  Tufty
+Mirage                          Tufty
+Nsynth                          Tufty
+Numan                           Tufty
+Numero                          Tufty
+Pandemonium Demo - Acid         Tufty
+Paradise (Sade)                 Tufty
+Rev1                            Tufty
+Robo 16                         Tufty
+Tuft 2                          Tufty
+Tuft 2 a                        Tufty
+Vangelis 2                      Tufty
+Vangelis                        Tufty
+Dear Boy                        Tufty
+Red New 3                       Tufty
+Pyro                            Tufty
+Weird                           Tufty
+Wunder                          Tufty
+Roger Rabbit                    Tufty
+My Digi Demo 2                  Tufty
+Big Bang                        Waldemar Belwon
+Hey (Music Show 1)              Waldemar Belwon
+Power (Music Show 1)            Waldemar Belwon
+Time Machine - Digi             Wally Beben
+Wreckers                        Warren Cann
+Ventura Demo - Reset (Humuskus) waxup
+
+------------------------------------------------------------------------------
+
+
+V3.4 (October 2, 2012)
+
+73 new/updated SNDH files (84 tunes).
+
+With Outline on the horizon we bring you a 
+long overdue SNDH pack.
+
+Quite a varied with pack with some lovely new
+tunes including compositions by XIA, DMA-SC
+and 505.
+
+We've also updated some files with missing sub
+tunes, thanks to Pavel Puchala for the info!
+
+Finally, Grazey found he'd criminally missed
+some Chris Mad tunes from the Overdrive Demo
+way back in the 90's, this has been
+rectified!
+
+Expect a rather different release next time!
+
+Remember if you'd like to comment, give bugs or
+suggest a tune you would like, please feel free
+to post to our forum at :-
+
+http://bbs.dhs.nu/tracking/
+
+
+Grazey-PHF / Evil-DHS
+
+
+Title                           Composer
+
+Sommarhack 2011 Report Pt2      505
+Stress                          505
+No Stress                       505
+Shazz YM6channel 123            505
+Shazz YM6channel 456            505
+Base Case                       505
+Bagatelle                       505
+Revision 2012                   505
+Outline 2010 Invitro            505
+Jacktro                         505
+Compofiller 3000                Baggio
+David Whittaker Demo            Chris Mad
+Overdrive Pharadist             Chris Mad
+Overdrive Bitmap Mania          Chris Mad
+Overdrive Times                 Chris Mad
+Overdrive Music Box             Chris Mad
+ATARI: su-ba-ra-shii            Dma-Sc
+CYG Japan                       Dma-Sc
+Antiques - 3D Part              Dma-Sc
+Antiques - Hi-Colours Slideshow Dma-Sc
+Antiques - IFF Slideshow        Dma-Sc
+Antiques - Intro                Dma-Sc
+Antiques - Physics Part         Dma-Sc
+Antiques - Ending               Dma-Sc
+Antiques - Hidden               Dma-Sc
+Antiques - Loader 1             Dma-Sc
+Antiques - Loader 2             Dma-Sc
+Antiques - Loader 3             Dma-Sc
+STreet Art                      Dma-Sc
+Saboteur 3 - Crew Logo          Dma-Sc
+Saboteur 3 - Ending             Dma-Sc
+Saboteur 3 - Gains              Dma-Sc
+Saboteur 3 - Game Over          Dma-Sc
+Saboteur 3 - In Game 1          Dma-Sc
+Saboteur 3 - In Game 2          Dma-Sc
+Saboteur 3 - Introduction       Dma-Sc
+Saboteur 3 - The Mummy Rises    Dma-Sc
+Saboteur 3 - Title Screen       Dma-Sc
+Silly Cone                      Epi
+Talk Talk 2 - Loader            Excellence In Art
+Talk Talk 2 - Jim Parker        Excellence In Art *MOVED*
+Sommarhack 2011 Report Pt3      Excellence In Art *MOVED*
+Sunshine                        Excellence In Art
+Injector                        Excellence In Art
+Spy vs Spy                      gwEm
+Zoomer                          Jedi
+Nothing Is More - Song 1        Jedi
+Nothing Is More - Song 2        Jedi
+Nothing Is More - Song 3        Jedi
+Nothing Is More - Song 4        Jedi
+DNT Paper 4 intro - Song 1      Jedi
+DNT Paper 4 intro - Song 2      Jedi
+Shoot Preview                   Jedi
+So Lame                         Jedi
+The Ultimate Boothunt           Jedi
+Robocop 2                       Keith Tinman *UPDATE*
+Lap 27                          Lap *UPDATE*
+Pink and a Byss!                Rebb
+French Realtime                 Rebb
+Xmas 2011                       Rhino
+Sundown 2012                    Rhino
+Dawn                            Starbuck
+Der Traum                       Starbuck
+Exercise Wheel                  Starbuck
+Blackbird                       The Estate
+Polish Waitress                 Timbral
+LTC 08 sheep n chip             Tomchi
+Pakakaka                        Tomchi
+Saucage 3D                      Xyce
+Quelle Surprise                 Xyce
+STandard Crap                   Yerzmyey
+Silly Venture 2010 Invite       Yerzmyey
+Get Mad                         Yerzmyey
+
+Mike Mix                        Excellence In Art *DELETED*
+Word Read Me                    Excellence In Art *DELETED*
+
+------------------------------------------------------------------------------
+
+V3.3 (October 30, 2011)
+
+50 new/updated SNDH files (72 tunes).
+
+Fellow PHFer gwEm gave me a shot of motivation,
+spurring me into a compiling blitz,
+resulting in a much needed SNDH pack.
+
+The pack mainly focuses on music released 
+over the past 10 months. A few fixes are also
+included rectifying missing subtunes and 
+bugged replayers.
+
+As usual I've added a rarity, this time another
+Mad Max digi conversion :- Hubbard's 
+International Karate (it gets funky at 3:42)
+
+Also thanks to ggn for converting some XIA tunes
+easing my usual lone burden. 
+
+
+Remember if you'd like to comment, give bugs or
+suggest a tune you would like, please feel free
+to post to our forum at :-
+
+http://bbs.dhs.nu/tracking/
+
+
+Grazey-PHF / Evil-DHS
+
+Title                           Composer
+
+Blue                            505
+Gr?d? Groove                    505
+Hushrush                        505
+Liberation                      505
+Sommarhack 2011 Report Pt2      505
+Triplex                         505
+Deep Blue                       Damo
+Datacorder                      Datavase
+Frankiki                        Dma-Sc
+Happy 2011!!!!!!!!!!!!!!!!      Dma-Sc
+Kolmik (6 tunes)                Dma-Sc
+Sillyventure 2011 Invitro       Dma-Sc
+Superstar                       Dma-Sc
+The 2149 Gang                   Dma-Sc
+YMetal                          Dma-Sc
+P2P                             Dragan Espenschied
+It's Cool To Be Evil            Excellence In Art
+Sommarhack 2011 Invite          Excellence In Art
+Sommarhack 2011 Report Pt1      Excellence In Art
+Sommarhack 2011 Report Pt3      Excellence In Art
+Talk Talk 2 - Midsomer Theme    Excellence In Art
+Talk Talk 2 - Loader            Excellence In Art
+Talk Talk 2 - The Church EIA    Excellence In Art
+They pull me back in            Excellence In Art
+Word                            Excellence In Art
+Word Read Me                    Excellence In Art
+128 byte Choonage               gwEm
+Ex In My Bed                    gwEm
+Musixx                          Jari Nikula 
+Ikari Warriors                  Jas C Brooke
+Robocop 2                       Keith Tinman
+International Karate Digi       Mad Max
+Masterblazer                    Mad Max
+Dafvid Demo 2 - Pt 1            Marcer
+Dafvid Demo 2 - Pt 2            Marcer
+Dafvid Demo 2 - Pt 3            Marcer
+It's My Paradize                Marcer
+Radio (Summerhack version)      Marcer
+Crontab                         NebulaH
+Shorty                          Rhino
+Insane Level                    Stu
+The Beast/Bits Club - TBC 54    T1000
+Ultraflow                       Tao
+Kisse Katten                    Timbaland
+Fresh Bitches                   Timbral
+AC2010                          Tomchi
+No Monkey                       Tomchi
+Sommarhack 2011 Unknown         Unknown Composer
+Ses Seins                       Xyce
+Silly Venture 2010 Invite       Yerzmyey 
+
+
+------------------------------------------------------------------------------
+
+V3.2 (December 18, 2010)
+
+64 new/updated SNDH files (157 tunes).
+
+Well the SNDH archive gets a winter
+smattering of tunes to keep you warm
+and toastie on these cold evenings.
+
+The archive now contains a mighty 6464 tunes!
+An apt total for a release I would say.
+
+I've delved once again ripping some old tunes
+plus we are bang up-to-date with cracking hot
+stuff by !Cube, 505,Tomchi, DMA-SC, Yerzmyey
+Tao and Divag.
+
+A 'new' composer worthy of a mention is 
+Jean Baudlot who was prolific in the busy ST
+days giving tunes to classics such as Future Wars,
+Operation Wolf and Cruise for a Corpse.
+
+As usual we bring a few exclusives, most notable
+is the ultra rare Mad Max conversion of 
+Rob Hubbard's Skate or Die!
+
+Finally I found a crop of old Tri-Sound songs 
+which you'll find in the unknown folder. Please
+contact the SNDH team if you can identify
+the composer.
+
+The next SNDH update will be quite different,
+you'll see why on release!
+
+
+Remember if you'd like to comment, give bugs or
+suggest a tune you would like, please feel free
+to post to our forum at :-
+
+http://bbs.dhs.nu/tracking/
+
+
+Grazey-PHF / Evil-DHS
+
+Title                                   Composer
+
+Crystallized                            !Cube
+Blink                                   !Cube
+Captain Dynamo                          4-Mat
+Appendix                                505
+Pozdrowienia do Gdanska                 505
+Moodswinger                             505
+Finja (Native mode)                     505
+Finja (5 channel version)               505
+Zyncyventure                            505
+Goal                                    Allister Brimble
+Sky High Stuntman                       Allister Brimble
+Rotterdam Atari Acid                    Bioscillator
+Black Hornet                            Dave Lowe
+European Champions                      David Whittaker
+Graham Gooch World Class Cricket        David Whittaker
+One Step Beyond                         Dean Evans
+Pushover                                Dean Evans
+Drum 'n Buzz                            Divag
+Atari Evil Circus                       Divag
+Technorobotic                           Divag
+Electropsychiatrique                    Divag
+Mental Fury                             Divag
+Medievol                                Divag
+Crash To Live                           Divag
+Boomjasz                                Divag
+Troubled Memories                       Dma-Sc
+Coast II Coast                          Dma-Sc
+Coast II Coast Edit                     Dma-Sc
+Noname                                  Evil
+Midsomer Theme                          Excellence In Art
+Scary                                   Gary Wheaton
+Beach Volley                            Jean Baudlot
+Operation Wolf                          Jean Baudlot
+Castle Warrior                          Jean Baudlot
+Dragon Ninja                            Jean Baudlot
+Future Wars - Time Travellers           Jean Baudlot
+Operation Stealth                       Jean Baudlot
+Cruise for a Corpse                     Jean Baudlot
+Pushover                                Jonathan Dunn
+Juriman                                 Juri
+The Godfather                           Justin Scharvona
+Pushover                                Keith Tinman
+Skate or Die!                           Mad Max
+No Equador                              Marcer
+Russian Caramba                         Marcer
+Laser Squad                             Matt Furniss
+Ancient Art of War in the Skies         Paul Tonge
+Shark                                   Stax
+Treasure Island Dizzy                   Steve Barrett
+Bombabazooka (2010 version)             Stu
+Around The World                        Stuart Trigg
+Heftig (Sillyventure 2010)              Tao
+So alone... (Live ver.)                 Timbral
+No Extra                                Tomchi
+ChipVenture                             Tomchi
+Knucklebusters                          Unknown Composer
+Zwaqwam                                 Unknown Composer
+Fun Sad                                 Unknown Composer
+Lame Bip                                Unknown Composer
+Mars Station                            Unknown Composer
+Spider Ship                             Unknown Composer
+Dark Side                               Wally Beben
+STandard Crap                           Yerzmyey 
+Silly Venture 2010 Invite               Yerzmyey 
+
+                                                                
+
+------------------------------------------------------------------------------
+v3.1 (April 29th 2010)
+
+103 new or fixed SNDH files (156 tunes).
+
+It's Outline again!
+
+So once again a couple of months before the party
+my D-Bug activities take a back seat and music
+ripping comes to the fore!
+
+Again it's a real mixed bag with all the tunes
+from the recent 20 year old STE demo and the
+show stopping tunes from last years Checkpoint
+demo. 
+
+We still like to throw a spanner in the works
+so I've started ripping ancient tunes from
+Automation menus 1-30, I'm sure you'll look
+forward to these!
+
+There's also a rare Mad Max tune featuring
+one of his early digi-drum tunes. Speaking
+of Mad Max expect some very rare unreleased
+stuff soon as well!
+
+Thanks must go to those musicians who keep us
+up to date with their work, so big thanks to
+Cerror, 505 and Ultrasyd!
+
+
+Remember if you'd like to comment, give bugs or
+suggest a tune you would like, please feel free
+to post to our forum at :-
+
+http://bbs.dhs.nu/tracking/
+
+
+Grazey-PHF / Evil-DHS
+
+Title                                       Composer
+Despair                                        4-Mat
+Visual Unity                                     505
+Cubes                                            505
+Humming                                          505
+Cernit Trandafir                                 505
+Direct Colour Zoomer                             505
+Megademo Intro                                   505
+Sommarhack Invite 2010                           505
+Suretrip 2 - Stars                               505
+Suretrip 2 - Part 1                              505
+Suretrip 2 - Part 2                              505
+Suretrip 2 - End Part                            505
+Suretrip 2 - Digi                                505
+Chubby Gristle                           Ben Daglish
+Datass                                        Cerror
+A Beginning                                   Cerror
+Vermouth                                      Cerror
+Loader Tune                                   Cerror
+Blaxx                               Christian Wirsig
+Shure Of One Thing                           D-Force
+Time Ticking By                              D-Force
+STNICCC                                      D-Force
+Return of the Jedi                        Dave Kelly
+Happy Dancefloor                              Dma-Sc
+Hail To Sunny Days                            Dma-Sc
+Spring Party                                  Dma-Sc
+Rolling Thunder                      Donald Campbell
+Cheap (in terms of CPU)            Excellence In Art
+Brit                               Excellence In Art
+Hit the Road Jack / tutoria        Excellence In Art
+The Last Song                      Excellence In Art
+They pull me back in               Excellence In Art
+Trans-Y Videolife                  Excellence In Art
+Save The Earth                     Excellence In Art
+1812 Overture (Tchaikovsky)        Excellence In Art
+Handy-man (The Knife) 1.01         Excellence In Art
+$14                                Excellence In Art
+Save The Earth Intro               Excellence In Art
+Victory Road                               Fred Gray
+Pepsi - Mad Mix Game                       Gominolas
+Wings of Death #6                               gwEm
+Stardust Memories                               gwEm
+ze japanim                                      gwEm
+Real Friends                                    gwEm
+Different World (dub mix)                       gwEm
+Gabba Bobble                                    gwEm
+Lazy Jones remix                                gwEm
+RetroModern                                     gwEm
+4gEtful                                         gwEm
+Fantasy                                         gwEm
+Football Manager                          Kevin Toms
+Ninja                                        Mad Max
+Airball Remix                                Mad Max
+Bach The Future                              Mad Max
+Street Gang                                  Mad Max
+Despair                                      Malodix
+Sailor Toys                                   Marcer
+Thalion Intro                                 Marcer
+Axel F                                        Marcer
+Blues                                         Marcer
+Gamet                                         Marcer
+Kid                                           Marcer
+Pandora                                       Marcer
+Paradize                                      Marcer
+Popcorn                                       Marcer
+Stax                                          Marcer
+Treasure                                      Marcer
+YM Out                                        Marcer
+Aqua Polka                                      Nemo
+Spy vs Spy                               Nick Scarim
+Soldier 2000                         Nigel Pritchard
+Daley Thompson's Olympic Ch           Peter Johnsson
+Russer                               Peter Jorgensen
+Out For You                          Peter Jorgensen
+Boesseti                             Peter Jorgensen
+Klatmix                              Peter Jorgensen
+Ivanhoe                          Pierre-Eric Loriaux
+Ratu                                        Proteque
+Barbarian                             Richard Joseph
+Jobil                                            Sh3
+Certfied Dope - Attitude Pr                   Shamen
+Certfied Dope - Filled 3D                     Shamen
+Certfied Dope - In Space                      Shamen
+Certfied Dope - Intro                         Shamen
+Certfied Dope - Menu                          Shamen
+Certfied Dope - Shape it Up                   Shamen
+Certfied Dope - Sources                       Shamen
+Backlash                                 Simon Berry
+Bubble Bobble                             Tim Follin
+Gauntlet III                              Tim Follin
+Ghouls N Ghosts                           Tim Follin
+Wake up kid!                                  Tomchi
+Kid is VIP                                    Tomchi
+The Day YM Killed Fakebit                   Ultrasyd
+Brain Damaging Arps                         Ultrasyd
+Lonesome Robot                              Ultrasyd
+Merging Present And Past                    Ultrasyd
+Trailblazer                         Unknown Composer
+Veteran                             Unknown Composer
+Mousetrap                           Unknown Composer
+Indiana Jones and the Templ         Unknown Composer
+Cybernoid                           Unknown Composer
+Dragon Lord                         Unknown Composer
+
+
+------------------------------------------------------------------------------
+
+
+
+
+v3.0 (May 22nd 2009)
+
+35 new SNDH files (56 tunes).
+
+It's Outline! So we thought we'd release
+a new SNDH pack. Grazey has been ULSing
+stuff for D-Bug over recent months hence
+music ripping becoming secondary.
+
+Anyway there's some nice goodies here including
+two exclusive unreleased tunes by Tao! We've 
+also got gwEm's hot off the press Outline entry
+for your enjoyment.
+
+Thanks must go to those musicians who keep us
+up to date with their work, so big thanks to
+Cerror and Ultrasyd!
+
+
+Remember if you'd like to comment, give bugs or
+suggest a tune you would like, please feel free
+to post to our forum at :-
+
+http://bbs.dhs.nu/tracking/
+
+
+Grazey - PHF / Evil - DHS
+
+
+Pro Powerboat Simulator                 Allister Brimble
+The Sword and The Rose                  Allister Brimble
+Salvator                                Cerror
+Calculon                                Cerror
+Cranberry Part 1                        Cerror
+Cranberry Part 2                        Cerror
+Steigar                                 D Cann
+Garfield 2 - Winters Tale               Dave Lowe
+Line of Fire                            Dave Lowe
+Mazemenu                                Dma-Sc
+Daddy Freddy - Bring Your Own Bottle    Dubmood
+Heatbeat vs WoTW                        Dubmood
+2006_Live_Starfighter                   Dubmood
+Jesters Chipmunks                       Dubmood
+Tempest - Acidjazzed Evenings           Dubmood
+Tempest - Acidjazzed Evenings (D-Bug)   Dubmood
+D-Bug 197 Jam Version                   Dubmood
+Old Unreleased Jam                      Dubmood
+Good Old Fashioned Blipp Blopper!       gwEm
+electronica re-shox                     Lotek Style
+World Championship Soccer               Mark Cooksey
+Yolanda                                 Phil Bak
+T Bird                                  Riff
+Ruff and Ready                          Sean Conran
+Lethal Xcess Main menu full edit        Tao
+Sweety full edit                        Tao
+Cats Love ST                            Ultrasyd
+Bouncing Banana                         Ultrasyd
+Scene Spirit                            Ultrasyd
+Corsair (mB cover)                      Ultrasyd
+Night Dawn                              Unknown Composer
+Tiger Road                              Unknown Composer
+European Soccer Challenge               Unknown Composer
+Time Machine                            Wally Beben
+Ultimate Ride                           Wally Beben
+
+
+
+------------------------------------------------------------------------------
+
+
+v2.9 (November 15th 2008)
+
+64 new or updated SNDH files (70 tunes).
+
+A small update for you compared with recent
+releases. But this is the knock on effect 
+of less new tunes being released.
+
+Note there are a couple of SNDH-Digi tunes
+for your delectation, notably 505's awesome
+'More or Less Zero' and Gargamel's 'Tyranny'.
+
+
+Remember if you'd like to comment, give bugs or
+suggest a tune you would like, please feel free
+to post to our forum at :-
+
+http://bbs.dhs.nu/tracking/
+
+
+Grazey - PHF / Evil - DHS
+
+
+
+Title                                    Composer
+
+More Or Less Zero                        505
+Spritze                                  AiO
+Kings Quest II                           Al Lowe
+Bajs 2                                   Baggio
+Demo Test                                Baggio
+Magmakt                                  Baggio
+PMP Sug                                  Baggio
+Softly                                   Baggio
+Spritze                                  Baggio
+Punk Ass MF                              Crazy Q
+Fucking Untight Shit!                    Crazy Q
+Last Ninja 2                             Dave Kelly
+Starfighter 2006 live                    Dubmood
+Daddy Freddy - Bring Your Own Bottle     Dubmood
+Bois De La Biere                         Forestcreature
+Tyranny                                  Gargamel
+The Ancient Art of Chiptune              gwEm
+Sounds Of 1985-2006                      Marcer
+2149 Final                               Marcer
+Intro 99                                 Marcer
+Alice Buzz ST                            Marcer
+Gillian                                  Marcer
+CPU Slider Preview                       Marcer
+ST Kills Rambo                           Marcer
+Latina - NWD Ingame - Extended           Marcer
+Cover For Maria                          Marcer
+Oxygen 8 YM                              Marcer
+Sleepin                                  Marcer
+Jambala 8 mix                            Marcer
+Turricana                                Marcer
+Cool                                     Marcer
+I Wish ST vers                           Marcer
+Sorn Destiny                             Marcer
+Might 382                                Marcer
+Techno Orion                             Marcer
+Heroes Intro                             Marcer
+Star                                     Marcer
+Bombtro                                  Stu
+Danger                                   Stu
+Insectz                                  Stu
+Machine                                  Stu
+Retina                                   Stu
+Electrox                                 Stu
+Dark Angel                               Stu
+Singing Robot                            Stu
+Stereoid Remix                           Stu
+Such A Square                            Stu
+Bombabazooka                             Stu
+Disco Ver Atari                          Stu
+Fuck Machine                             Stu
+Ice Cream Dream                          Stu
+Kyou Wa Koko Made                        Stu
+Night Jam                                Stu
+Pirate Showdown                          Stu
+Ready To Score                           Stu
+ST-God Back From Hell                    Stu
+YM out                                   Tomchi
+Bach                                     Unknown Composer
+Ballade                                  Unknown Composer
+Dampf                                    Unknown Composer
+Prelude                                  Unknown Composer
+Sailor                                   Unknown Composer
+Tango                                    Unknown Composer
+Starfighter 2006 live                    Zabutom
+
+eof
+
+
+------------------------------------------------------------------------------
+
+
+v2.8 (May 28, 2008) 
+
+125 new SNDH files (182 tunes).
+(including 2 fixed SNDH files).
+
+Over 10 months since the last update! 
+
+But I can explain! For all of those 
+10 months I've been living in temporary
+accommodation so motivation has hit a 
+very low ebb. Coupled with been removed
+as a user from the main SNDH support forum
+I seriously contemplated packing it all
+in. 
+
+However I'm starting to perk up a bit,
+we move back into our house on the 2nd June,
+and I've had two wonderful holidays in New
+York & Barcelona. Ok enough about me, on 
+with the update......
+
+Again a wild bunch of tunes, brand new
+Outline tunes, a weird mixture of exotic
+old stuff and finally the T1000 tunes :)
+
+I'd like to thank the Cream guys for their
+constant support for SNDH. New SNDH-Digi
+tunes (Chambers of Shaolin, specifically)
+required an update to their Winjam program.
+ 
+So find a brand new SNDH plugin at :-
+
+www.creamhq.de/creamfiles/updates/SNDH_Replay.jam 
+
+Ok waffle over.....
+
+Remember if you'd like to comment, give bugs or
+suggest a tune you would like, please feel free
+to post to our forum at :-
+
+http://bbs.dhs.nu/tracking/
+
+
+Grazey - PHF / Evil - DHS
+
+
+
+Title                               Composer
+1K_ller                             gwEm
+1st Extra                           Tomchi
+1st Intro                           Tomchi
+Again                               505
+Ahead                               505
+Battle Command                      Jonathan Dunn
+Blakkel                             Sh3
+BSW 121                             Unknown Composer
+Builder Land                        Michel Winogrado
+Car Race                            Mad Max      FIX
+Chambers of Shaolin Digi (STe)      Mad Max
+Chambers of Shaolin Digi (STFM)     Mad Max
+Chariots of Fire                    MSG
+Coco Cooper                         Marcer
+Dark Angel                          Stu
+DCK On Board - Oldckool             Tomchi
+DCKolors - Oldckool                 Tomchi
+Deadland                            Justin Ward
+Disturbance Bilocated               Monk
+Dogfight                            Philip Bishop
+Dubmoods MILF (in da park)          Orbital
+Electrox                            Stu
+End Screen - Oldckool               Tomchi
+Enterprise                          Orall Cornelius
+Enterprise                          Gordon Kennett
+Evil Force #121                     Sparky
+Fan Fare                            Sh3
+Flipit & Magnose                    Darren Ithnell
+Four Screens - Oldckool             Tomchi
+G-Loc ESD Intro                     Unknown Composer
+Galax (orig. Ben Daglish)           Dubmood
+Gatelys                             Frequent
+Glenz                               505
+HAP                                 Tomchi
+Heuthier                            Thothy
+Huno Demo                           Unknown Composer
+In Game                             Sh3
+International Soccer Challenge      Unknown Composer
+Intro - Oldckool                    Tomchi
+Intro Tune (4-Mat)                  Dubmood
+Jingle                              Thothy
+Kolobki Vodka Dance                 Dubmood
+Kompis tog fram en fet skiva och korDubmood
+Little Sexy Square                  Crazy Q
+Loader Rewind                       Sh3
+Logo                                Adrian Dalecki
+Manical Drop - 1 Player music #1    Dma-Sc
+Manical Drop - 1 Player music #2    Dma-Sc
+Manical Drop - 2 Players music #1   Dma-Sc
+Manical Drop - 2 Players music #2   Dma-Sc
+Manical Drop - 2 Players music #3   Dma-Sc
+Manical Drop - 2 Players music #4   Dma-Sc
+Manical Drop - Introduction         Dma-Sc
+Manical Drop - Menu                 Dma-Sc
+Medway Boys 11                      Unknown Composer
+Meikever                            MSG
+Minipitt_vs_wotw_intro96 (goto80 vs Dubmood
+Morphonic                           505
+Mouthtrap                           Darren Ithnell
+Mr Deaths Omega Illusion            Dubmood
+Oldiez                              Kenet
+Onslaught                           Chris Hinsley FIX
+Oxyron Party                        Peace
+Pacemaker                           505
+Parallax - Oldckool                 Tomchi
+PI Bass                             Tomchi
+Picrocconelle                       Tomchi
+PTSPRT- Oldckool                    Tomchi
+Pub Trivia Simulator                Unknown Composer
+Pulstar 2                           Jedi
+Pyramax                             Orall Cornelius
+Requiem pt2                         Remalon
+Rings of Medusa Mix                 Marcer
+River City Open                     Cerror
+Rorkes Drift                        Chris Denman
+Saboteur 2                          Sh3
+Samurai - Way of the Warrior        Chris Denman
+Scrolling Rolling - Oldckool        Tomchi
+Sinus - Oldckool                    Tomchi
+Spicetro                            Housemania
+Spy vs Spy - The Island Caper       Nick Scarim
+Standard YM                         Marcer
+Still DRE Alla Man borde ringt live Dubmood
+Stille                              Thothy
+Striker                             Chris Denman
+Sword and the Rose                  Allister Brimble
+Tempest fjortisfacials vs Zabutom   Dubmood
+The Beast/Bits Club - TBC 10        T1000
+The Beast/Bits Club - TBC 11        T1000
+The Beast/Bits Club - TBC 12        T1000
+The Beast/Bits Club - TBC 13        T1000
+The Beast/Bits Club - TBC 14        T1000
+The Beast/Bits Club - TBC 15        T1000
+The Beast/Bits Club - TBC 16        T1000
+The Beast/Bits Club - TBC 17        T1000
+The Beast/Bits Club - TBC 18        T1000
+The Beast/Bits Club - TBC 19        T1000
+The Beast/Bits Club - TBC 22        T1000
+The Beast/Bits Club - TBC 24        T1000
+The Beast/Bits Club - TBC 25        T1000
+The Beast/Bits Club - TBC 27        T1000
+The Beast/Bits Club - TBC 3         T1000
+The Beast/Bits Club - TBC 32        T1000
+The Beast/Bits Club - TBC 34        T1000
+The Beast/Bits Club - TBC 35        T1000
+The Beast/Bits Club - TBC 4         T1000
+The Beast/Bits Club - TBC 5         T1000
+The Beast/Bits Club - TBC 7         T1000
+The Beast/Bits Club - TBC 9         T1000
+The Beast/Bits Club - TS 1          T1000
+The Beast/Bits Club - TS 11         T1000
+The Beast/Bits Club - TS 4          T1000
+The Beast/Bits Club - TS 5          T1000
+The Beast/Bits Club - TS 6          T1000
+The Beast/Bits Club - TS 8          T1000
+The Forest                          Crawdaddy
+Travellers                          Dma-Sc
+Tusker                              Eldrich The Cat
+Twinworld                           Haiko Ruttmann
+Twisted Life Style                  Crazy Q
+Vertical DCKroll - Oldckool         Tomchi
+Warmup (Black Sheep PHF)            505
+We Remember                         Marcer
+Web of Terror                       Chris Denman
+World Trophy Soccer                 Unknown Composer
+
+
+------------------------------------------------------------------------------
+
+
+
+v2.7 (August 16, 2007) 3000 up!
+
+175 new SNDH files (180 tunes).
+1 bug fixed SNDH file.
+
+The SNDH archive hits 3000 files!
+
+175 tunes I hear you say! Less than a month from
+the last SNDH pack?! Doesn't Grazey sleep?
+
+Well the reason for the huge input of tunes is 
+that I've written an automatic batch Music Studio
+to SNDH converter. Music Studio was perhaps the
+first chip editor on the ST. The bad news is that
+most of the tunes are chronic, apart from Ed Bogas
+and the tunes from Xevious and Metrocross :)
+
+Apart from that we have new tunes released since
+v2.6 and also some exclusives including unreleased
+tunes from Matt '4-Mat'Simmonds, Allister Brimble
+and Martin 'Nuke' Iveson (all from the unreleased
+game - Arcade Classix).
+
+Remember if you'd like to comment, give bugs or
+suggest a tune you would like, please feel free
+to post to our forum at :-
+
+http://bbs.dhs.nu/tracking/
+
+
+Grazey - PHF / Evil - DHS
+
+Composer         Title
+
+Agent Hippel To The Rescue        !Cube
+Arcade Classix - Hiscore          4-Mat
+Rare (Main part)                  Alchemist
+Rare (Endpart)                    Alchemist
+Auld Lang Syne                    Alice Amore
+ETUDE (Opus25,No.1) by F.Chopin   Alice Amore
+Arcade Classix - Missile Command  Allister Brimble
+The Next Time I Fall              Barry Deutsch
+Santa Clause                      Barry Deutsch
+UCM 18                            Carbon
+Axel F by Harold Faltermeyer      Chris French
+Deck The Halls                    Chris French
+The Little Drummer Boy            Chris French
+Good King Wenceslas               Chris French
+Jingle Bells                      Chris French
+Silent Night                      Chris French
+Twelve Days of Christmas          Chris French
+We Wish You a Merry Christmas     Chris French
+Collage with a Moustache          Crazy Q
+Sexgames                          Crazy Q
+Lay me Down                       Debbie Davis
+Detta ar DDR!                     Dubmood
+Ballad                            Ed Bogas
+Aisle Dance                       Ed Bogas
+Bebop                             Ed Bogas
+Boogie                            Ed Bogas
+Bossa Nova                        Ed Bogas
+Brandenburg Concerto 2 by Bach    Ed Bogas
+Calypso                           Ed Bogas
+Pachelbel's Canon in D            Ed Bogas
+Country Too                       Ed Bogas
+Echo Rock                         Ed Bogas
+Fifties                           Ed Bogas
+Five Four                         Ed Bogas
+Folk Song                         Ed Bogas
+Harmony                           Ed Bogas
+Latin                             Ed Bogas
+Lead Vocal                        Ed Bogas
+Prelude                           Ed Bogas
+Kyrie eleison-Mozart's REQUIEM    Ed Bogas
+Star-Spangled Banner              Ed Bogas
+Tango                             Ed Bogas
+Walker                            Ed Bogas
+Waltz                             Ed Bogas
+Steinras DMA                      Frequent
+Garage Days Revisited             gwEm
+Desafinado                        Harry Wootan
+Fairest Lord Jesus                Harry Wootan
+Walker                            J Green
+Four Leaf Clover                  Jim Thomson
+Traxxer 2                         Marcer
+Valse Venezolano, by A. Lauro     Mark Quinn
+Arcade Classix - Breakout         Martin Iveson
+Arcade Classix - Centipede        Martin Iveson
+Xevious                           Nick Jones
+Dubmoods MILF (in da park)        Orbiter
+Cagney & Lacey Theme              Paul Schuh
+Carol of the Bells                Peter Inzerillo
+Piano Man                         Peter Inzerillo
+Bridge Over Troubled Water        Ron Robinson
+Almost Happy                      Rubbish
+Xeron Overture                    Sarek
+Improvisation                     Sarek
+Organic Robots                    Sarek
+Sports Day                        Sarek
+Stop Start                        Sarek
+Witches                           Sarek
+maxYMum Time Pressure             Starbuck
+Chillout                          Stu
+Fun Fun                           The Assassin
+That's The Way (Led Zepplin)      The Assassin
+Witchy Woman - Eagles (1972)      The Assassin
+I Was a Fool (To Let You Go)      The Assassin
+Dance of the Candy Fairy          Tim Shockley
+Dubmoods MILF (in da park)        Timbral
+Close Encounter of a Thrid Kind   Tom Marvin
+Thunderer                         Tom Marvin
+The Battle of New Orleans         Tom Walden
+Wolfchild                         Unknown Composer
+ # 4-Mat confirmed this track is not by him
+ # Also bug fixed the tune. thanks to S Lindberg
+ # for spotting this.
+Metrocross                        Unknown Composer
+12 Bar Blues                      Unknown Composer
+She's Always A Woman              Unknown Composer
+Don't Stop Believing,"Journey"    Unknown Composer
+Ben Hur Chariot Race March        Unknown Composer
+Both Sides Now                    Unknown Composer
+Every Breath You Take - Sting     Unknown Composer
+California Girls                  Unknown Composer
+They Call It The Blues            Unknown Composer
+Cavlary                           Unknown Composer
+Pachelbel's Canon in D            Unknown Composer
+Carry On                          Unknown Composer
+Good Time Charlie                 Unknown Composer
+Children's Corner # 1             Unknown Composer
+Children's Corner # 2             Unknown Composer
+Children's Corner # 3             Unknown Composer
+Children's Corner # 4             Unknown Composer
+Children's Corner # 5             Unknown Composer
+Children's Corner # 6             Unknown Composer
+I Can See Clearly Now             Unknown Composer
+Daybreaker-ELO                    Unknown Composer
+Eastenders                        Unknown Composer
+ST Elsewhere                      Unknown Composer
+The Imperial Death March          Unknown Composer
+The Entertainer                   Unknown Composer
+Estrel                            Unknown Composer
+Eye Sky                           Unknown Composer
+Flashdance...What A Feeling       Unknown Composer
+Where Have All th Flowers Gone    Unknown Composer
+FUR ELISE by L. V. Beethoven      Unknown Composer
+Entry of the Gladiators           Unknown Composer
+God Father                        Unknown Composer
+Goodbye Yellow Brick Road         Unknown Composer
+Han Solo and the Princess         Unknown Composer
+Hey Hey,My My - Neil Young        Unknown Composer
+Homage to ANDRES SEGOVIA          Unknown Composer
+I Honestly Love You               Unknown Composer
+Honkitnk                          Unknown Composer
+I am a Rock                       Unknown Composer
+I Heard the Bells                 Unknown Composer
+I Just Called to Say I Love U     Unknown Composer
+Joy to the World                  Unknown Composer
+Jump                              Unknown Composer
+La Virgen de la Macarena          Unknown Composer
+Life in a Northern Town           Unknown Composer
+O Little Town of Bethlehem        Unknown Composer
+Peter Gunn                        Unknown Composer
+Maggie May                        Unknown Composer
+Away in a Manger                  Unknown Composer
+Have Yourself Merry Christmas     Unknown Composer
+Michelle                          Unknown Composer
+It Came Upon a Midnight Clear     Unknown Composer
+Mini Dance                        Unknown Composer
+Minuet in G                       Unknown Composer
+Money for Nothing                 Unknown Composer
+Music Box Dancer                  Unknown Composer
+Night Moves                       Unknown Composer
+The First Noel the Angel ...      Unknown Composer
+OLD JOE CLARK'S BOOGIE            Unknown Composer
+Orange Blossom Special            Unknown Composer
+Off To School Boogie              Unknown Composer
+He Played Real Good For Free      Unknown Composer
+Rainbows                          Unknown Composer
+Rest Life                         Unknown Composer
+Believe It or Not!                Unknown Composer
+The Rock Island Line              Unknown Composer
+Russian                           Unknown Composer
+SAILORS BOOGIE                    Unknown Composer
+Goodnight Saigon                  Unknown Composer
+Santa Clause is Coming to Town    Unknown Composer
+Sensation                         Unknown Composer
+Sidestep                          Unknown Composer
+SOUND OF SILENCE By Paul Simon    Unknown Composer
+Silent Night                      Unknown Composer
+Somewhere, My Love                Unknown Composer
+Soon It's Gonna Rain              Unknown Composer
+Spanish Eyes                      Unknown Composer
+The Spider Dance - Tarantelle     Unknown Composer
+Stand By Me                       Unknown Composer
+Star-Spangled Banner              Unknown Composer
+Theme From "Star Trek"            Unknown Composer
+Star Wars                         Unknown Composer
+Stealing the Enterprise           Unknown Composer
+Studio Music                      Unknown Composer
+Talk To Me - by Stevie Nicks      Unknown Composer
+Today                             Unknown Composer
+76 Trombones                      Unknown Composer
+Two Part Invention #13            Unknown Composer
+Two Part Invention                Unknown Composer
+Up on the House Top               Unknown Composer
+Watch Girl                        Unknown Composer
+We Are The World                  Unknown Composer
+What Child is This                Unknown Composer
+William Tell Overture             Unknown Composer
+The Windmills of Your Mind        Unknown Composer
+Yankee Doodle                     Unknown Composer
+Yoda's Theme                      Unknown Composer
+
+
+------------------------------------------------------------------------------
+
+
+
+v2.6 (July 26, 2007) - Pure quality
+
+50 new SNDH files (73 tunes).
+
+The latest SNDH addition certainly oozes quality!
+>From 505's sonical stimulation in Blubber Tunes, to 
+Dubmood's funky tracks used in all the latest D-Bug
+hard-drive/Falcon fixes.
+
+This pack also see the advent of a new breed of SNDH,
+"SNDH-Digi"! After years of pleas from Lotek Grazey
+finally decided on the perilous trip of ripping and
+fixing exotic digital tracks, which until now had 
+being playable by running the actual game!
+
+The first three SNDH-Digi's are Jochen Hippel first
+foray into digital, with the excellent tunes from
+Great Giana Sisters, Warp and Stormlord. The tunes
+have even being tested on the CT60... anyway what
+are you waiting for... happy listening.
+
+
+Grazey - PHF / Evil - DHS
+
+Composer         Title
+
+505              Shredder
+505              Cyborg Clubbing
+505              Attack
+505              Certain Range
+505              Chippy
+505              Coffee Break
+505              Disco Slide
+505              Easy
+505              Erde
+505              Everything
+505              Factored
+505              Faster
+505              For the Moon
+505              Jumper
+505              Krabbencocktail
+505              Long Ago
+505              Nuance
+505              On Behalf Of the Queen
+505              P7 Action
+505              Paracon 8
+505              Parkbank
+505              Phazer
+505              Psycho
+505              Reasonless
+505              Sinesinger
+505              Sphere
+505              Thing
+505              Thrust
+505              Upbuzzer
+505              Nowhere
+505              Antique
+Dma-Sc           Bubble Days
+Dubmood          Purple Motions 2nd Reality
+Dubmood          Alloy Run
+Dubmood          Zabutoms Bice4
+Dubmood          Loonies Biohazard
+Dubmood          Nukes Chiptune
+Dubmood          Vains we are da indians
+Dubmood          D-Bug Menu 197
+Forestcreature   Sorry Sorry Sorry
+Fred Gray        Star Goose
+Mad Max          Great Giana Sisters Title Music   SNDH-Digi
+Mad Max          Stormlord Title Music             SNDH-Digi
+Mad Max          Warp Title Music                  SNDH-Digi
+New Frequency    ZPC - TLT Convention
+Skinnybone       Trex Warrior
+The Source       SDI (Activision)
+The Source       Super Hang On
+Unknown Composer Heroes of the Lance
+Unknown Composer Wanderer 3D
+
+
+------------------------------------------------------------------------------
+
+
+
+v2.5 (May 11, 2007) - Outline 2007 release
+
+53 new SNDH files (214 tunes).
+
+Here we are back again with an update to the ultimate SNDH archive.
+
+This time Grazey decided to take up a challenge he had buzzing round
+his head for quite a while..... to rip EVERY tune from EVERY game
+featured on a D-Bug menu.
+
+Most of the common musics/composers had already been ripped
+many years ago, but that left weird,exotic formats that until now no
+one had dared or been able to rip.....
+
+Ripping these tunes was much more of a challenge than the....
+"any monkey can rip megatizer, mad max , whittaker formats".
+
+Anyway he finally succeeded so here you will find 'master pieces'
+from the likes of Geoff Camp, Yann Sevin and er....Carlos Perconti
+... who?!?!
+
+P.S. Oh and don't mention the Automation archive next :)
+
+Grazey - PHF / Evil - DHS
+
+
+4-Mat              Heimdall
+CS Adams           Head Coach
+Martin Barlow      Violator
+Allister Brimble   Pro Boxing Simulator
+Allister Brimble   Mean Machine
+Allister Brimble   Seymour Goes To Hollywood
+Allister Brimble   Wacky Darts
+Geoff Camp         Spider Spell
+Sean Conran        WWF - Wrestle Mania
+Chris Denman       Ancient Games
+Chris Denman       Charge of the Light Brigade
+Chris Denman       Crime City
+Chris Denman       Cyber Cop
+Chris Denman       Discovery
+Chris Denman       Seige Master
+Matt Furniss       Ultima VI - The False Prophet
+Ashley Hogg        Spikey in Transylvania
+Insomnia           Plax Atax
+Ken Legace         Knights of the Sky
+Archer Maclean     Archer Macleans Pool
+Archer Maclean     Jimmy Whites Whirlwind Snooker
+Andi McGinty       WWF - European Rampage
+Dave Munsie        Evader
+Dave Munsie        Frogger
+Dave Munsie        Kid Kong
+Andrew Oakley      Sqaure Off
+Chris Parrish      Attack of the Alien Gun Turrets
+Carlo Perconti     Titus the Fox
+Paul Robotham      Space 1889
+Justin Scharvona   Robozone
+Chris Scudds       Cisco Heat
+Chris Scudds       Cisco Heat - STe
+Andy Severn        Heavy Metal Heroes
+Yann Sevin         Cool Croc Twins
+Skinnybone         Special Forces
+Rudi Stember       Dynablaster
+Rudi Stember       The Patrician
+Paul Tankard       Dr Who - Dalek Attack
+Andrew Taylor      Rodland
+Unknown Composer   Countout
+Unknown Composer   Dick Tracy
+Unknown Composer   Final Command
+Unknown Composer   Henriettas Book of Spells
+Unknown Composer   Maze
+Unknown Composer   Noddy's Playtime
+Unknown Composer   Quiz Construction Kit
+Unknown Composer   Sleeping Gods Lie
+Unknown Composer   Super Space Invaders
+Unknown Composer   Wolf Pack
+WE Music           Captain Planet
+Gary Wheaton       The Cocoons of Jusse
+Gary Wheaton       Escapade (Scarborough Fair)
+Tony Williams      Smash TV
+
+
+------------------------------------------------------------------------------
+
+
+v2.4 (March 5, 2007) - Dedicated to Richard Joseph
+
+130 new SNDH files (184 tunes).
+
+Quite a while since the last SNDH pack. But Grazey has been beavering away as usual
+extracting un-ripped tunes for your enjoyment.
+
+As a fitting tribute to the recently departed Richard Joseph (such a sad loss), we 
+include some previously unripped tracks by Richard, notably :-
+
+- Lure of the Temptress, The Adventures of Robin Hood, Legend, 
+- Wizkid, Magic Pockets, Megalomania and Steel Empire. 
+
+Grazey - PHF / Evil - DHS
+
+
+505                   fullscreen digin
+505                   Sequences
+505                   Xmas
+505                   YM2006
+505                   Zymplix
+Agrajag               3 5k Megademo Menu
+Arishem               Rigolo Abstract
+Beast                 Blaackel            ; Full versions sent by Beast. Thanks
+Beast                 Dodi Dodi           ;
+Beast                 Shitt               ;
+Beast                 Snabblat            ;
+Beast                 Suuuuuvk            ;
+Beast                 Xemispoy            ;
+Beast                 Yopsimex
+Captain Headcrash     Total Vision Inc 3.5k  
+Cooper                Znax Hiscores
+Count Zero            Hidden Easter Egg   ; Replaces Count_1.sndh , thanks to CZ for info!
+Crawdaddy             LameBrain
+Crawdaddy             Whatta Hell
+Crazy Q               Mindwarp
+Crazy Q               NWD-Game Over Test
+Crazy Q               Znax ingame tune 1
+Crazy Q               Znax ingame tune 2
+Deneb                 Puppet Show Loader
+Deneb                 Puppet Show Menu
+Dma-Sc                Chipping for Cash
+Dr Kaya               No Limit Coding
+Dubmood               POSTapoclyphse
+Epic                  World of Wonder - Legend
+Evil                  Enola Gay
+Frequent              Dronning
+Frequent              Lambo
+Frequent              Vrien
+gwEm                  Chipping for Cash
+Helene                ________________          ; Thanks for your tunes Helene          
+Helene                28 Sept 06
+Helene                Carsong 1 Micromusic
+Helene                Carsong 2
+Helene                Eurotrance Versjon
+Helene                Fuck The Universe
+Helene                Hah
+Helene                Hmmmm
+Helene                Juuujuu
+Helene                Newedit
+Helene                Noname (Auf h s tagebuch)
+Helene                Nonono
+Helene                Nononyesyesyes
+Helene                Rescued
+Helene                sndh4Christian
+Helene                Stray Kittens 1
+Helene                tecnotrance
+Helene                Temp
+Helene                Temptrance
+Helene                Testy2000
+Helene                Tull
+Helene                Version L
+Helene                Whatever
+Helene                Wronggggg
+Illusion              Betty (Golden Dawn 40a)
+Illusion              Fucker (Golden Dawn 38)
+Kanewood              Memorial
+Kenet                 Gameboy
+Mad Max               WarpTyme Intro Music   ;Fixed title
+Maktone               1st
+Maktone               Goldfish
+Maktone               Granit
+Maktone               Hex
+Maktone               Husselhof
+Maktone               Nelson
+Maktone               Shotgun
+Maktone               Varberga
+Marcer                2149 Final                ; Thanks for the tunes
+Marcer                Marcer 79
+Marcer                New Marcer
+Marcer                NWD-Ingame 1
+Marcer                NWD-Ingame 2
+Marcer                NWD-Ingame 3
+Marcer                NWD-Intro
+Marcer                Sounds Of 1985-2006
+Marcer                Square Poker Ingame
+Marcer                Square Poker Intro
+Marcer                Square Poker Menu
+Marcer                Testing 3-Unfinished
+Marcer                Xmas Snowman
+Marcer                Xmas Snowman SID
+Marcer                Znax Credits-first tYMe
+Marcer                Znax Menu-Greasy
+Monk                  Smalltrip
+MSG                   Superfly tune 1
+MSG                   Superfly tune 2
+MSG                   Superfly tune 3
+MSG                   Superfly tune 4
+MSG                   Superfly tune 5
+MSG                   Superfly tune 6
+MSG                   Superfly tune 7
+MSG                   Superfly tune 8
+MSG                   Superfly tune 9
+Nemo                  Bobbin Guru Deva
+Remalon               Bitume
+Remalon               Dont  Stop
+Remalon               Requiem
+Remalon               Unlimited Choux
+Richard Joseph        Lure of the Temptress
+Richard Joseph        The Adventures of Robin Hood
+Richard Joseph        Legend
+Richard Joseph        Wizkid
+Richard Joseph        Magic Pockets
+Richard Joseph        Megalomania
+Richard Joseph        Steel Empire
+Starbuck              A New Beginning             ; Thanks for the tunes
+Starbuck              Alf
+Starbuck              Every Beginning Is Hard
+Starbuck              Her 5
+Starbuck              Her 7
+Starbuck              Inside
+Starbuck              Insomina (Cracktro styled)
+Starbuck              Logical Lvl 3
+Starbuck              Mislead
+Starbuck              Oldschool Chip 1
+Starbuck              One Step Foreward
+Starbuck              Ready 2 Fight (Lightw 2)
+Starbuck              Sonic-Bridge Zone
+Starbuck              Sunrise
+Starbuck              Urban Shuffle
+Techno                Graaal Demo
+Techno                Plucked Goose Dune 2
+Techno                Puppet Show Digi            ; Replaces Dentro_4.sndh
+Techno                Puppet Show Intro
+Techno                x Show Intro
+Wally Beben           Ultima V Warriors Of Destiny 
+
+
+
+------------------------------------------------------------------------------
+
+
+v2.3 (August 14, 2006)
+
+
+50 new SNDH tunes.
+
+This time we're concentrating with simply updating the archive with the latest
+tunes which are beating the hell out of the YM chip. Who'd have thought such
+sounds would be possible from the humble 2149. But for the discerning YM fan
+we've also added the odd oldie to keep you happy.
+
+Enjoy the zaks.
+
+
+Grazey / Evil
+
+
+505            96shades
+505            52
+!Cube          Eye on Scene Maggie
+!Cube          Stax Menu 78
+!Cube          Back To Basics
+Alchemist      Big Floppy People 06
+Cerror         Imaginary Friend
+Chromex        Hydroxid Dentro
+Crazy Q        G-Spot (Party version)
+Crazy Q        G-Spot (Final version)
+Crazy Q        Phunky Shapeshifter
+Dma-Sc         Street Robots
+Dma-Sc         Stars of the night
+Dma-Sc         Alive 7 Inro
+Dma-Sc         Burton Tribute Project
+Dma-Sc         CRAUFunk
+Dma-Sc         Fighting His Fears
+Dma-Sc         Forgotten Figures
+Dma-Sc         Oric Demo
+Dma-Sc         POOZ - Bonus Tune (Super Mario Land Level 1)
+Dma-Sc         ST 20th Ann. Megade
+Dma-Sc         Wolf 3D Ending
+Dma-Sc         Wolf 3D Get Them
+Dma-Sc         Wolf 3D High Score
+Dma-Sc         Wolf 3D Interlude
+Dma-Sc         Wolf 3D Wondering About My Loved Ones
+Dma-Sc         Trials
+Dubmood        Destroy the Template
+Frequent       Dronning (Not STFM because of DMA drums)
+Frequent       Lambo (Not STFM because of DMA drums) 
+Frequent       Vrien (Not STFM because of DMA drums) 
+Gary           UCM 5 Intro
+gwEm           Future Gone Wrong
+Keith Tinman   Hudson Hawk
+Kenny D        Folk off 'round the field
+Lotek Style    Crushed The Majors
+Mad Max        2006
+Marcer         Bellanotte Chip - O-2006 Invite
+Marcer         Bellanotte chippy 200hz
+Marcer         Breath Outline
+Marcer         The 5th Experiment
+Morgan         Garcimore2 Rire reset
+MSG            Omtrek/uit/lijn
+Sh3            House of the rising sun
+Sh3            Jobil
+Skidz          Hydroxid Dentro
+Stu            Audiosphere
+Tao            M143R1
+Timbral        Outrun Highway E6
+Timbral        Junkie2149
+
+
+------------------------------------------------------------------------------
+
+
+v2.2 (June 2, 2006) - Outline Pack!
+
+
+250 new SNDH tunes.
+
+Two months since the last SNDH pack and we're back with another update!
+In this pack you should find all the very latest chip tunes, including
+all those from the ST 20 Year Demo. 
+
+As there are fewer and fewer new tunes to rip I'm setting my ripping
+sights on old old stuff. Hence some really horrendous tunes like the
+Jeremy Das songs and Vampire's Empire. But to end on a high, praise 
+must be given to gwEm who has finally succeeded in making Lotus of 
+Hotline's player system/falcon friendly. So enjoy tunes from No Buddies
+Land, Synth Dream and Monster Business!
+
+Grazey / Evil 
+
+
+505                 CPU Eater
+!Cube               Wind
+!Cube               Earth
+!Cube               Water
+Acid                TBB Mod Compil 32
+Acid                TBB Font Compil 3
+Ben Daglish         The Running Man         Replaces daglish\unknown.sndh
+Ben Daglish         Dynamite Dux
+Ben Daglish         XybotsFix
+Bodenstandig 2000   Die Wahrheit
+Cerror              Make Some Sense
+Chris Denman        Legend of the Lost
+Chris Denman        Feudal Lords
+Chrispy Noodle      Tiger 1
+Chrispy Noodle      Tiger 2
+Christian Haupt     Wizmo
+Dark Angel          The n Song  
+Dave Lowe           Galaxy Force II
+Dave Lowe           Turbo Outrun
+Divag               La potato
+Dma-Sc              Disco Fizz
+Dma-Sc              ExoCooper
+Dma-Sc              Ninja Action Fighter
+Dma-Sc              POOZ Highscores
+Dma-Sc              POOZ In Game
+Dma-Sc              POOZ Intro Menu
+Dma-Sc              POOZ Mini Games
+Dma-Sc              POOZ The Lab
+Dma-Sc              POOZ In Game
+Dma-Sc              ST 20th Ann Megademo
+Donald Fakk         Beat Nick
+Donald Fakk         Countdown
+Donald Fakk         Echoing
+Donald Fakk         Echoing (chip)
+Donald Fakk         Echoing
+Donald Fakk         Flum Hum
+Donald Fakk         Human Race Level 4(Chip)
+Donald Fakk         Human Race Level 4
+Donald Fakk         Jag Rullar
+Donald Fakk         Jag Springer Fort
+Donald Fakk         Ko And Kossa
+Donald Fakk         Kvant Krull Kompott
+Donald Fakk         Leif
+Donald Fakk         Leif (Chip)
+Donald Fakk         Porkchop (Logical mix)
+Donald Fakk         Praeludium
+Donald Fakk         Earth is Rotten
+Donald Fakk         Earth is Rotten (chip)
+Donald Fakk         Steam Dream
+Donald Fakk         Skit (Delta Cover)
+Donald Fakk         Spanking (chip)
+Donald Fakk         Spanking
+Donald Fakk         Syntax Terror Loader
+Donald Fakk         Syntax Terror Loader(chip)
+Donald Fakk         Young
+Dubmood             Space Journey (extended)     Extended Version
+Dubmood             Drumnbice
+Dubmood             Monkey Island
+Dubmood             Hybridworms Funky Stars
+Dubmood             Love Demo and Dope
+Dubmood             Anarchy Menu 3 (4-Mat)
+Dubmood             Alla man borde ringt
+Dubmood             Alla vill till himmelen
+Dubmood             Botkyrka VS ST STYLE
+Dubmood             Haschkaka LiveInterlude
+Dubmood             Herbalizer Live Interlude
+Dubmood             Pampradion livebeat
+Dubmood             Pampinterlude
+Dubmood             Publicea i Media beat
+Dubmood             Speedloader I
+Dubmood             Speedloader II
+Dubmood             Speedloader III
+Dubmood             Toffelskater Interlude
+Dubmood             Too Drunk to Fuck
+Dubmood             ym2149 oh sexy thing edit
+Dubmood             WOTW Intro 101
+ear dis             peagasm
+Gary                UCM 4 IntroName              Fix thanks A$ylum
+Gary Wheaton        Trotsky Crazy
+Jeremy Das          Radio Controlled Racer
+Jeremy Das          Locomotion
+Jeremy Das          Oribit 2000
+Jeremy Das          Burger Man
+Jeremy Das          Jungle Boy
+Lee Lee             Automation 391
+Lotek Style         Farewell Lil SSD
+Lotus               Monster Business
+Lotus               Synth Dream
+Lotus               No Buddies Land
+Maktone             Hero
+Maktone             Glory
+Maktone             Jewel
+Maktone             New Start
+Maktone             Reason
+Maktone             Shaman
+Maktone             Total
+Marcer              At House SID
+Marcer              Bonita
+Marcer              Broken
+Marcer              Bubble 2005
+Marcer              Bye bye friend
+Marcer              Comic Bakery Maxer
+Marcer              Conan Remix
+Marcer              Disc0 SID
+Marcer              Dragonflight Mix
+Marcer              Hybris Remix
+Marcer              Impossamole Mix
+Marcer              I Wish v2
+Marcer              Lotus 1 Title Remix
+Marcer              New Time
+Marcer              Noisy 05
+Marcer              Outrun 2005 Remix
+Marcer              Trust
+Marcer              Sorn Destiny (Digi)
+Marcer              Simply Larry
+Miggy               Credits
+Miggy               Devil
+Miggy               EELectric Game Music
+Miggy               Hyper dog poo
+Miggy               In To Action
+Miggy               Jeepers
+Miggy               Meow
+Miggy               Old gtwee
+Miggy               Outback
+Miggy               Poker
+Miggy               Roar
+Miggy               Sisco Sun
+Miggy               Stackers
+Miggy               Stinky
+Miggy               Target
+naPO                AC 2006
+Nemo                Bobby
+Nexus 6             Tuxtrip
+Nightbeat           Muslichip
+Nik Sen             Locomotion
+Nik Sen             Oribit 2000
+Paul Shields        JugFixed      (sub tune #3 missing) Good Spot Dubmood!
+Philip Linde        Breakbeat
+Philip Linde        Ras Atari
+Philip Linde        Spraymaali
+Remo                Bass Bass Bass
+Remo                Beatz
+Remo                Bouncy
+Remo                Fluffy Bunny
+Remo                Mia Mia
+Remo                Tough Mothafucka
+rubbish             Another Time
+Salkin              Hero
+Salkin              Ko ko Kossan
+Schmx               Temple Of Shid
+Schmx               Take This
+Schmx               Q Dedication
+Schmx               Highway Up North
+Schmx               Bonebreaker
+Schmx               Eat This
+Schmx               Schmx It
+Sh3                 teh won
+Stefan Jerowski     Blue Angel 69
+Stu                 Aharman                   All Stu songs re-released
+Stu                 Bomberman                 Thanks Stu for the pack.
+Stu                 Boombaya
+Stu                 Dark Season
+Stu                 Deep
+Stu                 Drop Da Domb
+Stu                 Dynamite
+Stu                 Flower
+Stu                 Fex Flicker
+Stu                 Funkey
+Stu                 Hedgehog
+Stu                 Mosquito
+Stu                 Mugicha
+Stu                 Nervous
+Stu                 Player
+Stu                 Run
+Stu                 Scooter
+Stu                 Shampoo Cattle
+Stu                 Space Guzzi
+Stu                 Stereoid
+Stu                 Touriyanse
+Stu                 Tympanum
+Stu                 Highway Up North
+Stu                 Q Dedication
+Stu                 Take This
+Stu                 Temple Of Shid
+Stu                 8 Bit Style
+Stu                 Atari Force
+Stu                 Atari Underground Chiptune
+Stu                 Bee
+Stu                 Blip Terror
+Stu                 Bombermen
+Stu                 Bomb Squad
+Stu                 Bombtro
+Stu                 Chaser
+Stu                 Chiprape
+Stu                 Craptro
+Stu                 Crime Time
+Stu                 Danger
+Stu                 Datadance
+Stu                 Drop Da Bomb Live Intro
+Stu                 Dead Hacker
+Stu                 Drumbase
+Stu                 Electrox
+Stu                 First Sid
+Stu                 For Real                 
+Stu                 Ghostrider                 
+Stu                 Grave Disco                 
+Stu                 Hotcom                 
+Stu                 Inexistent                 
+Stu                 Insectz                 
+Stu                 Instreamintro                 
+Stu                 Intro                 
+Stu                 The Invasion                 
+Stu                 Last Minute                 
+Stu                 Little Ninja                 
+Stu                 Machine                 
+Stu                 Mad Creature                 
+Stu                 Mushroom                 
+Stu                 My Melody                 
+Stu                 My Melody SID                 
+Stu                 Naughty Brat                 
+Stu                 Oldskool                 
+Stu                 Panic Intro                 
+Stu                 Psychotic                 
+Stu                 Race Part Two                 
+Stu                 Retina                 
+Stu                 Sad Day                 
+Stu                 Santa Stu                 
+Stu                 Shin                 
+Stu                 SID Buzzy                 
+Stu                 Space Intro                 
+Stu                 Spooky                       
+Stu                 Stereoid Digi                
+Stu                 Teknoid Bigbeat              
+Stu                 Twenty-Five                  
+Stu                 Ultimate                     
+Stu                 The Unexpected               
+Stu                 YMetal                       
+Stu                 Megablast                    
+The Spoon           Nevermind        
+Tony Williams       Chuckie Egg 2        
+Tony Williams       Nevermind        
+Unknown Composer    Karate Kid Part II        
+Unknown Composer    Jigsaw        
+Unknown Composer    International Karate
+Unknown Composer    Lemmings 2 The Tribes
+Unknown Composer    Vampires Empire
+Zabutom             Space Journey (extended)     Extended Version
+Zabutom             Drumnbice
+Zabutom             Pampradion livebeat
+Zabutom             ym2149 oh sexy thing edit
+
+
+------------------------------------------------------------------------------
+
+
+v2.1 (April 2, 2006)
+
+
+100 new SNDH tunes.
+
+First update to the new archive. We've gone for a real mix of tunes, from the 
+cutting edge Cerror and Crazy Q tunes to exotic ancient rarities like Bombuzal 
+from Ross Goodley. Expect another update very very soon and in the mean time 
+enjoy the tunes.
+
+Grazey / Evil
+
+
+505                8x8_hero                                                 New
+505                Dosk                                                     New
+505                Gloomy                                                   New
+505                Hybrid                                                   New
+505                Jingle01                                                 New
+505                Loop01                                                   New
+505                Smiley                                                   New
+505                Sweet                                                    New
+505                Triplex02                                                New
+505                x2004                                                    New
+Atom               TBC_Intro_22                                             New
+Beast              Bla_Bla_Bla                                              New
+Beast              Blaackel                                                 New
+Beast              Boring                                                   New
+Beast              Evert                                                    New
+Beast              Oldie                                                    New
+Beast              Shitt                                                    New
+Biasillo_Gari      Slayer                                                   New
+Bodenstandig_2000  HRVAT                                                    New
+Bodenstandig_2000  Landflucht (Originally in Drax folder, thanks to Stu)  Moved
+Brooke_Jas_C       Strike                                                   New
+Cerror             Kicking_it_oldschool                                     New
+Cerror             Taoism                                                   New
+Cerror             Very_Bland                                               New
+Crazy_Q            Bouncing_TITS                                            New
+Crazy_Q            Chameleon                                                New
+Crazy_Q            Crushed_Insect_(orig)                                    New
+Crazy_Q            Crushed_Insect_(RG_mix)                                  New
+Crazy_Q            DHS_Change_Disk_1                                        New
+Crazy_Q            Intro_v2                                                 New
+Crazy_Q            Mad_Monkey_Funk_Fu                                       New
+Crazy_Q            Monolouge(1ch Minimalism)                                New
+Crazy_Q            Parallax_Lover                                           New
+Crazy_Q            Sex_Droid                                                New
+Crazy_Q            Snake_Funk                                               New
+Crazy_Q            Zipp_Zapp_Space_Attack                                   New
+Dubmood            Space_Journey                                            New
+ENS_Music          ENS_8                                                    New
+Floopy             Cassiope                                                 New
+Floopy             Quasar                                                   New
+Floopy             Teletubb                                                 New
+Goodley_Ross       Bombuzal                                                 New
+gwEm               Acidic_Tears                                             New
+gwEm               Bangin_Nights                                            New
+gwEm               Coding_on_E                                              New
+gwEm               Crikey_wot_a_tune                                        New
+gwEm               Disco_Snax                                               New
+gwEm               e Oxygene_Loader                                         New
+gwEm               Forever_Ardcore                                          New
+gwEm               Golden_Years_(orig)                                      New
+gwEm               Golden_Years_(used)                                      New
+gwEm               Love_Washed_Away_the_Tide                                New
+gwEm               maxYMise                                                 New
+gwEm               Outlined                                                 New
+gwEm               Ravin                                                    New
+gwEm               ULS_Loader                                               New
+gwEm               Underground_Like_the_Wombles                             New
+gwEm               YM303_Ruffneck                                           New
+Iso                Art, I Presume                                           New
+Iso                Buzzzzzzzing                                             New
+Iso                Crazy_Thing_(DBA_9)                                      New
+Iso                Holland_is_OK                                            New
+Iso                Introtune                                                New
+Iso                Its_Happening                                            New
+Iso                Juicy_Alcohol                                            New
+Iso                Kamagurka                                                New
+Iso                Knuckle_Joe                                              New
+Iso                Kop_Houwe                                                New
+Iso                Last_Yell                                                New
+Iso                Left_Handed                                              New
+Iso                Patat_met_Kroket                                         New
+Iso                People_Let_Go                                            New
+Lotek_Style        Datapirate                                               New
+Lotek_Style        Spieler 1, Los!                                          New
+Mad_Max            1                                                      Fixed
+Mad_Max            2                                                      Fixed
+Mad_Max            AJH99                                                  Fixed
+Mad_Max            Buzzer                                                 Fixed
+Mad_Max            Loading                                                Fixed
+Mad_Max            Solidify                                               Fixed
+Mad_Max\Demos      Virtual_Escape-End_Part                                Fixed
+Monkhouse_Bob      phoneomenon                                              New
+No_More            Intro                                                    New
+No_More            Leif_Rular                                               New
+No_More            Unexpected                                               New
+Scavenger          Avenger (Duplicate, Thanks Avenger)                  Deleted
+Shields_Paul       Airball (Bug fixed, thanks Stefan Lindberg for report) Fixed
+Starbuck           Hurry_Scurry                                             New
+Starbuck           Memories                                                 New
+Starbuck           Shorty                                                   New
+Timbral            Mandarine_Street                                         New
+Timbral            Sanna _Suck_My_Nectar                                    New
+Timbral            YM_Still_Here                                            New
+TPM                Journey_Centre_of_Earth                                  New
+Whittaker_David    First_Person_Pinball                                     New
+Whittaker_David    Solomons_Key                                             New
+Whittaker_David    Stormbringer                                             New
+Williams_Tony      Edd_The_Duck                                             New
+Williams_Tony      Judge_Dredd                                              New
+Williams_Tony      Teenage_Mutant_Hero_Turtles                              New
+Zabutom            Space_Journey                                            New
+
+
+------------------------------------------------------------------------------
+
+
+v2.0 (February 25, 2006)
+
+- Complete rebuild of the SNDH archive. 2246 SNDH-files included.
+
+
+------------------------------------------------------------------------------
