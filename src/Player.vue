@@ -191,11 +191,15 @@ export default {
         },
 
         startIdx() {
-            return Math.min(Math.floor(this.scrollFactor / this.delta) * this.delta, this.facetedComposersCount - this.scrollElements)
+            return Math.max(0, Math.min(Math.floor(this.scrollFactor / this.delta) * this.delta, this.facetedComposersCount - this.scrollElements))
         },
 
         endIdx() {
-            return this.startIdx + this.scrollElements
+            let x = this.startIdx + this.scrollElements
+            if (x < this.facetedComposersCount)
+                return x
+            else
+                return this.facetedComposersCount
         },
 
         topFiller() {
@@ -584,7 +588,7 @@ export default {
         },
 
         scrollEv(e) {
-            let maxHeight = this.facetedComposersCount * this.rowHeight
+            let maxHeight = this.facetedComposersCount * this.rowHeight;
             this.scrollFactor = e.target.scrollTop * (this.facetedComposersCount - this.scrollElements) / (maxHeight - this.scrollElements * this.rowHeight)
         }
 
