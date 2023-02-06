@@ -261,7 +261,7 @@ export default {
         };
 
         // define timer
-        this.timer = function() {
+        this.timer = function () {
             if (self.playing) {
                 self.playingTime++
             }
@@ -592,7 +592,7 @@ export default {
         formatSeconds(time) {
             const minutes = Math.floor(time / 60);
             const seconds = Math.floor(time - minutes * 60);
-            return `${minutes}:${seconds < 10 ? '0'+seconds : seconds}`
+            return `${minutes}:${seconds < 10 ? '0' + seconds : seconds}`
         },
 
         formatSong(song) {
@@ -838,30 +838,31 @@ export default {
                     <!-- END Queue -->
 
                 </div>
-
-
-
             </main>
 
 
-            <footer class="current-track">
-                <!-- PLAYER -->
-                <section class="playing" ref="playing">
-                    <div v-if="playerSong" class="playing__song">
-                        <a class="playing__song__name">{{ formatSong(playerSong) }}</a>
-                        <a class="playing__song__artist" @click.prevent="onSelectComposer(playerComposer, true)">{{
-                            formatComposer(playerComposer)
-                        }}</a>
-                    </div>
-                </section>
 
+            <footer class="current-track">
+
+                <!-- PLAYING SONG -->
+                <div class="current-track__playing" ref="playing">
+                    <div v-if="playerSong" class="current-track__playing__song">
+                        <a class="current-track__playing__song__name">{{ formatSong(playerSong) }}</a>
+                        <a class="current-track__playing__song__artist"
+                            @click.prevent="onSelectComposer(playerComposer, true)">{{
+                                formatComposer(playerComposer)
+                            }}</a>
+                    </div>
+                </div>
+
+
+                <!-- PLAYER -->
                 <div class="current-track__player">
 
-                    <!-- <a>
-            <i class="material-icons">shuffle</i>
-          </a> -->
 
-                    <div>
+                    <div class="current-track__player__controls">
+
+                        <!-- <a><i class="material-icons">shuffle</i></a> -->
 
                         <a @click.prevent="previousSong()">
                             <i class="material-icons">skip_previous</i>
@@ -878,26 +879,22 @@ export default {
                             <i class="material-icons">skip_next</i>
                         </a>
 
-                        <!-- <a>
-              <i class="material-icons">repeat</i>
-            </a> -->
-
-                        <a @click.prevent="toggleQueue()">
-                            <i class="material-icons" :class="{ Queue_mode: sbVisible }">queue_music</i>
-                        </a>
+                        <!-- <a><i class="material-icons">repeat</i></a> -->
 
                     </div>
 
-                    <div v-if="songInfo.duration" class="current-track__progress">
-                        <div class="current-track__progress__start">{{ formatSeconds(playingTime) }}</div>
-                            <div class="current-track__progress__bar">
-                                <div id="song-progress" :style="{ width: (playingTime / songInfo.duration * 100) + '%' }"></div>
+                    <div v-if="songInfo.duration" class="current-track__player__progress">
+                        <div class="current-track__player__progress__start">{{ formatSeconds(playingTime) }}</div>
+                        <div class="current-track__player__progress__bar">
+                            <div id="song-progress" :style="{ width: (playingTime / songInfo.duration * 100) + '%' }">
                             </div>
-                        <div class="current-track__progress__finish">{{ formatSeconds(songInfo.duration) }}</div>
+                            <div id="progress-handle"></div>
+                        </div>
+                        <div class="current-track__player__progress__finish">{{ formatSeconds(songInfo.duration) }}
+                        </div>
                     </div>
 
-
-                    <div v-if="songInfo.numberOfTracks > 1">
+                    <div v-if="songInfo.numberOfTracks > 1" class="current-track__player__tracks">
                         <a @click.prevent="previousTrack()">
                             <i class="material-icons">navigate_before</i>
                         </a>
@@ -906,7 +903,15 @@ export default {
                             <i class="material-icons">navigate_next</i>
                         </a>
                     </div>
+                </div>
+
+
+                <!-- OPTIONS -->
+                <div class="current-track__options">
                     <div>
+                        <a @click.prevent="toggleQueue()">
+                            <i class="material-icons" :class="{ Queue_mode: sbVisible }">queue_music</i>
+                        </a>
                         <a class="volume">
                             <i class="material-icons" @click.prevent="toggleVolumeBar()">volume_up</i>
                             <div class="volume_range" :style="{ display: vVisible ? 'block' : 'none' }">
@@ -916,8 +921,12 @@ export default {
                             </div>
                         </a>
                     </div>
-
                 </div>
+
+
+
+
+
                 <!-- END PLAYER -->
             </footer>
 

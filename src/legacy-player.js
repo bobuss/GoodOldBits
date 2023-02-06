@@ -12,9 +12,9 @@ const SUPPORTED_PROCESSORS = ['sc68', 'openmpt', 'ahx', 'pt', 'ft2', 'st3']
 const DEFAULT_FORMAT_PROCESSOR_MAPPING = {
     'sc68': 'sc68',
     'sndh': 'sc68',
-    's3m': 'st3',
-    'mod': 'pt',
-    'xm': 'ft2',
+    's3m': 'openmpt',
+    'mod': 'openmpt',
+    'xm': 'openmpt',
     'ahx': 'ahx',
     'it': 'openmpt'
 }

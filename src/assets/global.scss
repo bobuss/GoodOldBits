@@ -385,14 +385,17 @@ body {
 .current-track {
 
   background: $light-black;
-  border-top: solid 1px $light-black;
+  border-top: solid 1px $transparent;
   padding: $padding-xs $padding-xs;
   display: flex;
-  align-items: center;
+  flex-flow: row wrap;
   height: $margin-xxl;
 
 
-  .playing {
+  &__playing {
+    width: 33%;
+    min-width: 320px;
+    height: 100%;
 
     &__song {
       font-size: $x-large;
@@ -400,17 +403,19 @@ body {
       display: flex;
       flex-flow: column wrap;
 
-      a {
-        color: $grey;
+      &__name {
+        color: $white;
+      }
 
+      &__artist {
+        color: $grey;
+      }
+
+      a {
         &:hover {
           color: $white;
           cursor: pointer;
         }
-      }
-
-      .playing__song__name {
-        color: $white;
       }
     }
   }
@@ -418,33 +423,124 @@ body {
   &__player {
 
     & {
-      width: 85%;
+      width: 33%;
+      min-width: 320px;
+      height: 100%;
 
       margin: auto;
       display: flex;
       flex-flow: row wrap;
-      justify-content: space-around;
+      justify-content: center;
     }
 
-    a {
+
+    &__controls {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      padding-top: $padding-xs;
+
+      i {
+        font-size: $xx-large;
+      }
+    }
+
+
+    &__progress {
+
+      & {
+        width: 70%;
+        padding: 0 $padding-lg;
+        color: $grey;
+        font-size: $x-small;
+
+        display: flex;
+        flex-flow: row;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+      &__bar {
+        display: flex;
+        width: 100%;
+        margin: 0 $margin-xs 0 $margin-xs;
+        height: $margin-xs;
+        background-color: $transparent;
+
+        #song-progress {
+          width: 0;
+          background-color: $sand;
+          height: $margin-xs;
+        }
+
+        #progress-handle {
+          background: $sand;
+          width: 15px;
+          height: 15px;
+          border-radius: 50%;
+          box-shadow: none;
+          border: none;
+          position: relative;
+          left: -8px;
+          bottom: 5px;
+          display: none;
+
+          &:before,
+          &:after {
+            background: none;
+          }
+        }
+
+      }
 
       &:hover {
-        text-decoration: none;
-        cursor: pointer;
+
+        #song-progress {
+          background-color: $green;
+        }
+
+        #progress-handle {
+          display: block;
+        }
+
+      }
+
+    }
+
+
+    &__tracks {
+
+      & {
+        position: relative;
+        border-bottom-left-radius: $padding-xs;
       }
 
       i {
-        margin-right: $margin-xs;
+        font-size: $large;
+        position: relative;
+        top: $padding-xs;
       }
 
-      span {
+      .devices {
         font-size: $x-small;
-        text-transform: uppercase;
       }
 
     }
 
 
+  }
+
+
+  &__options {
+
+    & {
+      width: 33%;
+      min-width: 320px;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
 
     .volume {
 
@@ -466,118 +562,12 @@ body {
         }
       }
 
-      i {
-        width: 20px;
-        color: $grey;
-      }
-
       #song-volume {
         width: calc(80% - 20px);
         border: none;
         margin-left: $margin-sm;
-
-        .noUi-base {
-          background: $sand;
-        }
-
-        .noUi-origin {
-          background: darken($grey, 30%);
-        }
-
-        .noUi-handle {
-          background: $sand;
-          width: 15px;
-          height: 15px;
-          border-radius: 50%;
-          box-shadow: none;
-          border: none;
-          left: 0;
-          display: none;
-
-          &:before,
-          &:after {
-            background: none;
-          }
-        }
-
-        &:hover {
-
-          .noUi-handle {
-            display: block;
-          }
-        }
       }
     }
-
-  }
-
-
-  &__progress {
-
-    & {
-      width: 70%;
-      padding: 0 $padding-lg;
-      color: $grey;
-      font-size: $x-small;
-
-      display: flex;
-      flex-flow: row;
-      justify-content: space-between;
-      align-items: center;
-    }
-
-    &__bar {
-      display: block;
-      width: 100%;
-      margin: 0 $margin-xs 0 $margin-xs;
-      height: $margin-xs;
-      background-color: $transparent;
-
-      #song-progress {
-        width: 0;
-        background-color: $green;
-        height: $margin-xs;
-      }
-
-      .noUi-target {
-        border: none;
-        height: 4px;
-      }
-
-      .noUi-base {
-        background: $green;
-      }
-
-      .noUi-origin {
-        background: darken($grey, 30%);
-      }
-
-      .noUi-handle {
-        background: $sand;
-        width: 15px;
-        height: 15px;
-        border-radius: 50%;
-        box-shadow: none;
-        border: none;
-        left: 0;
-        display: none;
-
-        &:before,
-        &:after {
-          background: none;
-        }
-      }
-
-    }
-
-    &:hover {
-
-      .noUi-handle {
-        display: block;
-      }
-
-    }
-
   }
 
 }
@@ -702,13 +692,13 @@ body {
       text-align: right;
       color: $grey;
       font-weight: 100;
-      font-size: 16px;
+      font-size: $medium;
       letter-spacing: 1px;
 
       &__label {
         font-weight: 300;
         text-transform: uppercase;
-        font-size: 12px;
+        font-size: $x-small;
         letter-spacing: 1px;
       }
     }
