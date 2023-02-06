@@ -28,5 +28,4 @@ __pycache__
 *.sln
 *.sw?
 
-public/musics
 .vscode
