@@ -229,8 +229,6 @@ export default {
 
     async mounted() {
 
-        console.log(audioContext)
-
         this.player = new LegacyPlayer(audioContext)
 
         if (this.modland_enabled_formats.length >= 0) {
@@ -346,6 +344,7 @@ export default {
         onSelectComposer(composer, scroll = false) {
             this.toggleQueue(false)
             this.selectedComposer = composer
+            // TODO: we lost the scroll since infiny scroll implementation
             const element = document.getElementById("nav_c_" + composer);
             if (scroll && element) element.scrollIntoView({ behavior: "smooth", block: "center", inline: "nearest" });
         },
@@ -521,6 +520,7 @@ export default {
                         // That's where we acutally load the music
                         await this.player.load(this.musicPath, { 'track': this.playerTrack })
                         if (init) {
+                            // TODO: find a way to display the composer list, at the level of the currently selected composer
                             this.onSelectComposer(this.playerComposer, true)
                             this.playing = false
                         } else {
