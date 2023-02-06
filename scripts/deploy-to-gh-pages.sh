@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ROOT="$( cd "$( dirname "${BASH_SOURCE[0]}" )/.." && pwd )"
-DIRECTORY="${ROOT:?}/dist"
+DIRECTORY="dist"
 BRANCH='test'
 
 PROJECTNAME='GoodOldBits'
@@ -13,7 +13,7 @@ else
 fi
 
 printf "\033[0;32mDeleting old content...\033[0m\n"
-rm -rf "${DIRECTORY:?}"
+rm -rf "${ROOT:?}/${DIRECTORY:?}"
 
 printf "\033[0;32mChecking out %s....\033[0m\n" "${BRANCH}"
 git worktree add "${DIRECTORY}" ${BRANCH}
