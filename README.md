@@ -2,7 +2,7 @@
 
 ![Good Old Bits](screen.png)
 
-https://player.tornil.me/
+https://player.tornil.net/
 
 
 
